@@ -1,0 +1,10 @@
+ {% if l_races %}
+  <ul>
+    {% for race in l_races %}
+    <li><a href="/race/{{race.id}}/">{{race.race_name}}</a></li>
+    {% endfor %}
+  </ul>
+{% else %}
+<p>No races are listed</p>
+{% endif %}
+                                                                                   
