@@ -1,0 +1,69 @@
+MALE Age: 40 to 49
+1. James O'Connor MALE 40-49 12
+2. Jon Rocco MALE 40-49 10
+3. Aaron Knobloch MALE 40-49 8
+4. Todd Smith MALE 40-49 7
+5. Brian Northan MALE 40-49 6
+6. Rick Zachgo MALE 40-49 5
+7. John Williams-Searl MALE 40-49 4
+8. Steve Maynard MALE 40-49 3
+9. Neil Sergott MALE 40-49 2
+10. William Dodds MALE 40-49 1
+
+FEMALE Age: 40 to 49
+1. Lara Stelmaszyk FEMALE 40-49 12
+2. Linda DeDominicis FEMALE 40-49 10
+3. Darcy Rickard FEMALE 40-49 8
+4. Veronica Perez FEMALE 40-49 7
+5. Jayne Maloney FEMALE 40-49 6
+6. Anne Miralles FEMALE 40-49 5
+
+MALE Age: 50 to 59
+1. Tom Kracker MALE 50-59 12
+2. John Stadtlander MALE 50-59 10
+3. John Noonan MALE 50-59 8
+4. Chong-Hwan Son MALE 50-59 7
+5. Mark Stephenson MALE 50-59 6
+6. Russell Lauer MALE 50-59 5
+7. Andrew Sponable MALE 50-59 4
+8. John Parisella MALE 50-59 3
+9. John Sestito MALE 50-59 2
+10. Christopher Chartrand MALE 50-59 1
+
+FEMALE Age: 50 to 59
+1. Anne Hurley FEMALE 50-59 12
+2. Lori Francesconi FEMALE 50-59 10
+3. Sue Cleary FEMALE 50-59 8
+4. Jennifer Lawrence FEMALE 50-59 7
+
+MALE Age: 60 to 69
+1. David Roy MALE 60-69 12
+2. Richard Clark MALE 60-69 10
+3. Dave Glass MALE 60-69 8
+4. Ken Klapp MALE 60-69 7
+5. William Smith MALE 60-69 6
+6. Juergen Reher MALE 60-69 5
+7. Ray Scaringe MALE 60-69 4
+8. Robert Colborn MALE 60-69 3
+9. Michael Wright MALE 60-69 2
+10. Marten Patrick MALE 60-69 1
+
+FEMALE Age: 60 to 69
+1. Martha DeGrazia FEMALE 60-69 12
+2. Catherine Sliwinski FEMALE 60-69 10
+3. Anne Lytwynec FEMALE 60-69 8
+4. Carolyn George FEMALE 60-69 7
+5. Susan Wong FEMALE 60-69 6
+6. Mary Collins-Finn FEMALE 60-69 5
+7. Anne Tyrrell FEMALE 60-69 4
+8. Katherine Ambrosio FEMALE 60-69 3
+9. Suzanne Nealon FEMALE 60-69 2
+
+MALE Age: 70 to 99
+1. Thomas Kollar MALE 70-99 12
+2. Raymond Lee MALE 70-99 10
+3. Ed Doucette MALE 70-99 8
+
+FEMALE Age: 70 to 99
+1. Anny Stockman FEMALE 70-99 12
+2. Eiko Bogue FEMALE 70-99 10

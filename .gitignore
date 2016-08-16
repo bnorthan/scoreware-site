@@ -1,1 +1,4 @@
+*.pyc
 *~
+.ipynb_checkpoints
+ notebooks/.ipynb_checkpoints/exploredata-checkpoint.ipynb

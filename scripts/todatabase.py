@@ -1,5 +1,11 @@
 import pandas as pd
 
+import sys
+sys.path.append('../util/race/')
+import header
+reload(header)
+from header import RaceHeader
+
 def timetostr(time): 
     ts=time.split(':') 
     if int(ts[0])>10:
@@ -9,7 +15,7 @@ def timetostr(time):
     return strtime 
 
 def parse_delmar():
-    delmar=pd.read_csv('data/20160403_DelmarDash5Miler.csv')
+    delmar=pd.read_csv('../data/2016/20160403_DelmarDash5Miler.csv')
 
     delmardf=pd.DataFrame()
     #delmardf['PLACE']=results.Place
@@ -33,7 +39,7 @@ def parse_delmar():
 
 def parse_rotg():
         
-    rotg=pd.read_csv('data/20160312_RunninoftheGreen4m.csv')
+    rotg=pd.read_csv('../data/2016/20160312_RunninoftheGreen4m.csv')
 
     rotgdf=pd.DataFrame()
     #rotgdf['PLACE']=results.Place
@@ -53,12 +59,39 @@ def parse_rotg():
 
     return rotgdf
 
+def parse_general(df, headers, id):
+
+    newdf=pd.DataFrame()
+
+    print type(headers)
+    for key in headers:
+        print headers[key]
+        for c in df.columns:
+            if c.lower() in headers[key]:
+                print c.lower()+' matches'
+
+                if (key=='time'):
+                    newdf['time']=df.Time.apply(lambda x: '00:'+x.split(':')[0]+':'+x.split(':')[1])
+                else:
+                    newdf[key]=df[c]
+    newdf['race_id']=id
+
+    return newdf
+
+
 delmar=parse_delmar()
 rotg=parse_rotg()
 
+masters=parse_general(pd.read_csv('../data/2016/masters10k.csv'),RaceHeader.headers,3)
+ds=parse_general(pd.read_csv('../data/2016/DistinguishedService.csv'), RaceHeader.headers,4)
+
+print masters.head()
+
 import sqlite3
-conn=sqlite3.connect('../site/runnin/db.sqlite3')
+conn=sqlite3.connect('../site/db.sqlite3')
 cursor=conn.cursor()
 
 rotg.to_sql('results_result',conn, if_exists='replace',index=False)
 delmar.to_sql('results_result',conn, if_exists='append',index=False)
+masters.to_sql('results_result', conn, if_exists='append', index=False)
+ds.to_sql('results_result', conn, if_exists='append', index=False)
