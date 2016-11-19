@@ -88,7 +88,8 @@ ds=parse_general(pd.read_csv('../data/2016/DistinguishedService.csv'), RaceHeade
 print masters.head()
 
 import sqlite3
-conn=sqlite3.connect('../site/db.sqlite3')
+ys.pyath.append('../util/runner/')
+onn=sqlite3.connect('../site/db.sqlite3')
 cursor=conn.cursor()
 
 rotg.to_sql('results_result',conn, if_exists='replace',index=False)

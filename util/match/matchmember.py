@@ -6,7 +6,7 @@ sys.path.append('../util/runner/')
 import matcher
 reload(matcher)
 
-def match(members, runners):
+def match(members, runners, accept_score, ask_score):
 
     i=0
     max_score=[]
@@ -17,16 +17,36 @@ def match(members, runners):
         match_info.append([])
         
         for index, row_members in members.iterrows():
-                                
-            score = matcher.matchRunner(row_runners.FIRST_NAME, row_runners.LAST_NAME, 20, "none", row_members['First name'], row_members['Last name'], 20, "none")
+            
+            first1=row_runners.first_name.lower()
+            last1=row_runners.last_name.lower()
+            city1=row_runners.city.lower()
+            gender1=row_runners.gender
+            age1=row_runners.age
+            
+            first2=row_members['First name'].lower()
+            last2=row_members['Last name'].lower()
+            city2=str(row_members.City).lower()
+            gender2=row_members.gender
+            age2=row_members.age
+
+            score = matcher.matchRunner(first1, last1, gender1, age1, city1, first2, last2, gender2, age2, city2)
                                         
             if (score>max_score[i]):
                 max_score[i]=score
-                match_info[i]=[row_runners.FIRST_NAME, row_runners.LAST_NAME, row_members['First name'], row_members['Last name']]
+                match_info[i]=[first1, last1, age1, city1, first2, last2, age2, city2]
         i=i+1
 
     for i in range(len(max_score)):
         #print max_score[i]," ",match_info[i]
-        if (max_score[i]>3.4):
-            print 'yes'
-            runners.ix[i,'member']='yes'
+        if (max_score[i]>accept_score):
+            if (max_score[i]<ask_score):
+                
+                print match_info[i],max_score[i]
+                answer = raw_input("Is this a match?")
+            else:
+                answer='y'
+                
+            print answer
+            if (answer=='y'):
+                runners.ix[i,'member']='yes'
