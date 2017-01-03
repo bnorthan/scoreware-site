@@ -31,8 +31,6 @@ print members.head()
 
 racers=readers.parse_general(pd.read_fwf(race_name), header.RaceHeader.headers, 1)
 
-
-
 print racers.head()
 
 matchmember.match(members, racers, 4.5, 5.5)

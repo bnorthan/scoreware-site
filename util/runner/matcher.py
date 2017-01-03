@@ -27,7 +27,7 @@ def matchCity(city1, city2):
 
 def matchAge(age1, age2):
     try:
-        return 2/(1+math.exp(float(abs(age1-age2))))
+        return 2/(1+math.exp(0.5*float(abs(age1-age2))))
     except:
         return 0.5
 

@@ -2,11 +2,11 @@ import pandas as pd
 import operator
 from difflib import SequenceMatcher
 
-xl=pd.ExcelFile('../data/2016/Spreadsheet/Grand_Prix_2016_Final.xls')
+xl=pd.ExcelFile('../data/2016/Spreadsheet/Grand_Prix_2016_Post_Stockade.xls')
 
 xl.sheet_names
 
-df=xl.parse('Female')
+df=xl.parse('Agegrade')
 df.head()
 
 def score(age_results):
@@ -54,13 +54,10 @@ def score(age_results):
         print str(int(item[1]))+','+item[0]
         i=i+1
 
-for i in range(6):
     
-    new=df.ix[:,1+i*2:1+(i+1)*2]
-    new=new.dropna()
-    new=new.reset_index()
-    score(new)
-    print
-    print
+new=df.ix[:,1:3]
+new=new.dropna()
+new=new.reset_index()
+score(new)
 
 

@@ -8,11 +8,12 @@ import matchmember
 import runnerutils
 
 
-members=pd.read_csv('../data/2016/Membership/2016-08-16 Members Hudson Mohawk Road Runners Club.csv')
+members=pd.read_csv('../data/2017/Membership/2017-01-03 Members Hudson Mohawk Road Runners Club.csv')
 
 print members.head()
 
-racers=pd.read_csv('../data/2016/Tawasentha/tawasentha2_2016.csv')
+racers_base='../data/2017/1_HH/17Hangover_half'
+racers=pd.read_csv(racers_base+'.csv')
 
 print
 print racers.head()
@@ -31,8 +32,9 @@ hmrrc["age_cat"]=hmrrc.Age.apply(lambda x:runnerutils.ageToCat(x))
 hmrrc=hmrrc.sort_values(['Sex','age_cat','Place'])
 hmrrc['name']=hmrrc.FIRST_NAME+" "+hmrrc.LAST_NAME
 
-hmrrc.to_csv('../data/2016/Tawasentha/Tawasentha_scored.csv')
+hmrrc.to_csv(racers_base+'_hmrrc.csv')
 
+sdlkfj
 females=hmrrc[hmrrc.Sex=='F']
 
 males=hmrrc[hmrrc.Sex=='M']

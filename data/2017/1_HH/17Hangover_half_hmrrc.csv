@@ -1,0 +1,275 @@
+,place,first_name,last_name,gender,age,city,time,race_id,member
+0,1,Matt,Brooker,M,26,Albany,00:1:15,1,no
+5,6,Aidan,Canavan,M,17,Niskayuna,00:1:19,1,no
+20,21,Hannah,Brooker,F,25,Albany,00:1:27,1,no
+22,23,Ed,Martinez,M,23,"New Britain, CT",00:1:28,1,no
+27,28,Todd,Sslvesvold,M,46,Buskirk,00:1:29,1,no
+33,34,Ryan,Mitchell,M,50,Troy,00:1:30,1,no
+34,35,John,Ehntholt,M,50,Granville,00:1:31,1,no
+36,37,Renee,Tolan,F,42,Clifton Park,00:1:32,1,no
+40,41,William,Dodds,M,42,Schenectady,00:1:32,1,no
+41,42,Joe,Sullivan,M,37,Schenectady,00:1:33,1,no
+42,43,Steven,Welch,M,56,Schenectady,00:1:34,1,no
+65,66,Emily,Acker,F,19,Rexford,00:1:39,1,no
+68,69,Ryan,Buff,M,43,Latham,00:1:40,1,no
+69,70,No Card,Returned,none,40,none,00:1:40,1,no
+70,71,Kelsey,Jenks,M,32,Providence RI,00:1:40,1,no
+73,74,Janelle,Rothacker,F,19,Ballston Spa,00:1:41,1,no
+74,75,Emily,Digman,F,18,Ballston Spa,00:1:41,1,no
+75,76,Sarah,Popovitch,F,23,Saratoga Springs,00:1:41,1,no
+77,78,Steven,Imbrialo,M,40,Selkirk,00:1:42,1,no
+78,79,Ryan,Milton,M,33,Saratoga Springs,00:1:43,1,no
+81,82,Walt,Peretti,M,49,Niskayuna,00:1:43,1,no
+85,86,Gabriella,Rao,F,19,Burnt Hills,00:1:44,1,no
+86,87,Kevin,Terbush,M,24,Troy,00:1:44,1,no
+97,98,Kerri,Thomas,F,41,Granville,00:1:45,1,no
+98,99,Mark,Warner,M,58,Guilderland,00:1:45,1,no
+99,100,Madeleine,Hester,F,15,Schenectady,00:1:46,1,no
+102,103,Ken,Klapp,M,66,Guilderland,00:1:46,1,no
+110,111,Akif,Zaman,M,37,Astoria,00:1:47,1,no
+112,113,Chris,Varley,F,52,Albany,00:1:47,1,no
+114,115,Alexis,Bruanicke,F,30,"London, Ontario",00:1:48,1,no
+119,120,Sherry,Amarel,F,49,Rensselaer,00:1:48,1,no
+121,122,Orit,Shiang,F,12,Niskayuna,00:1:49,1,no
+126,127,Richard,Lord,M,51,Ballston Spa,00:1:49,1,no
+127,128,CC,Larner,F,41,"Winooski, VT",00:1:50,1,no
+128,129,Tom,Law,M,45,Saratoga Springs,00:1:50,1,no
+132,133,No Card,Returned,none,40,none,00:1:50,1,no
+135,136,Joanne,Tramper,F,47,Chatham,00:1:50,1,no
+138,139,Patrick,Bergeron,M,36,Delmar,00:1:51,1,no
+139,140,Kevin,Grossman,M,37,Delmar,00:1:52,1,no
+141,142,Doug,Landon,M,53,Amsterdam,00:1:52,1,no
+144,145,Lauren,Carnahar,F,33,Latham,00:1:52,1,no
+146,147,Brendon,Connor,M,23,Hudson,00:1:53,1,no
+151,152,Cheryl,Feder,F,52,Malta,00:1:53,1,no
+153,154,Helena,Massiello,F,19,E. Greenbush,00:1:54,1,no
+154,155,Caitlan,Blydenburgh,F,19,Castleton,00:1:54,1,no
+161,162,June,Criscione,F,21,Albany,00:1:54,1,no
+165,166,Jennifer,Borgeron,F,36,Delmar,00:1:55,1,no
+167,168,Ryan,Hesler,M,11,Niskayuna,00:1:55,1,no
+172,173,Ana,SantaCruz,F,39,Brooklyn,00:1:56,1,no
+175,176,Keith,Starr,M,43,Troy,00:1:57,1,no
+176,177,Emily,Locher,F,41,"Weston, CT",00:1:57,1,no
+177,178,Allison,Verdini,F,26,Albany,00:1:57,1,no
+179,180,Karli,Taylor,F,39,Schenectady,00:1:57,1,no
+182,183,Josh,Eppard,M,37,Delmar,00:1:57,1,no
+183,184,Katie,Hesler,F,14,Niskayuna,00:1:58,1,no
+193,194,Jonathan,Masters,M,53,Albany,00:2:00,1,no
+194,195,Sarah,Hesler,F,46,Schenectady,00:2:00,1,no
+199,200,Chester,Tumidajewicz,M,52,Amsterdam,00:2:01,1,no
+200,201,Jim,Waterhouse,M,63,Valatie,00:2:02,1,no
+204,205,No Card,none,none,40,none,00:2:03,1,no
+205,206,No Card,none,none,40,none,00:2:03,1,no
+210,211,Jim,Ray,M,54,"South Windsor, CT",00:2:04,1,no
+211,212,No Card,none,none,40,none,00:2:05,1,no
+212,213,Rachael,Morrissey,F,34,Selkirk,00:2:05,1,no
+218,219,Mary ,Colvin,F,40,Rensselaer,00:2:06,1,no
+225,226,Seth,Engel,M,25,Round Lake,00:2:10,1,no
+228,229,Tim,Wojcik,M,45,Amsterdam,00:2:11,1,no
+229,230,No Card,none,none,40,none,00:2:11,1,no
+230,231,No Card,none,none,40,none,00:2:11,1,no
+231,232,No Card,none,none,40,none,00:2:11,1,no
+232,233,No Card,none,none,40,none,00:2:11,1,no
+233,234,No Card,none,none,40,none,00:2:11,1,no
+234,235,No Card,none,none,40,none,00:2:11,1,no
+235,236,No Card,none,none,40,none,00:2:11,1,no
+236,237,No Card,none,none,40,none,00:2:11,1,no
+237,238,No Card,none,none,40,none,00:2:11,1,no
+238,239,No Card,none,none,40,none,00:2:11,1,no
+239,240,Keith R. ,Murray,M,53,Stillwater,00:2:11,1,no
+240,241,Michael,Burns,M,18,Schenectady,00:2:11,1,no
+246,247,Aixa,Toledo,F,44,Delmar,00:2:12,1,no
+248,249,Marshall,Stanton,M,69,Glenmont,00:2:14,1,no
+250,251,Leigh-Ann,Brash,F,31,Hudson,00:2:15,1,no
+253,254,Missy,Kaszuba,F,30,Rexford,00:2:15;24,1,no
+258,259,Mohamed,Rahuaw,M,53,Ballston Lake,00:2:18,1,no
+263,264,Lily M,Gelfars,F,30,Yonikers,00:2:23,1,no
+265,266,Sarah,Jaeger,F,25,Colonie,00:2:26,1,no
+270,271,Christopher,Adikes,M,17,Albany,00:2:37,1,no
+266,267,Yuri,Lvov,M,47,Albany,00:2:26,1,yes
+1,2,Chuck,Terry,M,34,Albany,00:1:15,1,yes
+2,3,Jacob,Andrews,M,23,Troy,00:1:17,1,yes
+3,4,Josh,Merlis,M,34,Albany,00:1:19,1,yes
+4,5,Chris,Chromczack,M,32,Delmar,00:1:19,1,yes
+6,7,Nick,Webster,M,27,Albany,00:1:19,1,yes
+7,8,Jim,Sweeney,M,35,Albany,00:1:20,1,yes
+8,9,Ben,Heller,M,28,Troy,00:1:21,1,yes
+9,10,Karen,Bertasso,F,32,Albany,00:1:21,1,yes
+10,11,Robert,Irwin,M,44,Guilderland,00:1:22,1,yes
+11,12,Volker,Burkowski,M,45,Gansevoort,00:1:22,1,yes
+12,13,John,Stadtlander,M,51,Halfmoon,00:1:23,1,yes
+13,14,Tom,Williams,M,33,Albany,00:1:24,1,yes
+14,15,Dennis,VanVlack,M,44,Duanesburg,00:1:24,1,yes
+15,16,Paul,Archambault,M,40,Troy,00:1:25,1,yes
+16,17,Andy,Reed,M,46,Niskayuna,00:1:25,1,yes
+17,18,Dave,Vona,M,34,Old Chatham,00:1:27,1,yes
+18,19,Brian,White,M,38,Altamont,00:1:27,1,yes
+19,20,Mollie,Turner,F,36,Averill Park,00:1:27,1,yes
+21,22,Dallas,DeVries,M,39,Cohoes,00:1:28,1,yes
+23,24,Christian,Lietzau,M,53,Delmar,00:1:28,1,yes
+24,25,Chris,Herbs,M,23,Rexford,00:1:28,1,yes
+25,26,David,Padula,M,51,Niskayuna,00:1:29,1,yes
+26,27,Ken,Tarullo,M,48,Delmar,00:1:29,1,yes
+28,29,Craig,DuBois,M,53,Sprakers,00:1:29,1,yes
+29,30,Thomas,Dansereau,M,29,Troy,00:1:30,1,yes
+30,31,Lisa,Chase,F,30,Albany,00:1:30,1,yes
+31,32,Nick,Whaley,M,36,Clifton Park,00:1:30,1,yes
+32,33,John,Sestito,M,53,Johnsonille,00:1:30,1,yes
+35,36,Erin,Corcoran,F,42,Schenectady,00:1:32,1,yes
+37,38,Ping,Wong,M,29,Ballston Lake,00:1:32,1,yes
+38,39,Mark,Stephenson,M,52,Esperance,00:1:32,1,yes
+39,40,Michelle,Davis,F,28,Watervliet,00:1:32,1,yes
+43,44,Rob ,Ordish,M,31,Albany,00:1:34,1,yes
+44,45,Jonathan,Bright,M,46,Guilderland,00:1:34,1,yes
+45,46,Jay,Thorn,M,54,Chatham Ctr,00:1:34,1,yes
+46,47,Richard,Hamlin,M,44,Albany,00:1:34,1,yes
+47,48,Karen,Dolge,F,46,Valatie,00:1:34,1,yes
+48,49,Meghan,Mortensen,F,31,Glenville,00:1:35,1,yes
+49,50,Jon ,Rocco,M,50,Colonie,00:1:35,1,yes
+50,51,Bart,Trudeau,M,54,Latham,00:1:35,1,yes
+51,52,Jeremy,Schaffer,M,17,Scotia,00:1:36,1,yes
+52,53,Elizabeth,Chauhan,F,32,Albany,00:1:36,1,yes
+53,54,Steven,Nicoll,M,43,Menands,00:1:36,1,yes
+54,55,Meghan,Louden,F,30,Clifton Park,00:1:36,1,yes
+55,56,Dan,Brady,M,39,Cohoes,00:1:36,1,yes
+56,57,Todd,McAuley,M,48,Colonie,00:1:37,1,yes
+57,58,Brandon,Viloria,M,35,E. Greenbush,00:1:37,1,yes
+58,59,Ed,Menis,M,52,Schenectady,00:1:38,1,yes
+59,60,Jessy,Montrose,F,30,Ballston Lake,00:1:38,1,yes
+60,61,Brian,DeBraccio,M,51,Rotterdam,00:1:38,1,yes
+61,62,Christopher,Leavitt,M,29,Schenectady,00:1:38,1,yes
+62,63,Dillon,Kircher,M,41,Albany,00:1:38,1,yes
+63,64,Ryan,Nix,M,37,Guilderland,00:1:39,1,yes
+64,65,Steven,Sweeney,M,61,Delanson,00:1:39,1,yes
+66,67,Jon,Catlett,M,39,East Chatham,00:1:39,1,yes
+67,68,Sawyer,Balint,M,18,Providence RI,00:1:39,1,yes
+71,72,Richard,Clark,M,62,"Feeding Hills, MA",00:1:40,1,yes
+72,73,Paul,Nelson,M,46,Albany,00:1:41,1,yes
+76,77,Chris,Catalano,M,34,Schenectady,00:1:42,1,yes
+79,80,Erin,Murphy,F,36,Albany,00:1:43,1,yes
+80,81,Patrick,Hilt,M,19,Colonie,00:1:43,1,yes
+82,83,Chris,Kurkjian,M,57,Ballston Lake,00:1:43,1,yes
+83,84,Bill,Douglas,M,55,Rensselaer,00:1:43,1,yes
+84,85,Brian,Dillenbeck,M,46,Alpaus,00:1:44,1,yes
+87,88,Denise,Iannizzotto,F,54,Lake Katrine,00:1:44,1,yes
+88,89,Juergen,Reher,M,67,Wynantskill,00:1:44,1,yes
+89,90,Kari,Deer,F,37,Slingerlands,00:1:44,1,yes
+90,91,John,Deer,M,34,Slingerlands,00:1:44,1,yes
+91,92,Jeffrey,Andritz,M,35,Altamont,00:1:44,1,yes
+92,93,William,Drapeau,M,49,Glenville,00:1:44,1,yes
+93,94,Samantha,McBee,F,31,Saratoga  ,00:1:44,1,yes
+94,95,Peggy,McKeown,F,59,Moreau,00:1:45,1,yes
+95,96,Kevin,Donohue,M,65,Troy,00:1:45,1,yes
+96,97,Kevin S,Valois,M,47,Schenectady,00:1:45,1,yes
+100,101,Sarah,Strock,F,34,Glenmont,00:1:46,1,yes
+101,102,Moira,Hilt,F,24,Albany,00:1:46,1,yes
+103,104,John,Parisella,M,59,Ballston Lake,00:1:46,1,yes
+104,105,Andrew,Sponable,M,53,Latham,00:1:46,1,yes
+105,106,Carl,Brewer,M,33,Albany,00:1:46,1,yes
+106,107,Neil,Sergott,M,45,Clifton Park,00:1:46,1,yes
+107,108,Carol,Abbattisti,F,47,Queensbury,00:1:46,1,yes
+108,109,Kevin,Reedy,M,41,Colonie,00:1:47,1,yes
+109,110,Greg,Bentley,M,39,Loudonville,00:1:47,1,yes
+111,112,Kelly,Virkler,F,33,Altamont,00:1:47,1,yes
+113,114,Ruth,Sadinsky,F,49,Albany,00:1:47,1,yes
+115,116,Megan,Harrington,F,32,Cambridge,00:1:48,1,yes
+116,117,Joe,Benny,M,38,Albany,00:1:48,1,yes
+117,118,Jermy,McNamara,M,37,Albany,00:1:48,1,yes
+118,119,Drew,Shave,M,40,Saratoga Springs,00:1:48,1,yes
+120,121,Michael,Thumann,M,67,Chatham  ,00:1:48,1,yes
+122,123,Paul,Denio,M,55,Troy,00:1:49,1,yes
+123,124,Aaron,Ambrosino,M,46,Clifton Park,00:1:49,1,yes
+124,125,Jennifer,Bennice,F,37,Ballston Lake,00:1:49,1,yes
+125,126,Danielle,Maslowsky,F,38,Ballston Lake,00:1:49,1,yes
+129,130,Tom,McGuire,M,65,Slingerlands,00:1:50,1,yes
+130,131,Jennifer,Kehn,F,29,Clifton Park,00:1:50,1,yes
+131,132,Patrick,Teora,M,28,Albany,00:1:50,1,yes
+133,134,Virginia,Larner,F,45,Malta,00:1:50,1,yes
+134,135,Mary,Felton,F,51,Ballston Spa,00:1:50,1,yes
+136,137,Sally,Drake,F,43,Albany,00:1:51,1,yes
+137,138,Danielle,Doak,M,59,Albany,00:1:51,1,yes
+140,141,Connie,Smith,F,49,Ballston Lake,00:1:52,1,yes
+142,143,Colleen,Brackett,F,56,Albany,00:1:52,1,yes
+143,144,Rachel,Toolan,F,40,Rensselaer,00:1:52,1,yes
+145,146,Dennis,Beardsley,M,44,Schodack,00:1:53,1,yes
+147,148,Jonathan,Golden,M,43,Slingerlands,00:1:53,1,yes
+148,149,Amy,Drag,F,46,Waterford,00:1:53,1,yes
+149,150,Pat ,Dicerbo,M,50,Niskayuna,00:1:53,1,yes
+150,151,Theresa,Loomis,F,39,Waterford,00:1:53,1,yes
+152,153,Maureen,Fitzgerald,F,59,Clifton Park,00:1:53,1,yes
+155,156,Kristen,Hislop,F,52,Clifton Park,00:1:54,1,yes
+156,157,James,Larkin,M,69,Clifton Park,00:1:54,1,yes
+157,158,Richard,Kelly,M,60,Schenectady,00:1:54,1,yes
+158,159,Steve ,George,M,54,Scotia,00:1:54,1,yes
+159,160,Richard,Moorfoot,M,31,Clifton Park,00:1:54,1,yes
+160,161,Amanda,Carpenter,F,27,Troy,00:1:54,1,yes
+162,163,Kevin,Dollard,M,61,Hopewell Junction,00:1:55,1,yes
+163,164,Neil,Tyrrell,M,41,Saratoga Springs,00:1:54,1,yes
+164,165,Beth,Rice,F,45,Voorheesville,00:1:55,1,yes
+166,167,Karen,Dott,F,60,Colonie,00:1:55,1,yes
+168,169,Jay,Watsky,M,53,Slingerlands,00:1:55,1,yes
+169,170,Dave,Cole,M,59,Schenectady,00:1:56,1,yes
+170,171,Pam,Brumley,F,37,Gansevoort,00:1:56,1,yes
+171,172,James,Christian,M,34,Albany,00:1:56,1,yes
+173,174,Steve,Seepersaud,M,43,Binghamton,00:1:56,1,yes
+174,175,Sarah,Vogel,F,47,Slingerlands,00:1:56,1,yes
+178,179,Hillary,Johnson,F,30,Albany,00:1:57,1,yes
+180,181,Gary S,Dibble,M,42,Schenectady,00:1:57,1,yes
+181,182,Patricia,Robison,F,53,Clifton Park,00:1:57,1,yes
+184,185,Mike,O'Toole,M,41,Mechanicville,00:1:58,1,yes
+185,186,Johanna,DiCerbo,F,14,Niskayuna,00:1:58,1,yes
+186,187,Sharon,Desrochers,F,62,Ballston Lake,00:1:58,1,yes
+187,188,Scott,McFadden,M,52,Charlton,00:1:58,1,yes
+188,189,Lauren,Herbs,F,54,Rexford,00:1:59,1,yes
+189,190,Brian,Borden,M,53,Altamont,00:1:59,1,yes
+190,191,Tim,Mulligan,M,43,"Pittsfield, MA",00:1:59,1,yes
+191,192,Ed,Hamilton,M,48,Kinderhook,00:1:59,1,yes
+192,193,Collette,VanKerckvoorde,F,56,"Lee, MA",00:1:59,1,yes
+195,196,Kim,Law,F,59,E. Greenbush,00:2:01,1,yes
+196,197,Diane,Montes Harris,F,49,Troy,00:2:01,1,yes
+197,198,Simon,Balint,M,44,Melrose,00:2:01,1,yes
+198,199,Hanieka,Balint,F,16,Melrose,00:2:01,1,yes
+201,202,Amber,Hooper,F,31,Glenville,00:2:02,1,yes
+202,203,Jenny,Lee,F,56,Selkirk,00:2:02,1,yes
+203,204,Joe,Yavonditte,M,67,Guilderland,00:2:02,1,yes
+206,207,Tom,Adams,M,72,Schenectady,00:2:03,1,yes
+207,208,Sean,Crall,M,50,Clifton Park,00:2:04,1,yes
+208,209,John,Sullivan,M,45,Albany,00:2:04;20,1,yes
+209,210,Travis,Moore,M,44,Ballston Lake,00:2:04,1,yes
+213,214,Rachael,Austin,F,32,Delmar,00:2:05,1,yes
+214,215,Lara,Stelmaszyk,F,47,Albany,00:2:06,1,yes
+215,216,Jill ,Filuta,F,44,West Sand Lake,00:2:06,1,yes
+216,217,Timothy,O'Connor,M,58,Loudonville,00:2:06;31,1,yes
+217,218,Laura,Kelly,F,44,Albany,00:2:06,1,yes
+219,220,Teresa,Grant,F,44,Glenville,00:2:07,1,yes
+220,221,Ann,Cunningham,F,49,Delmar,00:2:07,1,yes
+221,222,Rachael,Angelian,F,51,Rensselaer,00:2:07,1,yes
+222,223,Amy,Weissman,F,34,Albany,00:2:08,1,yes
+223,224,Kelli,Timbrook,F,29,Cohoes,00:2:08,1,yes
+224,225,Donovan,White,M,36,Albany,00:2:09,1,yes
+226,227,Richard,Tanchyk,M,65,Saratoga Springs,00:2:10;34,1,yes
+227,228,Monique,Jacobs,F,56,Latham,00:2:10,1,yes
+241,242,Pamela,DelSignore,F,47,S. Glens Falls,00:2:11,1,yes
+242,243,Steve,Engel,M,52,Chatham,00:2:11,1,yes
+243,244,Jen,Ferriss,F,45,Saratoga Springs,00:2:11,1,yes
+244,245,Ginny,Pezzula,F,71,Colonie,00:2:11,1,yes
+245,246,Larry,Finke,M,51,Schenectady,00:2:12,1,yes
+247,248,Michelle,Rocklein,F,46,Delmar,00:2:12,1,yes
+249,250,Katie,Kurtessis,F,27,Albany,00:2:14,1,yes
+251,252,Terry,Peters,F,54,E. Greenbush,00:2:15,1,yes
+252,253,Sherri,Pignetti,F,53,Cohoes,00:2:15,1,yes
+254,255,Richard,Baker,M,42,Rensselaer,00:2:15,1,yes
+255,256,Dawn,Slater,F,45,Greenwich,00:2:16,1,yes
+256,257,Jean,Lange,F,50,Schenectady,00:2:17,1,yes
+257,258,Lisa,DiCoco,F,42,Guilderland,00:2:18,1,yes
+259,260,Waseem,Faidi,M,43,Schenectady,00:2:18,1,yes
+260,261,Katherine,Ambrosio,F,66,Delmar,00:2:19,1,yes
+261,262,David,Marchetti,M,56,Burnt Hills,00:2:20,1,yes
+262,263,Lara,Comithies,F,49,Greenville,00:2:22,1,yes
+264,265,Susan J,Wong,F,69,Glenmont,00:2:25,1,yes
+267,268,Jill ,Mehan,F,62,Troy,00:2:28,1,yes
+268,269,Amy,Scarano,F,28,"Egg Harbor, NJ",00:2:30,1,yes
+269,270,Thomas,Kollar,M,70,Schenectady,00:2:35,1,yes
+271,272,Phil,Adikes,M,53,Albany,00:2:38,1,yes
+272,273,Alyssa,Gibbons,F,39,Troy,00:2:39,1,yes
+273,274,Ray,Lee,M,74,Halfmoon,00:3:18,1,yes
