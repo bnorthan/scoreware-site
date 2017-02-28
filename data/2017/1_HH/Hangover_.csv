@@ -1,8 +1,11 @@
 ,place,first_name,last_name,gender,age,age_cat,name
+20,21,Hannah,Brooker,F,25.0,a_open,Hannah Brooker
 39,40,Michelle,Davis,F,28.0,a_open,Michelle Davis
+99,100,Madeleine,Hester,F,15.0,a_open,Madeleine Hester
 101,102,Moira,Hilt,F,24.0,a_open,Moira Hilt
 130,131,Jennifer,Kehn,F,29.0,a_open,Jennifer Kehn
 160,161,Amanda,Carpenter,F,27.0,a_open,Amanda Carpenter
+183,184,Katie,Hesler,F,14.0,a_open,Katie Hesler
 185,186,Johanna,DiCerbo,F,14.0,a_open,Johanna DiCerbo
 198,199,Hanieka,Balint,F,16.0,a_open,Hanieka Balint
 223,224,Kelli,Timbrook,F,29.0,a_open,Kelli Timbrook
@@ -35,16 +38,19 @@
 107,108,Carol,Abbattisti,F,47.0,c_40_49,Carol Abbattisti
 113,114,Ruth,Sadinsky,F,49.0,c_40_49,Ruth Sadinsky
 133,134,Virginia,Larner,F,45.0,c_40_49,Virginia Larner
+135,136,Joanne,Tramper,F,47.0,c_40_49,Joanne Tramper
 136,137,Sally,Drake,F,43.0,c_40_49,Sally Drake
 140,141,Connie,Smith,F,49.0,c_40_49,Connie Smith
 143,144,Rachel,Toolan,F,40.0,c_40_49,Rachel Toolan
 148,149,Amy,Drag,F,46.0,c_40_49,Amy Drag
 164,165,Beth,Rice,F,45.0,c_40_49,Beth Rice
 174,175,Sarah,Vogel,F,47.0,c_40_49,Sarah Vogel
+194,195,Sarah,Hesler,F,46.0,c_40_49,Sarah Hesler
 196,197,Diane,Montes Harris,F,49.0,c_40_49,Diane Montes Harris
 214,215,Lara,Stelmaszyk,F,47.0,c_40_49,Lara Stelmaszyk
 215,216,Jill ,Filuta,F,44.0,c_40_49,Jill  Filuta
 217,218,Laura,Kelly,F,44.0,c_40_49,Laura Kelly
+218,219,Mary ,Colvin,F,40.0,c_40_49,Mary  Colvin
 219,220,Teresa,Grant,F,44.0,c_40_49,Teresa Grant
 220,221,Ann,Cunningham,F,49.0,c_40_49,Ann Cunningham
 241,242,Pamela,DelSignore,F,47.0,c_40_49,Pamela DelSignore
@@ -61,7 +67,6 @@
 155,156,Kristen,Hislop,F,52.0,d_50_59,Kristen Hislop
 181,182,Patricia,Robison,F,53.0,d_50_59,Patricia Robison
 188,189,Lauren,Herbs,F,54.0,d_50_59,Lauren Herbs
-192,193,Collette,VanKerckvoorde,F,56.0,d_50_59,Collette VanKerckvoorde
 195,196,Kim,Law,F,59.0,d_50_59,Kim Law
 202,203,Jenny,Lee,F,56.0,d_50_59,Jenny Lee
 221,222,Rachael,Angelian,F,51.0,d_50_59,Rachael Angelian
@@ -75,7 +80,9 @@
 264,265,Susan J,Wong,F,69.0,e_60_69,Susan J Wong
 267,268,Jill ,Mehan,F,62.0,e_60_69,Jill  Mehan
 244,245,Ginny,Pezzula,F,71.0,f_70+,Ginny Pezzula
+0,1,Matt,Brooker,M,26.0,a_open,Matt Brooker
 2,3,Jacob,Andrews,M,23.0,a_open,Jacob Andrews
+5,6,Aidan,Canavan,M,17.0,a_open,Aidan Canavan
 6,7,Nick,Webster,M,27.0,a_open,Nick Webster
 8,9,Ben,Heller,M,28.0,a_open,Ben Heller
 24,25,Chris,Herbs,M,23.0,a_open,Chris Herbs
@@ -86,13 +93,13 @@
 67,68,Sawyer,Balint,M,18.0,a_open,Sawyer Balint
 80,81,Patrick,Hilt,M,19.0,a_open,Patrick Hilt
 131,132,Patrick,Teora,M,28.0,a_open,Patrick Teora
+167,168,Ryan,Hesler,M,11.0,a_open,Ryan Hesler
 1,2,Chuck,Terry,M,34.0,b_30_39,Chuck Terry
 3,4,Josh,Merlis,M,34.0,b_30_39,Josh Merlis
 4,5,Chris,Chromczack,M,32.0,b_30_39,Chris Chromczack
 7,8,Jim,Sweeney,M,35.0,b_30_39,Jim Sweeney
 13,14,Tom,Williams,M,33.0,b_30_39,Tom Williams
 17,18,Dave,Vona,M,34.0,b_30_39,Dave Vona
-18,19,Brian,White,M,38.0,b_30_39,Brian White
 21,22,Dallas,DeVries,M,39.0,b_30_39,Dallas DeVries
 31,32,Nick,Whaley,M,36.0,b_30_39,Nick Whaley
 43,44,Rob ,Ordish,M,31.0,b_30_39,Rob  Ordish
@@ -126,13 +133,13 @@
 92,93,William,Drapeau,M,49.0,c_40_49,William Drapeau
 96,97,Kevin S,Valois,M,47.0,c_40_49,Kevin S Valois
 106,107,Neil,Sergott,M,45.0,c_40_49,Neil Sergott
-108,109,Kevin,Reedy,M,41.0,c_40_49,Kevin Reedy
 118,119,Drew,Shave,M,40.0,c_40_49,Drew Shave
 123,124,Aaron,Ambrosino,M,46.0,c_40_49,Aaron Ambrosino
 145,146,Dennis,Beardsley,M,44.0,c_40_49,Dennis Beardsley
 147,148,Jonathan,Golden,M,43.0,c_40_49,Jonathan Golden
 163,164,Neil,Tyrrell,M,41.0,c_40_49,Neil Tyrrell
 173,174,Steve,Seepersaud,M,43.0,c_40_49,Steve Seepersaud
+175,176,Keith,Starr,M,43.0,c_40_49,Keith Starr
 180,181,Gary S,Dibble,M,42.0,c_40_49,Gary S Dibble
 184,185,Mike,O'Toole,M,41.0,c_40_49,Mike O'Toole
 190,191,Tim,Mulligan,M,43.0,c_40_49,Tim Mulligan
@@ -142,19 +149,21 @@
 209,210,Travis,Moore,M,44.0,c_40_49,Travis Moore
 254,255,Richard,Baker,M,42.0,c_40_49,Richard Baker
 259,260,Waseem,Faidi,M,43.0,c_40_49,Waseem Faidi
+266,267,Yuri,Lvov,M,47.0,c_40_49,Yuri Lvov
 12,13,John,Stadtlander,M,51.0,d_50_59,John Stadtlander
 23,24,Christian,Lietzau,M,53.0,d_50_59,Christian Lietzau
 25,26,David,Padula,M,51.0,d_50_59,David Padula
 28,29,Craig,DuBois,M,53.0,d_50_59,Craig DuBois
 32,33,John,Sestito,M,53.0,d_50_59,John Sestito
+33,34,Ryan,Mitchell,M,50.0,d_50_59,Ryan Mitchell
 38,39,Mark,Stephenson,M,52.0,d_50_59,Mark Stephenson
 45,46,Jay,Thorn,M,54.0,d_50_59,Jay Thorn
 49,50,Jon ,Rocco,M,50.0,d_50_59,Jon  Rocco
 50,51,Bart,Trudeau,M,54.0,d_50_59,Bart Trudeau
 58,59,Ed,Menis,M,52.0,d_50_59,Ed Menis
-60,61,Brian,DeBraccio,M,51.0,d_50_59,Brian DeBraccio
 82,83,Chris,Kurkjian,M,57.0,d_50_59,Chris Kurkjian
 83,84,Bill,Douglas,M,55.0,d_50_59,Bill Douglas
+98,99,Mark,Warner,M,58.0,d_50_59,Mark Warner
 103,104,John,Parisella,M,59.0,d_50_59,John Parisella
 104,105,Andrew,Sponable,M,53.0,d_50_59,Andrew Sponable
 122,123,Paul,Denio,M,55.0,d_50_59,Paul Denio
