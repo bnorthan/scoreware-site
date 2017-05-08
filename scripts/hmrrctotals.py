@@ -2,14 +2,14 @@ import pandas as pd
 import operator
 from difflib import SequenceMatcher
 
-xl=pd.ExcelFile('../data/2017/Spreadsheet/Grand_Prix_2017_Post_WS5.xls')
+xl=pd.ExcelFile('../data/2017/Spreadsheet/Grand_Prix_2017_Post_Masters.xls')
 
 xl.sheet_names
 
 
 who='Female'
 
-out_name='../data/2017/Spreadsheet/Totals_Post_WS5_'+who+'.csv'
+out_name='../data/2017/Spreadsheet/Totals__'+who+'.csv'
 
 
 df=xl.parse(who)
@@ -86,4 +86,4 @@ for i in range(6):
 
 print scored_df.head()
 
-scored_df.to_csv(out_name)
+scored_df.to_csv(out_name,index=False)

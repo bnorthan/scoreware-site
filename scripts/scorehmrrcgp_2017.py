@@ -15,10 +15,10 @@ reload(header)
 import utils
 reload(utils)
 
-members_name='../data/2017/2_10Miler/2017-02-27 Members Hudson Mohawk Road Runners Club.csv'
-race_name='../data/2017/2_10Miler/17WS5.csv'
+members_name='../data/2017/Membership/2017-05-07 Members Hudson Mohawk Road Runners Club.csv'
+race_name='../data/2017/4_Masters/17masters.csv'
 
-race_out_base='../data/2017/2_10Miler/'
+race_out_base='../data/2017/4_Masters/gp'
 
 race_out_name=race_out_base+'.csv'
 race_out_males=race_out_base+'_males.csv'
