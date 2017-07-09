@@ -2,7 +2,7 @@ import pandas as pd
 import operator
 from difflib import SequenceMatcher
 
-xl=pd.ExcelFile('../data/2017/Spreadsheet/Grand_Prix_2017_Post_Masters.xls')
+xl=pd.ExcelFile('../data/2017/Spreadsheet/Grand_Prix_2017_Post_CM.xls')
 
 xl.sheet_names
 
