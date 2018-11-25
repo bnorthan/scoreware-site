@@ -1,0 +1,94 @@
+Place,First,Last,Sex,Age,City,Time
+:,Thomas ,O'Grady,M,32,Slingerlands,1:22:03
+2,Dan,Jordy,M,34,Glenville,1:23:03
+3,Tim,Russell,M,28,Ballston Spa,1:23:25
+4,Josh,Merlis,M,36,Albany,1:23:50
+5,Jim,Sweeney,M,36,Albany,1:26:51
+6,Volker ,Burkowski,M,46,Schuylerville,1:27:22
+7,Brendan,VanVlack,M,18,Duanesburg,1:28:04
+8,Karen,Bertasso,F,33,Albany,1:29:13
+9,Andy,Red,M,46,Niskayuna,1:30:00
+10,Paul,Archambault,M,41,Troy,1:30:33
+11,Ben,Heller,M,29,Troy,1:30:43
+12,Dennis,VanVlack,M,45,Duanesburg,1:30:50
+13,Joe,Sullivan,M,38,Schenectady,1:32:49
+14,Peter,Conboy,M,28,Albany,1:32:54
+15,Thomas ,Dansereau,M,30,Troy,1:32:58
+16,Kevin,Creagan,M,52,Albany,1:33:30
+17,Brendan,Connor,M,24,Hudson,1:36:03
+18,Mark,Stephenson,M,53,Esperance,1:37:07
+19,Rick,Zachgo,M,47,Rexford,1:37:40
+20,Tom,Fraser,M,45,Schodack Landing,1:39:03
+21,Thomas ,Ford,M,31,Mechanicville,1:39:27
+22,Michelle,Davis,F,29,Watervliet,1:39:44
+23,Dallas,DeVries,M,40,Cohoes,1:40:00
+24,John,Williams-Searle,N,49,Albany,1:41:00
+25,Todd,McAuley,M,49,Colonie,1:41:14
+26,Owen,Hooper,M,33,Glenville,1:41:35
+27,Andrew,Sponable,M,54,Latham,1:41:50
+28,Ping,Wong,M,30,Ballston Lake,1:42:10
+29,Justin,Peabody,M,21,Ballston Lake,1:42:17
+30,Brian,Coyne,M,55,Albany,1:42:30
+31,Gregory,Fox,M,48,Loudonville,1:42:55
+32,Melissa,Hine,F,28,"South Hadley, MA",1:43:01
+33,David,Roy,M,62,Schoharie,1:43:32
+34,Erin,Murphy,F,37,Albany,1:43:39
+35,Aaron,Knobloch,M,41,Niskayuna,1:44:33
+36,Diana,Knobloch,F,36,Niskayuna,1:44:35
+37,Erin,Hutton,F,27,Troy,1:44:43
+38,Steven,Imbriaco,M,41,Selkirk,1:46:15
+39,Peggy,McKeown,F,60,Moreau,1:47:07
+40,Richard,Clark,M,63,"Feeding Hills, MA",1:47:39
+41,Chris,Leavitt,M,30,Schenectady,!:48:15
+42,John,Parisella,M,60,Ballston Lake,1:49:30
+43,Daniel,Doak,M,60,Albany,1:52:40
+44,John,Sestito,M,54,Johnsonville,1:53:05
+45,Melissa,Grandjean,F,39,Glenville,1:53:05
+46,Larissa,Bates,F,36,West Sand Lake,1:53:22
+47,John,Kinnicutt,M,55,Menands,1:53:23
+48,Michelle,Lavigne,F,42,Albany,1:53:35
+49,Will,Koons,M,43,Rotterdam,1:53:36
+50,Brian,Borden,M,54,Altamont,1:53:37
+51,Joanna,Tremper,F,48,E. Chatham,1:53:47
+52,Kate,Thies,F,41,Albany,1:55:15
+53,Patrick,Lynskey,M,45,Clifton Park,1:55:56
+54,Steven,Sweeney,M,62,Delanson,1:55:57
+55,Catherine,Tomson,F,17,Slingerlands,1:55:28
+56,Alyssa,Risko,F,52,Schenectady,1:56:00
+57,Chris,Sanford,M,55,Altamont,1:58:45
+58,Meg,Mullins,F,32,Poughkeepsie,1:58:30
+59,Denis,Cote,M,47,Cohoes,1:58:30
+60,Drew,Shave,M,41,Saratoga Springs,1:58:40
+61,Dave,Cole,M,60,Troy,1:58:44
+62,Michael,Thumann,M,68,Chatham,1:58:56
+63,Kristin,Zielinsky,F,37,Altamont,1:59:30
+64,Allison,Bradley,F,42,Albany,2:00:17
+65,Connie,Smith,F,50,Ballston Lake,2:00:17
+66,Chris,Varley,F,53,Albany,2:00:17
+67,Sherry,Amard,F,50,Rensselaer,2:00:17
+68,James,Larkin,M,70,Clifton Park,2:01:39
+69,Pete,Fish,M,58,Castleton,2:03:04
+70,Mike ,O'Toole,M,42,Mechanicville,2:03:13
+71,Karen,Dott,F,61,Colonie,2:04:42
+72,Rachael,Austin,F,33,Delmar,2:08:40
+73,Rachael,Morrissey,F,33,Selkirk,2:08:40
+74,Kim,Law,F,60,East Greenbush,2:09:05
+75,Diane,Harris,F,50,Troy,2:09:05
+76,Jay,Watsky,M,54,Slingerlands,2:09:20
+77,Amanda,Pilla,F,29,Watervliet,2:09:25
+78,Lauren,Maxwell,F,28,Schenectady,2:09:26
+79,Denise,Mormino,F,52,Slingerlands,2:09:30
+80,Jenniger,Kehn,F,30,Clifton Park,2:09:54
+81,Jan,Rancatt,M,57,E. Greenbush,2:11:53
+82,Lauren,Herbs,F,55,Rexford,2:11:59
+83,Kriisti,Mangine,F,40,Lebanon,2:12:33
+84,Steve ,Engel,M,54,Chatham,2:12:33
+85,Amanda,Summer,F,29,Albany,2:13:00
+86,Dawb,Slater,F,47,Greenwich,2:17:33
+87,Linda,DeDominicis,F,49,Menands,2:17:55
+88,Kelly,Sullivan,F,39,Schenectady,2:41:47
+89,Timothy,O'Connor,M,59,Loudonville,2:26:08
+90,Gabe,Kristal,M,46,Mechanicville,2:26:30
+91,Tim,Lippert,M,57,Berne,2:26:32
+92,Gary,Lvov,M,14,Albany,2:32:30
+93,Yuri,Lvov,M,48,Albany,2:34:45

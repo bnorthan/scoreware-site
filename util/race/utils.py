@@ -31,7 +31,7 @@ def date_to_age(dates):
     num_errors=0
     
     for dateString in dates:
-        print dateString
+        print(dateString)
         num_total=num_total+1
         try: 
             date=parse(dateString)
@@ -39,8 +39,8 @@ def date_to_age(dates):
             date=datetime.datetime.today
             num_errors=num_errors+1
 
-    print "Num Total: "+str(num_total)
-    print "Num Erros: "+str(num_errors)
+    print("Num Total: "+str(num_total))
+    print("Num Erros: "+str(num_errors))
             
 
 

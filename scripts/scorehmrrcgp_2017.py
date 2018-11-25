@@ -1,24 +1,25 @@
 import pandas as pd
 import sys
+import imp
 
 sys.path.append('../util/match/')
 sys.path.append('../util/runner/')
 sys.path.append('../util/race/')
 
 import matchmember
-reload(matchmember)
+imp.reload(matchmember)
 import runnerutils
 import readers
-reload(readers)
+imp.reload(readers)
 import header
-reload(header)
+imp.reload(header)
 import utils
-reload(utils)
+imp.reload(utils)
 
-members_name='../data/2017/Membership/2017-07-09 Members Hudson Mohawk Road Runners Club.csv'
-race_name='../data/2017/6_CMile/17ColonieMile.csv'
+members_name='../data/2018/Membership/2018-01-28 Members Hudson Mohawk Road Runners Club.csv'
+race_name='../data/2018/1_HH/hangover_half.csv'
 
-race_out_base='../data/2017/6_CMile/gp'
+race_out_base='../data/2018/1_HH/gp'
 
 race_out_name=race_out_base+'.csv'
 race_out_males=race_out_base+'_males.csv'
@@ -28,15 +29,15 @@ members=pd.read_csv(members_name)
 members["age"]=members['Birthdate (e.g., 01 Jun 1954)'].apply(lambda x:utils.datestring_to_age(x))
 members["gender"]=members['Gender'].apply(lambda x:utils.parse_gender(x))
 
-print members.head()
+print(members.head())
 
-racers=readers.parse_general(pd.read_csv(race_name), header.RaceHeader.headers, 1)
-#racers=pd.read_csv(race_name)
-print racers.head()
+racers=readers.parse_general(pd.read_fwf(race_name), header.RaceHeader.headers, 1)
+#racers=readers.parse_general(pd.read_csv(race_name), header.RaceHeader.headers, 1)
+print(racers.head())
 
 matchmember.match(members, racers, 4.5, 5.5)
 
-print racers.head()
+print(racers.head())
 
 hmrrc=racers[racers['member']=='yes']
 hmrrc=hmrrc[['place', 'first_name','last_name','gender','age']]
@@ -47,6 +48,7 @@ hmrrc["age_cat"]=hmrrc.age.apply(lambda x:runnerutils.ageToCat(x))
 
 hmrrc=hmrrc.sort_values(['gender','age_cat','place'])
 hmrrc['name']=hmrrc.first_name+" "+hmrrc.last_name
+hmrrc.gender=hmrrc.gender.str.upper()
 
 hmrrc.to_csv(race_out_name)
 

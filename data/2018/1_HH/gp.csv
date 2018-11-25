@@ -1,0 +1,86 @@
+,place,first_name,last_name,gender,age,age_cat,name
+21,22,Michelle,Davis,F,29,a_open,Michelle Davis
+31,32,Melissa,Hine,F,28,a_open,Melissa Hine
+54,55,Catherine,Tomson,F,17,a_open,Catherine Tomson
+76,77,Amanda,Pilla,F,29,a_open,Amanda Pilla
+77,78,Lauren,Maxwell,F,28,a_open,Lauren Maxwell
+33,34,Erin,Murphy,F,37,b_30_39,Erin Murphy
+35,36,Diana,Knobloch,F,36,b_30_39,Diana Knobloch
+44,45,Melissa,Grandjean,F,39,b_30_39,Melissa Grandjean
+45,46,Larissa,Bates,F,36,b_30_39,Larissa Bates
+62,63,Kristin,Zielinsky,F,37,b_30_39,Kristin Zielinsky
+71,72,Rachael,Austin,F,33,b_30_39,Rachael Austin
+7,8,Karen,Bertasso,F,33,b_30_39,Karen Bertasso
+79,80,Jenniger,Kehn,F,30,b_30_39,Jenniger Kehn
+87,88,Kelly,Sullivan,F,39,b_30_39,Kelly Sullivan
+47,48,Michelle,Lavigne,F,42,c_40_49,Michelle Lavigne
+50,51,Joanna,Tremper,F,48,c_40_49,Joanna Tremper
+51,52,Kate,Thies,F,41,c_40_49,Kate Thies
+63,64,Allison,Bradley,F,42,c_40_49,Allison Bradley
+82,83,Kriisti,Mangine,F,40,c_40_49,Kriisti Mangine
+85,86,Dawb,Slater,F,47,c_40_49,Dawb Slater
+86,87,Linda,DeDominicis,F,49,c_40_49,Linda DeDominicis
+55,56,Alyssa,Risko,F,52,d_50_59,Alyssa Risko
+64,65,Connie,Smith,F,50,d_50_59,Connie Smith
+65,66,Chris,Varley,F,53,d_50_59,Chris Varley
+74,75,Diane,Harris,F,50,d_50_59,Diane Harris
+78,79,Denise,Mormino,F,52,d_50_59,Denise Mormino
+81,82,Lauren,Herbs,F,55,d_50_59,Lauren Herbs
+38,39,Peggy,McKeown,F,60,e_60_69,Peggy McKeown
+70,71,Karen,Dott,F,61,e_60_69,Karen Dott
+73,74,Kim,Law,F,60,e_60_69,Kim Law
+10,11,Ben,Heller,M,29,a_open,Ben Heller
+13,14,Peter,Conboy,M,28,a_open,Peter Conboy
+16,17,Brendan,Connor,M,24,a_open,Brendan Connor
+28,29,Justin,Peabody,M,21,a_open,Justin Peabody
+6,7,Brendan,VanVlack,M,18,a_open,Brendan VanVlack
+91,92,Gary,Lvov,M,14,a_open,Gary Lvov
+12,13,Joe,Sullivan,M,38,b_30_39,Joe Sullivan
+14,15,Thomas ,Dansereau,M,30,b_30_39,Thomas  Dansereau
+1,2,Dan,Jordy,M,34,b_30_39,Dan Jordy
+20,21,Thomas ,Ford,M,31,b_30_39,Thomas  Ford
+25,26,Owen,Hooper,M,33,b_30_39,Owen Hooper
+27,28,Ping,Wong,M,30,b_30_39,Ping Wong
+3,4,Josh,Merlis,M,36,b_30_39,Josh Merlis
+40,41,Chris,Leavitt,M,30,b_30_39,Chris Leavitt
+4,5,Jim,Sweeney,M,36,b_30_39,Jim Sweeney
+0,:,Thomas ,O'Grady,M,32,b_30_39,Thomas  O'Grady
+9,10,Paul,Archambault,M,41,c_40_49,Paul Archambault
+11,12,Dennis,VanVlack,M,45,c_40_49,Dennis VanVlack
+18,19,Rick,Zachgo,M,47,c_40_49,Rick Zachgo
+19,20,Tom,Fraser,M,45,c_40_49,Tom Fraser
+22,23,Dallas,DeVries,M,40,c_40_49,Dallas DeVries
+24,25,Todd,McAuley,M,49,c_40_49,Todd McAuley
+30,31,Gregory,Fox,M,48,c_40_49,Gregory Fox
+34,35,Aaron,Knobloch,M,41,c_40_49,Aaron Knobloch
+48,49,Will,Koons,M,43,c_40_49,Will Koons
+52,53,Patrick,Lynskey,M,45,c_40_49,Patrick Lynskey
+58,59,Denis,Cote,M,47,c_40_49,Denis Cote
+5,6,Volker ,Burkowski,M,46,c_40_49,Volker  Burkowski
+59,60,Drew,Shave,M,41,c_40_49,Drew Shave
+69,70,Mike ,O'Toole,M,42,c_40_49,Mike  O'Toole
+8,9,Andy,Red,M,46,c_40_49,Andy Red
+89,90,Gabe,Kristal,M,46,c_40_49,Gabe Kristal
+92,93,Yuri,Lvov,M,48,c_40_49,Yuri Lvov
+15,16,Kevin,Creagan,M,52,d_50_59,Kevin Creagan
+17,18,Mark,Stephenson,M,53,d_50_59,Mark Stephenson
+26,27,Andrew,Sponable,M,54,d_50_59,Andrew Sponable
+29,30,Brian,Coyne,M,55,d_50_59,Brian Coyne
+43,44,John,Sestito,M,54,d_50_59,John Sestito
+46,47,John,Kinnicutt,M,55,d_50_59,John Kinnicutt
+49,50,Brian,Borden,M,54,d_50_59,Brian Borden
+56,57,Chris,Sanford,M,55,d_50_59,Chris Sanford
+68,69,Pete,Fish,M,58,d_50_59,Pete Fish
+75,76,Jay,Watsky,M,54,d_50_59,Jay Watsky
+83,84,Steve ,Engel,M,54,d_50_59,Steve  Engel
+88,89,Timothy,O'Connor,M,59,d_50_59,Timothy O'Connor
+90,91,Tim,Lippert,M,57,d_50_59,Tim Lippert
+32,33,David,Roy,M,62,e_60_69,David Roy
+39,40,Richard,Clark,M,63,e_60_69,Richard Clark
+41,42,John,Parisella,M,60,e_60_69,John Parisella
+42,43,Daniel,Doak,M,60,e_60_69,Daniel Doak
+53,54,Steven,Sweeney,M,62,e_60_69,Steven Sweeney
+60,61,Dave,Cole,M,60,e_60_69,Dave Cole
+61,62,Michael,Thumann,M,68,e_60_69,Michael Thumann
+67,68,James,Larkin,M,70,f_70+,James Larkin
+23,24,John,Williams-Searle,N,49,c_40_49,John Williams-Searle

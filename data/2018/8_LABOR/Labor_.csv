@@ -1,0 +1,101 @@
+,place,first_name,last_name,gender,age,age_cat,name
+12,13,Courtney,Breiner,F,21,a_open,Courtney Breiner
+58,59,Vicky,Tiberia,F,27,a_open,Vicky Tiberia
+8,9,Karen,Bertasso,F,34,b_30_39,Karen Bertasso
+20,21,Jennifer,Richardson,F,38,b_30_39,Jennifer Richardson
+25,26,Meghan,Louden,F,32,b_30_39,Meghan Louden
+40,41,Chelsea,DeSalvatore,F,32,b_30_39,Chelsea DeSalvatore
+48,49,Melissa,Grandjean,F,39,b_30_39,Melissa Grandjean
+49,50,Kristin,Zielinski,F,38,b_30_39,Kristin Zielinski
+62,63,Melissa,Carroll,F,34,b_30_39,Melissa Carroll
+96,97,Sara,O'Grady,F,37,b_30_39,Sara O'Grady
+97,98,Lisa,McClure,F,39,b_30_39,Lisa McClure
+36,37,Jesica,Northan,F,42,c_40_49,Jesica Northan
+38,39,Regina,McGarvey,F,48,c_40_49,Regina McGarvey
+64,65,Meredith,Streeter,F,42,c_40_49,Meredith Streeter
+86,87,Alithia,Rodriguez-Rolo,F,43,c_40_49,Alithia Rodriguez-Rolo
+35,36,Sue,Thompson,F,51,d_50_59,Sue Thompson
+45,46,Chris,Varley,F,54,d_50_59,Chris Varley
+46,47,Connie,Smith,F,50,d_50_59,Connie Smith
+103,104,Michele,Celello,F,51,d_50_59,Michele Celello
+108,109,Barbara,Diamond,F,53,d_50_59,Barbara Diamond
+114,115,Cheryl,Hutchinson,F,51,d_50_59,Cheryl Hutchinson
+52,53,Karen,Dott,F,62,e_60_69,Karen Dott
+55,56,Martha,C. DeGrazia,F,67,e_60_69,Martha C. DeGrazia
+59,60,Erika,Oesterle,F,67,e_60_69,Erika Oesterle
+79,80,Katherine,Ambrosio,F,68,e_60_69,Katherine Ambrosio
+80,81,Judy,Lynch,F,69,e_60_69,Judy Lynch
+91,92,Suzanne,Nealon,F,68,e_60_69,Suzanne Nealon
+100,101,Donna,Charlebois,F,60,e_60_69,Donna Charlebois
+105,106,Kathleen,Dalton,F,61,e_60_69,Kathleen Dalton
+106,107,Donna,Davidson,F,63,e_60_69,Donna Davidson
+125,126,Theresa,Portelli,F,66,e_60_69,Theresa Portelli
+69,70,Susan,J. Wong,F,70,f_70+,Susan J. Wong
+116,117,Anny,Stockman,F,86,f_70+,Anny Stockman
+121,122,Eiko,Bogue,F,81,f_70+,Eiko Bogue
+5,6,Pete,Rowell,M,29,a_open,Pete Rowell
+6,7,Tim,Russell,M,29,a_open,Tim Russell
+7,8,Ben,Heller,M,29,a_open,Ben Heller
+0,1,Anthony,Giuliano,M,39,b_30_39,Anthony Giuliano
+1,2,Shaun,Donegan,M,31,b_30_39,Shaun Donegan
+2,3,Chuck,Terry,M,36,b_30_39,Chuck Terry
+3,4,Daniel,Jordy,M,34,b_30_39,Daniel Jordy
+4,5,Thomas,O'Grady,M,33,b_30_39,Thomas O'Grady
+11,12,Thomas,Dansereau,M,31,b_30_39,Thomas Dansereau
+15,16,Jonathan,Louden,M,34,b_30_39,Jonathan Louden
+31,32,Christopher,Leavitt,M,30,b_30_39,Christopher Leavitt
+60,61,Matthew,Robinson,M,31,b_30_39,Matthew Robinson
+76,77,Kenneth,Shelley,M,35,b_30_39,Kenneth Shelley
+124,125,Matthew,Fryer,M,38,b_30_39,Matthew Fryer
+10,11,Robert,Irwin,M,45,c_40_49,Robert Irwin
+17,18,Ryan,McCann,M,43,c_40_49,Ryan McCann
+18,19,Dallas,DeVries,M,41,c_40_49,Dallas DeVries
+19,20,David,Tromp,M,43,c_40_49,David Tromp
+47,48,Mike,O'Toole,M,43,c_40_49,Mike O'Toole
+51,52,John,Bensetler,M,42,c_40_49,John Bensetler
+57,58,Jason,Pensabene,M,42,c_40_49,Jason Pensabene
+88,89,Tom,Robinson,M,49,c_40_49,Tom Robinson
+9,10,John,Stadtlander,M,52,d_50_59,John Stadtlander
+13,14,Mark,Stephenson,M,54,d_50_59,Mark Stephenson
+14,15,Christian,Lietzau,M,55,d_50_59,Christian Lietzau
+21,22,Steve,Hanagan,M,51,d_50_59,Steve Hanagan
+22,23,Samuel,Mercado,M,55,d_50_59,Samuel Mercado
+26,27,Jon,Rocco,M,51,d_50_59,Jon Rocco
+27,28,John,J. Sestito,M,55,d_50_59,John J. Sestito
+28,29,Kevin,Creagan,M,53,d_50_59,Kevin Creagan
+32,33,William,Bean,M,58,d_50_59,William Bean
+33,34,Jon,Atwell,M,53,d_50_59,Jon Atwell
+41,42,Brian,Teague,M,59,d_50_59,Brian Teague
+42,43,Michael,Verdichizzi,M,50,d_50_59,Michael Verdichizzi
+61,62,Bill,Marinello,M,59,d_50_59,Bill Marinello
+74,75,Mark,W. Sullivan,M,53,d_50_59,Mark W. Sullivan
+89,90,Brian,Neddo,M,51,d_50_59,Brian Neddo
+92,93,Ned,Norton,M,59,d_50_59,Ned Norton
+113,114,Arthur,March,M,59,d_50_59,Arthur March
+23,24,Richard,A. Munson,M,61,e_60_69,Richard A. Munson
+24,25,Stephen,Jones,M,64,e_60_69,Stephen Jones
+34,35,George,Baranauskas,M,64,e_60_69,George Baranauskas
+39,40,Tom,McGuire,M,66,e_60_69,Tom McGuire
+44,45,Juergen,Reher,M,68,e_60_69,Juergen Reher
+50,51,David,Rowell,M,66,e_60_69,David Rowell
+63,64,Martin,Touhey,M,65,e_60_69,Martin Touhey
+66,67,John,Sheehy,M,61,e_60_69,John Sheehy
+68,69,Dominick,"DeLorio, Jr.",M,68,e_60_69,"Dominick DeLorio, Jr."
+70,71,Thomas,McTernan,M,63,e_60_69,Thomas McTernan
+73,74,Joe,Yavonditte,M,69,e_60_69,Joe Yavonditte
+75,76,Timothy,PerryCoon,M,63,e_60_69,Timothy PerryCoon
+78,79,Gene,Sneerlinger,M,63,e_60_69,Gene Sneerlinger
+81,82,Vitus,Chow,M,61,e_60_69,Vitus Chow
+85,86,John,Connolly,M,61,e_60_69,John Connolly
+99,100,Michael,Maguire,M,62,e_60_69,Michael Maguire
+101,102,Larry,Peleggi,M,60,e_60_69,Larry Peleggi
+110,111,Ralph,Feinstein,M,64,e_60_69,Ralph Feinstein
+111,112,Joseph,Hein,M,68,e_60_69,Joseph Hein
+30,31,Dave,Glass,M,72,f_70+,Dave Glass
+77,78,Jim,Moore,M,78,f_70+,Jim Moore
+87,88,James,Fiore,M,71,f_70+,James Fiore
+90,91,Christopher,Rush,M,82,f_70+,Christopher Rush
+109,110,Wade,Stockman,M,83,f_70+,Wade Stockman
+119,120,Raymond,"W. Lee, Jr.",M,76,f_70+,"Raymond W. Lee, Jr."
+126,127,Jack,Berkery,M,70,f_70+,Jack Berkery
+131,132,Kenneth,G. Orner,M,88,f_70+,Kenneth G. Orner

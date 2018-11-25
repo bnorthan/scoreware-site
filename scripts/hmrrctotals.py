@@ -2,14 +2,14 @@ import pandas as pd
 import operator
 from difflib import SequenceMatcher
 
-xl=pd.ExcelFile('../data/2017/Spreadsheet/Grand_Prix_2017_Post_CM.xls')
+xl=pd.ExcelFile('../data/2018/SpreadSheet/Grand_Prix_2018_Post_Stockade.xls')
 
 xl.sheet_names
 
 
-who='Female'
+who='Male'
 
-out_name='../data/2017/Spreadsheet/Totals__'+who+'.csv'
+out_name='../data/2018/SpreadSheet/Totals__'+who+'.csv'
 
 
 df=xl.parse(who)
@@ -26,13 +26,13 @@ def score(age_results):
         name=age_results.iloc[row,2]
 
         p=age_results.iloc[row,1]
-        if name in dicti.keys():
+        if name in list(dicti.keys()):
             points=dicti[name]
             points.append(p)
         else:
             bestmatch=0
             bestkey=None
-            for key in dicti.keys():
+            for key in list(dicti.keys()):
                 testmatch=SequenceMatcher(None, name, key).ratio()
                 if (testmatch>bestmatch):
                     bestmatch=testmatch
@@ -53,14 +53,14 @@ def score(age_results):
         totals[name]=sum(total)
 
 
-    sorted_totals = sorted(totals.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_totals = sorted(list(totals.items()), key=operator.itemgetter(1), reverse=True)
 
-    print type(sorted_totals)
+    print(type(sorted_totals))
     i=1
 
     temp=[]
     for item in sorted_totals:
-        print str(int(item[1]))+','+item[0]
+        print(str(int(item[1]))+','+item[0])
         i=i+1
         temp.append([int(item[1]),item[0]])
 
@@ -80,10 +80,10 @@ for i in range(6):
     temp=score(new)
     temp
     scored_df=scored_df.join(score(new), how='outer', lsuffix='l', rsuffix='r')
-    print
-    print
+    print()
+    print()
 
 
-print scored_df.head()
+print(scored_df.head())
 
 scored_df.to_csv(out_name,index=False)

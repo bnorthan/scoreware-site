@@ -10,17 +10,17 @@ import runnerutils
 
 members=pd.read_csv('../data/2017/Membership/2017-01-03 Members Hudson Mohawk Road Runners Club.csv')
 
-print members.head()
+print(members.head())
 
 racers_base='../data/2017/1_HH/17Hangover_half'
 racers=pd.read_csv(racers_base+'.csv')
 
-print
-print racers.head()
+print()
+print(racers.head())
 
 matchmember.match(members, racers)
 
-print racers.head()
+print(racers.head())
 
 hmrrc=racers[racers['member']=='yes']
 hmrrc=hmrrc[['Place','FIRST_NAME','LAST_NAME','Sex','Age']]

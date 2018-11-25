@@ -7,7 +7,7 @@ members=pd.read_excel('data/members.xls')
 
 membersdf=pd.DataFrame()
 
-membersdf['id']=range(members.shape[0])
+membersdf['id']=list(range(members.shape[0]))
 membersdf['first_name']=members['First name']
 membersdf['last_name']=members['Last name']
 

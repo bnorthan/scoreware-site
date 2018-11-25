@@ -1,0 +1,679 @@
+PLACE,FIRST NAME,LAST NAME,age,sex,CITY,ST
+  1,Nicholas,Lemon, 26, M,Brighton,MA
+  2,Kyle,Smith, 30, M,Linden,MI
+  3,Jarred,Iacovelli, 25, M,Brookline,MA
+  4,Bryan,Morseman, 33, M,Bath,NY
+  5,Michael,Dixon, 35, M,Highland Park,NJ
+  6,Chris,McCabe, 28, M,Carlisle,PA
+  7,George,Deane, 38, M,Waterbury Ctr,VT
+  8,Thomas,O'Grady, 33, M,Slingerlands,NY
+  9,Marcel,Suurmond, 42, M,Vlissingen,
+ 10,Mark,Alves, 20, M,Kearny,NJ
+ 11,Benjamin,Fishbein, 22, M,Amherst,MA
+ 12,Aaron,Clements, 29, M,Salem,NH
+ 13,Noah,White, 39, M,Slingerlands,NY
+ 14,Joy,Miller, 30, F,Lexington,SC
+ 15,Daichi,Inoue, 37, M,New York,NY
+ 16,Eric,Brower, 23, M,Mayfield,NY
+ 17,Geoffrey,Koch, 38, M,Lancaster,NY
+ 18,Ramon,Vasquez, 40, M,Cliffside Park,NJ
+ 19,Ryan,Palmison, 33, M,Methuen,MA
+ 20,Edward,McLarnon, 33, M,Brooklyn,NY
+ 21,Karen,Auteri, 37, F,Belvidere,NJ
+ 22,Dana,Bush, 40, F,Saratoga Springs,NY
+ 23,Jean-Claude,Lefebvre, 46, M,Montreal,QC
+ 24,Geoffrey,Hale, 29, M,Rome,NY
+ 25,Evan,Oustrich, 27, M,Red Hook,NY
+ 26,Andrew,Lavin, 39, M,Wilmington Ny,NY
+ 27,John,Shea, 52, M,Tampa,FL
+ 28,Bob,Radliff, 54, M,Stillwater,NY
+ 29,Matt,Desrosiers, 31, M,West Springfield,MA
+ 30,Michael,Zampi, 29, M,Albany,NY
+ 31,David,Harwood, 32, M,Troy,NY
+ 32,Craig,Dubois, 55, M,Sprakers,NY
+ 33,Julia,Snyder, 41, F,East Syracuse,NY
+ 34,Steven,Wengrovitz, 34, M,Brooklyn,NY
+ 35,Stanley,Larkin, 59, M,St-Basile-Le-Grand,QC
+ 36,Gregory,Saint John, 35, M,Latham,NY
+ 37,Jazmin,Abraham, 36, F,Upper Saddle River,NJ
+ 38,Paul,Giuliano, 55, M,Montclair,NJ
+ 39,Jamie,Stroffolino, 33, M,Stormville,NY
+ 40,Chad,Penoyer, 32, M,Brewerton,NY
+ 41,Elizabeth,Campbell, 28, F,Stamford,CT
+ 42,Jonah,Williams, 24, M,Saratoga Springs,NY
+ 43,Mark,Larson, 48, M,Rochester,NY
+ 44,Martin,Garneau, 44, M,Neuville,QC
+ 45,Gregory,Duffy, 38, M,Philadelphia,PA
+ 46,Conrad,Harris, 49, M,New York,NY
+ 47,Justin,Rito, 32, M,Jeffersonville,VT
+ 48,Dallas,Devries, 41, M,Cohoes,NY
+ 49,Greg,Ethier, 45, M,Clifton Park,NY
+ 50,Peter,Katlic, 32, M,Schenectady,NY
+ 51,Meg,Versteegen, 39, F,Schenectady,NY
+ 52,Geoff,Roest, 28, M,Bryan,TX
+ 53,David,Troischt, 51, M,Mechanicville,NY
+ 54,Lauren,Domermuth, 32, F,Niskayuna,NY
+ 55,Annika,Bannon, 29, F,Hopkinton,MA
+ 56,Dave,Blough, 48, M,Rifton,NY
+ 57,Chase,Collins, 20, M,Saratoga Springs,NY
+ 58,Mathieu,Bolullo, 46, M,Montreal,QC
+ 59,Taylor,Troischt, 47, M,Morgantown,WV
+ 60,Karen,Dolge, 48, F,Valatie,NY
+ 61,James,Neu, 35, M,Brooklyn,NY
+ 62,Bridget,Klein, 35, F,Christiansted,
+ 63,Lauren,Dorschied, 29, F,Acushnet,MA
+ 64,Elizabeth,Chauhan, 34, F,Albany,NY
+ 65,Dimitriy,Markenzon, 50, M,Fair Lawn,NJ
+ 66,Aya,Leitz, 41, F,Jersey City,NJ
+ 67,Adam,Klingbeil, 40, M,Ballston Lake,NY
+ 68,David,Oelberg, 55, M,Lenox,MA
+ 69,Michelle,Eckler, 25, F,Troy,NY
+ 70,Christopher,Hayes, 43, M,Orchard Park,NY
+ 71,Keith,Weiss, 36, M,Loudonville,NY
+ 72,Patricia,Baptiste, 40, F,North Dartmouth,MA
+ 73,Ryan,Dunham, 44, M,Voorheesville,NY
+ 74,Kim,McBride, 26, F,Troy,NY
+ 75,Christie,Macfarlane, 24, F,Delmar,NY
+ 76,Eric,Su, 45, M,San Carlos,CA
+ 77,Andre,Williamson, 50, M,Silver Spring,MD
+ 78,Michael,Abdallah, 57, M,Mohawk,NY
+ 79,Jeffrey,Blazek, 44, M,Croton On Hudson,NY
+ 80,Paul,Vella, 42, M,Lunenburg,MA
+ 81,Jack,Megran, 58, M,Greenfield Park,QC
+ 82,Gretchen,Klingbeil, 41, F,Ballston Lake,NY
+ 83,Valerie,Guberek, 20, F,Panama,
+ 84,Matthew,Marincic, 46, M,Clifton Park,NY
+ 85,Shira,Evans, 34, F,Lebanon,NH
+ 86,Sarah,Popovics, 30, F,Altamont,NY
+ 87,Alejandro,Gauna, 35, M,Delmar,CA
+ 88,Jamie,Casline, 59, M,Ballston Lake,NY
+ 89,Kevin,Kohl, 35, M,Brielle,NJ
+ 90,Natalie,St-Jacques, 52, F,Quebec,QC
+ 91,Gerard,Colling, 37, M,Schodack,NY
+ 92,Rommel,Delarosa, 47, M,Emerson,NJ
+ 93,Leonardo,Souza, 46, M,New York,NY
+ 94,Derek,Somerville, 35, M,Goshen,NY
+ 95,Katelyn,Rhymestine, 29, F,Herkimer,NY
+ 96,Jessica,Marchessault, 32, F,Allentown,PA
+ 97,Randal,Bushart, 50, M,Selkirk,NY
+ 98,Dennis,King, 48, M,Chappaqua,NY
+ 99,Christopher,Ho, 30, M,New York City,NY
+100,Austin,Salkind, 21, M,Troy,NY
+101,Ethan,Rambacher, 21, M,Littleton,MA
+102,Spencer,Gallop, 32, M,Brooklyn,NY
+103,Leonard,Leonidas, 45, M,Castleton,NY
+104,Jacob,Hansen, 38, M,Brooklyn,NY
+105,Steve,Hanagan, 51, M,Ballston Lake,NY
+106,Todd,Robertson, 43, M,Syracuse,NY
+107,Paul,Moore, 53, M,Glenville,NY
+108,Keith,Donegan, 35, M,Saratoga Springs,NY
+109,Tom,Kaczmarek, 34, M,Scotia,NY
+110,Steven,Ehmann, 57, M,Long Valley,NJ
+111,Joel,Tse, 40, M,Brooklyn,NY
+112,Michael,Rosenblum, 54, M,Tampa,FL
+113,Neil,Cary, 32, M,Troy,NY
+114,Marguerite,Zaepfel, 25, F,Great Lakes,IL
+115,Roberto,Roson, 48, M,New York,NY
+116,Matthew,Downs, 36, M,Utica,NY
+117,Anthony,Demarco, 35, M,Troy,NY
+118,Julie,Furtado, 38, F,Dartmouth,MA
+119,Gil,Chorbajian, 48, M,Schenectady,NY
+120,Wayne,Pacconi, 50, M,Gillette,NJ
+121,Tyler,Morrissey, 21, M,Clifton Park,NY
+122,Timothy,Beach, 58, M,Prospect,CT
+123,Pamela,Tanner, 48, F,Naples,FL
+124,Richard J,Homenick, 24, M,Schenectady,NY
+125,Gintaras,Urmilevicius, 45, M,East Greenbush,NY
+126,Christopher,Parks, 32, M,Scotia,NY
+127,Susannah,Ford, 30, F,Boston,MA
+128,Christopher,Herbs, 25, M,Rexford,NY
+129,John,Walsh, 38, M,Lagrangeville,NY
+130,Matt,Migonis, 38, M,Waterbury,VT
+131,Jeffrey,Taylor, 58, M,Greenland,NH
+132,Stacie,Minchoff, 34, F,Plattsburgh,NY
+133,John,Harrison, 62, M,Burlington,CT
+134,Brooke,Morrissey, 28, F,Ballston Spa,NY
+135,Dana,Wiwczar, 37, F,Malta,NY
+136,Lynn,Vasconcelos, 43, F,Fairhaven,MA
+137,Laurie,Hennessy, 30, F,Marcy,NY
+138,John,McCreesh, 51, M,Drexel Hill,PA
+139,Gabriel,McGarry, 42, M,Slingerlands,NY
+140,Laurie,Gaudreau, 49, F,Springvale,ME
+141,Emma,Crist, 29, F,Cambridge,MA
+142,Terence,McCormick, 58, M,Lindenhurst,NY
+143,Kelli,Harvey, 46, F,Geneseo,NY
+144,Bill,Kosina, 58, M,Richfield Springs,NY
+145,David,Mendelsohn, 41, M,Brooklyn,NY
+146,Craig,Reed, 51, M,Westfield,MA
+147,Brett,Harris, 33, F,Albany,NY
+148,David,Murphy, 32, M,Mohawk,NY
+149,Katherine,Rich, 29, F,Saratoga Springs,NY
+150,Dale,Berlin, 36, M,Kinderhook,NY
+151,John,Slyer, 53, M,Averill Park,NY
+152,Ryan,Fleischer, 21, M,Delmar,NY
+153,Tim,Welch, 32, M,Wakefield,MA
+154,Gregory,Puorto, 31, M,Schenectady,NY
+155,Gina,Davis, 27, F,Glens Falls,NY
+156,Shelby,Iapoce, 24, F,Schenectady,NY
+157,Janne,Rand, 33, F,Saratoga,NY
+158,Liz,Finn, 43, F,Rydal,PA
+159,Samuel,Chabot, 25, M,Troy,NY
+160,Drew,Meka, 40, M,Canajoharie,NY
+161,Hayda,Hayduk, 47, F,East Northport,NY
+162,Cortlandt,Tisch, 22, M,Albany,NY
+163,Dj,Racette, 29, M,Saugus,MA
+164,Ian,Carter, 21, M,Bethesda,MD
+165,Jonathan,Hentrich, 38, M,Albany,NY
+166,Robert,Shepardson, 57, M,Chappaqua,NY
+167,Nate,Woody, 41, M,Gales Ferry,CT
+168,Bethany,Hawke, 32, F,East Syracuse,NY
+169,Martin,Callahan, 51, M,St Johnsville,NY
+170,Tracy,Drozynski, 52, F,Norwich,CT
+171,Erik,Koenitzer, 42, M,Delanson,NY
+172,Cj,Minchoff, 35, M,Plattsburgh,NY
+173,David,Chatt, 41, M,Saratoga Springs,NY
+174,Kent,Rinehart, 47, M,Red Hook,NY
+175,Justin,Heinz, 26, M,Albany,NY
+176,Christie,Oustrich, 26, F,Red Hook,NY
+177,John,Fischer, 49, M,Weymouth,MA
+178,Vito,Adriaensens, 32, M,New York,NY
+179,Christine,Capuano, 51, F,Altamont,NY
+180,David,Houston, 35, M,Wayne,NJ
+181,Christopher,Leavitt, 30, M,Schenectady,NY
+182,Robert,Hamlin, 28, M,Glenville,NY
+183,Jonathan,Dadekian, 31, M,Niskayuna,NY
+184,Robert,Hughes, 46, M,Dewitt,NY
+185,Steven,Longden, 37, M,Ravena,NY
+186,Julie,Scherer, 33, F,Rexford,NY
+187,John,Burke, 31, M,Saratoga Springs,NY
+188,Catherine,Ehmann, 25, F,Saratoga Springs,NY
+189,Donna,Intermont, 55, F,Albuquerque,NM
+190,Shelby,Sayre, 33, F,Selkirk,NY
+191,Brian,Melanson, 43, M,Schenectady,NY
+192,Randy,Gray, 22, M,Albany,NY
+193,Lee Ann,Bush, 49, F,North Attleboro,MA
+194,Kevin,Clancy, 49, M,Albany,NY
+195,John,Ratzan, 44, M,Montclair,NJ
+196,Steve,Vnuk, 62, M,Delmar,NY
+197,Chong-Hwan,Son, 53, M,Latham,NY
+198,Andrea,Vandecar, 38, F,Cohoes,NY
+199,Bill,Wagner, 48, M,Rochester,NY
+200,Gerard,Exley, 59, M,Baltic,CT
+201,Jessica,Hatfield, 36, F,Saranac,NY
+202,Kelda,Moriarty, 30, F,Queensbury,NY
+203,Meaghan,O'Sullivan, 37, F,Weymouth,MA
+204,Steven,Leathers, 37, M,Mamaroneck,NY
+205,Matthew,Crowley, 39, M,Norwood,MA
+206,Max,Buckbee-Selleck, 33, M,Glens Falls,NY
+207,Phillip Max,King, 61, M,Hamden,CT
+208,Craig,Weiss, 27, M,Addison,TX
+209,Beatriz,Benedit, 49, F,Lewisburg,PA
+210,Eli,Rabinowitz, 37, M,Albany,NY
+211,Maxim,Kovalsky, 39, M,Mount Kisco,NY
+212,Haigou,Huang, 44, M,Rexford,NY
+213,Dibao,Zhou, 36, M,Mechanicville,NY
+214,Keith,Muller, 46, M,Wallkill,NY
+215,David,Czarnecki, 42, M,Clifton Park,NY
+216,Tomer,Yavetz, 30, M,Brooklyn,NY
+217,Paul,Bassette, 60, M,Arlington,VA
+218,Georgiana,De Rham, 26, F,Wellington,FL
+219,Debra,Panek, 44, F,Brooklyn,NY
+220,Garry,Brozyna, 33, M,Atlantic Highlands,NJ
+221,Joseph,Rosamilia, 60, M,Philadelphia,PA
+222,Germaine,Dougherty, 38, F,Saugerties,NY
+223,Michelle,Balio, 41, F,Winchester,VA
+224,Nathan,Greenslit, 42, M,Boston,MA
+225,Meghan,Sahr, 37, F,Albany,NY
+226,Brian,Nowicki, 33, M,Schenectady,NY
+227,Sarah,McCarty, 43, F,Plattsburgh,NY
+228,Alex,Glazebrook, 31, M,Sand Lake,NY
+229,Christine,Rohde, 44, F,Briarcliff Manor,NY
+230,Michelle,Hyers, 34, F,Hicksville,NY
+231,Mark,Staufenberg, 35, M,New York,NY
+232,Cornelius,Griffin, 41, M,Brooklyn,NY
+233,Svana,Calabro, 26, F,Melrose,MA
+234,Rich,Homenick, 54, M,Schenectady,NY
+235,Sebastian,Domenico, 23, M,Boston,MA
+236,Colin,Liscord, 20, M,Wayne,ME
+237,Daniel,Kirk-Davidoff, 50, M,Albany,NY
+238,Heather,Caristo, 39, F,Wellington,FL
+239,Kevin,Twilliger, 39, M,Southborough,MA
+240,Michele,Grieves, 54, F,North Attleboro,MA
+241,Dev,Baid, 40, M,New York,NY
+242,Jon,Gurney, 55, M,Saratoga Springs,NY
+243,Todd,Stinson, 52, M,South Kortright,NY
+244,Madyson,Chamberas, 29, F,Cohoes,NY
+245,John,Butler, 51, M,Latham,NY
+246,Brian,Carl, 47, M,Fairport,NY
+247,Galen,Heins, 28, M,Albany,NY
+248,Philip,Hodge, 52, M,Little Elm,TX
+249,Jonathan,Whitney, 64, M,Tuxedo Park,NY
+250,Leah,Jachym, 39, F,Albany,NY
+251,Samantha,Lee, 24, F,New York Mills,NY
+252,Alistair,Fraser, 52, M,Florida,NY
+253,Joe,Audino, 38, M,Schenectady,NY
+254,Cliff,Collins, 61, M,Piscataway,NJ
+255,Dariusz,Kaczmarski, 39, M,Ballston Lake,NY
+256,Kevin,Colling, 39, M,Fairfax,VT
+257,Jamie,Spraker, 50, M,Gloversville,NY
+258,Sonya,Lambert, 46, F,Plattsburgh,NY
+259,Joseph,Cerniglia, 51, M,Southbridge,MA
+260,Daniel,Filuta, 49, M,West Sand Lake,NY
+261,Marianne,Heer, 52, F,Littleton,MA
+262,Christina,Dicroce, 32, F,Still River,MA
+263,Brianne,Langstaff, 35, F,Sayville,NY
+264,Logan,Steyer, 26, M,Saugerties,NY
+265,Tim,Flick, 52, M,Huntington,NY
+266,Michael,Letzring, 41, M,Schuylerville,NY
+267,Justin,Kupinski, 31, M,Rotterdam,NY
+268,Andrew,Winn, 31, M,North Charleston,SC
+269,Caitlin,Logan, 29, F,Kerhonkson,NY
+270,Bill,Knickerbocker, 47, M,Pelham,NY
+271,Yumi,Morishige, 51, F,New York,NY
+272,Caitlin,Maher, 28, F,State College,PA
+273,Wiley,Shaw, 17, M,Tully,NY
+274,Mindy,Lund, 43, F,Tully,NY
+275,Kathleen,Payne, 34, F,Astoria,NY
+276,Christopher,Edwards, 37, M,Troy,NY
+277,Allison,Fitzgerald, 30, F,Middletown,NY
+278,Shauna,Korn, 35, F,Stephenson,VA
+279,Kelsey,Barbour, 26, F,Alexandria,VA
+280,Frederic,Nadeau, 42, M,Chambly,QC
+281,Brian,Galfano, 42, M,Somers,NY
+282,Kristen,Uhrich, 51, F,Brooklyn,NY
+283,Alisa,Grossberg, 40, F,Morrison,CO
+284,Todd,Montgomery, 50, M,Cedar Rapids,IA
+285,Alan,Kusakabe, 45, M,Baltimore,MD
+286,John,Paniccia, 51, M,Clifton Park,NY
+287,Rich,Bury, 56, M,Bellmore,NY
+288,Kate,Whitney, 39, F,Keene Valley,NY
+289,Jennifer,Adams, 35, F,Selkirk,NY
+290,Stephen,Hallgren, 38, M,Albany,NY
+291,Kara,Piergentili, 23, F,Richmond,VT
+292,Daniel,Wilchins, 42, M,Brooklyn,NY
+293,Lindsey,Callahan, 36, F,Whitesboro,NY
+294,Jonathan,Press, 35, M,Medfield,MA
+295,Melissa,Davoli, 50, F,Raleigh,NC
+296,Darren,Suarez, 47, M,Nassau,NY
+297,Scott,Porter, 54, M,Ballston Spa,NY
+298,Abraham,Houng, 46, M,Short Hills,NJ
+299,Stacy,Patterson, 43, F,Troy,NY
+300,Matthew,Phillips, 27, M,Norristown,PA
+301,Laurence,Olivieri, 21, M,Washington,DC
+302,Michael,Odwyer, 43, M,Long Island City,NY
+303,Doug,Beagle, 68, M,Houston,TX
+304,Neil,Ferrara, 56, M,Oceanside,NY
+305,Ellie,Quinlan, 23, F,Red Hook,NY
+306,Babak,Ghatan, 43, M,New York,NY
+307,Ashley,Schaible, 28, F,Clifton Park,NY
+308,Paul,Houck, 23, M,Hellertown,PA
+309,Mya,Domenico, 25, F,Ballston Spa,NY
+310,Robert,Knepp, 41, M,Canton,MA
+311,Nelson,Perel, 59, M,Lancaster,NY
+312,Joan,Darnsteadt, 44, F,West Milford,NJ
+313,Naomi,Galarza, 44, F,Rocky Hill,CT
+314,Josh,Branham, 26, M,Cambridge,MA
+315,Elizabeth,Pfendler, 30, F,Remsen,NY
+316,Lea,Cure, 24, F,Newport,RI
+317,Marcy,Dreimiller, 58, F,South Glens Falls,NY
+318,Shantelle,Leonard, 43, F,New York,NY
+319,Arunas,Tuzikas, 35, M,Troy,NY
+320,Courtney,Brinckman, 27, F,West Hartford,CT
+321,Matthew,Ryan, 45, M,Loudonville,NY
+322,Robert,Sorbello, 39, M,Marstons Mills,MA
+323,Victoria,Bernardo, 21, F,Glenmont,NY
+324,Mike,Salamon, 50, M,Pittsburgh,PA
+325,Justin,Rymanowski, 38, M,Fairport,NY
+326,Matthew,Schaffer, 32, M,Niagara Falls,NY
+327,Taylor,Krakar, 20, M,Olathe,KS
+328,Brandi,Silsby, 34, F,Middleport,NY
+329,Craig,Bizjak, 56, M,Basking Ridge,NJ
+330,Matthew,Wisner, 46, M,Montville,NJ
+331,Luiza,Silva, 46, F,New York,NY
+332,Michael,Beyer, 25, M,Clifton Park,NY
+333,Katya,Harris, 28, F,Greenville,NC
+334,Brenda,King, 58, F,Hamden,CT
+335,John,Geesler, 59, M,Saint Johnsville,NY
+336,Nicholas,Reisman, 33, M,Clifton Park,NY
+337,Michael,Gibbons, 50, M,Delmar,NY
+338,Kevin,Somogye, 35, M,Buffalo,NY
+339,Jodi,Lubba, 60, F,Penfield,NY
+340,Matt,Sorbero, 40, M,Ballston Spa,NY
+341,Steve,Crimmins, 61, M,Cumming,GA
+342,Jamie,Coy, 40, F,Whitesboro,NY
+343,Melissa,Zarrella, 28, F,Westfield,MA
+344,Kirsty,Morland, 46, F,New York,NY
+345,Lisa,Pleban, 54, F,Gansevoort,NY
+346,Jessalyn,Meehan, 26, F,Albany,NY
+347,Ashley,Szwec, 36, F,San Francisco,CA
+348,Kelly,Christy, 39, F,Greenfield Center,NY
+349,Tony,Vo, 46, M,Drexel Hill,PA
+350,Robert,Magee, 34, M,Albany,NY
+351,Paul,McLaughlin, 54, M,O Fallon,IL
+352,Sheril,Lawson, 48, F,Brooklyn,NY
+353,Norris,Pearson, 52, M,Troy,NY
+354,Arthur,Pearson, 56, M,Richmondville,NY
+355,Heidi,Pearson, 22, F,Richmondville,NY
+356,Whitney,Flanagan, 32, F,Jersey City,NJ
+357,John,Steele, 60, M,Branford,CT
+358,Paul,Salerni, 62, M,Little Neck,NY
+359,Steven,Yeager, 41, M,Ballston Spa,NY
+360,Greg,Sherwood, 36, M,Nassau,NY
+361,Lisa,Neeley, 36, F,Holden,MA
+362,Rob,Phillips, 53, M,Easton,PA
+363,Jessica,Creter, 40, F,Oakville,CT
+364,Jordan,Snider, 46, M,Briarcliff,NY
+365,Alvin,Chu, 45, M,Lic,NY
+366,Carrie,Britt, 43, F,Schenectady,NY
+367,Mark,Ward, 58, M,South Glens Falls,NY
+368,Ramiro,Pampo, 48, M,Albany,NY
+369,Kelly,Piscitelli, 30, F,Albany,NY
+370,Denise,Seidel, 50, F,Syracuse,NY
+371,Nick,Matthews, 39, M,Niskayuna,NY
+372,Daniel,Esper, 57, M,Slingerlands,NY
+373,Emily,Micknak, 39, F,Derby,VT
+374,Amy,Monachino, 47, F,East Rochester,NY
+375,Phoebe,Yager, 48, F,Lexington,MA
+376,Tara,Murray, 45, F,Delmar,NY
+377,Stacia,Smith, 48, F,Niskayuna,NY
+378,Matthew,Melsert, 63, M,Burnt Hills,NY
+379,Andrew,Burkhardt, 23, M,Albany,NY
+380,Takako,Mori, 45, F,Fort Lee,NJ
+381,Anthony,Dinallo, 20, M,Clifton Park,NY
+382,Mark,Rambacher, 50, M,Littleton,MA
+383,Katherine,Purcell, 26, F,Albany,NY
+384,Alex,Ragone, 44, M,South Orange,NJ
+385,Peter,Willis, 38, M,Scotia,NY
+386,Allie,Harling, 37, F,Rensselaer,NY
+387,Nick,Mosher, 39, M,Albany,NY
+388,Brett,Clark, 58, M,Saranac Lake,NY
+389,Jacques,Lagueux, 55, M,Sainte-Julie,QC
+390,Molly,Sorbello, 36, F,Marstons Mills,MA
+391,Aimee,Nicotera, 42, F,Marstons Mills,MA
+392,John,Williams-Searle, 50, M,Albany,NY
+393,Joseph,Cetnar, 41, M,Amsterdam,NY
+394,Brian,Ilardi, 42, M,Delmar,NY
+395,Glenn,Lankowski, 50, M,Bluffton,SC
+396,Elizabeth,Veglia, 28, F,Saratoga Springs,NY
+397,Brianna,Samson, 28, F,Slingerlands,NY
+398,Georgia,Panagopoulos, 60, F,Manchester,CT
+399,Savannah,Lansing, 21, F,Ponte Vedra,FL
+400,Molly,Casey, 34, F,Albany,NY
+401,Michael,Newhouse, 48, M,Ballston Spa,NY
+402,Lisa,Garrone, 51, F,New York,NY
+403,Laura,Murray, 34, F,Melrose,NY
+404,Aneta,Rogoz, 40, F,Hewitt,
+405,Laura,Smith, 45, F,Sheffield,MA
+406,Kari,Deer, 39, F,Slingerlands,NY
+407,Korey,McCants, 29, M,Brooklyn,NY
+408,David,Lin, 42, M,New York,NY
+409,Jessica,Sagendorph, 36, F,Feura Bush,NY
+410,Emma,Gryner, 26, F,Valatie,NY
+411,Anthony,Anadio, 53, M,Latham,NY
+412,Douglas,McAvoy, 35, M,Pittsfield,MA
+413,Daniel,Cleary, 53, M,Slingerlands,NY
+414,Derrick,Komarinski, 45, M,Scotia,NY
+415,Bailei,Tetrault, 25, F,Cohoes,NY
+416,Stephanie,Winkelhake, 46, F,Averill Park,NY
+417,Michael,Sadowski, 45, M,Gansevoort,NY
+418,Dan,Rice, 45, M,Glens Falls,NY
+419,Helen,Ward, 52, F,Lee,MA
+420,Jonathan,O'Leary, 37, M,St Augustine,FL
+421,David,Clevenstine, 37, M,Panton,VT
+422,Harry,Guberek, 47, M,Panama,
+423,Richard,Newkirk, 31, M,Slingerlands,NY
+424,Tristan,Newkirk, 29, M,New York,NY
+425,Don,Chillrud, 59, M,Niskayuna,NY
+426,Sarah,Woods, 30, F,Ballston Lake,NY
+427,Melissa,Sacco, 35, F,Tribes Hill,NY
+428,Allison,Lassoe, 55, F,Sheffield,MA
+429,Stephanie,Baird, 37, F,Kingston,NY
+430,Daniel,Rillahan, 50, M,Plattsburgh,NY
+431,Zackary,Nieffer, 26, M,Saugerties,NY
+432,Howard,Kohn, 66, M,Henrico,VA
+433,Vessela,Stoyanova, 44, F,Boston,MA
+434,Alger,Balandra, 49, M,Belleville,NJ
+435,Daniel,Delaney, 48, M,Boston,MA
+436,Ian,MacCallum, 39, M,Albany,NY
+437,Erin,Goodale, 32, F,Glenmont,NY
+438,Samecia,Sanders, 37, F,Brooklyn,NY
+439,Vicky,Sauve, 44, F,Ellenburg Depot,NY
+440,Bill,Baird, 37, M,Kingston,NY
+441,Jonathan,Earle, 38, M,Burnt Hills,NY
+442,Audrey K,Nelson, 52, F,Whitesboro,NY
+443,David,Hansen, 34, M,Melrose,NY
+444,Karen,Randall, 40, F,Utica,NY
+445,Jennifer,Bachelder, 41, F,New Hartford,NY
+446,Guylene,Beauge, 55, F,Montreal,QC
+447,Dawn,Striker, 54, F,Florence,MA
+448,Edward,Aluck, 45, M,Clifton Park,NY
+449,Adalberto,Perez Reyes, 25, M,Rochester,NY
+450,Patricia,Robison, 55, F,Clifton Park,NY
+451,Mary,McAfee, 29, F,Lakeville,CT
+452,Nicolas,Graham, 22, M,South Glens Falls,NY
+453,Peter,Taft, 54, M,Clifton Park,NY
+454,Julie,Flahive, 43, F,Southampton,MA
+455,Inna,Dranovskaya, 45, F,Fair Lawn,NJ
+456,Doan,Vu, 63, M,Cincinnati,OH
+457,Eileen,Skuse, 44, F,New York,NY
+458,Cheri,Ramie, 44, F,Cicero,NY
+459,Mary Ellen,Hennessy-Jones, 61, F,Madison,NJ
+460,John,Carboni, 65, M,Schenectady,NY
+461,Tammy,Carroll, 44, F,Clifton Park,NY
+462,Frederick L,Clark Jr, 40, M,Clifton Park,NY
+463,Sophie,Ackoff, 29, F,Kingston,NY
+464,Jason,Reed, 30, M,Delanson,NY
+465,Matthew,Solo, 28, M,Albany,NY
+466,Sean,O'Donnell, 40, M,Latham,NY
+467,Jackie,Chromczak, 31, F,Rensselaer,NY
+468,Keri,Gill-Smith, 40, F,Hudson,NY
+469,Celia,Pope, 59, F,Atlanta,GA
+470,Jason,Paiko, 30, M,Albany,NY
+471,Jennifer,Davis, 46, F,Johnstown,NY
+472,Daniel,Malkin, 25, M,New Milford,CT
+473,Christina,Pelletier, 27, F,Rochester,NY
+474,Julie,Dale, 54, F,Hingham,MA
+475,Zachary,Williams, 31, M,Ballston Spa,NY
+476,Seamus,Hodgkinson, 69, M,Delmar,NY
+477,Larry,Kuehn, 58, M,Arlington Heights,IL
+478,Zachery,Wood, 41, M,Brooklyn,NY
+479,Erin,Brennan, 35, F,Plattsburgh,NY
+480,Lori,Peek, 56, F,Schenectady,NY
+481,Emmy,Stocker, 60, F,Cos Cob,CT
+482,Emily,Bradshaw, 41, F,Holden,MA
+483,Patricia,Prosser, 59, F,Oswego,NY
+484,Eric,Gandler, 40, M,Clifton Park,NY
+485,Stefanie,McLaughlin, 52, F,O'Fallon,IL
+486,Rick,Gibbons, 58, M,Lexington,SC
+487,Mark,Whelan, 26, M,Brooklyn,NY
+488,Abigail,Butler, 21, F,Latham,NY
+489,Andrew,Patterson, 41, M,Delmar,NY
+490,John,Heaphy, 38, M,Cohoes,NY
+491,Una,Larson, 41, F,Schenectady,NY
+492,Jessica,Mitchell, 40, F,Albany,NY
+493,Nicole,Miano, 42, F,Rensselaer,NY
+494,Waseem,Faidi, 45, M,Schenectady,NY
+495,Chris,Duwe, 54, M,Clifton Park,NY
+496,Tim,Buyck, 55, M,Baldwinsville,NY
+497,Matthew,Jones, 64, M,Saratoga Springs,NY
+498,Karen,Ratigan, 44, F,Latham,NY
+499,Shelly,Audette, 25, F,Newport,VT
+500,Sam,Bader, 40, M,White Plains,NY
+501,Mohamed,Rahmane, 55, M,Ballston Lake,NY
+502,Gerald,Crouch, 41, M,Stephentown,NY
+503,Hadley,Ameen, 28, F,Adams,MA
+504,Monika,Basak, 48, F,Chambly,QC
+505,Valerie,Rhodes, 40, F,Slingerlands,NY
+506,Adanna,Akujuo, 42, F,Albany,NY
+507,Heather,Hogle, 37, F,Troy,NY
+508,Anne,Quintal, 57, F,Mont-Royal,QC
+509,Kate,Sauer-Jones, 34, F,Wevertown,NY
+510,Olivia,Crouch, 19, F,Stephentown,NY
+511,Lizzie,Redkey, 49, F,Latham,NY
+512,William,Romito, 64, M,Leeds,MA
+513,Charles,Tempest, 38, M,Ballston Spa,NY
+514,Joseph,Callan, 55, M,Schenectady,NY
+515,Tony,Anni, 50, M,York Harbor,ME
+516,Laura,Doe, 31, F,Poughkeepsie,NY
+517,Molly,Tomevi, 28, F,Raleigh,NC
+518,Kyle,Lochner, 27, M,Scotia,NY
+519,Grace,Lu-Cao, 46, F,Brooklyn,NY
+520,Jason,Davis, 43, M,Springfield,MO
+521,Amy,Vanapeldoorn, 37, F,Clinton,NY
+522,Nancy,Felix, 63, F,Hoosick Falls,NY
+523,Jun,Lian, 42, M,Mechanicville,NY
+524,John,Kosowicz, 37, M,Washingtonville,NY
+525,Theresa,Adams, 48, F,Schenectady,NY
+526,Cheryl,Abert, 61, F,Belchertown,MA
+527,Chris,Halpin, 37, M,Albany,NY
+528,Sandy,McKenzie, 28, F,Schenectady,NY
+529,Pam,Eistertz, 26, F,Castleton On Hudson,NY
+530,Lisa,Plue, 41, F,Ballston Spa,NY
+531,Paul,Rosenberg, 65, M,Albany,NY
+532,Re,Chang, 21, M,Brooklyn,NY
+533,Stacey,Terry, 47, F,Niskayuna,NY
+534,Stephen,Norman, 31, M,New York,NY
+535,Gregory,Henzel, 50, M,Waterford,NY
+536,Han,Chi, 60, M,Schenectady,NY
+537,Aubrey,Birzon Blanda, 53, F,Glen Ridge,NJ
+538,Tammy,Silvernell, 49, F,Queensbury,NY
+539,Jessica,Zaloga, 37, F,Watervliet,NY
+540,Jeannie,Hynes, 56, F,Greenlawn,NY
+541,Teresa,Curtin, 58, F,Brooklyn,NY
+542,Alison,Bergin, 44, F,Albany,NY
+543,Julie,Ham, 44, F,Centerport,NY
+544,Jeff,Szuchopa, 43, M,Ithaca,NY
+545,Mike,Otoole, 43, M,Mechanicville,NY
+546,Aldrin,Vincent, 44, M,Halfmoon,NY
+547,Kelly,Grace, 31, F,Troy,NY
+548,Philip,Greenwald, 63, M,New York,NY
+549,Stephen,Reilly, 51, M,Albany,NY
+550,Tina,Vogel, 41, F,Watervliet,NY
+551,Lydia Karis,Gaetano, 45, F,Amsterdam,NY
+552,Brenda,Marchewka, 48, F,Brooktondale,NY
+553,Erin,Porambo, 31, F,Troy,NY
+554,William,Rowback, 52, M,Gloversville,NY
+555,Kristy,Ellis, 45, F,Newport,VT
+556,David,Eisner, 40, M,Brooklyn,NY
+557,Lenny,Collins, 69, M,Falmouth,MA
+558,Kevin,Morrissey, 56, M,Clifton Park,NY
+559,David,Colman, 40, M,Albany,NY
+560,Joshua,Raczka, 37, M,Tonawanda,NY
+561,Brooke,Gypson, 28, F,Nashville,TN
+562,Amy,Frost, 49, F,Tunbridge,VT
+563,Jennifer,Webb, 44, F,Glenmont,NY
+564,Raymond,Auringer, 42, M,Port Ewen,NY
+565,Octavia,Henderson, 38, F,Clinton,MD
+566,Kyle,Wegner, 25, M,Lakeville,CT
+567,Megan,Phillips, 30, F,Albany,NY
+568,Kent,Hall, 63, M,Peru,NY
+569,Thomas,Gardella, 67, M,Seymour,CT
+570,Susan,Wong, 70, F,Glenmont,NY
+571,Alexandra,Scoville, 26, F,Valley Falls,NY
+572,Ralph,Borseth, 59, M,Rutland,MA
+573,Jared,Dybas, 18, M,Latham,NY
+574,Zuzanna,Rybicka, 23, F,Rome,NY
+575,William,Snell, 66, M,Kalamazoo,MI
+576,James,Kavanagh, 38, M,Troy,NY
+577,Daniel,Owens, 62, M,Ballston Spa,NY
+578,Leith,Daley-Cummins, 59, F,Warners,
+579,Gwendolyn,Freed, 54, F,Minneapolis,MN
+580,Terry,Smith, 71, M,Galway,NY
+581,James,McClelland, 50, M,Middle Village,NY
+582,Wynette,Hughes, 47, F,Albany,NY
+583,Kevin,Newman, 37, M,Latham,NY
+584,Amber,Newman, 42, F,Latham,NY
+585,Veta,Orpin, 52, F,Richardson,TX
+586,Claudia,Howes, 20, F,Troy,NY
+587,David,Becker, 45, M,Albany,NY
+588,Judd,Krier, 43, M,Greenfield,NY
+589,Paul,Fazio, 48, M,East Greenwich,RI
+590,Brian,Ashforth, 56, M,Whitehouse Station,NJ
+591,Linda,Ashforth, 55, F,Whitehouse Station,NJ
+592,Hallye,Fogtman, 23, F,Houston,TX
+593,Jessica,Cronin, 43, F,Hudson Falls,NY
+594,Karen,Taft, 41, F,Niskayuna,NY
+595,Kathy,Hatter, 58, F,Fulton,NY
+596,Julia,Kennedy, 62, F,Furlong,PA
+597,Tammy,Taft, 53, F,Clifton Park,NY
+598,Meagan,Monfort, 36, F,Saratoga Springs,NY
+599,John,Tingley, 41, M,Saratoga Springs,NY
+600,Rachel,Tambling, 37, F,Hartford,CT
+601,Alexander,Dicicco, 35, M,Poughkeepsie,NY
+602,Marni,Aarlev, 53, F,New York,NY
+603,Chelsea,Bolles, 33, F,Saratoga Springs,NY
+604,Jennifer,Lawrence, 59, F,Rensselaer,NY
+605,Maria,Casile, 26, F,Albany,NY
+606,Sean,Prendergast, 45, M,Yonkers,NY
+607,Amy,Russell, 37, F,Queensbury,NY
+608,Jodi,Novak Wey, 46, F,Altamont,NY
+609,Susan,Falotico, 27, F,Delmar,NY
+610,Kevin,Karoglanian, 35, M,Syracuse,NY
+611,Christian,Kubik, 55, M,Goshen,NY
+612,Laura,Nicoletti, 27, F,Chester,NY
+613,Andrew,Scharoun, 41, M,Valatie,NY
+614,Louis,Solano, 33, M,Niskayuna,NY
+615,Jeffrey,Halusic, 51, M,Malta,NY
+616,Yuri,Lvov, 48, M,Albany,NY
+617,Michael,Chase, 55, M,Annandale,VA
+618,Frank,Vanca, 26, M,Albany,NY
+619,Rebecca,Cain, 33, F,Albany,NY
+620,Krzysztof,Trafalski, 35, M,Albany,NY
+621,Brad,Workman, 64, M,Mechanicville,NY
+622,Jason,Russell, 35, M,Latham,NY
+623,Elizabeth,Bush, 28, F,Albany,NY
+624,Alice,Bishop, 55, F,Enfield,CT
+625,Nicholas,Machin, 28, M,Highland,NY
+626,April,Sagan, 23, F,Troy,NY
+627,Michael,O'Leary, 50, M,Kingston,NY
+628,James,Garnett, 34, M,Scotia,NY
+629,Ed,Bonapartian, 57, M,Albany,NY
+630,Olive,Ayahao, 45, F,Albany,NY
+631,Shane,Miner, 40, M,Grafton,MA
+632,Medaalsa,Beharry, 59, F,Slinerlands,NE
+633,Cathy,Willis, 46, F,Gloversville,NY
+634,Kevin,Beatley, 39, M,Ballston Spa,NY
+635,Joseph,Raczes, 48, M,Amsterdam,NY
+636,Stephanie,Ruzicka, 53, F,Florham Park,NJ
+637,Rick,Fuller, 66, M,Glens Falls,NY
+638,Roy,Lazarus, 46, M,Miami,FL
+639,Lilibeth,Foley, 49, F,Shaftbury,VT
+640,Michele,Borst, 40, F,Schoharie,NY
+641,Laura,Rosenthal, 43, F,Schoharie,NY
+642,Abhishek,Agarwal, 37, M,Sayreville,NJ
+643,Charlene,Lamb, 33, F,Peru,MA
+644,Martha,Guinan, 33, F,Lee,MA
+645,Scott,Newton, 36, M,Albany,NY
+646,Meredith,Guarco, 36, F,Henderson,CO
+647,Cori,Rannou, 42, F,Bloomfield,NJ
+648,Rorie,Rueckert, 46, F,West Hartford,CT
+649,Michael,Touloumtzis, 67, M,Mansfield,MA
+650,Kathleen,McClelland, 49, F,Middle Village,NY
+651,Jo,May, 70, F,Houston,TX
+652,Lisa,Viscardo, 44, F,Malvern,PA
+653,Dawn,Abounader-Chase, 55, F,Hartwick,NY
+654,Patrick,Janidlo, 50, M,Latham,NY
+655,Ronda,Morris, 37, F,Wevertown,NY
+656,Marie,Webb, 35, F,Red Creek,NY
+657,Andrew,Rowinski, 41, M,Schaghticoke,NY
+658,Samantha,Slattery, 27, F,Beacon,NY
+659,Heidi,Bevacqua, 47, F,Baldwinville,MA
+660,Edwin,Litts, 68, M,Schenectady,NY
+661,Zhiguo,Sun, 45, M,Halfmoon,NY
+662,Gary,Circosta, 71, M,Rutland,MA
+663,Michelle,Ching, 57, F,Clifton Park,NY
+664,Alyson,Courain, 31, F,Schenectady,NY
+665,Mary,Ellis, 58, F,Valley,NE
+666,Sabina,Ondoa, 55, F,Watervliet,NY
+667,Mary Ellen,Kyle, 54, F,Clinton Corners,NY
+668,Beverly,Ameen, 55, F,North Adams,MA
+669,Timothy,Moore, 62, M,North Adams,MA
+670,Anand,Aruna Kumar, 48, M,Niskayuna,NY
+671,Katie,Yost, 37, F,Saratoga Springs,NY
+672,John,Peterson, 43, M,Ballston Lake,NY
+673,Marthe,Gabey, 57, F,Troy,NY
+674,Lisa,Avila, 50, F,Rexford,NY
+675,Janella,Mentore-Forde, 49, F,Cohoes,NY
+676,Blanca,Ramos, 60, F,Wynantskill,NY
+677,Jim,Crist, 64, M,Averill Park,NY
+678,Subramanyam,Bommaraju, 34, M,Schenectady,NY

@@ -1,9 +1,10 @@
 import pandas as pd
 
 import sys
+import imp
 sys.path.append('../util/race/')
 import header
-reload(header)
+imp.reload(header)
 from header import RaceHeader
 
 def timetostr(time): 
@@ -63,12 +64,12 @@ def parse_general(df, headers, id):
 
     newdf=pd.DataFrame()
 
-    print type(headers)
+    print(type(headers))
     for key in headers:
-        print headers[key]
+        print(headers[key])
         for c in df.columns:
             if c.lower() in headers[key]:
-                print c.lower()+' matches'
+                print(c.lower()+' matches')
 
                 if (key=='time'):
                     newdf['time']=df.Time.apply(lambda x: '00:'+x.split(':')[0]+':'+x.split(':')[1])
@@ -85,11 +86,11 @@ rotg=parse_rotg()
 masters=parse_general(pd.read_csv('../data/2016/masters10k.csv'),RaceHeader.headers,3)
 ds=parse_general(pd.read_csv('../data/2016/DistinguishedService.csv'), RaceHeader.headers,4)
 
-print masters.head()
+print(masters.head())
 
 import sqlite3
-ys.pyath.append('../util/runner/')
-onn=sqlite3.connect('../site/db.sqlite3')
+sys.pyath.append('../util/runner/')
+conn=sqlite3.connect('../site/db.sqlite3')
 cursor=conn.cursor()
 
 rotg.to_sql('results_result',conn, if_exists='replace',index=False)

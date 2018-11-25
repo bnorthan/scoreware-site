@@ -20,13 +20,13 @@ def score(age_results):
         name=age_results.iloc[row,2]
 
         p=age_results.iloc[row,1]
-        if name in dicti.keys():
+        if name in list(dicti.keys()):
             points=dicti[name]
             points.append(p)
         else:
             bestmatch=0
             bestkey=None
-            for key in dicti.keys():
+            for key in list(dicti.keys()):
                 testmatch=SequenceMatcher(None, name, key).ratio()
                 if (testmatch>bestmatch):
                     bestmatch=testmatch
@@ -47,11 +47,11 @@ def score(age_results):
         totals[name]=sum(total)
 
 
-    sorted_totals = sorted(totals.items(), key=operator.itemgetter(1), reverse=True)
+    sorted_totals = sorted(list(totals.items()), key=operator.itemgetter(1), reverse=True)
 
     i=1
     for item in sorted_totals:
-        print str(int(item[1]))+','+item[0]
+        print(str(int(item[1]))+','+item[0])
         i=i+1
 
     

@@ -1,10 +1,11 @@
 import pandas as pd
 
 import sys
+import imp
 sys.path.append('../util/runner/')
 
 import matcher
-reload(matcher)
+imp.reload(matcher)
 
 def match(members, runners, accept_score, ask_score):
 
@@ -21,7 +22,7 @@ def match(members, runners, accept_score, ask_score):
             first1=row_runners.first_name.lower()
             last1=row_runners.last_name.lower()
             city1=row_runners.city.lower()
-            gender1=row_runners.gender
+            gender1=row_runners.gender.strip()
             age1=row_runners.age
             
             first2=row_members['First name'].lower()
@@ -42,11 +43,11 @@ def match(members, runners, accept_score, ask_score):
         if (max_score[i]>accept_score):
             if (max_score[i]<ask_score):
                 
-                print match_info[i],max_score[i]
-                answer = raw_input("Is this a match?")
+                print((match_info[i],max_score[i]))
+                answer = input("Is this a match?")
             else:
                 answer='y'
                 
-            print answer
+            print(answer)
             if (answer=='y'):
                 runners.ix[i,'member']='yes'

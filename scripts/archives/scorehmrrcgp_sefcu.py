@@ -1,16 +1,17 @@
 import pandas as pd
 import sys
+import imp
 
 sys.path.append('../util/match/')
 sys.path.append('../util/runner/')
 sys.path.append('../util/race/')
 
 import matchmember
-reload(matchmember)
+imp.reload(matchmember)
 import runnerutils
 import readers
 import header
-reload(header)
+imp.reload(header)
 
 members_name='../data/2016/Membership/2016-09-06 Members Hudson Mohawk Road Runners Club.csv'
 race_name='../data/2016/SEFCU/sefcu.txt'
@@ -23,15 +24,15 @@ race_out_females=race_out_base+'_females.csv'
 
 members=pd.read_csv(members_name)
 
-print members.head()
+print(members.head())
 
 racers=readers.parse_general(pd.read_fwf(race_name), header.RaceHeader.headers, 1)
 
-print racers.head()
+print(racers.head())
 
 matchmember.match(members, racers, 3.55, 3.8)
 
-print racers.head()
+print(racers.head())
 
 hmrrc=racers[racers['member']=='yes']
 hmrrc=hmrrc[['place', 'first_name','last_name','gender','age']]
