@@ -1,0 +1,69 @@
+Place Name                  Ag Sex City                   St Time    Pace     
+    1 Jon Lindenauer        30 M   North Billerica        MA   44:30  5:34 
+    2 Chris Senez           28 M   Baldwinsville          NY   46:17  5:48 
+    3 Charlie Ragone        20 M   Niskayuna              NY   46:58  5:53 
+    4 Tim Russell           28 M   Ballston Spa           NY   47:05  5:54 
+    5 Dan Jordy             34 M   Glenville              NY   48:08  6:01 
+    6 Edson Chipalo         30 M   New York               NY   49:38  6:13 
+    7 Aaron Knobloch        42 M   Niskayuna              NY   50:45  6:21 
+    8 Ben Heller            29 M   Troy                   NY   51:23  6:26 
+    9 John Stadtlander      52 M   Halfmoon               NY   51:35  6:27 
+   10 Greg Potestio         32 M   Delmar                 NY   52:09  6:32 
+   11 Erin Lopez            37 F   Saratoga Springs       NY   52:31  6:34 
+   12 Mark Stephenson       54 M   Esperance              NY   52:50  6:37 
+   13 Nick Webster          29 M   Albany                 NY   53:21  6:41 
+   14 Jonathan Louden       33 M   Clifton Park           NY   54:09  6:47 
+   15 Brian Northan         43 M   Guilderland            NY   55:11  6:54 
+   16 Stephen Roy           29 M   Schohaire              NY   55:48  6:59 
+   17 David Roy             63 M   Schohaire              NY   55:48  6:59 
+   18 Dallas Devries        40 M   Cohoes                 NY   56:00  7:00 
+   19 Justin Peabody        21 M   Ballston Lake          NY   56:01  7:01 
+   20 Jon Rocco             51 M   Colonie                NY   56:28  7:04 
+   21 Meghan Louden         32 F   Clifton Park           NY   56:46  7:06 
+   22 Rick Munson           61 M   Prattsville            NY   56:54  7:07 
+   23 David Newman          38 M   Albany                 NY   57:04  7:08 
+   24 Steve Hanagan         51 M   Ballston Lake          NY   57:55  7:15 
+   25 Brian Ragone          42 M   Niskayuna              NY   57:59  7:15 
+   26 Steve Jones           63 M   Averill Park           NY   59:01  7:23 
+   27 Diana Tobon-Knobloch  37 F   Niskayuna              NY 1:00:31  7:34 
+   28 Sue Thompson          51 F   Queensbury             NY 1:01:49  7:44 
+   29 Christopher Leavitt   30 M   Schenectady            NY 1:01:57  7:45 
+   30 Adam Burn             29 M   Guilderland            NY 1:02:02  7:46 
+   31 Mary Buck             54 F   Mechanicville          NY 1:02:47  7:51 
+   32 Brian Teague          59 M   Glens Falls            NY 1:03:02  7:53 
+   33 Richard Clark         64 M   Feeding Hills          MA 1:03:20  7:55 
+   34 Chris Varley          54 F   Albany                 NY 1:04:28  8:04 
+   35 Kate Thies            41 F   Albany                 NY 1:04:28  8:04 
+   36 Lori Roy              32 F   Bowie                  MD 1:06:43  8:21 
+   37 Chris Imperial        37 M   Albany                 NY 1:07:01  8:23 
+   38 Gene Terwilliger      40 M   Glenville              NY 1:07:25  8:26 
+   39 Mike O'Toole          43 M   Mechanicville          NY 1:08:22  8:33 
+   40 Karen Dott            62 F   Colonie                NY 1:08:24  8:33 
+   41 Martha Degrazia       67 F   Slingerlands           NY 1:10:17  8:48 
+   42 Jennifer Newman       34 F   Albany                 NY 1:10:22  8:48 
+   43 Bob Piccirillo        53 M   Schenectady            NY 1:11:01  8:53 
+   44 Sharon Desroders      63 F   Ballston Lake          NY 1:11:50  8:59 
+   45 Jessica Northan       42 F   Guilderland            NY 1:12:56  9:07 
+   46 Richard Kelly         61 M   Schenectady            NY 1:13:44  9:13 
+   47 Trudy Boulia          46 F   Delanson               NY 1:13:57  9:15 
+   48 Kristin Zielinski     38 F   Altamont               NY 1:13:58  9:15 
+   49 Vincent Wegner        54 M   Lebanon                NH 1:15:00  9:23 
+   50 Ed Bown               76 M   Broadalbin             NY 1:16:04  9:31 
+   51 Ginny Pezzula         72 F   Colonie                NY 1:16:07  9:31 
+   52 Eileen Ragone         42 F   Niskayuna              NY 1:16:35  9:35 
+   53 Geoffrey Cramer       49 M   Ballston Lake          NY 1:16:40  9:35 
+   54 Joe Yavonditte        69 M   Guilderland            NY 1:17:04  9:38 
+   55 Cathy Sliwinski       62 F   Albany                 NY 1:17:57  9:45 
+   56 Susan Wong            70 F   Glenmont               NY 1:18:11  9:47 
+   57 Karen Cusato          50 F   Schenectady            NY 1:18:12  9:47 
+   58 Leo Dipierro          68 M   Cherry Plain           NY 1:18:20  9:48 
+   59 Joan Celentano        64 F   Schenectady            NY 1:19:42  9:58 
+   60 Tom Robinson          47 M   Troy                   NY 1:20:55 10:07 
+   61 James Larkin          70 M   Clifton Park           NY 1:25:15 10:40 
+   62 Edwin Litts           68 M   Schenectady            NY 1:25:49 10:44 
+   63 Jim Fiore             70 M   Latham                 NY 1:26:38 10:50 
+   64 Katherine Ambrosio    67 F   Delmar                 NY 1:27:41 10:58 
+   65 Rich Arcowitz         59 M   Guilderland            NY 1:28:56 11:07 
+   66 Jim Moore             78 M   Niskayuna              NY 1:33:10 11:39 
+   67 Donna Charlebois      60 F   E. Berne               NY 1:44:18 13:03 
+   68 Anny Stockman         86 F   Rensselaer             NY 1:54:09 14:17

@@ -1,0 +1,305 @@
+Place,Name,Bib,Age,Sex,City,State,Time,Pace,Team
+1,Eric Macknight,383,27,M,Ballston Lake,NY,19:57,5:00,
+2,Aaron Lozier,378,27,M,Albany,NY,20:22,5:06,ARE Racing Team
+3,Alex Benway,217,25,M,Saratoga Spring,NY,20:52,5:13,Willow Street AC
+4,Shaun Donegan,278,30,M,Malta,NY,20:58,5:15,ARE Racing Team
+5,Macky Lloyd,374,25,M,Albany,NY,21:13,5:19,
+6,Chuck Terry,486,33,M,Albany,NY,21:21,5:21,Willow Street AC
+7,Pat Carroll,13,24,M,Saratoga Spring,NY,21:38,5:25,Willow Street AC
+8,Nick Webster,37,27,M,Albany,NY,22:31,5:38,ARE Racing Team
+9,Pete Rowell,188,27,M,Albany,NY,22:36,5:39,ARE Racing Team
+10,Volker Burkowski,234,44,M,Gansevoort,NY,22:38,5:40,Willow Street AC
+11,Eric Young,108,24,M,Latham,NY,22:40,5:40,Fleet Feet Sports Running/Walking Club
+12,Derrick Staley,471,57,M,Ballston Lake,NY,22:42,5:41,Willow Street AC
+13,Joseph Sullivan,480,37,M,Schenectady,NY,22:45,5:42,
+14,Ray Webster,28,41,M,Altamont,NY,22:49,5:43,ARE Racing Team
+15,Julia Flower,298,17,F,Schenectady,NY,23:04,5:46,Kinetic Running Club
+16,Aaron Knobloch,356,39,M,Niskayuna,NY,23:05,5:47,ARE Racing Team
+17,John Stadtlander,470,50,M,Clifton Park,NY,23:06,5:47,Willow Street AC
+18,Renee Tolan,491,41,F,Clifton Park,NY,23:12,5:48,Kinetic Running Club
+19,Robert Irwin,342,43,M,Guilderland,NY,23:12,5:48,Willow Street AC
+20,Thomas Kracker,360,51,M,Delmar,NY,23:14,5:49,Adirondack Athletic Club
+21,Peter Flynn,1601,39,M,Delmar,NY,23:49,5:58,
+22,Jon Rocco,448,49,M,Colonie,NY,23:53,5:59,Team Utopia
+23,Mathew Nark,176,42,M,Albany,NY,24:08:00,6:02,
+24,Mark Stephenson,473,52,M,Esperance,NY,24:09:00,6:03,Adirondack Athletic Club
+25,Emily Bryans,227,48,F,Delanson,NY,24:17:00,6:05,Willow Street AC
+26,Christian W Lietzau,373,53,M,Delmar,NY,24:24:00,6:06,
+27,Erin Corcoran,250,41,F,Schenectady,NY,24:30:00,6:08,Kinetic Running Club
+28,Denis Samburskiy,455,33,M,Saratoga Spring,NY,24:34:00,6:09,ARE Racing Team
+29,John Noonan,412,56,M,Ballston Spa,NY,24:36:00,6:09,Adirondack Athletic Club
+30,Jeff Long,375,32,M,Albany,NY,24:43:00,6:11,
+31,Lisa D'Aniello,256,29,F,Albany,NY,24:49:00,6:13,ARE Racing Team
+32,Todd Smith,463,42,M,Voorheesville,NY,24:51:00,6:13,Team Utopia
+33,Bob Giambalvo,308,66,M,Delhi,NY,24:52:00,6:13,
+34,Todd Mesick,398,48,M,Cohoes,NY,24:53:00,6:14,Adirondack Athletic Club
+35,Mollie Turner,493,36,F,Averill Park,NY,24:55:00,6:14,Willow Street AC
+36,Jessica Bashaw,210,33,F,Cambridge,NY,24:55:00,6:14,
+37,William Hamel,320,44,M,Clifton Park,NY,24:56:00,6:14,Adirondack Athletic Club
+38,Nicole Soblosky,466,28,F,Albany,NY,24:58:00,6:15,ARE Racing Team
+39,John Deer,264,33,M,Slingerlands,NY,25:05:00,6:17,
+40,Jeffrey Mullen,406,33,M,Ballston Lake,NY,25:09:00,6:18,Fleet Feet Sports Running/Walking Club
+41,William Drapeau,282,48,M,Glenville,NY,25:12:00,6:18,Saratoga Stryders
+42,Kerry Flower,299,15,F,Schenectady,NY,25:16:00,6:19,
+43,Jennifer Bennice,215,37,F,Ballston Lake,NY,25:19:00,6:20,Kinetic Running Club
+44,John J. Sestito,461,52,M,Johnsonville,NY,25:20:00,6:20,Adirondack Athletic Club
+45,Irene Somerville,468,22,F,Wynantskill,NY,25:21:00,6:21,
+46,Joshua Katzman,349,40,M,Clifton Park,NY,25:41:00,6:26,
+47,Lee Pollock,430,63,M,Queensbury,NY,25:47:00,6:27,
+48,Daniel Brady,223,39,M,Cohoes,NY,25:48:00,6:27,
+49,Melanie Redfield,440,23,F,Albany,NY,25:53:00,6:29,Willow Street AC
+50,Frank Horn,335,46,M,Albany,NY,25:54:00,6:29,Willow Street AC
+51,Amy Babeu,203,23,F,Guilderland,NY,26:02:00,6:31,ARE Racing Team
+52,Neil Sergott,460,44,M,Clifton Park,NY,26:10:00,6:33,Saratoga Stryders
+53,Chris Buckley,229,54,M,Burnt Hills,NY,26:11:00,6:33,Adirondack Athletic Club
+54,David Roy,450,61,M,Schoharie,NY,26:12:00,6:33,
+55,Liz Chauhan,240,31,F,Albany,NY,26:14:00,6:34,Willow Street AC
+56,Jacob Russell,1608,20,M,Middle Grove,NY,26:15:00,6:34,
+57,Dallas Devries,270,38,M,Cohoes,NY,26:24:00,6:36,Team Utopia
+58,Jonathan Golden,313,42,M,Slingerlands,NY,26:26:00,6:37,Hudson Mohawk Road Runners Club
+59,Matthew Fryer,302,35,M,Clifton Park,NY,26:34:00,6:39,
+60,Paul Flayter,296,37,M,Loudonville,NY,26:35:00,6:39,
+61,Beth Stalker,472,56,F,Burnt Hills,NY,26:37:00,6:40,Willow Street AC
+62,Karen Dolge,277,45,F,Valatie,NY,26:39:00,6:40,Kinderhook Runners Club
+63,Alan Finder,290,27,M,Albany,NY,26:39:00,6:40,
+64,Samuel Mercado,397,53,M,Albany,NY,26:40:00,6:40,Saratoga Stryders
+65,John F. Parisella,418,58,M,Schenectady,NY,26:45:00,6:42,Team Utopia
+66,Jamie Casline,239,56,M,Ballston Lake,NY,26:46:00,6:42,Fleet Feet Sports Running/Walking Club
+67,William Dodds,276,41,M,Schenectady,NY,26:49:00,6:43,
+68,John Pusateri,434,48,M,Castleton,NY,26:53:00,6:44,Castleton Cruisers
+69,Richard Loud,377,51,M,Ballston Spa,NY,26:55:00,6:44,Saratoga Stryders
+70,Philip Yoss,107,23,M,New Hartford,NY,26:58:00,6:45,
+71,Sally Drake,281,43,F,Albany,NY,26:58:00,6:45,Willow Street AC
+72,John Mendenhall,396,29,M,Saratoga Spring,NY,26:59:00,6:45,
+73,Holden Maynard,386,16,M,Schenectady,NY,27:02:00,6:46,
+74,Andrea Hollinger,334,28,F,East Greenbush,NY,27:03:00,6:46,ARE Racing Team
+75,Tom Tiberio,489,30,M,Scotia,NY,27:09:00,6:48,
+76,Sarah Popovitch,431,22,F,Saratoga Spring,NY,27:12:00,6:48,Saratoga Stryders
+77,Steve Maynard,387,40,M,Schenectady,NY,27:16:00,6:49,
+78,Bill Douglas,280,54,M,Rensselaer,NY,27:20:00,6:50,Adirondack Athletic Club
+79,Molly Casey,237,31,F,Albany,NY,27:29:00,6:53,
+80,Gary Longhi,376,52,M,Voorheesville,NY,27:32:00,6:53,
+81,Shannon Pinkowski,428,40,F,Albany,NY,27:32:00,6:53,
+82,Danielle Maslowsky,385,37,F,Ballston Lake,NY,27:42:00,6:56,Willow Street AC
+83,Mark Lansing,365,39,M,Niskayuna,NY,27:44:00,6:56,
+84,Olivia Popovitch,433,20,F,Saratoga Spring,NY,27:45:00,6:57,
+85,Joseph Somerville,469,18,M,Wynantskill,NY,27:46:00,6:57,
+86,Michelle Davis,261,27,F,Watervliet,NY,27:47:00,6:57,
+87,Hillary Johnson,343,29,F,Albany,NY,28:01:00,7:00,Fleet Feet Sports Running/Walking Club
+88,Mike Soeller,467,54,M,Voorheesville,NY,28:05:00,7:02,
+89,Paul Cirillo,241,40,M,Mohawk,NY,28:14:00,7:04,
+90,Rob Picotte,426,62,M,Malta,NY,28:16:00,7:04,Adirondack Athletic Club
+91,Tina Greene,317,42,F,Scotia,NY,28:16:00,7:04,ARE Racing Team
+92,Richard Kelly,353,59,M,Schenectady,NY,28:28:00,7:07,
+93,Thomas Rest,443,55,M,Clifton Park,NY,28:30:00,7:08,Saratoga Stryders
+94,Michael Sweeney,481,15,M,Amsterdam,NY,28:32:00,7:08,
+95,Patrick Dugan,284,37,M,Rexford,NY,28:32:00,7:08,
+96,George Baranauskas,208,62,M,Scotia,NY,28:37:00,7:10,Hudson Mohawk Road Runners Club
+97,Brian Teague,484,57,M,Glens Falls,NY,28:41:00,7:11,
+98,Nancy Nicholson,410,53,F,Queensbury,NY,28:43:00,7:11,Willow Street AC
+99,Stephen P. Jones,346,61,M,Averill Park,NY,28:46:00,7:12,
+100,Dave Glass,311,69,M,Glenville,NY,28:47:00,7:12,Adirondack Athletic Club
+101,Samantha McBee,389,30,F,Saratoga Spring,NY,28:50:00,7:13,Team Utopia
+102,Emily Taft,482,25,F,Albany,NY,28:52:00,7:13,
+103,Stephanie Landy,363,56,F,Malta,NY,28:55:00,7:14,
+104,Nancy Taormina,483,56,F,Albany,NY,28:58:00,7:15,Team Utopia
+105,Mary Buck,228,52,F,Mechanicville,NY,29:02:00,7:16,Willow Street AC
+106,Colleen Brackett,220,56,F,Albany,NY,29:05:00,7:17,Willow Street AC
+107,Gregory Bentley,216,38,M,Loudonville,NY,29:07:00,7:17,
+108,Sunil Kumta,362,52,M,Schenectady,NY,29:09:00,7:18,
+109,Tom McGuire,393,64,M,Slingerlands,NY,29:09:00,7:18,Adirondack Athletic Club
+110,Chris Leavitt,175,28,M,Schenectady,NY,29:11:00,7:18,
+111,Tom Law,369,44,M,Saratoga Spring,NY,29:11:00,7:18,Saratoga Stryders
+112,William Smith,465,62,M,Voorheesville,NY,29:11:00,7:18,
+113,Stephen Popovitch,432,52,M,Saratoga Spring,NY,29:15:00,7:19,Saratoga Stryders
+114,Kristen Hislop,333,51,F,Clifton Park,NY,29:15:00,7:19,Adirondack Athletic Club
+115,Kim Law,368,58,F,East Greenbush,NY,29:23:00,7:21,Hudson Mohawk Road Runners Club
+116,Frederick Kopff,358,47,M,Guilderland,NY,29:40:00,7:25,Fleet Feet Sports Running/Walking Club
+117,Ray Scaringe,456,61,M,Clifton Park,NY,29:42:00,7:26,Adirondack Athletic Club
+118,Peter Butryn,235,58,M,Schenectady,NY,29:49:00,7:28,
+119,David Rowell,449,63,M,Albany,NY,29:58:00,7:30,Team Utopia
+120,Robert Colborn,246,61,M,Schenectady,NY,30:00:00,7:30,Adirondack Athletic Club
+121,Joshua O'Connor,413,40,M,Delanson,NY,30:01:00,7:31,
+122,Peter Fish,293,57,M,Castleton,NY,30:12:00,7:33,Fleet Feet Sports Running/Walking Club
+123,Jay Quinn,437,51,M,Voorheesville,NY,30:17:00,7:35,Fleet Feet Sports Running/Walking Club
+124,Virginia Larner,367,44,F,Malta,NY,30:20:00,7:35,Saratoga Stryders
+125,Mary Fenton,289,50,F,Ballston Spa,NY,30:25:00,7:36,Saratoga Stryders
+126,Frank Mueller,405,56,M,Glenville,NY,30:28:00,7:37,
+127,Tara Joyce,348,27,F,Altamont,NY,30:41:00,7:41,
+128,Kendra Kline,355,26,F,Saratoga Spring,NY,30:45:00,7:42,
+129,Paul Forbes,300,65,M,Colonie,NY,30:48:00,7:42,
+130,Frank Gwinn,319,42,M,Troy,NY,30:51:00,7:43,
+131,Ann McAvoy,388,49,F,Albany,NY,30:52:00,7:43,
+132,Jeff Clark,244,58,M,Glenmont,NY,30:53:00,7:44,
+133,Roy Mowrey,404,57,M,Johnstown,NY,30:53:00,7:44,
+134,Stephen Montanaro,400,50,M,Hagaman,NY,30:58:00,7:45,Team Utopia
+135,Eric Gould,315,37,M,Rensselaer,NY,31:00:00,7:45,
+136,Deirdre Salerno,454,43,F,Amsterdam,NY,31:07:00,7:47,
+137,James Larkin,366,68,M,Clifton Park,NY,31:09:00,7:48,Adirondack Athletic Club
+138,Sara Westcott,45,32,F,Castleton,NY,31:10:00,7:48,
+139,Heidi Nark,407,35,F,Clifton Park,NY,31:21:00,7:51,
+140,Patrick Dicerbo,271,49,M,Niskayuna,NY,31:34:00,7:54,
+141,Kathleen Beeman,212,55,F,Niskayuna,NY,31:45:00,7:57,
+142,Meaghan Podlaski,429,18,F,Niskayuna,NY,31:47:00,7:57,Fleet Feet Sports Running/Walking Club
+143,Dave Cole,247,58,M,Schenectady,NY,31:55:00,7:59,
+144,Lauren Herbs,329,53,F,Rexford,NY,31:59:00,8:00,
+145,Seth Engel,104,27,M,Saratoga Spring,NY,32:01:00,8:01,
+146,Kyle D. Ordway,415,40,M,Albany,NY,32:03:00,8:01,
+147,John Dziezynski,285,51,M,Niskayuna,NY,32:09:00,8:03,
+148,Martin Patrick,421,62,M,East Greenbush,NY,32:13:00,8:04,Fleet Feet Sports Running/Walking Club
+149,Mikalya Barrett,1606,17,F,Schenectady,NY,32:25:00,8:07,
+150,Anthony Lupo,379,53,M,Saratoga Spring,NY,32:32:00,8:08,Saratoga Stryders
+151,Elaine Morris,403,63,F,East Greenbush,NY,32:45:00,8:12,ARE Racing Team
+152,Andrew Krupski,361,25,M,Ballston Spa,NY,32:45:00,8:12,
+153,Wendy Colonno,248,39,F,Glenmont,NY,32:47:00,8:12,
+154,Erika Oesterle,414,64,F,Stamford,NY,32:52:00,8:13,
+155,John Westcott,46,31,M,Castleton,NY,32:55:00,8:14,
+156,Chuck Decitise,262,45,M,Troy,NY,32:57:00,8:15,
+157,Kristin Zielinski,114,35,F,Altamont,NY,32:59:00,8:15,
+158,Libbie Craft,253,39,F,Selkirk,NY,33:01:00,8:16,
+159,Gerald Parkes,420,51,M,Glenville,NY,33:09:00,8:18,
+160,Timothy Fioretti,291,40,M,Gloversville,NY,33:13:00,8:19,
+161,Martha C. Degrazia,265,65,F,Slingerlands,NY,33:14:00,8:19,Willow Street AC
+162,Michael Boisclair,1604,52,M,Glenville,NY,33:16:00,8:19,
+163,Karen Gerstenberger,307,58,F,Albany,NY,33:20:00,8:20,
+164,Elizabeth Burke,231,26,F,Schenectady,NY,33:28:00,8:22,
+165,Margaret Burke,232,52,F,Schenectady,NY,33:28:00,8:22,
+166,Rich Burke,233,52,M,Schenectady,NY,33:28:00,8:22,
+167,Mike Becker,211,52,M,Niskayuna,NY,33:29:00,8:23,
+168,Joe Yavonditte,98,67,M,Schenectady,NY,33:30:00,8:23,ARE Racing Team
+169,Patrick Hilt,331,18,M,Colonie,NY,33:43:00,8:26,
+170,Thomas Sisson,462,54,M,Halfmoon,NY,33:50:00,8:28,
+171,Sherrri Pignetti,427,52,F,Rotterdam Junct,NY,33:58:00,8:30,
+172,Chester Tumidajewic,492,61,M,Amsterdam,NY,34:00:00,8:30,
+173,Perry Gava,305,57,M,Clifton Park,NY,34:04:00,8:31,Fleet Feet Sports Running/Walking Club
+174,Kathleen Dougherty,194,51,F,Troy,NY,34:09:00,8:33,
+175,Katherine Jones,345,56,F,Averill Park,NY,34:12:00,8:33,
+176,Donovan White,52,35,M,Albany,NY,34:19:00,8:35,
+177,Lori Francesconi,301,54,F,Waterford,NY,34:23:00,8:36,
+178,Hilary Claggett,242,51,F,Saratoga Spring,NY,34:31:00,8:38,Saratoga Stryders
+179,Kirsten Leblanc,370,52,F,Broadalbin,NY,34:33:00,8:39,Team Utopia
+180,Dj Hansen,325,42,M,Wynantskill,NY,34:34:00,8:39,
+181,Kelsey Barbour,209,23,F,Clifton Park,NY,34:43:00,8:41,
+182,Rose McKee,327,54,F,Schenectady,NY,34:50:00,8:43,
+183,Pete Cowie,251,68,M,Rotterdam,NY,34:56:00,8:44,
+184,John Brunner,1602,49,M,Albany,NY,34:59:00,8:45,
+185,Melissa Gordon,314,37,F,Troy,NY,35:02:00,8:46,
+186,Melissa Tiberio,488,29,F,Scotia,NY,35:09:00,8:48,
+187,Jason Dipierro,275,41,M,Schenectady,NY,35:12:00,8:48,
+188,Alicia Gillen,309,46,F,Altamont,NY,35:22:00,8:51,
+189,Courtney Hill,330,31,F,Clifton Park,NY,35:23:00,8:51,
+190,Brenda Fish,294,49,F,Castleton,NY,35:37:00,8:55,
+191,Teresa Grant,316,43,F,Glenmont,NY,35:37:00,8:55,
+192,Sharon Strodl,476,41,F,Nassau,NY,35:46:00,8:57,Adirondack Athletic Club
+193,Mike Langevin,364,51,M,Colonie,NY,35:54:00,8:59,
+194,Daniel McConnelee,391,36,M,Schenectady,NY,35:54:00,8:59,
+195,Laura Rickmyre,445,32,F,Schenectady,NY,35:54:00,8:59,
+196,Lindsay McConnelee,198,34,F,Schenectady,NY,35:56:00,8:59,
+197,Cara Wolff,79,41,F,Niskayuna,NY,35:58:00,9:00,
+198,Leland Hilt,332,59,M,Colonie,NY,36:16:00,9:04,
+199,Maria Morales,399,31,F,Rensselaer,NY,36:22:00,9:06,
+200,David Strutsrum,478,46,M,Delmar,NY,36:22:00,9:06,
+201,Nina Lynch,380,35,F,Clifton Park,NY,36:25:00,9:07,Fleet Feet Sports Running/Walking Club
+202,Cathy McCutcheon,392,52,F,Guilderland,NY,36:27:00,9:07,
+203,Alison Hosier,336,33,F,Albany,NY,36:30:00,9:08,
+204,Timothy J. Mackesey,382,58,M,Altamont,NY,36:36:00,9:09,
+205,Kelly Sullivan,479,37,F,Schenectady,NY,36:36:00,9:09,
+206,Eric Parker,419,60,M,Johnstown,NY,36:50:00,9:13,
+207,Susan Huston,338,54,F,Troy,NY,36:51:00,9:13,
+208,Jim Fiore,2,68,M,Latham,NY,36:53:00,9:14,
+209,George Penn,423,47,M,Colonie,NY,36:56:00,9:14,
+210,Christin Zorda,134,34,F,Rotterdam,NY,36:59:00,9:15,
+211,Cynthia Zinzow,115,34,F,Sloansville,NY,37:04:00,9:16,
+212,Lynn Hansen,322,42,F,Wynantskill,NY,37:04:00,9:16,
+213,Steve Johnston,344,65,M,Niskayuna,NY,37:06:00,9:17,Fleet Feet Sports Running/Walking Club
+214,Nicole Cox,252,25,F,Troy  Ny,NY,37:13:00,9:19,
+215,Lara Comithier,249,48,F,Greenville,NY,37:15:00,9:19,
+216,Melissa McHugh,394,43,F,Nassau,NY,37:26:00,9:22,
+217,Mark F. Fleszar,297,0,M,Troy,NY,37:30:00,9:23,
+218,Michael Paglialonga,417,32,M,Castleton,NY,37:41:00,9:26,
+219,Brian Demarest,268,48,F,Schenectady,NY,37:42:00,9:26,
+220,Tina Hayden,326,53,F,Schenectady,NY,37:45:00,9:27,
+221,John O'Connor,1605,45,M,Cohoes,NY,37:51:00,9:28,
+222,Thomas Kollar,357,70,M,Schenectady,NY,37:52:00,9:28,
+223,Dee Fisher-Golden,295,45,F,Slingerlands,NY,37:55:00,9:29,
+224,Kim Demagistris,267,29,F,Clifton Park,NY,37:56:00,9:29,
+225,Zachary Zinzow,120,11,M,Sloansville,NY,37:58:00,9:30,
+226,Emily Smith,464,26,F,Charlotte,NC,37:58:00,9:30,
+227,Kelly Ryan,452,36,F,Albany,NY,38:00:00,9:30,
+228,Garrett McCann,390,55,M,Glenmont,NY,38:03:00,9:31,
+229,Tim Leonard,372,67,M,Clifton Park,NY,38:07:00,9:32,Adirondack Athletic Club
+230,Katherine Ambrosio,201,65,F,Delmar,NY,38:10:00,9:33,
+231,Linda Quinn,436,49,F,Voorheesville,NY,38:15:00,9:34,
+232,Debra Kelley,351,62,F,Albany,NY,38:16:00,9:34,
+233,Anne Miralles,401,48,F,Schenectady,NY,38:17:00,9:35,Fleet Feet Sports Running/Walking Club
+234,Angela Gleichsner,312,33,F,Rotterdam,NY,38:18:00,9:35,
+235,Marie Arrao,202,60,F,Clifton Park,NY,38:19:00,9:35,
+236,Rachel Brunez,226,26,F,Scotia,NY,38:19:00,9:35,
+237,Ashley Benincasa,214,32,F,Glenville,NY,38:19:00,9:35,
+238,Tara Curran,255,38,F,Selkirk,NY,38:25:00,9:37,
+239,Mary Ann Macri,384,64,F,Albany,NY,38:27:00,9:37,
+240,Anne Tyrrell,494,65,F,Albany,NY,38:30:00,9:38,
+241,Richard Ernst,286,59,M,Delmar,NY,39:02:00,9:46,
+242,Marge Rajczewski,439,75,F,Ballston Lake,NY,39:12:00,9:48,Saratoga Stryders
+243,Michael Dellarocco,266,64,M,Altamont,NY,39:16:00,9:49,
+244,Kelly Gillen,310,48,F,Altamont,NY,39:19:00,9:50,
+245,Wade Stockman,475,81,M,Rensselaer,NY,39:19:00,9:50,Team Utopia
+246,Jill Penn,422,46,F,Colonie,NY,39:20:00,9:50,
+247,Christopher Rush,451,79,M,Schenectady,NY,39:33:00,9:54,Adirondack Athletic Club
+248,Mindy Mackesey,381,52,F,Altamont,NY,39:36:00,9:54,
+249,Eric Clark,243,52,M,Waterford,NY,39:39:00,9:55,
+250,Tracey Quinn,435,32,F,Delanson,NY,39:41:00,9:56,
+251,Ana Orellana,416,52,F,Albany,NY,39:43:00,9:56,
+252,Amy Wright,90,38,F,Berne,NY,39:45:00,9:57,
+253,Christopher Fischer,292,39,M,Latham,NY,39:55:00,9:59,
+254,Joseph Richardson,444,76,M,Slingerlands,NY,40:19:00,10:05,Adirondack Athletic Club
+255,Cathy Soloyna,192,62,F,Wynantskill,NY,40:21:00,10:06,Saratoga Stryders
+256,Eleonora Morrell,402,47,F,Clifton Park,NY,40:33:00,10:09,
+257,Lisa Ryan,453,46,F,Clifton Park,NY,40:33:00,10:09,
+258,Susan Kayne,350,49,F,Rensselaerville,NY,40:49:00,10:13,
+259,Kristine Clarke,245,51,F,Niskayuna,NY,40:57:00,10:15,
+260,Richard Baker,206,41,M,Rensselaer,NY,41:01:00,10:16,
+261,Mary Walsh,499,44,F,Albany,NY,41:13:00,10:19,
+262,Amanda Serafini,459,44,F,Nassau,NY,41:23:00,10:21,
+263,Kara Donohue,279,38,F,Altamont,NY,41:49:00,10:28,
+264,Shig Hosoyama,337,48,M,Latham,NY,42:08:00,10:32,
+265,Diane Ward,500,58,F,Albany,NY,42:20:00,10:35,
+266,Carrie Leig Genito,306,44,F,Cohoes,NY,42:32:00,10:38,
+267,Valerie Pezzula,425,61,F,Albany,NY,42:39:00,10:40,
+268,Diane Thompson,487,61,F,Latham,NY,42:41:00,10:41,Fleet Feet Sports Running/Walking Club
+269,Susan Klim,354,60,F,Altamont,NY,42:43:00,10:41,
+270,Mary Insogna,341,43,F,Scotia,NY,43:15:00,10:49,
+271,Mary Kay Scott,458,55,F,Schenectady,NY,43:20:00,10:50,
+272,Joshua Dipierro,273,40,M,Cherry Plane,NY,43:39:00,10:55,
+273,Lizzie Redkey,441,46,F,Latham,NY,44:00:00,11:00,
+274,Ralph Feinstein,288,62,M,Scotia,NY,44:03:00,11:01,
+275,Marcia Rice,1607,58,F,Troy,NY,44:31:00,11:08,
+276,Sherry Ringwood,446,51,F,Mechanicville,NY,44:40:00,11:10,
+277,Teri Strutsrum,477,46,F,,,44:42:00,11:11,
+278,Maria Schollenberge,457,58,F,Delmar,NY,44:55:00,11:14,
+279,Barbara Bradley,222,58,F,Slingerlands,NY,44:55:00,11:14,
+280,Uzma Qureshi,438,54,F,Slingerlands,NY,45:07:00,11:17,
+281,Fran Veloce,495,51,F,Guilderland,NY,45:13:00,11:19,
+282,Daniel Zibro,110,45,M,Waterford,NY,45:43:00,11:26,
+283,Lynne Neeley,408,52,F,Schenectady,NY,46:22:00,11:36,
+284,Jeffrey Danzy,258,52,M,Schenectady,NY,46:33:00,11:39,
+285,Kevin Baker,205,47,M,Glenmont,NY,46:46:00,11:42,
+286,Lisa Stephenson,474,50,F,Esperance,NY,47:17:00,11:50,
+287,Cheryl Hutchinson,339,49,F,Clifton Park,NY,47:21:00,11:51,
+288,Douglas L Browning,225,53,M,Tribes Hill,NY,48:02:00,12:01,
+289,Cade Whiting,66,8,M,Scotia,NY,48:02:00,12:01,
+290,Nicole Niles,411,39,F,Albany,NY,48:17:00,12:05,
+291,Patricia Daviero,260,40,F,Duanesburg,NY,48:17:00,12:05,
+292,Krystle Hutchison,340,23,F,Amsterdam,NY,48:38:00,12:10,
+293,Gene Reilly,442,65,M,Albany,NY,49:55:00,12:29,
+294,Raymond W. Lee  Jr.,371,74,M,Halfmoon,NY,51:32:00,12:53,Adirondack Athletic Club
+295,Melanie Capron,236,40,F,Duanesburg,NY,52:16:00,13:04,
+296,Joseph A. Kelly,352,82,M,Menands,NY,52:36:00,13:09,
+297,Tracy Persons,1603,50,F,Amsterdam,NY,53:29:00,13:23,
+298,Eiko Bogue,219,78,F,Schaghticoke,NY,53:51:00,13:28,Hudson Mohawk Road Runners Club
+299,Anny Stockman,14,83,F,Rensselaer,NY,54:24:00,13:36,Team Utopia
+300,Rebecca McMillen,395,42,F,Schenectady,NY,54:37:00,13:39,
+301,Jennifer Rittner,447,44,F,Rotterdam,NY,55:06:00,13:47,
+302,Kate Bellotti,213,39,F,Scotia,NY,55:31:00,13:53,
+303,Kimberly Furnish,303,43,F,Scotia,NY,55:31:00,13:53,
+304,Patricia Dipierro,183,63,F,Cherry Plains,NY,56:07:00,14:02,

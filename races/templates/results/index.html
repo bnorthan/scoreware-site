@@ -1,0 +1,10 @@
+{% if l_runners %}
+  <ul>
+    {% for r in l_runners %}
+      <li><a href="/results/{{r.id}}/">Mr. {{r.first_name}} {{r.last_name}}</a></li>
+    {% endfor %}
+  </ul>
+{% else %}
+<p>No runners are listed</p>
+{% endif %}
+

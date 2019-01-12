@@ -1,0 +1,328 @@
+PLACE BIB  NAME                    AGE DIVPLACE DIV       SEX CITY                ST    8K NET  FINAL SPRINT NET TIME NET PACE GUN TIME GUN PACE 
+  1   2092 Ricardo Estremera       32  1        M3034     M   Albany              NY    24:40   0:09           24:48   4:58    24:48   4:58  
+  2   2143 Jaime Julia             33  2        M3034     M   Albany              NY    25:56   0:09           26:04   5:13    26:04   5:13  
+  3   2238 Thomas O'Grady          32  3        M3034     M   Slingerlands        NY    27:16   0:10           27:25   5:29    27:25   5:29  
+  4   2142 Daniel Jordy            34  4        M3034     M   Glenville           NY    27:37   0:09           27:45   5:33    27:45   5:33  
+  5   2155 Joshua Korn             22  1        M2024     M   Troy                NY    27:41   0:08           27:49   5:34    27:49   5:34  
+  6   2379 Tim Russell             28  1        M2529     M   Ballston Spa        NY    27:52   0:11           28:02   5:37    28:02   5:37  
+  7   2151 Aaron Knobloch          42  1        M4044     M   Niskayuna           NY    27:59   0:10           28:08   5:38    28:08   5:38  
+  8   2009 Paul Archambault        41  2        M4044     M   Troy                NY    28:11   0:10           28:21   5:41    28:21   5:41  
+  9   2343 Nick Webster            29  2        M2529     M   Albany              NY    28:14   0:08           28:22   5:41    28:22   5:41  
+ 10   2374 Sean Quinn              26  3        M2529     M   Troy                NY    28:14   0:10           28:23   5:41    28:24   5:41  
+ 11   2066 Michael Cooley          38  1        M3539     M   Delmar              NY    28:34   0:09           28:42   5:45    28:42   5:45  
+ 12   2114 Matthew Gokey           44  3        M4044     M   Delmar              NY    28:34   0:09           28:42   5:45    28:43   5:45  
+ 13   2055 Edson Chipalo           30  5        M3034     M   New York            NY    28:55   0:11           29:05   5:49    29:05   5:49  
+ 14   2053 Jonathan Catlett        40  4        M4044     M   East Chatham        NY    29:01   0:10           29:11   5:51    29:11   5:51  
+ 15   2228 Matt Ninneman           25  4        M2529     M   Albany              NY    29:09   0:10           29:19   5:52    29:19   5:52  
+ 16   2347 Noah White              39  2        M3539     M   Slingerlands        NY    29:14   0:10           29:23   5:53    29:24   5:53  
+ 17   2252 Timothy Pendergast      36  3        M3539     M   Delmar              NY    29:44   0:09           29:52   5:59    29:53   5:59  
+ 18   2285 Diane Ryan              36  1        F3539     F   Malta               NY    29:52   0:09           30:00   6:00    30:01   6:01  
+ 19   2081 Michael Dinicola        43  5        M4044     M   Malta               NY    29:56   0:09           30:05   6:01    30:05   6:01  
+ 20   2019 Olivia Beltrani         24  1        F2024     F   Troy                NY    29:54   0:10           30:04   6:01    30:05   6:01  
+ 21   2099 Alan Finder             29  5        M2529     M   Albany              NY    29:57   0:10           30:06   6:02    30:06   6:02  
+ 22   2097 Saturnino Fernande      37  4        M3539     M   Slingerlands        NY    29:57   0:11           30:08   6:02    30:08   6:02  
+ 23   2153 Peter Koch              36  5        M3539     M   Delmar              NY    30:00   0:10           30:09   6:02    30:09   6:02  
+ 24   2216 Paul Mueller            34  6        M3034     M   Delmar              NY    30:06   0:10           30:16   6:03    30:16   6:04  
+ 25   2309 Nicole Soblosky         30  1        F3034     F   Albany              NY    30:07   0:09           30:16   6:04    30:17   6:04  
+ 26   2355 Eric Young              26  6        M2529     M   Latham              NY    30:20   0:08           30:28   6:06    30:29   6:06  
+ 27   2173 Christian W Lietza      54  1        M5054     M   Delmar              NY    30:18   0:10           30:28   6:06    30:29   6:06  
+ 28   2318 Chuck Terry             35  6        M3539     M   Albany              NY    30:22   0:12           30:33   6:07    30:34   6:07  
+ 29   2368 Christie Macfarlan      23  2        F2024     F   Delmar              NY    30:23   0:11           30:33   6:07    30:35   6:07  
+ 30   2218 Daniel Murphy           43  6        M4044     M   Delmar              NY    30:28   0:10           30:37   6:08    30:39   6:08  
+ 31   2074 Thomas Dansereau        31  7        M3034     M   Troy                NY    30:33   0:10           30:43   6:09    30:43   6:09  
+ 32   2077 John Deer               35  7        M3539     M   Slingerlands        NY    30:35   0:12           30:47   6:10    30:48   6:10  
+ 33   2311 Mark Stephenson         54  2        M5054     M   Esperance           NY    30:52   0:10           31:02   6:13    31:02   6:13  
+ 34   2176 Clay Lodovice           42  7        M4044     M   Voorheesville       NY    30:53   0:11           31:04   6:13    31:05   6:13  
+ 35   2278 Oswaldo Rodriguez       39  8        M3539     M   Mechanicville       NY    31:05   0:10           31:14   6:15    31:15   6:15  
+ 36   2178 Jonathan Louden         33  8        M3034     M   Clifton Park        NY    31:08   0:10           31:18   6:16    31:19   6:16  
+ 37   2356 Rick Zachgo             47  1        M4549     M   Rexford             NY    31:17   0:09           31:25   6:17    31:25   6:17  
+ 38   2154 Erik Koenitzer          41  8        M4044     M   Delanson            NY    31:19   0:10           31:28   6:18    31:29   6:18  
+ 39   2316 Ken Tarullo             49  2        M4549     M   Delmar              NY    31:43   0:11           31:54   6:23    31:54   6:23  
+ 40   2124 Erin Hatton             28  1        F2529     F   Troy                NY    31:56   0:09           32:05   6:25    32:06   6:26  
+ 41   2325 Diana Tobon-Knoblo      36  2        F3539     F   Niskayuna           NY    32:00   0:12           32:11   6:27    32:12   6:27  
+ 42   2217 Chris Mulford           41  9        M4044     M   Schenectady         NY    31:59   0:12           32:10   6:26    32:13   6:27  
+ 43   2094 Craig Evans             52  3        M5054     M   Malta               NY    32:25   0:11           32:36   6:32    32:37   6:32  
+ 44   2393 Hernan Lopez            53  4        M5054     M   Delmar              NY    32:35   0:12           32:46   6:34    32:47   6:34  
+ 45   2389 Alex Glazebrook         30  9        M3034     M   Delmar              NY    32:21   0:10           32:31   6:31    32:51   6:34  
+ 46   2112 Bob Giambalvo           68  1        M6569     M   Delhi               NY    32:57   0:11           33:07   6:38    33:09   6:38  
+ 47   2029 Brian Borden            54  5        M5054     M   Altamont            NY    33:05   0:10           33:15   6:39    33:16   6:40  
+ 48   2220 Brian Murray            17  1        M1219     M   Delmar              NY    33:10   0:07           33:17   6:40    33:25   6:41  
+ 49   2223 David Newman            38  9        M3539     M   Albany              NY    33:15   0:09           33:24   6:41    33:26   6:42  
+ 50   2298 Neil Sergott            46  3        M4549     M   Clifton Park        NY    33:19   0:10           33:28   6:42    33:29   6:42  
+ 51   2109 Dean Geesler            45  4        M4549     M   Slingerlands        NY    33:18   0:09           33:27   6:42    33:30   6:42  
+ 52   2349 John Williams-Sear      50  6        M5054     M   Albany              NY    33:34   0:11           33:45   6:45    33:48   6:46  
+ 53   2314 Scott Strickler         37  10       M3539     M   Philadelphia        PA    33:35   0:13           33:48   6:46    33:51   6:47  
+ 54   2345 Matthew Wereb           37  11       M3539     M   Wethersfield        CT    33:42   0:11           33:52   6:47    34:03   6:49  
+ 55   2141 Stephen Jones           63  1        M6064     M   Averill Park        NY    33:51   0:11           34:02   6:49    34:04   6:49  
+ 56   2121 Tina Greene             44  1        F4044     F   Scotia              NY    33:57   0:11           34:08   6:50    34:10   6:50  
+ 57   2275 Erin Rightmyer          34  2        F3034     F   Delmar              NY    34:01   0:12           34:13   6:51    34:15   6:51  
+ 58   2047 Randall Cannell         45  5        M4549     M   Broadalbin          NY    34:04   0:13           34:17   6:52    34:20   6:52  
+ 59   2381 Rick Ikasalo            39  12       M3539     M   Slingerlands        NY    34:12   0:10           34:21   6:53    34:23   6:53  
+ 60   2366 Brian Strickler         38  13       M3539     M   Niskayuna           NY    34:13   0:11           34:24   6:53    34:27   6:54  
+ 61   2048 Graig Carbino           34  10       M3034     M   Selkirk             NY    34:12   0:13           34:24   6:53    34:30   6:54  
+ 62   2350 Da'meishe Wilson        33  11       M3034     M   Schenectady         NY    34:19   0:10           34:29   6:54    34:31   6:55  
+ 63   2179 Aaron Lozier            29  7        M2529     M   Albany              NY    34:19   0:14           34:33   6:55    34:33   6:55  
+ 64   2024 Matt Berlin             44  10       M4044     M   Glenmont            NY    34:22   0:11           34:33   6:55    34:35   6:55  
+ 65   2192 Kim McBride             25  2        F2529     F   Troy                NY    34:21   0:10           34:30   6:54    34:36   6:55  
+ 66   2210 Katlin Mock             27  3        F2529     F   Albany              NY    34:24   0:11           34:35   6:55    34:37   6:56  
+ 67   2369 Brett Fajen             46  6        M4549     M   Nassau              NY    34:31   0:09           34:40   6:56    34:41   6:57  
+ 68   2022 Anne Benson             53  1        F5054     F   Clifton Park        NY    34:29   0:11           34:39   6:56    34:42   6:57  
+ 69   2188 Danielle Maslowsky      39  3        F3539     F   Ballston Lake       NY    34:41   0:10           34:51   6:59    34:54   6:59  
+ 70   2002 Shanley Alber           45  1        F4549     F   Clifton Park        NY    34:47   0:11           34:57   7:00    34:59   7:00  
+ 71   2078 Kari Deer               40  2        F4044     F   Slingerlands        NY    34:49   0:11           35:00   7:00    35:02   7:01  
+ 72   2385 Ben Sears               33  12       M3034     M   Albany              NY    34:53   0:11           35:03   7:01    35:13   7:03  
+ 73   2086 Sally Drake             45  2        F4549     F   Albany              NY    35:03   0:12           35:15   7:03    35:18   7:04  
+ 74   2209 Kimberly Miseno         47  3        F4549     F   Amsterdam           NY    35:02   0:13           35:15   7:03    35:21   7:04  
+ 75   2373 Gary Longhi             54  7        M5054     M   Colonie             NY    35:11   0:15           35:26   7:06    35:26   7:06  
+ 76   2358 Matt Zappen             42  11       M4044     M   Albany              NY    35:15   0:09           35:23   7:05    35:26   7:06  
+ 77   2144 Bob Kanarkiewicz        58  1        M5559     M   Delanson            NY    35:07   0:14           35:20   7:04    35:28   7:06  
+ 78   2037 Nancy Briskie           60  1        F6064     F   Schenectady         NY    35:19   0:13           35:31   7:07    35:35   7:07  
+ 79   2266 Janne Rand              33  3        F3034     F   Albany              NY    35:22   0:13           35:34   7:07    35:38   7:08  
+ 80   2241 Colleen Ottalagano      41  3        F4044     F   Slingerlands        NY    35:44   0:12           35:56   7:12    35:58   7:12  
+ 81   2015 Dennis Beardsley        46  7        M4549     M   Castleton           NY    35:47   0:09           35:55   7:11    35:59   7:12  
+ 82   2315 Brenan Tarrier          39  14       M3539     M   Delmar              NY    35:49   0:10           35:58   7:12    35:59   7:12  
+ 83   2177 Melissa Lombard         44  4        F4044     F   Antrim              NH    35:52   0:13           36:04   7:13    36:09   7:14  
+ 84   2359 Laura Zima              38  4        F3539     F   Albany              NY    35:58   0:13           36:10   7:14    36:12   7:15  
+ 85   2348 Brian Whitman           59  2        M5559     M   Selkirk             NY    35:59   0:12           36:11   7:15    36:13   7:15  
+ 86   2159 Kristen Kuhn            39  5        F3539     F   Delmar              NY    36:03   0:12           36:15   7:15    36:21   7:17  
+ 87   2219 Erin Murphy             38  6        F3539     F   Albany              NY    36:11   0:12           36:22   7:17    36:26   7:18  
+ 88   2138 Tom Jablonowski         49  8        M4549     M   Voorheesville       NY    36:12   0:12           36:24   7:17    36:27   7:18  
+ 89   2136 Brittany Iles           28  4        F2529     F   Albany              NY    36:30   0:12           36:42   7:21    36:45   7:21  
+ 90   2054 Michael Cebula          50  8        M5054     M   Mechanicville       NY    36:40   0:13           36:52   7:23    36:56   7:24  
+ 91   2272 Wendy Rescott           57  1        F5559     F   West Sand Lake      NY    36:45   0:12           36:57   7:24    36:59   7:24  
+ 92   2148 Richard Kelly           61  2        M6064     M   Schenectady         NY    36:58   0:14           37:11   7:26    37:16   7:28  
+ 93   2119 Melissa Grandjean       39  7        F3539     F   Glenville           NY    37:03   0:14           37:16   7:28    37:18   7:28  
+ 94   2089 Caitlyn Edmundson       29  5        F2529     F   Delmar              NY    37:04   0:13           37:16   7:28    37:21   7:29  
+ 95   2295 Kim Scott               49  4        F4549     F   Broadalbin          NY    37:06   0:11           37:17   7:28    37:21   7:29  
+ 96   2270 Jacob Reider            54  9        M5054     M   Slingerlands        NY    37:07   0:13           37:19   7:28    37:25   7:29  
+ 97   2123 Emma Gryner             26  6        F2529     F   Valatie             NY    37:11   0:12           37:22   7:29    37:27   7:30  
+ 98   2139 Megan James             28  7        F2529     F   Charlton            NY    37:11   0:12           37:23   7:29    37:27   7:30  
+ 99   2098 Emily Field             34  4        F3034     F   Delmar              NY    37:13   0:11           37:24   7:29    37:28   7:30  
+100   2158 Jeffrey Kuhn            40  12       M4044     M   Delmar              NY    37:14   0:11           37:24   7:29    37:31   7:31  
+101   2194 Tom McGuire             66  2        M6569     M   Slingerlands        NY    37:17   0:11           37:27   7:30    37:32   7:31  
+102   2018 Adam Bell               51  10       M5054     M   Nassau              NY    37:20   0:14           37:34   7:31    37:36   7:32  
+103   2378 Julianne Claydon        47  5        F4549     F   Albany              NY    37:18   0:11           37:29   7:30    37:36   7:32  
+104   2248 Alexander Pattison      14  2        M1219     M   Glenmont            NY    37:24   0:14           37:37   7:32    37:37   7:32  
+105   2023 Jennifer Bergeron       37  8        F3539     F   Delmar              NY    37:19   0:12           37:30   7:30    37:38   7:32  
+106   2170 Virginia Larner         46  6        F4549     F   Malta               NY    37:25   0:12           37:37   7:32    37:42   7:33  
+107   2096 Mary Fenton             52  2        F5054     F   Ballston Spa        NY    37:26   0:13           37:39   7:32    37:44   7:33  
+108   2376 Michael Conway          47  9        M4549     M   East Nassau         NY    37:30   0:09           37:38   7:32    37:45   7:33  
+109   2011 Jon Atwell              52  11       M5054     M   Loudonville         NY    37:30   0:12           37:42   7:33    37:46   7:34  
+110   2225 Nancy Nicholson         56  2        F5559     F   Queensbury          NY    37:32   0:15           37:47   7:34    37:50   7:34  
+111   2388 Pat Salerno             47  10       M4549     M   Sayre               NY    37:39   0:15           37:54   7:35    37:54   7:35  
+112   2334 Nicholas Vanvranke      14  3        M1219     M   Rensselaer          NY    37:39   0:17           37:56   7:36    37:59   7:36  
+113   2182 Melissa Maguire         45  7        F4549     F   Loudonville         NY    37:43   0:13           37:56   7:36    37:59   7:36  
+114   2034 Michael Brennan         48  11       M4549     M   Valatie             NY    37:50   0:13           38:02   7:37    38:10   7:38  
+115   2157 Andrew Krupski          27  8        M2529     M   Ballston Spa        NY    37:59   0:14           38:13   7:39    38:15   7:39  
+116   2061 Dan Coffey              55  3        M5559     M   Delmar              NY    37:59   0:13           38:11   7:39    38:16   7:40  
+117   2365 Abby Watson             38  9        F3539     F   Niskayuna           NY    38:02   0:13           38:14   7:39    38:18   7:40  
+118   2391 Emily Chromczak         31  5        F3034     F   Delmar              NY    38:05   0:12           38:17   7:40    38:22   7:41  
+119   2161 Kristen Labatt-Sim      45  8        F4549     F   East Greenbush      NY    38:06   0:15           38:21   7:41    38:24   7:41  
+120   2340 Magali Wardle           41  5        F4044     F   Glenmont            NY    38:06   0:13           38:19   7:40    38:24   7:41  
+121   2296 Douglas Secor           38  15       M3539     M   Scotia              NY    38:09   0:14           38:22   7:41    38:32   7:43  
+122   2282 David Rowell            65  3        M6569     M   Albany              NY    38:16   0:15           38:30   7:42    38:36   7:44  
+123   2375 Sean Madden             43  13       M4044     M   Albany              NY    38:19   0:11           38:29   7:42    38:37   7:44  
+124   2067 Gregory Coons           52  12       M5054     M   Albany              NY    38:22   0:12           38:34   7:43    38:41   7:45  
+125   2041 Clare Browne            29  8        F2529     F   Albany              NY    38:40   0:11           38:50   7:46    38:53   7:47  
+126   2044 Adam Burn               29  9        M2529     M   Guilderland         NY    38:20   0:10           38:30   7:42    38:55   7:47  
+127   2203 John Metcalf            44  14       M4044     M   Delmar              NY    38:42   0:12           38:53   7:47    38:56   7:48  
+128   2014 Erika Beardsley         40  6        F4044     F   Castleton           NY    38:42   0:13           38:55   7:47    39:04   7:49  
+129   2180 Anthony Lupo            55  4        M5559     M   Ballston Spa        NY    38:50   0:12           39:02   7:49    39:07   7:50  
+130   2232 Dan Nugent              59  5        M5559     M   Delmar              NY    38:49   0:17           39:06   7:50    39:10   7:50  
+131   2215 Roy Mowrey              59  6        M5559     M   Gloversville        NY    38:50   0:13           39:02   7:49    39:10   7:50  
+132   2012 Rachael Austin          34  6        F3034     F   Delmar              NY    38:53   0:13           39:05   7:49    39:14   7:51  
+133   2030 Richard Bourgeois       47  12       M4549     M   Albany              NY    38:57   0:12           39:09   7:50    39:16   7:52  
+134   2001 Mark Bryant             60  3        M6064     M   Delmar              NY    39:12   0:12           39:24   7:53    39:26   7:54  
+135   2346 Sara Westcott           34  7        F3034     F   Castleton           NY    39:15   0:13           39:28   7:54    39:33   7:55  
+136   2204 Jesse Meyer             29  10       M2529     M   Delmar              NY    39:23   0:12           39:34   7:55    39:44   7:57  
+137   2211 Geoffrey A. Moore       60  4        M6064     M   Loudonville         NY    39:22   0:13           39:34   7:55    39:45   7:57  
+138   2335 Frances Vincent         56  3        F5559     F   Slingerlands        NY    39:42   0:13           39:54   7:59    40:02   8:01  
+139   2201 Katrina Melei           37  10       F3539     F   Glenmont            NY    39:43   0:11           39:53   7:59    40:02   8:01  
+140   2091 Daniel Esper            57  7        M5559     M   Slingerlands        NY    39:55   0:13           40:08   8:02    40:14   8:03  
+141   2069 Denis Cote              47  13       M4549     M   Cohoes              NY    39:54   0:13           40:07   8:02    40:18   8:04  
+142   2108 Kristen Garzone         31  8        F3034     F   Troy                NY    40:01   0:11           40:12   8:03    40:20   8:04  
+143   2286 Ruth Sadinsky           51  3        F5054     F   Albany              NY    40:02   0:15           40:17   8:04    40:23   8:05  
+144   2043 Eric Bunker             23  2        M2024     M   East Greenbush      NY    40:01   0:11           40:11   8:03    40:24   8:05  
+145   2202 Matthew Melnikoff       34  13       M3034     M   Glenmont            NY    40:14   0:13           40:27   8:06    40:33   8:07  
+146   2291 Dorothea Schoep         46  9        F4549     F   Hudson              NY    40:18   0:14           40:31   8:07    40:39   8:08  
+147   2324 Michael Thumann         69  4        M6569     M   Chatham             NY    40:26   0:11           40:37   8:08    40:39   8:08  
+148   2236 Timothy J. Oconnor      59  8        M5559     M   Loudonville         NY    40:26   0:13           40:39   8:08    40:40   8:08  
+149   2341 Jay Watsky              55  9        M5559     M   Slingerlands        NY    40:28   0:13           40:41   8:09    40:48   8:10  
+150   2357 Deanna Zammiello        34  9        F3034     F   Schenectady         NY    40:53   0:13           41:05   8:13    41:05   8:13  
+151   2308 Tracy Snyder            34  10       F3034     F   Jersey City         NJ    40:47   0:12           40:59   8:12    41:10   8:14  
+152   2332 Neil Tyrrell            42  15       M4044     M   Saratoga Springs    NY    40:50   0:13           41:02   8:13    41:13   8:15  
+153   2129 Lauren Herbs            55  4        F5559     F   Rexford             NY    41:01   0:14           41:14   8:15    41:19   8:16  
+154   2068 Marcia Cooper           57  5        F5559     F   Burnt Hills         NY    41:03   0:11           41:13   8:15    41:19   8:16  
+155   2116 Erin Goodale            31  11       F3034     F   Glenmont            NY    41:00   0:12           41:11   8:15    41:20   8:16  
+156   2020 Ryan Bennett            38  16       M3539     M   Averill Park        NY    40:58   0:12           41:09   8:14    41:24   8:17  
+157   2045 John Butler             51  13       M5054     M   Latham              NY    41:00   0:15           41:15   8:15    41:25   8:17  
+158   2256 Robert Piccirillo       53  14       M5054     M   Schenectady         NY    41:06   0:12           41:18   8:16    41:25   8:17  
+159   2166 Mike Langevin           53  15       M5054     M   Albany              NY    41:11   0:13           41:24   8:17    41:30   8:18  
+160   2231 Julie Novkov            51  4        F5054     F   Loudonville         NY    41:26   0:13           41:39   8:20    41:39   8:20  
+161   2021 Joe Benoit              60  5        M6064     M   Glenmont            NY    41:30   0:11           41:41   8:21    41:44   8:21  
+162   2027 Eric Biehler            38  17       M3539     M   Troy                NY    41:26   0:12           41:37   8:20    41:48   8:22  
+163   2184 Bill Marinello          59  10       M5559     M   Slingerlands        NY    41:37   0:11           41:47   8:22    41:51   8:23  
+164   2289 Donald Santella         53  16       M5054     M   Delmar              NY    41:22   0:14           41:36   8:20    41:52   8:23  
+165   2036 Lee Briggs              40  7        F4044     F   Ballston Spa        NY    41:35   0:14           41:48   8:22    41:53   8:23  
+166   2134 Denis Hurley            55  11       M5559     M   Delmar              NY    41:37   0:13           41:49   8:22    41:53   8:23  
+167   2110 Deanna Geesler          46  10       F4549     F   Slingerlands        NY    41:33   0:13           41:46   8:22    41:54   8:23  
+168   2052 Nicholas Cartagena      42  16       M4044     M   Delmar              NY    41:34   0:16           41:49   8:22    42:05   8:25  
+169   2371 Kevin Lupo              26  11       M2529     M   Delmar              NY    41:42   0:11           41:53   8:23    42:06   8:26  
+170   2169 Keith Laplante          48  14       M4549     M   Troy                NY    41:40   0:13           41:52   8:23    42:09   8:26  
+171   2262 Chris Prieto            58  12       M5559     M   Slingerlands        NY    41:47   0:15           42:02   8:25    42:13   8:27  
+172   2246 Martin Patrick          64  6        M6064     M   East Greenbush      NY    41:51   0:15           42:05   8:25    42:14   8:27  
+173   2125 Stephanie Havens        32  12       F3034     F   Delmar              NY    41:53   0:14           42:06   8:26    42:15   8:27  
+174   2007 Shannon Anson           38  11       F3539     F   Delmar              NY    41:53   0:15           42:07   8:26    42:15   8:27  
+175   2271 Brian Reilly            42  17       M4044     M   Delmar              NY    41:46   0:17           42:03   8:25    42:16   8:28  
+176   2111 Carolyn George          64  2        F6064     F   Albany              NY    41:59   0:14           42:12   8:27    42:17   8:28  
+177   2187 Matt Marshall           45  15       M4549     M   Gypsum              CO    41:42   0:15           41:57   8:24    42:23   8:29  
+178   2131 Mark Howe               56  13       M5559     M   East Greenbush      NY    42:10   0:15           42:25   8:29    42:29   8:30  
+179   2353 Michael Wright          64  7        M6064     M   Albany              NY    42:36   0:13           42:48   8:34    42:52   8:35  
+180   2253 Jim Pepin               67  5        M6569     M   Glenmont            NY    42:44   0:13           42:56   8:36    43:03   8:37  
+181   2330 Martin Touhey           65  6        M6569     M   Albany              NY    42:41   0:13           42:53   8:35    43:06   8:38  
+182   2277 Patricia Robison        54  5        F5054     F   Clifton Park        NY    42:45   0:14           42:59   8:36    43:09   8:38  
+183   2221 Tara Murray             44  8        F4044     F   Delmar              NY    42:48   0:13           43:00   8:36    43:09   8:38  
+184   2268 Sarah Reed-Esper        52  6        F5054     F   Slingerlands        NY    42:42   0:13           42:54   8:35    43:11   8:39  
+185   2224 Jennifer Newman         34  13       F3034     F   Albany              NY    42:54   0:13           43:06   8:38    43:12   8:39  
+186   2222 Timothy Nevinger        36  18       M3539     M   Glenmont            NY    42:47   0:13           42:59   8:36    43:13   8:39  
+187   2320 Carrin Thal             44  9        F4044     F   Glenmont            NY    42:52   0:14           43:06   8:38    43:17   8:40  
+188   2051 Melissa Carroll         34  14       F3034     F   Albany              NY    42:55   0:14           43:09   8:38    43:22   8:41  
+189   2070 Pete Cowie              70  1        M7074     M   Rotterdam           NY    43:09   0:16           43:24   8:41    43:28   8:42  
+190   2249 Robert Pattison         43  18       M4044     M   Glenmont            NY    42:54   0:15           43:08   8:38    43:30   8:42  
+191   2050 Treva Carrig            42  10       F4044     F   Averill Park        NY    43:04   0:15           43:18   8:40    43:33   8:43  
+192   2126 David Hayes             74  2        M7074     M   Niskayuna           NY    43:08   0:17           43:25   8:41    43:37   8:44  
+193   2140 Kirstin Jones           24  3        F2024     F   Cohoes              NY    43:09   0:15           43:23   8:41    43:42   8:45  
+194   2118 Gary Grace              53  17       M5054     M   Delmar              NY    43:28   0:13           43:41   8:45    43:47   8:46  
+195   2026 Jean Berry              34  15       F3034     F   Delmar              NY    43:18   0:10           43:27   8:42    43:51   8:47  
+196   2313 Adrienne Strickler      36  12       F3539     F   Philadelphia        PA    43:19   0:10           43:29   8:42    43:52   8:47  
+197   2259 Lianne Pinchuk          42  11       F4044     F   Delmar              NY    43:35   0:13           43:48   8:46    43:54   8:47  
+198   2299 John Sheehy             60  8        M6064     M   Menands             NY    43:39   0:13           43:52   8:47    43:58   8:48  
+199   2380 Patricia Warth          53  7        F5054     F   Delmar              NY    43:42   0:16           43:57   8:48    44:07   8:50  
+200   2382 Bryan Yager             32  14       M3034     M   Charlton            NY    43:52   0:14           44:05   8:49    44:09   8:50  
+201   2039 Dale Broomhead          62  9        M6064     M   Latham              NY    44:01   0:15           44:15   8:51    44:22   8:53  
+202   2307 Ryan Snyder             34  15       M3034     M   Jersey City         NJ    44:08   0:11           44:19   8:52    44:29   8:54  
+203   2377 Erin Dolen              36  13       F3539     F   Delmar              NY    44:19   0:14           44:33   8:55    44:40   8:56  
+204   2016 Timothy Beebe           61  10       M6064     M   Delmar              NY    44:29   0:10           44:39   8:56    44:41   8:57  
+205   2076 Linda M. Dedominic      49  11       F4549     F   Menands             NY    44:24   0:14           44:38   8:56    44:42   8:57  
+206   2354 Joe Yavonditte          69  7        M6569     M   Schenectady         NY    44:29   0:13           44:41   8:57    44:51   8:59  
+207   2107 Melinda Fuller          41  12       F4044     F   Delmar              NY    44:29   0:12           44:41   8:57    44:56   9:00  
+208   2120 Susan Gray              44  13       F4044     F   Delmar              NY    44:30   0:13           44:43   8:57    44:58   9:00  
+209   2049 Darlene Cardillo        64  3        F6064     F   Delmar              NY    44:57   0:13           45:09   9:02    45:14   9:03  
+210   2367 Rebecca McIlvain        37  14       F3539     F   Delmar              NY    44:58   0:12           45:09   9:02    45:20   9:04  
+211   2293 Aubrey Schulz           40  14       F4044     F   Grandy              CT    45:04   0:12           45:16   9:04    45:25   9:05  
+212   2102 Sara Fleszar            37  15       F3539     F   Gypsum              CO    45:04   0:13           45:17   9:04    45:26   9:06  
+213   2300 Tanya Slater            45  12       F4549     F   Hoosick Falls       NY    45:04   0:14           45:17   9:04    45:29   9:06  
+214   2364 Kevin Davis             37  19       M3539     M   Wynantskill         NY    45:01   0:14           45:15   9:03    45:37   9:08  
+215   2363 Eric Davis              34  16       M3034     M   Wynantskill         NY    45:02   0:14           45:15   9:03    45:37   9:08  
+216   2075 Kelly Dean              36  16       F3539     F   Delmar              NY    45:12   0:13           45:25   9:05    45:39   9:08  
+217   2046 Ann Byer                52  8        F5054     F   Stillwater          NY    45:22   0:15           45:37   9:08    45:44   9:09  
+218   2361 Zachary Zinzow          13  4        M1219     M   Sloansville         NY    45:14   0:09           45:22   9:05    45:44   9:09  
+219   2065 Mary Beth Conroy        52  9        F5054     F   Halfmoon            NY    45:23   0:14           45:36   9:08    45:45   9:09  
+220   2227 Nicole Niles            41  15       F4044     F   Albany              NY    45:15   0:13           45:28   9:06    45:47   9:10  
+221   2008 Alycia Appelbaum        24  4        F2024     F   Castleton           NY    45:18   0:11           45:29   9:06    45:48   9:10  
+222   2254 Larry Perrotti          45  16       M4549     M   Sloansville         NY    45:11   0:17           45:28   9:06    45:50   9:10  
+223   2195 Candace McHugh          40  16       F4044     F   Ravena              NY    45:35   0:15           45:49   9:10    45:54   9:11  
+224   2212 Courtney Moriarta       49  13       F4549     F   Greenwich           NY    45:32   0:16           45:47   9:10    45:56   9:12  
+225   2083 Leo Dipierro            67  8        M6569     M   Cherry Plain        NY    45:48   0:13           46:01   9:13    46:01   9:13  
+226   2258 Marilyn Pickett         52  10       F5054     F   Clifton Park        NY    45:48   0:15           46:03   9:13    46:07   9:14  
+227   2384 Karoline Sears          33  16       F3034     F   Albany              NY    45:58   0:12           46:10   9:14    46:24   9:17  
+228   2247 Andrew Patterson        40  19       M4044     M   Delmar              NY    45:52   0:12           46:04   9:13    46:27   9:18  
+229   2058 Tracey Clark            31  17       F3034     F   Clifton Park        NY    46:05   0:15           46:20   9:16    46:33   9:19  
+230   2062 Jerry Collins           58  14       M5559     M   Troy                NY    46:06   0:15           46:20   9:16    46:37   9:20  
+231   2152 Agnes Knott             49  14       F4549     F   Saratoga Spgs       NY    46:24   0:13           46:37   9:20    46:47   9:22  
+232   2284 Lisa Ryan               49  15       F4549     F   Clifton Park        NY    46:24   0:15           46:38   9:20    46:48   9:22  
+233   2117 Stanley Gorski          62  11       M6064     M   Albany              NY    46:24   0:15           46:38   9:20    46:48   9:22  
+234   2360 Cynthia Zinzow          36  17       F3539     F   Sloansville         NY    46:33   0:15           46:47   9:22    47:09   9:26  
+235   2386 Sarah Richburg          32  18       F3034     F   Niskayuna           NY    46:36   0:14           46:49   9:22    47:12   9:27  
+236   2276 Tom Robinson            47  17       M4549     M   Troy                NY    46:43   0:15           46:57   9:24    47:15   9:27  
+237   2185 Rebecca Marino          42  17       F4044     F   Troy                NY    46:50   0:13           47:02   9:25    47:15   9:27  
+238   2213 Susan Motler            55  6        F5559     F   Rensselaer          NY    47:09   0:16           47:25   9:29    47:37   9:32  
+239   2244 Eric Parker             62  12       M6064     M   Johnstown           NY    47:24   0:15           47:38   9:32    47:47   9:34  
+240   2321 Michael Thoma           48  18       M4549     M   East Greenbush      NY    47:31   0:14           47:45   9:33    47:56   9:36  
+241   2208 Anne Miralles           51  11       F5054     F   Rensselaer          NY    47:36   0:13           47:48   9:34    48:00   9:36  
+242   2033 Paula Breen             53  12       F5054     F   Slingerlands        NY    47:28   0:15           47:43   9:33    48:00   9:36  
+243   2226 Eric Niehaus            57  15       M5559     M   Glenmont            NY    47:27   0:16           47:43   9:33    48:07   9:38  
+244   2392 David Stutsrim          48  19       M4549     M   Delmar              NY    47:55   0:13           48:07   9:38    48:23   9:41  
+245   2150 Joanne Kingston         52  13       F5054     F   Feura Bush          NY    48:07   0:11           48:18   9:40    48:28   9:42  
+246   2370 Vibhu Sharma            45  20       M4549     M   Delmar              NY    47:58   0:17           48:15   9:39    48:29   9:42  
+247   2073 Dan Curtin              71  3        M7074     M   Adirondack          NY    48:01   0:14           48:15   9:39    48:33   9:43  
+248   2234 Stephen J. Obermay      56  16       M5559     M   Burnt Hills         NY    48:05   0:15           48:20   9:40    48:35   9:43  
+249   2171 Jennifer Lawrence       59  7        F5559     F   West Sand Lake      NY    47:55   0:16           48:11   9:39    48:38   9:44  
+250   2372 Nicole Fuller           26  9        F2529     F   Wynantskill         NY    48:13   0:15           48:28   9:42    48:46   9:46  
+251   2093 Melissa Estremera       23  5        F2024     F   East Greenbush      NY    48:38   0:13           48:50   9:46    49:02   9:49  
+252   2072 Elizabeth Cregg         37  18       F3539     F   Niskayuna           NY    48:39   0:15           48:54   9:47    49:07   9:50  
+253   2283 Kelly Ryan              38  19       F3539     F   Albany              NY    48:44   0:12           48:56   9:48    49:09   9:50  
+254   2146 Marie Kaye              63  4        F6064     F   Altamont            NY    48:44   0:13           48:56   9:48    49:11   9:51  
+255   2245 Jessica Patnaude        50  14       F5054     F   Albany              NY    48:43   0:15           48:58   9:48    49:13   9:51  
+256   2331 Diana Trask Daley       54  15       F5054     F   Glenmont            NY    48:45   0:14           48:58   9:48    49:14   9:51  
+257   2040 Cecelia Broomhead       61  5        F6064     F   Latham              NY    48:49   0:16           49:04   9:49    49:19   9:52  
+258   2100 James Fiore             70  4        M7074     M   Latham              NY    48:56   0:19           49:15   9:51    49:21   9:53  
+259   2333 Anne Tyrrell            67  1        F6569     F   Albany              NY    48:50   0:18           49:08   9:50    49:24   9:53  
+260   2196 Tasha McLoughlin        34  19       F3034     F   Troy                NY    49:06   0:14           49:20   9:52    49:34   9:55  
+261   2149 Amanda Keyser           36  20       F3539     F   Schenectady         NY    49:07   0:16           49:23   9:53    49:37   9:56  
+262   2025 Nicholas Berry          37  20       M3539     M   Delmar              NY    49:02   0:11           49:12   9:51    49:38   9:56  
+263   2338 Sarah Vogel             48  16       F4549     F   Slingerlands        NY    49:11   0:16           49:27   9:54    49:38   9:56  
+264   2387 Connie Williams         37  21       F3539     F   Cohoes              NY    49:11   0:16           49:26   9:54    49:39   9:56  
+265   2183 Abagail Marcy           23  6        F2024     F   East Berne          NY    49:03   0:12           49:14   9:51    49:39   9:56  
+266   2032 Karen Brady             53  16       F5054     F   Castleton           NY    49:11   0:17           49:28   9:54    49:40   9:56  
+267   2005 Katherine Ambrosio      67  2        F6569     F   Delmar              NY    49:21   0:16           49:37   9:56    49:42   9:57  
+268   2042 Lori Buckley            50  17       F5054     F   Averill Park        NY    49:21   0:17           49:38   9:56    49:51   9:59  
+269   2257 Nancy Piche             57  8        F5559     F   Loudonville         NY    49:32   0:14           49:46   9:58    49:58  10:00  
+270   2181 Christopher Maestr      61  13       M6064     M   Delmar              NY    49:31   0:15           49:46   9:58    49:58  10:00  
+271   2031 Ronald Boutin           67  9        M6569     M   Albany              NY    49:26   0:17           49:43   9:57    50:00  10:00  
+272   2084 Danielle Dittley        37  22       F3539     F   Delmar              NY    49:41   0:18           49:59  10:00    50:16  10:04  
+273   2390 Garrett McCann          55  17       M5559     M   Glenmont            NY    50:11   0:16           50:26  10:06    50:42  10:09  
+274   2168 Jessica Laplante        17  1        F1219     F   Troy                NY    50:13   0:14           50:26  10:06    50:43  10:09  
+275   2189 Matthew Mason           31  17       M3034     M   Albany              NY    50:13   0:16           50:28  10:06    50:49  10:10  
+276   2135 Kathy Hutson            61  6        F6064     F   Clifton Park        NY    50:29   0:16           50:44  10:09    50:55  10:11  
+277   2305 Gene Sneeringer         63  14       M6064     M   Slingerlands        NY    50:23   0:15           50:38  10:08    50:59  10:12  
+278   2013 Megan Baldwin           34  20       F3034     F   Albany              NY    50:35   0:16           50:51  10:11    51:03  10:13  
+279   2323 Diane Thompson          63  7        F6064     F   Cohoes              NY    50:51   0:14           51:04  10:13    51:14  10:15  
+280   2279 Ronald Rodriguez        68  10       M6569     M   Delmar              NY    50:47   0:13           50:59  10:12    51:27  10:18  
+281   2230 Edward Norton           59  18       M5559     M   Albany              NY    51:03   0:16           51:19  10:16    51:29  10:18  
+282   2342 Elbert Watson           54  18       M5054     M   Troy                NY    50:58   0:18           51:16  10:16    51:31  10:19  
+283   2174 Barbara Lisosky         60  8        F6064     F   Castleton-On-Hudson NY    51:08   0:15           51:22  10:17    51:38  10:20  
+284   2101 Mark Fleszar            68  11       M6569     M   Troy                NY    51:16   0:15           51:30  10:18    51:40  10:20  
+285   2010 Pilar Arthur-Snead      46  17       F4549     F   Albany              NY    51:23   0:17           51:39  10:20    51:59  10:24  
+286   2122 Adam Groesbeck          47  21       M4549     M   Delmar              NY    51:36   0:15           51:51  10:23    52:16  10:28  
+287   2383 Addison Groesbeck       18  5        M1219     M   Delmar              NY    51:36   0:15           51:51  10:23    52:16  10:28  
+288   2200 Jill Mehan              63  9        F6064     F   Troy                NY    52:11   0:19           52:30  10:30    52:48  10:34  
+289   2352 Stacy Wozniak           47  18       F4549     F   Delmar              NY    52:22   0:19           52:41  10:33    52:53  10:35  
+290   2004 James H. Allen          59  19       M5559     M   Waterford           NY    52:41   0:13           52:53  10:35    53:10  10:38  
+291   2145 Lara Kaye               49  19       F4549     F   Averill Park        NY    52:40   0:12           52:51  10:35    53:10  10:38  
+292   2103 Robert Foulks           49  22       M4549     M   Albany              NY    52:31   0:19           52:50  10:34    53:13  10:39  
+293   2290 Elisa Schneider             0                  F   Troy                NY    52:40   0:14           52:54  10:35    53:13  10:39  
+294   2362 Buddy Glazier           56  20       M5559     M   Slingerlands        NY    52:46   0:18           53:03  10:37    53:25  10:41  
+295   2133 Robert Hurley           53  19       M5054     M   Slingerlands        NY    52:46   0:19           53:04  10:37    53:26  10:42  
+296   2294 Mary Scott              57  9        F5559     F   Schenectady         NY    52:55   0:14           53:09  10:38    53:27  10:42  
+297   2306 Bob Sneeringer          54  20       M5054     M   Loudonville         NY    53:04   0:19           53:22  10:41    53:44  10:45  
+298   2035 Jennifer Brennan        47  20       F4549     F   Valatie             NY    53:46   0:14           54:00  10:48    54:07  10:50  
+299   2175 Judy Litt               56  10       F5559     F   Latham              NY    54:18   0:18           54:36  10:56    54:46  10:58  
+300   2191 Mike Matthews           63  15       M6064     M   Delmar              NY    54:27   0:15           54:41  10:57    55:00  11:00  
+301   2207 Mark Mindel             66  12       M6569     M   Ballston Lake       NY    54:37   0:17           54:54  10:59    55:09  11:02  
+302   2260 Amy Podesva             25  10       F2529     F   Albany              NY    54:37   0:18           54:54  10:59    55:09  11:02  
+303   2104 Deborah J. Fox          58  11       F5559     F   Delmar              NY    54:38   0:15           54:52  10:59    55:13  11:03  
+304   2255 Becky Phillips          50  18       F5054     F   Schenectady         NY    55:08   0:17           55:24  11:05    55:41  11:09  
+305   2263 John Privitera          65  13       M6569     M   Glenmont            NY    55:29   0:20           55:49  11:10    56:09  11:14  
+306   2250 Tracy Peat              38  23       F3539     F   Albany              NY    55:30   0:20           55:50  11:10    56:09  11:14  
+307   2319 Kathleen Tersigni       47  21       F4549     F   Burnt Hills         NY    56:22   0:17           56:39  11:20    57:03  11:25  
+308   2165 Cathy Lanesey           68  3        F6569     F   Troy                NY    56:44   0:22           57:05  11:25    57:19  11:28  
+309   2303 Christina Smith         48  22       F4549     F   East Greenbush      NY    56:55   0:20           57:15  11:27    57:25  11:29  
+310   2251 Larry Peleggi           60  16       M6064     M   Colonie             NY    56:57   0:19           57:15  11:27    57:40  11:32  
+311   2304 Charles Snead           53  21       M5054     M   Albany              NY    57:19   0:19           57:38  11:32    57:58  11:36  
+312   2292 Maria Schollenberg      60  10       F6064     F   Delmar              NY    57:28   0:18           57:45  11:33    58:09  11:38  
+313   2115 Mark Goldhaber          53  22       M5054     M   Schenectady         NY    58:24   0:16           58:39  11:44    58:55  11:47  
+314   2087 Deanna Dugan            60  11       F6064     F   Greenville          NY    59:19   0:20           59:38  11:56    59:50  11:58  
+315   2082 Josh Dipierro           42  20       M4044     M   Cherry Plain        NY    59:15   0:17           59:31  11:55    59:56  12:00  
+316   2106 Mary Frawley            44  18       F4044     F   Loudonville         NY    1:00:00 0:19         1:00:19  12:04  1:00:42  12:09  
+317   2265 Uzma Qureshi            56  12       F5559     F   Slingerlands        NY    1:00:41 0:15         1:00:55  12:11  1:01:07  12:14  
+318   2167 Brian Laplante          53  23       M5054     M   Troy                NY    1:01:20 0:21         1:01:41  12:21  1:01:58  12:24  
+319   2336 Steve Vnuk              62  17       M6064     M   Delmar              NY    1:01:26 0:17         1:01:43  12:21  1:02:01  12:25  
+320   2337 Stephen Vnuk            32  18       M3034     M   New York            NY    1:01:26 0:18         1:01:43  12:21  1:02:02  12:25  
+321   2326 Michael Tolan           49  23       M4549     M   Clifton Park        NY    1:03:18 0:22         1:03:40  12:44  1:04:05  12:49  
+322   2190 Margaret Mason          29  11       F2529     F   Albany              NY    1:05:40 0:17         1:05:56  13:12  1:06:18  13:16  
+323   2312 Anny Stockman           85  1        F7599     F   Rensselaer          NY    1:07:13 0:24         1:07:36  13:32  1:07:44  13:33  
+324   2147 Matthew Kelly           62  18       M6064     M   Delmar              NY    1:10:11 0:22         1:10:33  14:07  1:10:54  14:11  
+325   2028 Eiko Bogue              80  2        F7599     F   Schaghticoke        NY    1:11:09 0:25         1:11:34  14:19  1:11:55  14:23  
+326   2172 Raymond Lee             76  1        M7579     M   Halfmoon            NY    1:13:44 0:27         1:14:11  14:50  1:14:32  14:55  
+327   2267 Allisson Reed           39  24       F3539     F   Ravena              NY    1:14:01 0:21         1:14:21  14:53  1:14:46  14:58  

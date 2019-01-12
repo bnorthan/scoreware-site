@@ -1,0 +1,84 @@
+place name age sex city state time pace
+ 1 James O'Connor 42 M Troy NY 35:59 5:48
+ 2 Tom Kracker 51 M Delmar NY 37:36 6:03
+ 3 John Stadtlander 50 M Clifton_Park NY 37:55 6:06
+ 4 Jon Rocco 49 M Colonie NY 38:27 6:12
+ 5 Aaron Knobloch 40 M Guilderland NY 38:43 6:14
+ 6 John Noonan 56 M Ballston Spa NY 38:52 6:16
+ 7 Chong-Hwan Son 50 M Latham NY 39:09 6:18
+ 8 Mark Stephenson 52 M Esperance NY 39:19 6:20
+ 9 Russell Lauer 53 M Troy NY 40:38 6:33
+ 10 Todd Smith 42 M Voorheesville NY 40:42 6:33
+ 11 Brian Northan 40 M Guilderland NY 40:51 6:35
+ 12 Rick Zachgo 45 M Rexford NY 41:23 6:40
+ 13 John Williams-Searl 48 M Albany NY 42:21 6:49
+ 14 Andrew Sponable 52 M Latham NY 42:29 6:51
+ 15 Steve Maynard 40 M Schenectady NY 42:52 6:54
+ 16 Neil Sergott 44 M Clifton_Park NY 43:17 6:58
+ 17 David Roy 61 M Schoharieny NY 43:29 7:00
+ 18 William Dodds 41 M Schenectady NY 43:36 7:01
+ 19 David Halloran 44 M Long Island City NY 43:44 7:03
+ 20 John Parisella 58 M Schenectady NY 43:56 7:05
+ 21 John Sestito 52 M Johnsonville NY 43:58 7:05
+ 22 Richard Clark 62 M Feeding Hills MA 44:32 7:10
+ 23 Christopher Chartrand 55 M Castleton On Hudso NY 44:49 7:13
+ 24 Gary Burak 58 M New Hartford NY 45:35 7:21
+ 25 Dave Glass 69 M Glenville NY 46:15 7:27
+ 26 Robert Wither 55 M Niskayuna NY 46:52 7:33
+ 27 Ken Klapp 66 M Schenectady NY 46:55 7:33
+ 28 William Smith 62 M Voorheesville NY 46:59 7:34
+ 29 Ralph Donato 42 M Nassau NY 47:03 7:35
+ 30 Brendan Dunfee 41 M Scotia NY 47:24 7:38
+ 31 Juergen Reher 66 M Wynantskill NY 47:31 7:39
+ 32 Lara Stelmaszyk 46 F Albany NY 47:34 7:40
+ 33 Ray Scaringe 61 M Clifton Park NY 47:54 7:43
+ 34 Christopher Kurkjian 56 M Ballston Lake NY 48:21 7:47
+ 35 Robert Colborn 61 M Schenectady NY 48:33 7:49
+ 36 Scott Henricks 51 M Averill Park NY 50:10 8:05
+ 37 Pat Glover 69 M Clifton Park NY 50:48 8:11
+ 38 Gene Terwilliger 48 M Scotia NY 50:57 8:12
+ 39 Timothy O'Connor 57 M Loudonville NY 51:04 8:13
+ 40 Martha DeGrazia 65 F Slingerlands NY 52:32 8:28
+ 41 Michael Wright 62 M Albany NY 53:15 8:35
+ 42 Catherine Sliwinski 60 F Albany NY 53:25 8:36
+ 43 Marten Patrick 62 M East Greenbush NY 53:35 8:38
+ 44 Mike Langevin 51 M Albany NY 53:48 8:40
+ 45 Anne Lytwynec 62 F Delmar NY 53:57 8:41
+ 46 Denis Hurley Jr 53 M Delmar NY 54:17 8:45
+ 47 Pete Cowie 68 M Schenectady NY 54:38 8:48 
+ 48 Jason DiPierro 41 M Schenectady NY 54:44 8:49
+ 49 Anne Hurley 53 F Delmar NY 55:37 8:58
+ 50 Linda DeDominicis 47 F Menands NY 55:49 8:59
+ 51 Rich Tanchyk 64 M Saratoga Springs NY 56:11 9:03
+ 52 Lori Francesconi 54 F Waterford NY 56:22 9:05
+ 53 Daniel Cleary 51 M Slingerlands NY 56:50 9:09
+ 54 Carolyn George 62 F Albany NY 57:24 9:15
+ 55 Scott Stevens 58 M Burnt Hills NY 57:25 9:15
+ 56 Sue Cleary 52 F albany NY 57:26 9:15
+ 57 Susan Wong 68 F Glenmont NY 57:41 9:17
+ 58 Darcy Rickard 47 F Cohoes NY 57:42 9:18
+ 59 Rick Eckhardt 56 M Albany NY 58:40 9:27
+ 60 Mary Collins-Finn 66 F Albany NY 59:19 9:33
+ 61 Anne Tyrrell 65 F Albany NY 59:38 9:36
+ 62 Veronica Perez 40 F Albany NY 1:00:01 9:40
+ 63 Thomas Kollar 70 M Schenectady NY 1:00:02 9:40
+ 64 Katherine Ambrosio 65 F Delmar NY 1:00:07 9:41
+ 65 Garrett McCann 55 M Glenmont NY 1:00:35 9:45
+ 66 Jayne Maloney 48 F Delmar NY 1:00:39 9:46
+ 67 Joe OConnor 49 M Selkirk NY 1:00:56 9:49
+ 68 Jennifer Lawrence 57 F West Sand Lake NY 1:01:35 9:55
+ 69 Anne Miralles 49 F Rensselaer NY 1:01:48 9:57
+ 70 Patrick Horan 67 M E. Norwich NY 1:02:13 10:01
+ 71 Brian Shoemaker 44 M Glenville NY 1:03:44 10:16
+ 72 Leo DiPierro 65 M Cherry Plain NY 1:03:56 10:18
+ 73 Darrell Everts 47 M Schenectady NY 1:04:04 10:19
+ 74 Edward Norton 57 M Albany NY 1:04:52 10:27
+ 75 Suzanne Nealon 66 F Miami FL 1:05:04 10:29
+ 76 Daniel Finn 66 M Menands NY 1:08:30 11:02
+ 77 John shoemaker 67 M Scotia NY 1:09:53 11:15
+ 78 Jeffrey Danzy 52 M Schenectady NY 1:12:09 11:37
+ 79 Josh DiPierro 40 M Cherry Plain NY 1:13:03 11:46
+ 80 Anny Stockman 83 F Rensselaer NY 1:19:23* 12:47
+ 81 Raymond Lee 74 M Halfmoon NY 1:21:29 13:07
+ 82 Eiko Bogue 78 F Schaghticoke NY 1:22:58 13:22
+ 83 Ed Doucette 86 M Bennington VT 1:43:54 16:44

@@ -1,0 +1,78 @@
+place,first,last,sex,age,city,time
+1,Chuck,Terry,M,35,Albany,45:19
+2,Richard,Messineo,M,28,Nassau,47:50
+3,Dan,Jordy,M,33,Glenville,48:10
+4,Jim,Sweeney,M,35,Albany,49:33
+5,Edson,Chipalo,M,29,Albany,50:00
+6,Robert,Irwin,M,44,Guilderland,50:00
+7,Dennis,VanVlack,M,44,Duanesburg,51:01
+8,Jonathan,Catlett,M,39,E. Chatham,51:47
+9,Ben,Heller,M,28,Troy,52:09
+10,Mark,Stephenson,M,53,Esperance,52:32
+11,Derrick,Staley,M,58,Ballston Lake,52:33
+12,John,Sestito,M,53,Johnsonville,54:00
+13,Thomas,Dansereau,M,30,Troy,54:25
+14,Jonathan,Bright,M,46,Guilderland,54:47
+15,Irene,Somerville,F,24,Wynantskill,55:05
+16,Brian,Northan,M,42,Guilderland,55:20
+17,Jonathan,Louden,M,32,Clifton Park,55:50
+18,Alyssa,Lotmore,F,32,Albany,56:00
+19,Dallas,DeVries,M,39,Cohoes,56:55
+20,John,Williams-Searle,M,49,Albany,57:25
+21,Jon ,Rocco,M,50,Colonie,58:19
+22,Rick,Munson,M,60,Prattsville,58:20
+23,Allison,Kondervuich,F,27,Albany,58:15
+24,Richard,Clark,M,63,"Feeding Hills, MA",59:30
+25,George,Berg,M,48,West Sand Lake,59:47
+26,Michelle,Davis,F,28,Watervliet,59:46
+27,Mark,Nunez,M,60,Ballston Lake,1:00:39
+28,David,Roy,M,62,Schoharie,1:01:58
+29,William,Drapeau,M,49,Glenville,1:01:54
+30,Meghan,Looden,F,31,Clifton Park,1:02:05
+31,Erik,Koeritzer,M,40,Fultonville,1:02:36
+32,Juergen,Reher,M,67,Wynantskill,1:03:48
+33,Christopher Leavitt,Leavitt,M,29,Schenectady,1:04:11
+34,Kevin,Reedy,M,41,Colonie,1:05:02
+35,Paul,Bennett,M,66,Latham,1:05:45
+36,Michael,O'Brien,M,31,Delmar,1:07:20
+37,Richard,Kelly,M,60,Schenectady,1:07:49
+38,Daniel,Doak,M,60,Albany,1:08:37
+39,Karen,Dott,F,61,Colonie,1:08:55
+40,Jon,Golden,M,44,Slingerlands,1:08:56
+41,Martha,DeGrazia,F,66,Slingerlands,1:09:39
+42,Carl,Brewer,M,34,Albany,1:09:50
+43,Olga,Cross,F,38,Niskayuna,1:10:00
+44,Melissa,Grandjean,F,48,Glenville,1:11:00
+45,Anne,Lytwynec,F,63,Delmar,1:11:18
+46,Kate,Thies,F,40,Albany,1:11:22
+47 ,Erika,Oesterle,F,65,Stamford,1:15:45
+48,Patricia,Robinson,F,54,Clifton Park,1:15:55
+49,Ed ,Brown,M,60,Schenectady,1:15:59
+50,Gene,Terwilliger,M,49,Glenville,1:16:15
+51,Tom,Adams,M,72,Schenectady,1:16:37
+52,Michael,Thumann,M,68,Chatham,1:17:50
+53,Teresa,Grant,F,44,Glenville,1:18:50
+54,John,Sullivan,M,45,Albany,1:19:11
+55,Hannah,Barry,F,45,Glenmont,1:19:11
+56,Scott,Stevens,M,60,Burnt Hills,1:20:51
+57,Kristin,Zielinski,F,37,Altamont,1:22:31
+58,Peter,Newkirk,M,70,Albany,1:22:32
+59,Joan,Celentano,F,63,Schenectady,1:23:40
+60,Linda,DeDominicis,F,49,Menands,1:23:51
+61,Vincent,Wegner,M,53,Schenectady,1:24:01
+62,Thomas,McTerman,M,62,Scotia,1:24:40
+63,Bob,Piccirillo,M,52,Schenectady,1:25:01
+64,Richard,Anconitz,M,58,Guilderland,1:25:34
+65,Edwin,Litts,M,67,Schenectady,1:25:45
+66,Jim,Moore,M,77,Niskayuna,1:26:56
+67,Katherine,Ambrosio,F,66,Delmar,1:28:09
+68,Michele,Bourgeois,F,47,Green Island,1:30:47
+69,Sarah,Jaeger,F,25,Guilderland,1:32:38
+70,Chris ,Fischer,M,41,Colonie,1:35:35
+71,Nicole,Niles,F,40,Albany,1:35:43
+72,Richard,Baker,M,43,Rensselaer,1:35:49
+73,Dee,Fisher-Golden,F,46,Slingerlands,1:36:56
+74,Thomas,Kollar,M,71,Schenectady,1:37:19
+75,Mary Beth,Conroy,F,51,Halfmoon,1:40:59
+76,Ray,Lee,M,75,Halfmoon,1:56:16
+77,Anny,Stockman,F,85,Rensselaer,1:58:03

@@ -1,0 +1,1319 @@
+Place,name,Age,Sex,City,State
+    1, Francois Jarry, 24,M,Montreal,QC
+    2, Ben Fazio, 23,M,Troy,NY
+    3, Ryan Udvadia, 22,M,Albany,NY
+    4, Alex Benway, 28,M,Queensbury,NY
+    5, Scott Mindel, 32,M,Burlington,MA
+    6, Patrick Carroll, 27,M,Schenectady,NY
+    7, Jon Lindenauer, 30,M,Albany,NY
+    8, Aaron Lozier, 30,M,Albany,NY
+    9, Shaun Donegan, 33,M,Malta,NY
+   10, Thomas O'Grady, 33,M,Slingerlands,NY
+   11, Brad Lewis, 32,M,Troy,NY
+   12, Jake Stookey, 42,M,Clifton Park,NY
+   13, Jeffrey Martinez, 27,M,Glenville,NY
+   14, Jared Short, 21,M,Montreal,QC
+   15, Aaron Knobloch, 42,M,Niskayuna,NY
+   16, Daniel Jordy, 35,M,Glenville,NY
+   17, Tim Van Orden, 50,M,Bennington,VT
+   18, Jeff Goupil, 31,M,Arlington,MA
+   19, Samantha Roecker, 27,F,Phil,NY
+   20, Tucker Chrapowitzky,  0,M,Slingerlands,NY
+   21, Matt Ninneman, 25,M,Albany,NY
+   22, Robert Irwin, 45,M,Guilderland,NY
+   23, Danielle Winslow, 25,F,Somewhere,NY
+   24, Ryan Sheppard, 17,M,Charlton,NY
+   25, John Stadtlander, 53,M,Clifton Park,NY
+   26, Katie Messina, 27,F,Somerville,MA
+   27, Anthony Comanzo, 18,M,Niskayuna,NY
+   28, Kent Lemme, 52,M,Pittsfield,MA
+   29, Karen Bertasso, 34,F,Albany,NY
+   30, Holden Maynard, 19,M,Schenectady,NY
+   31, Mark Kopecki, 31,M,Schenectady,NY
+   32, Matt Conant, 42,M,Ballston Spa,NY
+   33, Ben Heller, 30,M,Troy,NY
+   34, John Deer, 36,M,Slingerlands,NY
+   35, Thomas Joslin, 39,M,Yorkville,NY
+   36, Theodor Schnaufer, 54,M,Manlius,NY
+   37, Derrick Staley, 60,M,Ballston,NY
+   38, Todd Shatynski, 42,M,Altamont,NY
+   39, Courtney Breiner, 21,F,Troy,NY
+   40, Noah Greski, 15,M,Scotia,NY
+   41, Volker Burkowski, 47,M,Gansevoort,NY
+   42, Joseph Sullivan, 39,M,Schenectady,NY
+   43, Thomas Kracker, 54,M,Delmar,NY
+   44, Olivia Beltrani, 24,F,Troy,NY
+   45, Matt Crave, 41,M,Schenectady,NY
+   46, Peter Katlic, 32,M,Schenectady,NY
+   47, Christopher Mulford, 41,M,Schenectady,NY
+   48, Chris Soufleris, 24,M,Albany,NY
+   49, Isaac Menis, 17,M,Schenectady,NY
+   50, Adam Schwendt, 21,M,Colorado Springs,CO
+   51, Nick Whaley, 38,M,Clifton Park,NY
+   52, Christie Macfarlane, 24,F,Delmar,NY
+   53, Christian Lietzau, 55,M,Delmar,NY
+   54, Joe Spohn, 38,M,Mohawk,NY
+   55, Alex Pollinger, 25,M,Niskayuna,NY
+   56, Adam Lang, 25,M,Delhi,NY
+   57, Michael Camarota, 36,M,Latham,NY
+   58, Jonathan Louden, 34,M,Clifton Park,NY
+   59, Joel Pekosz, 41,M,Cheshire,MA
+   60, Erin Hatton, 28,F,Troy,NY
+   61, Eric Young, 27,M,Latham,NY
+   62, Craig Tynan, 48,M,Schenectady,NY
+   63, Mike Spitzer, 55,M,Sheffield,MA
+   64, David Putney, 54,M,Newport,NY
+   65, Matthew Narode, 32,M,Glenmont,NY
+   66, Ken Tarullo, 50,M,Delmar,NY
+   67, Matt Becker, 33,M,South Glens Falls,NY
+   68, Matthew Sinnenberg, 17,M,Burnt Hills,NY
+   69, Alexander Tebano, 15,M,Glenville,NY
+   70, Emmanuel Maillet, 31,M,Schenectady,NY
+   71, Jared Desrochers, 33,M,Ballston Lake,NY
+   72, Elizabeth Izzo, 26,F,Lake Placid,NY
+   73, Greg Ethier, 45,M,Clifton Park,NY
+   74, Erik Koenitzer, 42,M,Delanson,NY
+   75, Daniel Murphy, 44,M,Delmar,NY
+   76, Dave Troischt, 51,M,Mechanicville,NY
+   77, David Riihimaki, 46,M,Corinth,NY
+   78, Michael Mahoney, 26,M,Weymouth,MA
+   79, Randall Cannell, 46,M,Broadalbin,NY
+   80, Gabriel McGarry, 42,M,Slingerlands,NY
+   81, Diana Tobon-Knobloch, 37,F,Niskayuna,NY
+   82, Timothy Ela, 29,M,Clifton Park,NY
+   83, Christian Canham, 21,M,Ballston Spa,NY
+   84, Daniel Burke, 22,M,Schenectady,NY
+   85, Nick Breton, 17,M,Ballston Lake,NY
+   86, Greg Hart, 30,M,Saratoga Springs,NY
+   87, Jonathan Guthan, 41,M,Scotia,NY
+   88, Mark Stephenson, 54,M,Esperance,NY
+   89, Alex Gilgore, 25,M,Scotia,NY
+   90, Thomas Fraser, 45,M,Schodack Lndg,NY
+   91, Noah Bonesteel, 16,M,Averill Park,NY
+   92, Paul Humphrey, 51,M,Deerfield,NY
+   93, Michael Franke, 31,M,Schenectady,NY
+   94, Ryan Fisher, 38,M,Ballston Spa,NY
+   95, Richard J Homenick, 24,M,Schenectady,NY
+   96, Rick Zachgo, 48,M,Rexford,NY
+   97, Scott Pierce, 24,M,Chicago,IL
+   98, Ed Menis, 54,M,Schenectady,NY
+   99, Justin Donohue, 25,M,Schenectady,NY
+  100, Lori Kingsley, 52,F,Wysox,PA
+  101, Shannon Bauer, 23,F,Cohoes,NY
+  102, Bob Miller, 44,M,Scotia,NY
+  103, Brad Schierhorn, 26,M,Boston,MA
+  104, Meghan Louden, 32,F,Clifton Park,NY
+  105, Mercedes Planavsky, 19,F,Malta,NY
+  106, Bill Hoffman, 51,M,Clifton Park,NY
+  107, Russell Lauer, 56,M,Troy,NY
+  108, Julie Robinson, 26,F,Troy,NY
+  109, Christopher Parks, 33,M,Scotia,NY
+  110, Brian Dillenbeck, 48,M,Alplaus,NY
+  111, Ashley Willson, 32,F,Broadalbin,NY
+  112, Kerri Thomas, 42,F,Middle Granville,NY
+  113, Meghan Mortensen, 33,F,Glenville,NY
+  114, John Murray, 25,M,Rotterdam,NY
+  115, William Dodds, 44,M,Albany,NY
+  116, Dallas Devries, 41,M,Cohoes,NY
+  117, Neal Norton Jr, 35,M,Niskayuna,NY
+  118, Melissa Patneaude, 38,F,Glenville,NY
+  119, Grant Allen, 45,M,Syracuse,NY
+  120, Brooke Morrissey, 28,F,Ballston Spa,NY
+  121, Donald Duvall, 40,M,Delmar,NY
+  122, Melissa Hine, 29,F,Holyoke,MA
+  123, Dean Geesler, 45,M,Slingerlands,NY
+  124, Jonathan Bright, 48,M,Guilderland,NY
+  125, Jessica Chapman, 41,F,Bennington,VT
+  126, Jonathan Petruccelli, 37,M,Albany,NY
+  127, Bobby Gallant, 25,M,Scotia,NY
+  128, Steven Philbrick, 59,M,Cobleskill,NY
+  129, Emily Boerger, 24,F,Albany,NY
+  130, James Lebrou, 52,M,Niskayuna,NY
+  131, Kevin Karashay, 33,M,Saugerties,NY
+  132, Mark Weidner, 57,M,Queensbury,NY
+  133, Jamie Casline, 59,M,Ballston Lake,NY
+  134, Mathew Nark, 45,M,Clifton Park,NY
+  135, Gil Chorbajian, 49,M,Schenectady,NY
+  136, Michelle Davis, 30,F,Niskayuna,NY
+  137, John McCloskey, 30,M,Clifton Park,NY
+  138, John Genevich, 49,M,Saratoga Springs,NY
+  139, Gabriel Lobaido, 18,M,Scotia,NY
+  140, Joseph Pericone, 31,M,Scotia,NY
+  141, Scott Richardson, 26,M,Troy,NY
+  142, Kim McBride, 26,F,Troy,NY
+  143, Mark Blanchfield, 52,M,Schenectady,NY
+  144, Tina Greene, 45,F,Scotia,NY
+  145, Kevin Curley, 51,M,Cohoes,NY
+  146, Jason Karp, 36,M,Niskayuna,NY
+  147, William Drapeau, 51,M,Glenville,NY
+  148, Brendan McCoy, 20,M,Troy,NY
+  149, Daniel Filuta, 49,M,West Sand Lake,NY
+  150, Samuel Mercado Jr, 55,M,Albany,NY
+  151, David Roy, 63,M,Schoharie,NY
+  152, Kelly Virkler, 34,F,Altamont,NY
+  153, John Slyer, 53,M,Averill Park,NY
+  154, Rik Woldring, 50,M,Saratoga Springs,NY
+  155, John Sestito, 55,M,Johnsonville,NY
+  156, Erin Rightmyer, 34,F,Delmar,NY
+  157, Katlin Mock, 28,F,Albany,NY
+  158, Mark McGann, 37,M,Scotia,NY
+  159, Casey Kohler, 32,F,Albany,NY
+  160, Michael Murtagh, 58,M,Glenville,NY
+  161, John Pecora, 48,M,Gansevoort,NY
+  162, Patrick Bergeron, 38,M,Delmar,NY
+  163, Matthew McQueeney, 47,M,Niskayuna,NY
+  164, Julie Scherer, 33,F,Rexford,NY
+  165, Thomas M Hartnett Jr, 30,M,Rotterdam,NY
+  166, Alison Heaphy, 51,F,Troy,NY
+  167, Stephen Jones, 64,M,Averill Park,NY
+  168, Richard Cummings, 51,M,Schenectady,NY
+  169, Marta Dauphinee, 40,F,Glenville,NY
+  170, Rachel Waller, 32,F,Burnt Hills,NY
+  171, Andrea Maynard, 27,F,Binghamton,NY
+  172, Dana Wiwczar, 37,F,Ballston Spa,NY
+  173, Rich Homenick, 54,M,Schenectady,NY
+  174, Colleen Ottalagano-Mcg, 41,F,Slingerlands,NY
+  175, Kareem Monroe, 38,M,Chesapeake,VA
+  176, Michael Bracken, 44,M,Saratoga Springs,NY
+  177, Megan James, 29,F,Charlton,NY
+  178, Emily Russell, 35,F,North Bennington,VT
+  179, Kristie Pageau, 28,F,Rensselaer,NY
+  180, Rick Munson, 61,M,Prattville,NY
+  181, Tim Hartman Sr, 56,M,Niskayuna,NY
+  182, Grant Norton, 20,M,Scotia,NY
+  183, Lauren Farry, 21,F,Pittsfield,MA
+  184, Jaime Farone, 42,F,Saratoga Springs,NY
+  185, Russ Hoyer, 58,M,Voorheesville,NY
+  186, Jeremy McNamara, 39,M,Albany,NY
+  187, Brett Fajen, 47,M,Nassau,NY
+  188, Myron Ferguson, 61,M,Middle Grove,NY
+  189, Moira Hilt, 26,F,Albany,NY
+  190, Erin Macbeth, 25,F,Schenectady,NY
+  191, Dylan Simms, 28,M,Waterbury,VT
+  192, James Forbes, 64,M,Valley Falls,NY
+  193, Sally Drake, 45,F,Albany,NY
+  194, Robert Magee, 34,M,Albany,NY
+  195, Ian Thane, 26,M,Troy,NY
+  196, Amanda Ryan, 26,F,Cohoes,NY
+  197, David Steckman, 38,M,Delmar,NY
+  198, Skyler Smith, 14,F,Niskayuna,NY
+  199, Loren Thomas, 34,M,Schenectady,NY
+  200, Brian Strickler, 39,M,Niskayuna,NY
+  201, Vincent Tebano, 51,M,Glenville,NY
+  202, Kara Defeo, 38,F,Rensselaer,NY
+  203, Marc Andryuk, 42,M,Schenectady,NY
+  204, Brian Hogan, 45,M,Rensselaer,NY
+  205, Bill Bean, 58,M,Scotia,NY
+  206, Francis Magai, 20,M,Troy,NY
+  207, Allan Bates, 70,M,Pittsfield,MA
+  208, Anson Grover, 21,M,Wyckoff,NJ
+  209, Anna Izzo, 22,F,Lake Placid,NY
+  210, Katerina Harte, 21,F,Maywood,NJ
+  211, Kevin Clancy, 49,M,Albany,NY
+  212, Shannon Flaherty, 26,F,Albany,NY
+  213, Daniel Senecoff, 55,M,Saratoga Springs,NY
+  214, Joe Sgarlata, 31,M,Niskayuna,NY
+  215, Lauren Bruno, 26,F,Schenectady,NY
+  216, Jim Leggett, 49,M,Mechanicville,NY
+  217, Edward Gravelle, 60,M,Ballston Lake,NY
+  218, Christopher Scoville, 39,M,Rensselaer,NY
+  219, Kenneth Hausam, 45,M,Middle Grove,NY
+  220, Catherine Blaney, 23,F,St. Petersburg,FL
+  221, Gintaras Urmilevicius, 45,M,East Greenbush,NY
+  222, Alyssa Bove, 20,F,West Islip,NY
+  223, William Koons, 44,M,Rotterdam,NY
+  224, Seth Blumerman, 44,M,Albany,NY
+  225, Danielle Hennel, 24,F,Delanson,NY
+  226, Patty Moore, 52,F,Queensbury,NY
+  227, Christina Ardito, 39,F,Niskayuna,NY
+  228, Margaret McKeown, 60,F,Moreau,NY
+  229, Brian Melanson, 43,M,Schenectady,NY
+  230, Amanda Carpenter, 29,F,Albany,NY
+  231, Aaron Prescott, 25,M,Schenectady,NY
+  232, Scott Prescott, 54,M,Amherst,NH
+  233, Drew Prescott, 23,M,Amherst,NH
+  234, Sue Thompson, 52,F,Queensbury,NY
+  235, Janne Rand, 34,F,Saratoga Springs,NY
+  236, Brian Teague, 59,M,Glens Falls,NY
+  237, Joe Forbes, 49,M,Hudson Falls,NY
+  238, Julia Slyer, 22,F,Averill Park,NY
+  239, Mark Dolan, 54,M,Albany,NY
+  240, David Hart, 57,M,Delmar,NY
+  241, George Baranauskas, 65,M,Scotia,NY
+  242, Brett Harris, 33,F,Albany,NY
+  243, Jason Chlopecki, 43,M,Glenville,NY
+  244, Nicholas Vanvranken, 15,M,Rensselaer,NY
+  245, Owen Pearsall, 14,M,Menands,NY
+  246, Gary Neumann, 57,M,Burnt Hills,NY
+  247, Mary Buck, 55,F,Mechanicville,NY
+  248, Joseph Osso Jr, 37,M,Clifton Park,NY
+  249, Michael Fernandez, 50,M,Ballston Lake,NY
+  250, Ashley Cahill, 31,F,Slingerlands,NY
+  251, Vasil Koleci, 42,M,Albany,NY
+  252, Mish Kirstein, 18,M,Schenectady,NY
+  253, John George, 51,M,Rotterdam,NY
+  254, Eli Rabinowitz, 37,M,Albany,NY
+  255, Anson Grover III, 54,M,Wyckoff,NJ
+  256, John Conwall, 36,M,Delanson,NY
+  257, Jessica Bouchard, 37,F,Jamesville,NY
+  258, Da'meishe Wilson, 34,M,Schenectady,NY
+  259, Bryan Many, 30,M,Schenectady,NY
+  260, Derek Bruening, 42,M,Troy,NY
+  261, Rick Gloo, 37,M,Mohawk,NY
+  262, Lyman Tinc, 34,M,Saratoga Springs,NY
+  263, Richard Clark, 64,M,Feeding Hills,MA
+  264, Michael Silvagnoli, 38,M,Ballston Lake,NY
+  265, Rebecca Ruppe, 40,F,Troy,NY
+  266, Kristen Kuhn, 39,F,Delmar,NY
+  267, Travis Moore, 46,M,Ballston Lake,NY
+  268, Kim Scott, 49,F,Broadalbin,NY
+  269, Alyssa Benway, 28,F,Queensbury,NY
+  270, Phil Bordwell, 44,M,Malta,NY
+  271, Randy Johnson, 48,M,Clifton Park,NY
+  272, Kelly Kamps, 36,F,Gansevoort,NY
+  273, Katherine Quinn, 22,F,Niskayuna,NY
+  274, Stephanie Selmer, 45,F,Castleton On Hudso,NY
+  275, Mike Fazioli, 67,M,Wynantskill,NY
+  276, Christine Varley, 54,F,Albany,NY
+  277, Timothy Connelly, 52,M,Kenmore,NY
+  278, Jessica Berschwinger, 30,F,Voorheesville,NY
+  279, James Newlove, 62,M,Utica,NY
+  280, Krista Harwick, 38,F,Mohawk,NY
+  281, Justine Lobosco, 34,F,Ballston Spa,NY
+  282, Nicholas Lobosco, 36,M,Ballston Spa,NY
+  283, Daniel Bahruth, 37,M,Middleville,MI
+  284, Paul Criscione, 17,M,Albany,NY
+  285, Emily Field, 35,F,Delmar,NY
+  286, Amy Seagroatt, 43,F,Clifton Park,NY
+  287, Paul Moore, 53,M,Glenville,NY
+  288, Jennifer Bergeron, 38,F,Delmar,NY
+  289, Brendan Maslauskas Dun, 34,M,Waterford,NY
+  290, Janice Balogh, 47,F,Averill Park,NY
+  291, Johanna Dicerbo, 16,F,Niskayuna,NY
+  292, Drew Meka, 40,M,Canajoharie,NY
+  293, Laudric Maxwell, 58,M,Schenectady,NY
+  294, Matthew Fryer, 38,M,Clifton Park,NY
+  295, Joseph Cetnar, 41,M,Amsterdam,NY
+  296, Rick Knipper, 58,M,Niskayuna,NY
+  297, Steve Reddy, 53,M,Stuyvesant Falls,NY
+  298, John McGuinness, 50,M,Glenville,NY
+  299, Aj Carrier, 56,M,Rexford,NY
+  300, Norris Pearson, 52,M,Troy,NY
+  301, Coraline Falco, 41,F,Albany,NY
+  302, Mary Fenton, 53,F,Ballston Spa,NY
+  303, Patrick Douglass, 49,M,Canajoharie,NY
+  304, Jon Aery, 37,M,Rotterdam,NY
+  305, Courtney Labarge, 39,F,Cobleskill,NY
+  306, Billie McClosky, 16,F,Glenville,NY
+  307, Alex Davis, 27,M,Saratoga Springs,NY
+  308, Daniel Jeror, 32,M,Alplaus,NY
+  309, Scott Braun, 50,M,Fultonville,NY
+  310, Tom McGuire, 67,M,Slingerlands,NY
+  311, Melissa Grandjean, 39,F,Glenville,NY
+  312, Mark Sylvestre, 40,M,Mechanicville,NY
+  313, Kyle Bennett, 23,M,Ballston Lake,NY
+  314, Steve Dowd, 26,M,Cohoes,NY
+  315, Brendan Obrien, 59,M,Ithaca,NY
+  316, Ian Loehner, 37,M,Rhinebeck,NY
+  317, Seth Engel, 29,M,Round Lake,NY
+  318, Tom Jablonowski, 50,M,Voorheesville,NY
+  319, Darryl Bray, 45,M,Niskayuna,NY
+  320, Steve Eichler, 54,M,Oneonta,NY
+  321, Leah Schaffer, 34,F,Canajoharie,NY
+  322, Jessica Wenger, 30,F,Schenectady,NY
+  323, Nicole Viscusi, 33,F,Scotia,NY
+  324, Laura Kelly, 45,F,Albany,NY
+  325, Steve Morse, 55,M,Albany,NY
+  326, Doug Landon, 55,M,Amsterdam,NY
+  327, Daniel Rogers, 23,M,Rensselaer,NY
+  328, Akif Zaman, 39,M,Long Island City,NY
+  329, Richard Lounello, 54,M,Albany,NY
+  330, Joanna Tremper, 49,F,E Chatham,NY
+  331, Erin Murphy, 38,F,Albany,NY
+  332, Bill Krisher, 53,M,Scotia,NY
+  333, Wyatt Erchak, 28,M,Troy,NY
+  334, Don Chillrud, 59,M,Niskayuna,NY
+  335, Bob Mead, 69,M,East Greenbush,NY
+  336, Abby Watson, 39,F,Niskayuna,NY
+  337, Matthew Melsert, 64,M,Burnt Hills,NY
+  338, Herb Terns, 49,M,Schenectady,NY
+  339, Dave Glass, 72,M,Glenville,NY
+  340, Nicola MacNeil, 45,F,Rotterdam Junction,NY
+  341, Diane Montes Harris, 51,F,Troy,NY
+  342, Dan Keefe, 50,M,Delmar,NY
+  343, Melissa Carriero, 31,F,Albany,NY
+  344, Bruce Amm, 48,M,Clifton Park,NY
+  345, Deanne Webster, 42,F,Albany,NY
+  346, Damien Tristant, 30,M,Troy,NY
+  347, Nathan Kimmitt, 25,M,Troy,NY
+  348, Ashlie Graham, 31,F,Bristol,VT
+  349, Christopher Leavitt, 30,M,Schenectady,NY
+  350, Todd Seeberger, 44,M,Castleton On Hudso,NY
+  351, Peter Jones, 37,M,Niskayuna,NY
+  352, Ryan Kelley, 23,M,Guilderland,NY
+  353, Mark Keeling, 47,M,Guilderland,NY
+  354, Shiobbean Lemme, 51,F,Pittsfield,MA
+  355, Brian Worthington, 41,M,Waterford,NY
+  356, Nicholas Funk, 19,M,Kinderhook,NY
+  357, Sivakumaran Appanah, 46,M,Ballston Spa,NY
+  358, Sean Stahlman, 42,M,Averill Park,NY
+  359, Lee Briggs, 40,F,Ballston Spa,NY
+  360, Jo Kim, 29,F,Albany,NY
+  361, Todd Pikor, 45,M,Millis,MA
+  362, Stacie Hebert, 48,F,Schenectady,NY
+  363, Matthew Payne, 35,M,Pittsford,NY
+  364, Bruce Nelson, 50,M,Delanson,NY
+  365, Steven Nicoll, 45,M,Schenectady,NY
+  366, Christopher Rahn, 30,M,Albany,NY
+  367, Chris Jordan, 30,M,Schenectady,NY
+  368, Richard Hall, 34,M,Schenectady,NY
+  369, Jennifer Adams, 35,F,Selkirk,NY
+  370, Guy Spiers, 60,M,Niskayuna,NY
+  371, Adam Bell, 52,M,Nassau,NY
+  372, Todd Dykstra, 52,M,Voorheesville,NY
+  373, Jaqualyn Iardella, 33,F,Troy,NY
+  374, Elizabeth Veglia, 28,F,Saratoga Springs,NY
+  375, Laura Murray, 34,F,Melrose,NY
+  376, Lauren Williams, 28,F,Troy,NY
+  377, Patrick Ryan, 45,M,W. Sand Lake,NY
+  378, Tom Tiberio, 33,M,Scotia,NY
+  379, Keri McComb, 35,F,Albany,NY
+  380, Francesco Tropiano, 39,M,Cohoes,NY
+  381, Jonathan Newton, 38,M,Glenville,NY
+  382, Scott Piper, 30,M,Troy,NY
+  383, Jon Atwell, 53,M,Loudonville,NY
+  384, Catherine O'Loughlin, 33,F,Pleasantville,NY
+  385, Kate Thies, 42,F,Albany,NY
+  386, Gene Terwilliger, 51,M,Glenville,NY
+  387, Steven Palmer, 62,M,Bainbridge,NY
+  388, Charles Maurer, 53,M,Saratoga Springs,NY
+  389, Jim Sweeney, 54,M,Clifton Park,NY
+  390, John Glaser, 54,M,Niskayuna,NY
+  391, Russell Scott, 35,M,Schenectady,NY
+  392, Ben Verschueren, 42,M,Niskayuna,NY
+  393, Michael Lombardi, 44,M,Slingerlands,NY
+  394, Sara Lanesey, 32,F,Gansevoort,NY
+  395, Sean McMahan, 16,M,Schenectady,NY
+  396, Andrew Shave, 42,M,Saratoga Springs,NY
+  397, Alexander Kirby, 29,M,Schenectady,NY
+  398, Krystal Gallagher, 46,F,Pleasant Valley,NY
+  399, Kevin Vaillancourt, 41,M,Mt. Pleasant,MI
+  400, Traci Utter, 42,F,Niskayuna,NY
+  401, Catherine Gilbert, 46,F,Niskayuna,NY
+  402, Ray Framarin, 63,M,Valatie,NY
+  403, Sara Westcott, 34,F,Castleton,NY
+  404, Allison Bradley, 43,F,Albany,NY
+  405, Annette Romano, 54,F,Clifton Park,NY
+  406, Tiffany Wysocki, 29,F,Albany,NY
+  407, Liana Austin, 37,F,Niskayuna,NY
+  408, Virginia Larner, 46,F,Malta,NY
+  409, Anthony Lupo, 55,M,Ballston Spa,NY
+  410, Morgan Bowerman, 16,F,Delmar,NY
+  411, Frank Lanzillo Jr, 63,M,Troy,NY
+  412, Matthew Bell, 55,M,Wynantskill,NY
+  413, Adam Hoffman, 37,M,Clifton Park,NY
+  414, Jason Rivers, 43,M,Glens Falls,NY
+  415, Aaron Ambrosino, 47,M,Clifton Park,NY
+  416, Amy Shatsoff, 37,F,Delmar,NY
+  417, Emily Cech, 22,F,Albany,NY
+  418, Kelena Bechler, 25,F,Albany,NY
+  419, Megan Davis, 36,F,Argyle,NY
+  420, Margaret Gerardi, 26,F,Glenville,NY
+  421, Keara Lombardi, 43,F,Rensselaer,NY
+  422, Samantha Morris, 30,F,Cohoes,NY
+  423, Angela Stritt, 40,F,Delmar,NY
+  424, Angie Silipigno, 43,F,Rexford,NY
+  425, Thomas McCall, 40,M,McGraw,NY
+  426, Cathy Oldrich, 44,F,Valatie,NY
+  427, Anil Duggal, 52,M,Niskayuna,NY
+  428, Jeffrey Schwartz, 50,M,Saratoga Springs,NY
+  429, Bill Moreland, 53,M,Latham,NY
+  430, Graeme Dinneen, 34,M,Malta,NY
+  431, Kathryn Farley, 26,F,Glenville,NY
+  432, Bill Baird, 37,M,Kingston,NY
+  433, Neil Tyrrell, 43,M,Saratoga Springs,NY
+  434, Cathy Needleman, 52,F,Middleburgh,NY
+  435, Melissa Maguire, 45,F,Loudonville,NY
+  436, Meka Osterhoudt, 40,F,Cobleskill,NY
+  437, Jonathan Owens, 30,M,Glenville,NY
+  438, Sara Russell, 31,F,East Greenbush,NY
+  439, Kevin Radigan, 58,M,Burnt Hills,NY
+  440, Andrew Krupski, 28,M,Ballston Spa,NY
+  441, Kyle Camp, 37,M,Watervliet,NY
+  442, Matt Ryan, 45,M,Loudonville,NY
+  443, Dean Rowe, 45,M,Ghent,NY
+  444, Katrina Melei, 38,F,Glenmont,NY
+  445, Timothy Shannon, 40,M,Schenectady,NY
+  446, Anthony Anadio, 53,M,Latham,NY
+  447, Jason Winkler, 40,M,Schenectady,NY
+  448, Madyson Chamberas, 30,F,Cohoes,NY
+  449, Stephen Cupp, 44,M,Mechanicville,NY
+  450, Elizabeth Spiers, 57,F,Niskayuna,NY
+  451, Haley Pulli, 36,F,Gansevoort,NY
+  452, Ryan Knaupp, 27,M,Schenectady,NY
+  453, Ruth Sadinsky, 51,F,Albany,NY
+  454, Jeffrey Kuhn, 41,M,Delmar,NY
+  455, Michael Verdichizzi, 50,M,Glenmont,NY
+  456, Barbara Cutler, 43,F,Troy,NY
+  457, Jeremy McKay, 38,M,Jamesville,NY
+  458, William May, 51,M,Gansevoort,NY
+  459, Jessica Quinn, 15,F,Schenectady,NY
+  460, Andrea Robinson, 50,F,Glenmont,NY
+  461, Ray Webster, 43,M,Altamont,NY
+  462, Ryan Mitchell, 52,M,Troy,NY
+  463, Rose Lamport, 34,F,Hobart,NY
+  464, Rachael Austin, 34,F,Delmar,NY
+  465, Richard Kelly, 62,M,Schenectady,NY
+  466, Chris Kirby, 36,M,Schenectady,NY
+  467, John Yagielski, 49,M,Scotia,NY
+  468, Dennis Moore, 71,M,New Paltz,NY
+  469, Angel Maloney, 34,F,Troy,NY
+  470, Mary Wyatt, 48,F,Charlton,NY
+  471, Ronda Davis, 51,F,Newport,NY
+  472, Laurie Hoyt, 52,F,Schenectady,NY
+  473, Pamela Woods, 23,F,Schenectady,NY
+  474, Fran Matson, 52,F,Clifton Park,NY
+  475, Beth Whipple, 52,F,Nashua,NH
+  476, Jarrod Jourdin, 46,M,Scotia,NY
+  477, David Rettig, 54,M,Niskayuna,NY
+  478, Kelley Vite, 58,F,Clifton Park,NY
+  479, Sean Land, 46,M,Worcester,NY
+  480, Victoria Wagner, 44,F,Altamont,NY
+  481, Margaret Burke, 55,F,Schenectady,NY
+  482, Joel McFadden, 54,M,Charlton,NY
+  483, Michael Parsons, 55,M,Schenectady,NY
+  484, Matt Christensen, 30,M,Schenectady,NY
+  485, Todd Gray, 56,M,Voorheesville,NY
+  486, Raymond Senecal, 29,M,Schenectady,NY
+  487, Robert Wither, 57,M,Schenectady,NY
+  488, Gregory Leder, 31,M,Niskayuna,NY
+  489, J Douglas McMahan, 46,M,Clifton Park,NY
+  490, Audrey Witter, 54,F,North Adams,MA
+  491, Magali Wardle, 41,F,Glenmont,NY
+  492, Robert Leonard, 56,M,Niskayuna,NY
+  493, Bryan Florkiewicz, 30,M,Glenville,NY
+  494, Wade Beltramo, 47,M,Niskayuna,NY
+  495, Abby Brown, 24,F,Menands,NY
+  496, Charlie Feldman, 40,M,Delmar,NY
+  497, Stacia Smith, 48,F,Niskayuna,NY
+  498, Sherry Amarel, 51,F,Rensselaer,NY
+  499, Mike Langevin, 53,M,Albany,NY
+  500, Matthew Petro, 40,M,Rensselaer,NY
+  501, Carrie Hughes-Cromwic, 35,F,Saratoga Springs,NY
+  502, Stefan Smith, 48,M,Saratoga Springs,NY
+  503, Marisa Goddard, 30,F,Ballston Lake,NY
+  504, Melissa Greene, 39,F,Niskayuna,NY
+  505, Douglas Secor, 38,M,Scotia,NY
+  506, Martha Degrazia, 67,F,Slingerlands,NY
+  507, Jason Edwards, 41,M,Niskayuna,NY
+  508, Kacey Sornberger, 43,F,Albany,NY
+  509, Randy Jerreld, 58,M,Scotia,NY
+  510, Mike Otoole, 43,M,Mechanicville,NY
+  511, Gary Krisanda, 37,M,East Greenbush,NY
+  512, Anne Bethmann, 35,F,Liverpool,NY
+  513, Andy Heck, 52,M,Amsterdam,NY
+  514, Steve Garzone, 41,M,Troy,NY
+  515, Angela Suflita, 29,F,Schenectady,NY
+  516, David Karandy, 51,M,Saratoga Springs,NY
+  517, Joe Lefevre, 40,M,Latham,NY
+  518, Dan Cunningham, 47,M,Delmar,NY
+  519, Steve Janack, 56,M,Glenville,NY
+  520, Daniel Flanagan, 52,M,Galway,NY
+  521, Linda Ferguson, 57,F,Middle Grove,NY
+  522, Jenna Collisson, 26,F,Hoboken,NJ
+  523, Sarah Moorfoot, 33,F,Clifton Park,NY
+  524, Elizabeth Moore, 35,F,Rexford,NY
+  525, Dave Cole, 61,M,Troy,NY
+  526, Jennifer Betsworth, 32,F,Troy,NY
+  527, Shawn Owens, 40,M,Albany,NY
+  528, Sarah Pulcher, 40,F,Selkirk,NY
+  529, Kelli Schuhl, 46,F,Charlton,NY
+  530, Natalie Zhu, 12,F,Niskayuna,NY
+  531, Bill Marinello, 60,M,Slingerlands,NY
+  532, Ge Ce Zhu, 41,M,Niskayuna,NY
+  533, Lindsey Goodell, 27,F,Niskayuna,NY
+  534, Mark Rumbutis, 36,M,Dalton,MA
+  535, James Christian, 36,M,Albany,NY
+  536, Andy Laporta, 46,M,Clifton Park,NY
+  537, Tim Mulligan, 45,M,Pittsfield,MA
+  538, Tammy McCall, 40,F,McGraw,NY
+  539, Rachael Morrissey, 36,F,Selkirk,NY
+  540, Scott Simonson, 59,M,Clifton Park,NY
+  541, Amy Van Der Kar, 42,F,Averill Park,NY
+  542, Paul Houlihan, 45,M,Saratoga Springs,NY
+  543, Amy Dunnavant, 43,F,Guilderland,NY
+  544, John Funk, 52,M,Kinderhook,NY
+  545, Suzanne Guiod, 50,F,Manlius,NY
+  546, Katie Melsert, 32,F,Burnt Hills,NY
+  547, Kimberly Goodwin, 55,F,Glenville,NY
+  548, Claudia Greco, 45,F,Clifton Park,NY
+  549, Bernice Ruzzo, 49,F,Schenectady,NY
+  550, Thomas Sisson, 57,M,Malta,NY
+  551, Bridget Cotugno, 52,F,Malta,NY
+  552, Michelle Richardson, 48,F,Stuyvesant Falls,NY
+  553, Ernie Yue, 39,M,Halfmoon,NY
+  554, Mercedez Young, 18,F,Athol,MA
+  555, Thomas Bronchetti, 53,M,Slingerlands,NY
+  556, Francine Fredette, 50,F,Glenmont,NY
+  557, Erika Oesterle, 67,F,Stamford,NY
+  558, Lauren Herbs, 56,F,Rexford,NY
+  559, Shane Squires, 49,M,Clifton Park,NY
+  560, Lauren Cosamano, 39,F,Voorheesville,NY
+  561, Drew Aiello, 51,M,Clifton Park,NY
+  562, Matthew Ciske, 40,M,Albany,NY
+  563, Christine Chung, 51,F,Glenmont,NY
+  564, Kevin Corrigan, 55,M,Palenville,NY
+  565, Thomas Pearsall, 38,M,Menands,NY
+  566, Sara Salony, 34,F,Niskayuna,NY
+  567, Robin Avery, 62,F,Adams,MA
+  568, Christopher Liberati-C, 41,M,Chatham,NY
+  569, Janice Phoenix, 57,F,Schenectady,NY
+  570, Chip Button, 66,M,Saratoga Springs,NY
+  571, Declan Houlihan, 17,M,Binghamton,NY
+  572, Christina Yager, 51,F,Troy,NY
+  573, Andrew Macknair, 37,M,Southborough,MA
+  574, Nancy Stevens, 58,F,Latham,NY
+  575, Lisa Macknair, 32,F,Southborough,MA
+  576, Jennifer Kehn, 31,F,Albany,NY
+  577, Erin Roy, 37,F,Scotia,NY
+  578, Scott Bishop, 48,M,Troy,NY
+  579, Joseph Orsini, 58,M,Schenectady,NY
+  580, Kerry Archer, 27,F,Glenville,NY
+  581, Michael Orsini, 45,M,Penfield,NY
+  582, Gary Longhi, 54,M,Albany,NY
+  583, Jeffrey Marx, 47,M,Castleton,NY
+  584, Mike Colloton, 39,M,Schenectady,NY
+  585, Liz Colloton, 38,M,Schenectady,NY
+  586, Meghan Stiehler, 44,F,Ballston Spa,NY
+  587, Patrick Teora, 30,M,Albany,NY
+  588, Matthew Kerwood, 49,M,Pittsfield,MA
+  589, Tatiana Hart, 31,F,Ballston Spa,NY
+  590, Kim Sack, 61,F,Schenectady,NY
+  591, Joann Lynch, 52,F,Dalton,MA
+  592, Kim Baker, 57,F,Pittsfield,MA
+  593, Heather Caruso, 43,M,Schenectady,NY
+  594, John Sutphin, 41,M,Loudonville,NY
+  595, Christopher Gorka, 58,M,Altamont,NY
+  596, Greg Coons, 52,M,Albany,NY
+  597, Alex Novicki, 40,M,Albany,NY
+  598, Rayne Rappazzo, 25,F,Cohoes,NY
+  599, Sean Stanley, 27,M,East Greenbush,NY
+  600, Lisa Beerle, 29,F,Schenectady,NY
+  601, Stephen Signore, 55,M,Schenectady,NY
+  602, Mike Merriman, 43,M,Clifton Park,NY
+  603, Craig Boyarsky, 32,M,Schenectady,NY
+  604, Lisa Pleban, 54,F,Gansevoort,NY
+  605, Mike Dewolfe, 29,M,Colonie,NY
+  606, Joanne Richardson, 57,F,Troy,NY
+  607, Juliana Speno, 25,F,Schenectady,NY
+  608, David Olsen, 66,M,Schenectady,NY
+  609, Jacob Koch, 25,M,Schenectady,NY
+  610, Brian Patneaude, 44,M,Glenville,NY
+  611, Thomas Kaczmarek, 34,M,Scotia,NY
+  612, Teddi Wilcox, 33,F,Schenectady,NY
+  613, Samantha Henrikson, 34,F,Albany,NY
+  614, Elliot Rauba, 34,M,Latham,NY
+  615, Joseph D'Aurizio, 35,M,Schenectady,NY
+  616, Corey Lehman, 37,M,Schenectady,NY
+  617, Morris Auster, 47,M,Niskayuna,NY
+  618, Jeff Wilcox, 43,M,Worcester,NY
+  619, Amanda Williams, 28,F,Kinderhook,NY
+  620, Robert Rausch, 49,M,Albany,NY
+  621, Lisa Rufo, 48,F,Buskirk,NY
+  622, Robyn Kaminski, 41,F,Rensselaer,NY
+  623, John Sawyer, 63,M,Glens Falls,NY
+  624, Melissa Carter, 48,F,Troy,NY
+  625, Jodi Plante, 44,F,Saratoga Springs,NY
+  626, Mark Shoemaker, 45,M,Slingerlands,NY
+  627, Melissa Gordon, 40,F,Troy,NY
+  628, Jason Pensabene, 42,M,Latham,NY
+  629, Una Larson, 41,F,Schenectady,NY
+  630, Jara Traina, 41,F,Glenmont,NY
+  631, Emily Cooper, 45,F,Gansevoort,NY
+  632, Kelly Donnelly, 38,F,Malta,NY
+  633, Wei Cai, 45,F,Niskayuna,NY
+  634, Thomas Toher, 39,M,Mechanicville,NY
+  635, Lindsay O'Brien, 29,F,Cohoes,NY
+  636, Ryan Shepard, 36,M,Schenectady,NY
+  637, Heather Defilippo, 37,F,Schenectady,NY
+  638, Karl Higby, 49,M,Schenectady,NY
+  639, Grace McGrath, 16,F,Selkirk,NY
+  640, Kiera Wissing, 16,F,Slingerlands,NY
+  641, Lennie Davis, 58,M,Newport,NY
+  642, Jamie Bocketti, 41,F,Niskayuna,NY
+  643, Tim Kirch, 53,M,Niskayuna,NY
+  644, Rob Trotta, 46,M,Ilion,NY
+  645, Geoffrey Cramer, 50,M,Drive,NY
+  646, Stefanie Pitts, 44,F,Schenectady,NY
+  647, Christopher Mastroiann, 36,M,Glenville,NY
+  648, Jason Sgarlata, 41,M,Schenectady,NY
+  649, Rachel Richards, 36,F,Watervliet,NY
+  650, Elisabeth Morton, 24,F,Burnt Hills,NY
+  651, Tim Fioretti, 42,M,Gloversville,NY
+  652, Lawrence Howard, 52,M,Sand Lake,NY
+  653, Kristin Zielinski, 38,F,Cohoes,NY
+  654, Lynn Fredericks, 52,F,Amsterdam,NY
+  655, Mark Howe, 57,M,East Greenbush,NY
+  656, Teresa Grant, 46,F,Glenville,NY
+  657, Don Byerly, 52,M,Schenectady,NY
+  658, Andrew Mavian, 51,M,Niskayuna,NY
+  659, Kelly Sullivan, 39,F,Schenectady,NY
+  660, Kerry Verschueren, 42,F,Niskayuna,NY
+  661, Dale Nixon, 42,M,Delmar,NY
+  662, Daniel Larson, 67,M,Queensbury,NY
+  663, Lori Peek, 56,F,Schenectady,NY
+  664, Hope Plavin, 60,F,Saratoga Springs,NY
+  665, Vincent Kirby, 62,M,Mechanicville,NY
+  666, Brian Richardson, 41,M,Niskayuna,NY
+  667, Luke Dosiek, 36,M,Niskayuna,NY
+  668, Stephen Casavant, 46,M,South Glens Falls,NY
+  669, John Webber, 63,M,Ballston Spa,NY
+  670, Gary Dansfield, 64,M,Schenectady,NY
+  671, Mike Haverly, 52,M,Clifton Park,NY
+  672, Mike Pitnell, 57,M,Niskayuna,NY
+  673, Michael Van Allen, 39,M,Kinderhook,NY
+  674, Thomas Jones, 43,M,West Charlton,NY
+  675, Curt Woodcock, 65,M,Johnstown,NY
+  676, Katie Gifford, 37,F,Gloversville,NY
+  677, Kaitlin O'Keefe, 34,F,Schenectady,NY
+  678, Margaret Van Allen, 37,F,Kinderhook,NY
+  679, Alexandria McCall, 11,F,McGraw,NY
+  680, Alissa Mullins, 43,F,Valatie,NY
+  681, George Morris, 29,M,Schenectady,NY
+  682, Shannon Young, 32,F,Utica,NY
+  683, Tamara Harrow, 49,F,Niskayuna,NY
+  684, Carolann Koleci, 46,F,Albany,NY
+  685, Jill Gobel, 48,F,Ballston Spa,NY
+  686, Raelee Grimm, 37,F,Altamont,NY
+  687, Ashley Van Patten, 29,F,Schenectady,NY
+  688, Frances Ness, 38,F,Schenectady,NY
+  689, Rebecca Lyons, 36,F,Schenectady,NY
+  690, Denis Hurley, 55,M,Delmar,NY
+  691, Karen Sonnelitter, 37,F,Cohoes,NY
+  692, Ravi Chauhan, 42,M,Albany,NY
+  693, Kathy Gregoire, 58,F,Elizabethtown,NY
+  694, Megin Miller, 33,F,Kinderhook,NY
+  695, Jim Lofthouse, 63,M,Ballston Spa,NY
+  696, Thomas Hunter, 73,M,Troy,NY
+  697, Carl Aery, 41,M,Broadalbin,NY
+  698, Roger Lishnoff, 37,M,Hartsdale,NY
+  699, Sarah Vogel, 48,F,Slingerlands,NY
+  700, Anita Decianni-Brown, 53,F,Green Island,NY
+  701, Stephanie Davis, 48,F,Saratoga Springs,NY
+  702, Sharon Desrochers, 64,F,Ballston Lake,NY
+  703, Alan Ng, 39,M,Albany,NY
+  704, Jennifer Nechamen, 27,F,Troy,NY
+  705, Carolyn George, 64,F,Albany,NY
+  706, Laura Sochia, 32,F,Mechanicville,NY
+  707, Susan Shah, 52,F,Slingerlands,NY
+  708, Kara Wohlleber, 41,F,Averill Park,NY
+  709, Kristen Cameron, 49,F,Scotia,NY
+  710, Jean Berry, 34,F,Delmar,NY
+  711, Philip Giltner, 55,M,Kinderhook,NY
+  712, Shannon Pageau, 45,F,Rensselaer,NY
+  713, Amy Kennedy, 50,F,Groton,CT
+  714, Bill Farry, 65,M,Pittsfield,MA
+  715, Casey Norton, 24,M,Brookline,MA
+  716, Melissa Carroll, 34,F,Albany,NY
+  717, Raymond Capogna, 47,M,Rexford,NY
+  718, Kristin Capogna, 42,F,Rexford,NY
+  719, Hailey McCall, 13,F,McGraw,NY
+  720, Susan Schaefer, 60,F,West Sand Lake,NY
+  721, Brian Wiersma, 59,M,Glenville,NY
+  722, Jaimie Weiss, 40,F,Watervliet,NY
+  723, Charles Piotrowski, 49,M,Niskayuna,NY
+  724, Jim Pepin, 68,M,Glenmont,NY
+  725, Lynsee Siniski, 32,F,Cohoes,NY
+  726, Sally O'Connor, 38,F,Voorheesville,NY
+  727, Joseph Mastroianni, 33,M,Troy,NY
+  728, Lori Santilli, 53,F,Scotia,NY
+  729, Gina Heid, 48,F,Ballston Spa,NY
+  730, Beau Adkins, 38,F,Glenville,NY
+  731, Timothy Oconnor, 60,M,Loudonville,NY
+  732, Steven Luttman, 32,M,Saratoga Springs,NY
+  733, Cheryl Olsen, 66,F,Schenectady,NY
+  734, Justin Selby, 36,M,Amsterdam,NY
+  735, Cara Corneau, 35,F,Jeffersonville,VT
+  736, Steven Welch, 58,M,Slingerlands,NY
+  737, Megan Wordelmann, 38,F,Saratoga Springs,NY
+  738, Gregory Bachinsky, 57,M,Latham,NY
+  739, Jeff Many, 60,M,Saratoga Springs,NY
+  740, Max Paul, 22,M,Saranac Lake,NY
+  741, Lenka Torres, 36,F,Niskayuna,NY
+  742, Margaret Sawyer, 54,F,Glens Falls,NY
+  743, Theresa Rousseau, 52,F,Clifton Park,NY
+  744, Linda Dedominicis, 50,F,Albany,NY
+  745, Shawn Krutz, 53,M,Gloversville,NY
+  746, Karen Cusato, 50,F,Schenectady,NY
+  747, James Dwyer, 56,M,Niskayuna,NY
+  748, Jim Miller, 67,M,Clay,NY
+  749, Maura Kristel, 39,F,Amsterdam,NY
+  750, Stephen Obermayer, 57,M,Burnt Hills,NY
+  751, Laura McMillen, 31,F,Ballston Lake,NY
+  752, Rachelle Colloton, 36,F,Schenectady,NY
+  753, Mark Colloton, 36,M,Schenectady,NY
+  754, Daniel Orsini, 41,M,Niskayuna,NY
+  755, Julia Smith, 17,F,Schenectady,NY
+  756, Allison Payne, 34,F,Pittsford,NY
+  757, Balakrishna Meenakshis, 43,M,Malta,NY
+  758, Christopher Manley, 39,M,Worcester,NY
+  759, Subrina Jendrasiak, 35,F,Ballston Spa,NY
+  760, Heather Hughes, 39,F,Ballston Spa,NY
+  761, Olga Cross, 40,F,Niskayuna,NY
+  762, Paula Bott, 44,F,Clifton Park,NY
+  763, Erica Pisano, 39,F,Ballston Lake,NY
+  764, Tammy Bernstein, 46,F,West Sand Lake,NY
+  765, Mia Cooper, 16,F,Gansevoort,NY
+  766, Rachel Seaman, 16,F,Fort Edward,NY
+  767, Scott Stevens, 61,M,Charlton,NY
+  768, James Larkin, 71,M,Clifton Park,NY
+  769, George Balogh, 47,M,Averill Park,NY
+  770, Leo Dipierro, 68,M,Cherry Plain,NY
+  771, Dawn Renslow, 51,F,Castleton,NY
+  772, Jennifer Rodrigue, 35,F,Porter Corners,NY
+  773, James Hopsicker, 50,M,Schenectady,NY
+  774, Carrie Lenic, 38,F,Schenectady,NY
+  775, Katherine Cummings, 52,F,Bennington,VT
+  776, Joseph Bopp, 53,M,Albany,NY
+  777, Heidi Glazier, 56,F,Slingerlands,NY
+  778, Mary Flagg, 34,F,Glenmont,NY
+  779, Michael White, 46,M,Greenwich,NY
+  780, Leah Spoar, 35,F,Saint Johnsville,NY
+  781, Stephanie Winkelhake, 46,F,Averill Park,NY
+  782, Robert Sack, 58,M,Burnt Hills,NY
+  783, Madison Lee, 41,M,Wynantskill,NY
+  784, Alex Chlopecki Ii, 47,M,Greenwich,NY
+  785, Maureen Roberts, 60,F,Saratoga Springs,NY
+  786, Jeroen Staudt, 43,M,Saratoga Springs,NY
+  787, Rachel Dykstra, 25,F,Voorheesville,NY
+  788, Katherine Chwazik-Cush, 27,F,Melrose,NY
+  789, Mary Kennedy, 60,F,Williamstown,MA
+  790, Michael Verdichizzi, 20,M,Glenmont,NY
+  791, Denise Cavanaugh, 61,F,Whitesboro,NY
+  792, Brendan McKenna, 48,M,Latham,NY
+  793, Jessica Vennard, 26,F,Albany,NY
+  794, Jonathan Lapoint, 26,M,Albany,NY
+  795, Erika Ries, 42,F,Menands,NY
+  796, Chelsea Bolles, 33,F,Saratoga Springs,NY
+  797, Ron Moraski, 50,M,Waterford,NY
+  798, Jeff Peterson, 63,M,Voorheesville,NY
+  799, Stephanie Molloy, 34,F,Voorheesville,NY
+  800, Colleen Williams, 44,F,Latham,NY
+  801, Thomas McTernan, 63,M,Scotia,NY
+  802, Shig Hosoyama, 51,M,Latham,NY
+  803, Anne Hurley, 55,F,Delmar,NY
+  804, Peter Fish, 59,M,Castleton,NY
+  805, David Spina, 69,M,Glenville,NY
+  806, Deboorah Orsini, 50,F,Schenectady,NY
+  807, Rich Burke, 55,M,Schenectady,NY
+  808, Elizabeth Burke, 29,F,Fishkill,NY
+  809, Heather Rogers, 41,F,Niskayuna,NY
+  810, Omar Williams, 32,M,Troy,NY
+  811, Kelly Grace, 31,F,East Greenbush,NY
+  812, Brad Austin, 48,M,Albany,NY
+  813, Carie Anderson, 46,F,Schenectady,NY
+  814, Sarah Reed-Esper, 53,F,Slingerlands,NY
+  815, Daniel Esper, 58,M,Slingerlands,NY
+  816, Christopher Ashley, 56,M,Niskayuna,NY
+  817, Susan Taylor, 59,F,Sand Lake,NY
+  818, Daniel Dufresne, 43,M,Castleton,NY
+  819, Caitlin Casey, 34,F,Schenectady,NY
+  820, Kati Cooke, 41,F,Niskayuna,NY
+  821, Mitch Beyer, 24,M,Clifton Park,NY
+  822, Susanne Gerstenbluth, 46,F,Niskayuna,NY
+  823, Gail Rubinstein, 50,F,Saratoga Springs,NY
+  824, Carolina Gil, 35,F,Glendale,NY
+  825, Ann Byer, 53,F,Stillwater,NY
+  826, Jessica Guido, 31,F,Mechanicville,NY
+  827, Monique Jacobs, 58,F,Latham,NY
+  828, Sue Blood, 58,F,Queensbury,NY
+  829, Jerry Woods, 47,M,Clifton Park,NY
+  830, Tricia Hunter, 36,F,Troy,NY
+  831, Cynthia Frisoni, 40,F,Scotia,NY
+  832, Colleen Wilber Kincaid, 40,F,Washington,DC
+  833, Chris Hebbard, 43,M,Glenville,NY
+  834, Lori Scarafile, 49,F,Clifton Park,NY
+  835, Andrea Betts, 53,F,Clifton Park,NY
+  836, Rose Meehan, 25,F,Rensselaer,NY
+  837, Steve Chamberlin, 34,M,Delmar,NY
+  838, Ali Chamberlin, 34,F,Delmar,NY
+  839, Karen Cotten, 62,F,Farmingville,NY
+  840, John Brunner, 52,M,Schenectady,NY
+  841, Lauren Capece, 34,F,Troy,NY
+  842, Michael Bromm, 58,M,Valley Falls,NY
+  843, Tom Verret, 54,M,Schenectady,NY
+  844, Chester Tumidajewicz, 64,M,Amsterdam,NY
+  845, Albert Jagoda, 67,M,Amsterdam,NY
+  846, Jamie Davenport, 34,F,Guilerland,NY
+  847, Megan Wegener, 38,F,Malta,NY
+  848, Joe Yavonditte, 69,M,Schenectady,NY
+  849, Mike Hickey, 61,M,Pittsfield,MA
+  850, Jeffrey Haff, 63,M,Clifton Park,NY
+  851, Kimberly Dumont, 53,F,Loudonville,NY
+  852, Heather Gregg, 37,F,Niskayuna,NY
+  853, Kelly Zurakowski, 37,F,Glenville,NY
+  854, Patrick Dicerbo, 52,M,Niskayuna,NY
+  855, Harry Nagata, 53,M,Cohoes,NY
+  856, Cindy Jensen, 60,F,Loudonville,NY
+  857, Ramfis Montalvo, 33,M,Albany,NY
+  858, Joseph Kennedy, 37,M,Groton,CT
+  859, Jonathan Wolf, 13,M,Clifton Park,NY
+  860, Susan Wong, 70,F,Glenmont,NY
+  861, Stephen Camino, 55,M,Schenectady,NY
+  862, Maureen Florio, 55,F,Rotterdam Junction,NY
+  863, Alissa O'Sullivan, 36,F,Scotia,NY
+  864, Chuck Curiano, 63,M,Schenectady,NY
+  865, Kristin Quinn, 36,F,Latham,NY
+  866, Amy Hebbard, 40,F,Glenville,NY
+  867, Dawn Brennan, 40,F,Albany,NY
+  868, Krishnat Patil, 50,M,Ballston Lake,NY
+  869, Jessica Lamendola, 29,F,Troy,NY
+  870, Richard Pufpaff, 62,M,Loudonville,NY
+  871, Lola Murray, 42,F,Castleton,NY
+  872, Darlene Cardillo, 65,F,Delmar,NY
+  873, Ruth McClosky, 40,F,Glenville,NY
+  874, Sonoma Pelton, 43,F,Delanson,NY
+  875, Audrey Paslow, 31,F,Clifton Park,NY
+  876, Kim Farrow, 61,F,Charlton,NY
+  877, Katie McNamara, 29,F,Albany,NY
+  878, Kristen Lennon-Mcmahan, 37,F,Clifton Park,NY
+  879, Jordan Vogl, 29,M,Schenectady,NY
+  880, Ronald Marsh, 59,M,Amsterdam,NY
+  881, Lara Comithier, 51,F,Greenville,NY
+  882, Edward Bown, 77,M,Broadalbin,NY
+  883, Samantha Legere, 28,F,Schenectady,NY
+  884, John Jurenko, 47,M,Brooklyn,NY
+  885, Bela Musits, 64,M,Queensbury,NY
+  886, Joe Hayes, 70,M,Portsmouth,NH
+  887, Megan Collins, 41,F,Niskayuna,NY
+  888, Kaleigh Higgins, 24,F,Niskayuna,NY
+  889, Michael Holley, 67,M,Ballston Lake,NY
+  890, Laura Nesbit, 49,M,Bennington,VT
+  891, Caitlin Holley, 36,F,Glenville,NY
+  892, Jenny Lee, 58,F,Selkirk,NY
+  893, Deanna Zammiello, 34,F,Schenectady,NY
+  894, William Izzo, 60,M,Lake Placid,NY
+  895, Christine Eisenhower, 32,F,Schenectady,NY
+  896, Mike Ostrander, 50,M,Ballston Lake,NY
+  897, Amy Jessup, 53,F,Glenville,NY
+  898, Ralph Battle, 57,M,Schenectady,NY
+  899, Thomas Ostrander, 54,M,Saratoga Springs,NY
+  900, Kristin Crawley, 52,F,Poestenkill,NY
+  901, Jordan Rakoske, 35,M,Charlton,NY
+  902, Chuck Schissler, 38,M,Schenectady,NY
+  903, Colleen Walsh, 62,F,Troy,NY
+  904, Erin Roberts, 38,F,Albany,NY
+  905, Susan Hua-Connell, 36,F,Mechanicville,NY
+  906, Catheryne Boel, 26,F,Rensselaer,NY
+  907, Bryan Cherry, 48,M,Niskayuna,NY
+  908, Kimberly Kilby, 40,F,Niskayuna,NY
+  909, Scott Collins, 67,M,Barneveld,NY
+  910, Julia Tighe, 41,F,Albany,NY
+  911, Maryann Kelley, 53,F,Schenectady,NY
+  912, Katie Klink, 21,F,Schenectady,NY
+  913, Patricia Paone, 55,F,Scotia,NY
+  914, Antonietta Rarick, 44,F,Delmar,NY
+  915, Brian Adelson, 52,M,Gansevoort,NY
+  916, David Heyward, 64,M,Wynantskill,NY
+  917, Susan Huston, 56,F,Troy,NY
+  918, Joseph Crowe, 38,M,Hudson,NY
+  919, Anthony Barksdale, 54,M,Gloversville,NY
+  920, Brian Vogel, 43,M,Delmar,NY
+  921, Sara Baldwin, 32,F,Albany,NY
+  922, Marilyn Pickett, 52,F,Clifton Park,NY
+  923, Victoria Braunstein, 46,F,Niskayuna,NY
+  924, Cara Wolff, 44,F,Niskayuna,NY
+  925, Andrea Lane, 26,F,Albany,NY
+  926, Kate Vallecorsa, 31,F,Clifton Park,NY
+  927, Greg Vallecorsa, 33,M,Clifton Park,NY
+  928, Kimberly Nuzzi, 45,F,Glenville,NY
+  929, Mary Beth Conroy, 52,F,Halfmoon,NY
+  930, Scott Jeffers, 35,M,Johnstown,NY
+  931, Valerie Kline, 56,F,Amsterdam,NY
+  932, Sally Dewes, 53,F,Glenville,NY
+  933, Maleesa Santos, 25,F,Albany,NY
+  934, Lori Santos, 57,F,Albany,NY
+  935, Stephanie Baird, 37,F,Kingston,NY
+  936, Rui Chen, 43,F,Clifton Park,NY
+  937, Reychel Webster, 23,F,Stuyvesant,NY
+  938, Daniel Meade, 44,M,Latham,NY
+  939, Daniel Morgan, 52,M,Schenectady,NY
+  940, Elizabeth Sweet, 39,F,East Greenbush,NY
+  941, Melissa Tiberio, 32,F,Scotia,NY
+  942, Kimberly Milberg, 40,F,Roxbury,MA
+  943, Colleen Sheehan, 53,F,Cobleskill,NY
+  944, Christopher Heine, 36,M,Schenectady,NY
+  945, Bridget Graber, 44,F,Wynantskill,NY
+  946, Jeevarathna Ayyamperum, 46,M,Albany,NY
+  947, Alison Nickford, 25,F,Glenmont,NY
+  948, Paul Thompson, 55,M,Troy,NY
+  949, Meg Scognamiglio, 19,F,Scotia,NY
+  950, Wyatt Cayer, 19,M,Scotia,NY
+  951, Mark Sullivan, 53,M,Niskayuna,NY
+  952, Megan McCabe, 34,F,Saratoga Springs,NY
+  953, Scott McCabe, 33,M,Saratoga Springs,NY
+  954, Deb Valois, 47,F,Schenectady,NY
+  955, Corey Ennis, 32,F,Ballston Spa,NY
+  956, Kelly Dean, 36,F,Delmar,NY
+  957, Elayne Livote, 61,F,Saratoga Springs,NY
+  958, Jackie Steciuk, 27,F,Troy,NY
+  959, Tracy Breslin, 43,F,Niskayuna,NY
+  960, Mary Ann Haigh, 52,F,Crogha,NY
+  961, Laura Weiskotten, 27,F,Waterbury,VT
+  962, Matt Rousseau, 59,M,Clifton Park,NY
+  963, Margaret McMahan, 45,F,Schenectady,NY
+  964, Maria Oakden, 37,F,Broadalbin,NY
+  965, Linda Maloney, 53,F,Ballston Spa,NY
+  966, Annamarie Anderson, 24,F,Clifton Park,NY
+  967, Allison Pouliot, 55,F,Bristol,VT
+  968, David Miller, 41,M,Schenectady,NY
+  969, Eugene Sneeringer, 64,M,Slingerlands,NY
+  970, Vicki Scanlon, 32,F,Albany,NY
+  971, Rachel Tierney, 32,F,Gansevoort,NY
+  972, Meleah Wright, 36,F,Watervliet,NY
+  973, Martin Patrick, 64,M,East Greenbush,NY
+  974, Stacey Terry, 47,F,Niskayuna,NY
+  975, Max Diorio, 37,M,Valatie,NY
+  976, David Dibelius, 71,M,Lake George,NY
+  977, Nicole Quackenbush, 43,F,Loudonville,NY
+  978, Debra Kelley, 65,F,Albany,NY
+  979, Lizzie Redkey, 49,F,Latham,NY
+  980, Thomas Bortscheller, 49,M,Averill Park,NY
+  981, Elaine West, 35,F,Albany,NY
+  982, Sean Neville, 36,M,Halfmoon,NY
+  983, Kelly Gallo, 34,F,San Rafael,CA
+  984, Lauren Patneaude, 39,F,Schenectady,NY
+  985, Chris Gallo, 36,M,San Rafael,CA
+  986, Rachael Degnan, 24,F,Altamont,NY
+  987, Kathy Slyer, 49,F,Averill Park,NY
+  988, Sarah Johnson, 45,F,Glenville,NY
+  989, Joleen Kuemmel, 38,F,Waterford,NY
+  990, Benjamin Shaw, 47,M,Glenville,NY
+  991, Kara Donohue, 41,F,Altamont,NY
+  992, Rchard Baluch, 73,M,Delanson,NY
+  993, Eric Reed, 39,M,West Coxsackie,NY
+  994, Samantha Pommer, 29,F,Niskayuna,NY
+  995, Jeff Michael, 40,M,Cropseyville,NY
+  996, Autumn Wallace, 41,F,Troy,NY
+  997, Keri Jones, 39,F,Richmondville,NY
+  998, Jo Ann Pommer, 57,F,Duanesburg,NY
+  999, Kim Pommer, 34,F,Schenectady,NY
+ 1000, Nicole Casale, 34,F,Cohoes,NY
+ 1001, Meredith Roesch, 35,F,Mechanicville,NY
+ 1002, Mary Kenney, 47,F,Troy,NY
+ 1003, Trevor Moore, 34,M,Falls Church,VA
+ 1004, Lindsay Miller, 34,F,Albany,NY
+ 1005, Ronald Dyess, 43,M,Albany,NY
+ 1006, Jennifer Pedersen, 35,F,Scotia,NY
+ 1007, Carrie Buetow, 42,F,Glenville,NY
+ 1008, Alicia Deruscio, 23,F,Fonda,NY
+ 1009, Jaime Luciano, 40,F,Gloversville,NY
+ 1010, Daniel Gaidasz, 43,M,Ballston Spa,NY
+ 1011, Tricia Johnston, 57,F,Ballston Lake,NY
+ 1012, Rich Tanchyk, 66,M,Saratoga Springs,NY
+ 1013, Andrew Gladwin, 46,M,Niskayuna,NY
+ 1014, Kathleen Tersigni, 48,F,Burnt Hills,NY
+ 1015, Trevor Kincaid, 35,M,Washington,DC
+ 1016, Misty Guthinger, 38,F,Amsterdam,NY
+ 1017, Christopher Johnson, 61,M,Pittsfield,MA
+ 1018, Marybeth Heneghan, 30,F,West Coxsackie,NY
+ 1019, Karen Danko, 41,F,Niskayuna,NY
+ 1020, Conor Gillis, 30,M,Albany,NY
+ 1021, Madeline Herrick, 26,F,Guilderland,NY
+ 1022, Dustin Crewell, 43,M,Troy,NY
+ 1023, Marielle Postava-Davig, 38,F,Bennington,VT
+ 1024, Kelly Ryan, 39,F,Albany,NY
+ 1025, Tom Layne, 28,M,Fultonville,NY
+ 1026, Martin Rowley, 70,M,Latham,NY
+ 1027, Joan Celentano, 65,F,Schenectady,NY
+ 1028, Eric Wohlleber, 41,M,Averill Park,NY
+ 1029, Claire Sherwood, 43,F,Averill Park,NY
+ 1030, Jessica Minbiole, 40,F,Cropseyville,NY
+ 1031, Richard Romano, 51,M,Saratoga Springs,NY
+ 1032, Richele Mollica, 44,F,Johnstown,NY
+ 1033, Kimberly Berg, 32,F,Schenectady,NY
+ 1034, Elisa Schneider, 52,F,Troy,NY
+ 1035, Jeannine Kaskoun, 47,F,Troy,NY
+ 1036, Rick Eckhardt, 59,M,Albany,NY
+ 1037, Barbara McMahon, 56,F,Dalton,MA
+ 1038, Susan Motler, 56,F,Rensselaer,NY
+ 1039, Elizabeth Oakes, 39,F,Schenectady,NY
+ 1040, Michael Guzzo, 42,M,Watervliet,NY
+ 1041, Marie Cater, 41,F,Middleburgh,NY
+ 1042, Bich Dudla, 35,F,Schenectady,NY
+ 1043, Pilar Arthur-Snead, 46,F,Albany,NY
+ 1044, Jennifer Lawrence, 59,F,Rensselaer,NY
+ 1045, Scott Mastroianni, 39,M,Albany,NY
+ 1046, Michele Bou Bourgeois, 48,F,Green Island,NY
+ 1047, John Serrell, 42,M,Clifton Park,NY
+ 1048, Steven Johnson, 67,M,Oneonta,NY
+ 1049, Barbara Connolly, 60,F,Delmar,NY
+ 1050, Margaret Zannitto, 34,M,Charlton,NY
+ 1051, Ed McCorry, 48,M,Alplaus,NY
+ 1052, Cynthia Lockrow, 46,F,Amsterdam,NY
+ 1053, David Morton, 56,M,Burnt Hills,NY
+ 1054, Sandra Morton, 55,F,Burnt Hills,NY
+ 1055, Jackie White, 51,F,Greenwich,NY
+ 1056, Abigail Macbeth, 28,F,Schenectady,NY
+ 1057, Nicol Cunningham, 48,F,Delmar,NY
+ 1058, Chris Mabon, 50,M,Nashua,NH
+ 1059, Katherine Ambrosio, 68,F,Delmar,NY
+ 1060, Jason Hover, 38,M,Mechanicville,NY
+ 1061, Medaalsa Beharry, 60,F,Albany,NY
+ 1062, Hilary Ciesielski, 39,F,Albany,NY
+ 1063, Karen Quinn, 54,F,Niskayuna,NY
+ 1064, Matthew Robinson, 37,M,Albany,NY
+ 1065, Kathleen Barclay, 41,F,Ballston Lake,NY
+ 1066, David Rook, 62,M,Delmar,NY
+ 1067, Sherry Douty, 48,F,Watervliet,NY
+ 1068, Chris Van Praag, 46,M,Clarksville,NY
+ 1069, Jennifer Curiano, 34,F,Schenectady,NY
+ 1070, Thomas Schweder, 60,M,Round Lake,NY
+ 1071, Cecilia Sanchez, 58,F,Glenmont,NY
+ 1072, Matt Mason, 31,M,Albany,NY
+ 1073, Cilicia Bigler, 38,F,Ballston Spa,NY
+ 1074, David Bigler, 38,M,Ballston Spa,NY
+ 1075, Morgan Herrick, 23,F,Saratoga Springs,NY
+ 1076, Sarah Mackintosh, 31,F,Schenectady,NY
+ 1077, Natalie Ruggiero, 38,M,Albany,NY
+ 1078, Ann Cunningham, 51,F,Delmar,NY
+ 1079, Meagan Vanderover, 35,F,Latham,NY
+ 1080, Erin Bokor, 42,F,Latham,NY
+ 1081, William Quinn, 58,M,Schenectady,NY
+ 1082, Carla Ward, 54,F,Clifton Park,NY
+ 1083, Stephen Mitchell, 77,M,Malta,NY
+ 1084, Jennifer Dean, 40,F,Rensselaer,NY
+ 1085, Suzanne Nealon, 68,F,Glens Falls,NY
+ 1086, Carol Shatley, 58,F,Schenectady,NY
+ 1087, Philip Whynot, 53,M,Herkimer,NY
+ 1088, Julie Rowlison, 34,F,Schenectady,NY
+ 1089, Peggy Beattie, 46,F,Rensselaer,NY
+ 1090, Nick Ruisi, 44,M,Ballston Lake,NY
+ 1091, Amy Daversa, 55,F,Schenectady,NY
+ 1092, Diane Thompson, 64,F,Cohoes,NY
+ 1093, Jennifer Waldek, 50,F,Clifton Park,NY
+ 1094, Kris Thorne, 68,F,Clifton Park,NY
+ 1095, Allison Clarke, 27,F,Troy,NY
+ 1096, Kevin Quinn, 35,M,Loudonville,NY
+ 1097, Katrina Lawrence, 36,F,Delmar,NY
+ 1098, Deborah Ratelle, 35,F,Hillsboro,OR
+ 1099, Erin Lasher, 41,F,Waterford,NY
+ 1100, Mike Keane, 44,M,Colonie,NY
+ 1101, Tom Robinson, 47,M,Troy,NY
+ 1102, Diana Schwartz, 53,F,Fort Plain,NY
+ 1103, Judy Lynch, 69,F,Castleton,NY
+ 1104, Trisha Bobowski, 39,F,Johnstown,NY
+ 1105, Rana Paulsen, 41,F,Altamont,NY
+ 1106, David Manley, 57,M,Hudson Falls,NY
+ 1107, Sharon Fellner, 57,F,Schenectady,NY
+ 1108, Susan Niefield, 66,F,Rexford,NY
+ 1109, Jennifer Edgar-Johnson, 42,F,Glenville,NY
+ 1110, Christina Friedman, 49,F,Niskayuna,NY
+ 1111, Peggy Norton, 40,F,Fort Edward,NY
+ 1112, Jill Paquette, 40,F,Ballston Lake,NY
+ 1113, Eleonora Morrell, 50,F,Clifton Park,NY
+ 1114, Jenifer Kish, 44,F,Albany,NY
+ 1115, Courtney Cowell, 26,F,Rockville,MD
+ 1116, Barbara Morbidelli, 51,F,Loudonville,NY
+ 1117, Robert Ward, 62,M,Albany,NY
+ 1118, Carolyn Chlopecki, 43,F,Greenwich,NY
+ 1119, Nicole Chlopecki, 43,F,Glenville,NY
+ 1120, Amy Hart, 57,F,Saratoga Springs,NY
+ 1121, Jeanne Michela, 59,F,Schenectady,NY
+ 1122, Tara Curran, 40,F,Nassau,NY
+ 1123, Linda Mensching-Quin, 51,F,Voorheesville,NY
+ 1124, Jean Lange, 52,F,Schenectady,NY
+ 1125, Jim Kambrich, 61,M,Glenmont,NY
+ 1126, Ralph Underwood III, 34,M,Niskayuna,NY
+ 1127, Rosemary Freeman, 41,F,Ballston Spa,NY
+ 1128, Jim Fiore, 71,M,Latham,NY
+ 1129, Kelly Allard, 38,F,Troy,NY
+ 1130, Diana Ceballos, 31,F,Schenectady,NY
+ 1131, Michelle Rocklein, 48,F,Delmar,NY
+ 1132, Alicia Palmer, 39,F,Durham,NY
+ 1133, Jeffery Cullen, 61,M,Cobleskill,NY
+ 1134, Amy Podesva, 26,F,Middle Grove,NY
+ 1135, Colin Crowley, 41,M,Ballston Spa,NY
+ 1136, John Prybylowski, 60,M,Ballston Lake,NY
+ 1137, Taylor Slone, 26,F,Saratoga Springs,NY
+ 1138, Mark Mindel, 66,M,Ballston Lake,NY
+ 1139, Garrett McCann, 58,M,Glenmont,NY
+ 1140, Kim Donohue, 50,F,Schenectady,NY
+ 1141, Joan Anderson, 44,F,Schenectady,NY
+ 1142, Richard Prew, 48,M,Fultonville,NY
+ 1143, Stephanie Nebesnak, 41,F,Pittsfield,MA
+ 1144, Crystal Beekman, 59,F,Johnstown,NY
+ 1145, Mary Lee Smaldone, 56,F,Gansevoort,NY
+ 1146, Brian Ferdinand, 49,M,Mechanicville,NY
+ 1147, David Stutsrim, 49,M,Delmar,NY
+ 1148, Laura Carney, 34,F,Schenectady,NY
+ 1149, Mary Bagwell, 51,F,Broadalbin,NY
+ 1150, Donna Charlebois, 60,F,East Berne,NY
+ 1151, John Shoemaker, 69,M,Scotia,NY
+ 1152, Jennifer Boyle, 54,F,Harpersfield,NY
+ 1153, Sandra Arcuri, 48,F,Deerfield,NY
+ 1154, Maryse Folmsbee, 61,F,Chatham,NY
+ 1155, Deborah Caswell, 52,F,Clifton Park,NY
+ 1156, Caitlyn Caswell, 24,F,Clifton Park,NY
+ 1157, Christina Coppola, 29,F,Guilderland,NY
+ 1158, Jonna Reamer, 29,F,Duanesburg,NY
+ 1159, Rich Daley, 71,M,Schenectady,NY
+ 1160, Sara Sperl, 43,F,Mohawk,NY
+ 1161, John White, 30,M,Schenectady,NY
+ 1162, Rosalie Clark, 46,F,Pattersonville,NY
+ 1163, Kellie Decker, 44,F,Saratoga Springs,NY
+ 1164, Martha Bolster, 56,F,Ewing,NJ
+ 1165, Shelly Graves, 39,F,Scotia,NY
+ 1166, Melissa Desantis, 44,F,Rensselaer,NY
+ 1167, Jennifer Merritt, 40,F,Rensselaer,NY
+ 1168, Kelly Cronkhite, 40,F,Rensselaer,NY
+ 1169, Lindsey Coons, 26,F,Hudson,NY
+ 1170, Amy Summers, 48,F,Niskayuna,NY
+ 1171, Monica Capogna, 35,F,Scotia,NY
+ 1172, Susan Harris, 70,F,Albany,NY
+ 1173, Jean Strong, 59,F,Albany,NY
+ 1174, Debra Rappazzo, 60,F,Cohoes,NY
+ 1175, Amanda Brinton, 41,F,Schenectady,NY
+ 1176, Judy Litt, 56,F,Latham,NY
+ 1177, Nicole Runyon, 33,F,Rensselaer,NY
+ 1178, Tara Kennedy, 35,F,Schenectady,NY
+ 1179, Martin Kittell, 64,M,East Greenbush,NY
+ 1180, Sara McShane, 26,F,Clifton Park,NY
+ 1181, Adriana Brown, 24,F,Green Island,NY
+ 1182, Dennis Wolf, 45,M,Clifton Park,NY
+ 1183, Brian Neddo, 51,M,Melrose,NY
+ 1184, Carol Hendrickson, 51,F,Schenectady,NY
+ 1185, Aubrey Salisbury, 34,F,Ravena,NY
+ 1186, Lane Pelletier, 59,M,Glenville,NY
+ 1187, Julie Turgeon, 45,F,Scotia,NY
+ 1188, Mari Petro, 45,F,Rensselaer,NY
+ 1189, Ashley Allsop, 32,F,Valatie,NY
+ 1190, Elizabeth Cregg, 38,F,Niskayuna,NY
+ 1191, Elizabeth Mahon, 41,F,Johnstown,NY
+ 1192, Nicole Holick, 36,F,Glenville,NY
+ 1193, Tabetha Angus, 32,F,Saint Johnsville,NY
+ 1194, Daniel Herrick, 49,M,Saratoga Springs,NY
+ 1195, Pamela Sutton, 48,F,Broadalbin,NY
+ 1196, Timothy Leonard, 69,M,Clifton Park,NY
+ 1197, Kimberly Pietkiewicz, 32,F,Rensselaer,NY
+ 1198, Brenda Fish, 52,F,Castleton,NY
+ 1199, Maureen Jukes, 52,F,Troy,NY
+ 1200, Trish Roeser, 64,F,Schenectady,NY
+ 1201, Paul Ardis, 35,M,Niskayuna,NY
+ 1202, Angela Capullo, 52,F,Scotia,NY
+ 1203, Mark Browne, 61,M,Kinderhook,NY
+ 1204, Desiree Pacuk, 55,F,Hannacroix,NY
+ 1205, Ashley Manzer, 23,F,Cohoes,NY
+ 1206, Jacob Brancasi, 34,M,Schenectady,NY
+ 1207, Steve Johnston, 67,M,Niskayuna,NY
+ 1208, James Waller, 33,M,Clifton Park,NY
+ 1209, Diane Darbyshire, 44,F,Albany,NY
+ 1210, Jessica Gammans, 38,F,Rotterdam,NY
+ 1211, Terry Folmsbee, 61,M,Chatham,NY
+ 1212, Annette Parisi, 41,F,Saratoga Springs,NY
+ 1213, Robyn Haberman, 42,F,Latham,NY
+ 1214, Carolyn Cadoret, 42,F,Schenectady,NY
+ 1215, Kelsey Butz, 30,F,Albany,NY
+ 1216, Jennifer Austen, 30,F,Albany,NY
+ 1217, Kaili Ebert, 17,F,Ballston Lake,NY
+ 1218, Susan Schoff, 27,F,Little Falls,NY
+ 1219, Mary Ann Serian, 64,F,Richmond,MA
+ 1220, Lisa Avila, 50,F,Rexford,NY
+ 1221, Casey Cregg, 39,M,Niskayuna,NY
+ 1222, Rebecca Daniels, 32,F,Schenectady,NY
+ 1223, Daniel Bonitatibus, 27,M,Schenectady,NY
+ 1224, Anne Reynolds, 50,F,Alplaus,NY
+ 1225, Corene Morehouse, 31,F,Broadalbin,NY
+ 1226, Kathryn Vass, 36,F,Goshen,NY
+ 1227, Rhonda Smith, 56,F,Latham,NY
+ 1228, Daniel Leonard, 51,M,Niskayuna,NY
+ 1229, Sara Meixner, 48,F,Scotia,NY
+ 1230, Jason MacDowell, 42,M,Ballston Spa,NY
+ 1231, Brian Shoemaker, 46,M,Glenville,NY
+ 1232, Kathryn Adams, 48,F,Delmar,NY
+ 1233, Maria Deangelo, 50,F,Saranac Lake,NY
+ 1234, Charles Snead, 54,M,Albany,NY
+ 1235, Sean Robbins, 68,M,Wynantskill,NY
+ 1236, Kathy Pacuk, 55,F,Hannacroix,NY
+ 1237, Brett Clark, 58,M,Saranac Lake,NY
+ 1238, Michelle Golonka, 51,F,Delmar,NY
+ 1239, Grayce Cunzio, 32,F,Schenectady,NY
+ 1240, Jessalyn Brodie, 33,F,Schenectady,NY
+ 1241, Kayla Brackett, 30,F,West Hartford,CT
+ 1242, Colleen Delay, 48,F,Niskayuna,NY
+ 1243, Sharon Beilinson, 55,F,Delmar,NY
+ 1244, Wendy Milligan, 55,F,Albany,NY
+ 1245, Larry Peleggi, 61,M,Colonie,NY
+ 1246, Tricia Faulkner, 38,F,Rexford,NY
+ 1247, Nanette Hatch, 53,F,Waterford,NY
+ 1248, Joanna Giltner, 57,F,Kinderhook,NY
+ 1249, Melanie Welch, 57,F,Slingerlands,NY
+ 1250, Patricia Frowein, 36,F,Albany,NY
+ 1251, Dianne Podesva, 48,F,Middle Grove,NY
+ 1252, Carolee Bennett, 46,F,Castleton,NY
+ 1253, Katie Dipierro, 42,F,Schenectady,NY
+ 1254, Jeff Campos, 29,M,Rotterdam,NY
+ 1255, Jessica Ferguson, 32,F,Jersey City,NJ
+ 1256, Scott Ferguson, 59,M,Latham,NY
+ 1257, Benjamin Van Wagner, 34,M,New York,NY
+ 1258, Mary Insogna, 45,F,Scotia,NY
+ 1259, Ted Close, 67,M,Wynantskill,NY
+ 1260, Sharon Close, 64,F,Wynantskill,NY
+ 1261, Michael Testa, 27,M,Schenectady,NY
+ 1262, Dani McMahon, 31,F,Rensselaer,NY
+ 1263, Bernice St Aimee-Ives, 45,F,Clifton Park,NY
+ 1264, Kory Long, 27,M,Fort Edward,NY
+ 1265, Scott Katzenmeyer, 48,M,Cleveland,OH
+ 1266, Anthony Mantello, 41,M,Latham,NY
+ 1267, Michael Benson, 43,M,Niskayuna,NY
+ 1268, Leila Tibi-Scherl, 41,F,Waterford,NY
+ 1269, Heather Cunningham, 41,F,Rotterdam,NY
+ 1270, Paul Coville, 69,M,Schenectady,NY
+ 1271, Maureen O'Brien, 48,F,Pattersonville,NY
+ 1272, Suzanne Forbes, 69,F,Valley Falls,NY
+ 1273, Mary Hayden-Cook, 55,F,Johnsonville,NY
+ 1274, Jennifer Schworm, 35,F,South Glens Falls,NY
+ 1275, Pamela Gould, 47,F,Queensbury,NY
+ 1276, Erika Cooper, 37,F,Frankfort,NY
+ 1277, Heidi Collins, 51,F,Hudson Falls,NY
+ 1278, Ann Schoff, 30,F,Rensselaer,NY
+ 1279, Michael Arrington, 53,M,Clifton Park,NY
+ 1280, Michal Pietkiewicz, 37,M,Rensselaer,NY
+ 1281, Victoria Candida, 24,F,Schenectady,NY
+ 1282, John Aldrich, 60,M,Dalton,MA
+ 1283, Bill Querbes, 66,M,Clifton Park,NY
+ 1284, Cheryl Hutchinson, 51,F,Clifton Park,NY
+ 1285, Wade Stockman, 83,M,Rensselaer,NY
+ 1286, Ryan Birch, 40,F,Menands,NY
+ 1287, Danise Linen, 39,F,Albany,NY
+ 1288, Raymond Lee Jr, 76,M,Halfmoon,NY
+ 1289, Alexandra Sa, 26,F,Schenectady,NY
+ 1290, Deanna Dugan, 61,F,Greenville,NY
+ 1291, Stacey Nolan, 51,F,Cohoes,NY
+ 1292, John Newell Jr, 66,M,Amsterdam,NY
+ 1293, Emily Franzen, 35,F,Albany,NY
+ 1294, Jeri Hassel, 62,F,Wynantskill,NY
+ 1295, Amy Powarzynski, 52,F,Westerlo,NY
+ 1296, Ken Ebert, 67,M,Ballston Lake,NY
+ 1297, Loretta Ebert, 71,F,Ballston Lake,NY
+ 1298, Jaime Scott, 42,F,East Greenbush,NY
+ 1299, Mary Signorelli, 56,F,Castleton On Hudso,NY
+ 1300, Donna Tan, 50,F,Wilton,NY
+ 1301, Kelly Saposnick, 44,F,Clifton Park,NY
+ 1302, Maria Weaver, 36,F,Schenectady,NY
+ 1303, Kacey Merhige, 37,F,East Greenbush,NY
+ 1304, Lori Beck, 44,F,Amsterdam,NY
+ 1305, Maggie Mason, 30,F,Albany,NY
+ 1306, Anny Stockman, 86,F,Rensselaer,NY
+ 1307, Ambrose Schaffer, 36,M,Canajoharie,NY
+ 1308, Amy Garner, 35,F,Nassau,NY
+ 1309, Laurie Bortscheller, 50,F,Averill Park,NY
+ 1310, Dana McReavy, 33,F,Niskayuna,NY
+ 1311, James Lateano, 44,M,Glenville,NY
+ 1312, Rebecca Wells, 44,F,Deltona,FL
+ 1313, Autumn Degoski, 22,F,Waterford,NY
+ 1314, Jeannine Salvo, 41,F,Scotia,NY
+ 1315, Ed Salvo, 73,M,Scotia,NY
+ 1316, Janet Wallace, 52,F,Thetford Center,VT
+ 1317, Eric Hamilton, 73,M,Clifton Park,NY
+ 1318, Linda Plante, 70,F,Middle Grove,NY

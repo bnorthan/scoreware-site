@@ -1,0 +1,119 @@
+
+MALE Age: 1 to 29
+1. Nicholas Curelgo MALE 1-29 12
+2. Ben Heller MALE 1-29 10
+3. Joseph Gottwald MALE 1-29 8
+4. Joseph Stinton MALE 1-29 7
+5. Steven Sparkes MALE 1-29 6
+6. Seth Engel MALE 1-29 5
+
+FEMALE Age: 1 to 29
+1. Michelle Davis FEMALE 1-29 12
+2. Ping Wong FEMALE 1-29 10
+3. Michelle Pratt FEMALE 1-29 8
+4. Jennifer Kehn FEMALE 1-29 7
+5. Allison Connor FEMALE 1-29 6
+6. Heather Graves FEMALE 1-29 5
+7. Ashleigh Nelson FEMALE 1-29 4
+8. Katie Hesler FEMALE 1-29 3
+9. Katelyn Mennella FEMALE 1-29 2
+10. Fiona Hayden FEMALE 1-29 1
+
+MALE Age: 30 to 39
+1. Thomas O'Grady MALE 30-39 12
+2. Jake Stookey MALE 30-39 10
+3. Dave Vona MALE 30-39 8
+4. Jim Sweeney MALE 30-39 7
+5. Joe Sullivan MALE 30-39 6
+6. Aaron Knobloch MALE 30-39 5
+7. Dallas Devries MALE 30-39 4
+8. David Newman MALE 30-39 3
+9. Jeff Thompson MALE 30-39 2
+10. Rob Ordish MALE 30-39 1
+
+FEMALE Age: 30 to 39
+1. Karen Bertasso FEMALE 30-39 12
+2. Kristen Quaresimo FEMALE 30-39 10
+3. Meghan Mortensen FEMALE 30-39 8
+4. Kari Deer FEMALE 30-39 7
+5. Liz Chauhan FEMALE 30-39 6
+6. Colleen Ottalagano-Mc FEMALE 30-39 5
+7. Liz Ricci FEMALE 30-39 4
+8. Erin Wrightson FEMALE 30-39 3
+9. Evan Kujawski FEMALE 30-39 2
+10. Molly Casey FEMALE 30-39 1
+
+MALE Age: 40 to 49
+1. Ken Plowman MALE 40-49 12
+2. Volker Burkowski MALE 40-49 10
+3. Robert Irwin MALE 40-49 8
+4. Andy Reed MALE 40-49 7
+5. James O'Connor MALE 40-49 6
+6. Jim Eaton MALE 40-49 5
+7. Rich Hamlin MALE 40-49 4
+8. Jon Rocco MALE 40-49 3
+9. Dan Murphy MALE 40-49 2
+10. Ken Tarullo MALE 40-49 1
+
+FEMALE Age: 40 to 49
+1. Erin Corcoran FEMALE 40-49 12
+2. Sally Drake FEMALE 40-49 10
+3. Karen Dolge FEMALE 40-49 8
+4. Kimberly Miseno FEMALE 40-49 7
+5. Colleen Murray FEMALE 40-49 6
+6. Terra Stone FEMALE 40-49 5
+7. Jill Koziol FEMALE 40-49 4
+8. Allison Bradley FEMALE 40-49 3
+9. Dana Harris FEMALE 40-49 2
+10. Lara Stelmaszyk FEMALE 40-49 1
+
+MALE Age: 50 to 59
+1. Derrick Staley MALE 50-59 12
+2. John Stadtlander MALE 50-59 10
+3. Brian Debraccio MALE 50-59 8
+4. Kevin Creagan MALE 50-59 7
+5. Tom Kracker MALE 50-59 6
+6. Brian Coyne MALE 50-59 5
+7. Mark Stephenson MALE 50-59 4
+8. Joseph Sullivan MALE 50-59 3
+9. Joe McDonald MALE 50-59 2
+10. John Parisella MALE 50-59 1
+
+FEMALE Age: 50 to 59
+1. Inge Aiken FEMALE 50-59 12
+2. Denise Iannazotto FEMALE 50-59 10
+3. Linda Kimmey FEMALE 50-59 8
+4. Maureen Fitzgerald FEMALE 50-59 7
+5. Kim Law FEMALE 50-59 6
+6. Lauren Herbs FEMALE 50-59 5
+7. Diane Hanson FEMALE 50-59 4
+8. Gail Doering FEMALE 50-59 3
+9. Colette Kerckvoor FEMALE 50-59 2
+10. Sherri Pigneti FEMALE 50-59 1
+
+MALE Age: 60 to 69
+1. Lee Pollock MALE 60-69 12
+2. Richard Clark MALE 60-69 10
+3. Juergen Reher MALE 60-69 8
+4. Will Smith MALE 60-69 7
+5. David Roy MALE 60-69 6
+6. Steve Vnuk MALE 60-69 5
+7. Frank Lombardo MALE 60-69 4
+8. Phil Wood MALE 60-69 3
+9. Joe Yavonditte MALE 60-69 2
+10. Tom McGuire MALE 60-69 1
+
+FEMALE Age: 60 to 69
+1. Martha Degrazia FEMALE 60-69 12
+2. Cathy Sliwinski FEMALE 60-69 10
+3. Joan Celentano FEMALE 60-69 8
+4. Susan Wong FEMALE 60-69 7
+5. Donna Lustenhovwer FEMALE 60-69 6
+6. Elaine Morris FEMALE 60-69 5
+7. Katherine Ambrosio FEMALE 60-69 4
+8. Cathy Soloyna FEMALE 60-69 3
+
+MALE Age: 70 to 99
+1. Jim Moore MALE 70-99 12
+
+FEMALE Age: 70 to 99
