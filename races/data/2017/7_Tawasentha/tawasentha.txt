@@ -1,0 +1,144 @@
+PLACE FIRST                   LAST                    SEX AGE CITY                ST    TIME     
+  1   Shaun                   Donegan                 m   31  Malta               ny      18:46  
+  2   Jim                     Sweeney                 m   36  Albany              ny      19:20  
+  3   Noah                    Valvo                   m   18  Delanson            ny      19:28  
+  4   Jake                    Stookey                 M   41  Clifton Park        ny      19:45  
+  5   Antonio                 Beltran                 m   16  Schenectady         ny      19:50  
+  6   Nick                    Webster                 m   28  Albany              ny      19:50  
+  7   Robert                  Irwin                   m   44  Guilderland         ny      20:02  
+  8   Francisco               Beltran                 m   16  Schenectady         ny      20:10  
+  9   Dan                     Jordy                   m   33  Glenville           ny      20:40  
+ 10   Peter                   Flynn                   m   40  Delmar              ny      21:08  
+ 11   Karen                   Bertasso                f   33  Albany              ny      21:17  
+ 12   Mark                    Stephenson              m   53  Esperence           ny      21:52  
+ 13   Anthony                 Roohan                  m   16  Rotterdam           ny      21:54  
+ 14   Daniel                  Smith                   m   40  Schenectady         ny      22:19  
+ 15   Derrick                 Staley                  m   58  Ballston Lake       ny      22:20  
+ 16   Yurgy                   Berdersley              m   45  Ballston Lake       ny      22:30  
+ 17   Jeremy                  McNamara                m   38  Albany              ny      22:40  
+ 18   Chris                   Herbison                    40  Guilderland         ny      22:49  
+ 19   Thomas                  Dansereau               m   30  Troy                ny      22:49  
+ 20   Paul                    Neter                   m   32  Guilderland         ny      25:03  
+ 21   Jake                    Wilson                  m   15  Pattersonville      ny      23:11  
+ 22   John-Richard            Dearstyne               m   16  Schenectady         ny      23:12  
+ 23   Irene                   Somerville              f   24  Wynantskill         ny      23:15  
+ 24   David                   List                    m   16  Pattersonville      ny      23:22  
+ 25   David                   Tromp                   m   42  Glenmont            ny      23:23  
+ 26   Todd                    McAuley                 m   49  Colonie             ny      23:28  
+ 27   Hernan                  Lopez                   m   52  Delmar              ny      23:50  
+ 28   Mark                    Courneen                m   34  Esperence           ny      23:51  
+ 29   Megan                   James                   f   28  Charlton            ny      23:55  
+ 30   David                   Hulbert                 m   19  Guilderland         ny      23:58  
+ 31   Alex                    James                   m   29  Charlton            ny      24:01  
+ 32   Kerry                   Flower                  f   17  Schenectady         ny      23:46  
+ 33   Martin                  Gordinier               m   47  Delmar              ny      24:09  
+ 34   Daniel                  Hodgkinson              m   22  Delmar              ny      24:11  
+ 35   David                   Roy                     m   62  Schodack            ny      24:14  
+ 36   Andy                    Pris                    m   41  Altamont            ny      24:31  
+ 37   Nate                    Mosick                  m   16  Schenectady         ny      24:40  
+ 38   Mark                    Nunez                   m   60  Ballston Lake       ny      24:39  
+ 39   Amy                     Luke                    f   23  Delmar              ny      24:40  
+ 40   Hunter                  Fallat                  m   16  Schenectady         ny      24:55  
+ 41   Michelle                Davis                   f   28  Watervliet          ny      25:14  
+ 42   Jon                     Rocco                   m   50  Colonie             ny      25:27  
+ 43   Chris                   Nowak                   m   42  Latham              ny      25:32  
+ 44   Jesse                   Robinson                m   15  Guilderland         ny      26:39  
+ 45   Dalton                  Reagan                  m   14  Schenectady         ny      25:40  
+ 46   Susan                   Thompson                f   50  Queensbury          ny      25:47  
+ 47   Andrew                  Lennox                  m   24  Delmar              ny      25:55  
+ 48   Mya                     Junn                    f   14  Rotterdam Junction  ny      25:57  
+ 49   Emily                   Pahl                    f   16  Schenectady         ny      25:58  
+ 50   Peggy                   McKeown                 f   59  Moreau              ny      26:00  
+ 51   Nick                    Willette                m   14  Schenectady         ny      26:13  
+ 52   Richard                 Clark                   m   63  Feeding Hills       ma      26:26  
+ 53   Jasper                  Travis                  m   10  East Greenbush      ny      26:29  
+ 54   Mike                    Miller                  m   39  Watervliet          ny      26:55  
+ 55   Randy                   Jerreld                 m   57  Scotia              ny      27:23  
+ 56   Ryan                    Dunham                  m   44  Fonda               ny      27:24  
+ 57   Mikayla                 Barrett                 f   19  Schenectady         ny      27:27  
+ 58   Rebekah                 Johnson                 f   24  Amsterdam           ny      27:40  
+ 59   Daniel                  Esper                   m   56  Slingerlands        ny      27:49  
+ 60   Christopher             Murphy                  m   60  Scotia              ny      27:48  
+ 61   Brian                   Dillenbeck              m   46  Alplaus             ny      27:50  
+ 62   Noname                  Robinson                m   20  Guilderland         ny      27:52  
+ 63   Janeen                  Lopez                   f   51  Delmar              ny      27:53  
+ 64   Matt                    Landy                   m   50  Glenmont            ny      28:04  
+ 65   Ed                      Drebitko                m   55  San Marcos          CA      28:25  
+ 66   Jess                    Terziall                m   26  Voorheesville       ny      28:27  
+ 67   Mark                    Shoemaker               m   44  Slingerlands        ny      28:59  
+ 68   Deborah                 Johnson                 f   22  Amsterdam           ny      29:18  
+ 69   Meghan                  Boyak                   f   32  Clifton Park        ny      29:19  
+ 70   Jordan                  Banks                   m   13  Schenectady         ny      29:26  
+ 71   Karen                   Dott                    f   61  Colonie             ny      29:39  
+ 72   Jackie                  Chromczak               f   29  Rensselaer          ny      29:50  
+ 73   Nicola                  MacNeil                 f   43  Rotterdam Junction  ny      29:55  
+ 74   Tom                     Bennett                 m   37  Altamont            ny      30:02  
+ 75   Caitlin                 Buzas                   f   16  Schenectady         ny      30:06  
+ 76   Saleem                  Naiha                   m   43  Slingerlands        ny      30:10  
+ 77   Susan                   Denham                  f   13  Glenville           ny      30:20  
+ 78   Brittney                Riggins                 f   17  Rotterdam Junction  ny      30:15  
+ 79   Tom                     Tift                    m   59  New Lebanon         ny      30:20  
+ 80   Dave                    Wilber                  m   58  East Greenbush      ny      30:20  
+ 81   Olivia                  Armstrong               f   18  Schenectady         ny      30:25  
+ 82   Dave                    Cole                    m   59  North Greenbush     ny      30:26  
+ 83   Amber                   Travis                  f   8   East Greenbush      ny      30:37  
+ 84   David                   Travis                  m   45  East Greenbush      ny      30:37  
+ 85   Seamus                  Hodgkinson              m   69  Delmar              ny      30:55  
+ 86   Jim                     Maney                   m   59  Schenectady         ny      31:06  
+ 87   Richard                 Kelly                   m   60  Schenectady         ny      31:19  
+ 88   Martha                  DeGrazia                f   66  Slingerlands        ny      31:27  
+ 89   Sharon                  Desrochers              f   62  Ballston Lake       ny      31:35  
+ 90   Elizabeth               MacNeil                 f   16  Rotterdam Junction  ny      31:43  
+ 91   Tanner                  Litts                   m   11  Schenectady         ny      31:50  
+ 92   Karen                   Blesser                 f   48  Schenectady         ny      31:50  
+ 93   Leah                    Glorman                 f   51  Delmar              ny      31:56  
+ 94   Kathleen                Beeman                  f   56  Niskayuna           ny      32:08  
+ 95   Gill                    Sellida                 f   42  Niskayuna           ny      32:08  
+ 96   Gary                    Robinson                m   54  Guilderland         ny      32:18  
+ 97   Katie                   Kurtessis               f   27  Albany              ny      32:27  
+ 98   Terry                   List                    m   51  Pattersonville      ny      32:31  
+ 99   Michelle                Pendergast              f   44  Troy                ny      32:40  
+100   Greg                    Byrns                   m   43  Niskayuna           ny      32:48  
+101   Richard                 Baluch                  m   71  Delanson            ny      33:07  
+102   Esther                  Denham                  f   53  Glenville           ny      33:20  
+103   Tom                     Pris                    m   13  Altamont            ny      33:26  
+104   Amelia                  MacNeil                 f   13  Rotterdam Junction  ny      33:25  
+105   Darlene                 Sinclair                f   57  East Schodack       ny      33:38  
+106   Daniel                  McConnelee              m   38  Schenectady         ny      33:40  
+107   Lindsay                 McConnelee              f   35  Schenectady         ny      33:40  
+108   Chris                   Terzian                 m   55  Albany              ny      33:51  
+109   Paula                   Boughtwood              f   56  Rensselaer          ny      33:57  
+110   Peter                   Taft                    m   52  Clifton Park        ny      34:12  
+111   Gabby                   Falco                   f   20  Delmar              ny      35:00  
+112   Meghan                  Burns                   f   24  Delmar              ny      35:00  
+113   Sarah                   Rees-Esper              f   52  Slingerlands        ny      35:08  
+114   Edwin                   Litts                   m   67  Schenectady         ny      35:31  
+115   Rebekah                 M                       f   39  Glenville           ny      35:45  
+116   David                   Phillips                m   46  Schenectady         ny      35:47  
+117   Steven                  Nicholson               m   55  Schenectady         ny      35:48  
+118   David                   Huse                    m   19  Slingerlands        ny      35:49  
+119   Krysta                  MacDonell               f   35  Glenville           ny      36:30  
+120   Kay                     Byrne                   f   52  Slingerlands        ny      37:15  
+121   Peter                   Thomas                  m   69  Delmar              ny      37:17  
+122   Roxanne                 Gillen                  f   54  Port Charlotte      fl      37:21  
+123   Cathy                   Murphy                  f   59  Scotia              ny      38:08  
+124   Kathleen                Goldberg                f   58  Schenectady         ny      38:57  
+125   Shawn                   Shopmyer                m   38  Niskayuna           ny      39:15  
+126   Johanna                 Shopmyer                f   34  Niskayuna           ny      39:16  
+127   Jeff                    Huse                    m   62  Slingerlands        ny      39:17  
+128   Anan                    Williams                m   24  Altamont            ny      39:10  
+129   Steve                   Obermayr                m   56  Burnt Hills         ny      39:50  
+130   Tim                     Daley                   m   31  Troy                ny      40:48  
+131   Suzy                    Pris                    f   41  Altamont            ny      41:18  
+132   Johanna                 Huse                    f   21  Guilderland         ny      42:02  
+133   Ray                     Lee                     m   75  Halfmoon            ny      42:15  
+134   Ed                      Gillen                  m   60  Port Charlotte      fl      42:16  
+135   Becky                   Phillips                f   49  Schenectady         ny      42:40  
+136   Larry                   Peleggi                 m   59  Colonie             ny      44:56  
+137   Kathleen                Tersgni                 f   46  Burnt Hills         ny      45:10  
+138   Phyllis                 Fox                     f   65  Loudonville         ny      45:25  
+139   Hannah                  Huse                    f   26  Guilderland         ny      48:40  
+140   Hailey                  Miles                   f   12  Lake George         ny      48:46  
+141   Jacob                   Morehouse               m   11  Watervliet          ny      49:50  
+142   William                 Daley                   m   49  Watervliet          ny      49:55  
+143   Anny                    Stockman                f   80  East Greenbush      ny      55:30 

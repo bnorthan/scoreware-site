@@ -1,0 +1,1451 @@
+PLACE,AGE,SEX,CITY,ST,TIME,PACE,FIRST_NAME,LAST_NAME
+1,25,M,Brighton,MA,45:23,4:53,Louis,Serafini
+2,25,M,New Fairfield,CT,45:30,4:53,John,Raneri
+3,24,M,Woonsocket,RI,45:50,4:56,Jake,Sienko
+4,22,M,Morrisonville,NY,46:20,4:59,Daniel,Lennon
+5,24,M,Manchester,CT,46:50,5:02,John,Busque
+6,27,M,New Haven,CT,47:36,5:07,Jonas,Hampton
+7,25,M,Boulder,CO,48:00,5:09,Jonathan,Aziz
+8,27,M,Ballston Spa,NY,48:27,5:12,Eric,Macknight
+9,23,M,New Woodstock,NY,48:49,5:15,Jacob,Andrews
+10,28,M,Albany,NY,49:07,5:17,Cole,Sanseverino
+11,26,M,Albany,NY,49:31,5:19,Matt,Brooker
+12,26,M,Saratoga Springs,NY,49:45,5:21,Alex,Benway
+13,24,M,Buffalo,NY,49:58,5:22,Dylan,Lowry
+14,26,M,Buffalo,NY,50:18,5:24,Greg,Selke
+15,46,M,Rochester,NY,50:20,5:24,Mark,Andrews
+16,23,M,Burlington,VT,50:23,5:25,Nicholas,Grudev
+17,31,M,Malta,NY,50:44,5:27,Shaun,Donegan
+18,37,M,Niskayuna,NY,50:59,5:29,Anthony,Giuliano
+19,40,M,Clifton Park,NY,51:53,5:34,Jake,Stookey
+20,28,M,Albany,NY,52:05,5:36,Aaron,Lozier
+21,48,M,Bennington,VT,52:08,5:36,Tim,Van Orden
+22,26,F,Saratoga Springs,NY,52:24,5:38,Hannah,Davidson
+23,27,M,Albany,NY,52:41,5:40,Nick,Webster
+24,46,M,Ossining,NY,53:20,5:44,Joseph,Ekuom
+25,42,M,Troy,NY,53:29,5:45,James,Oconnor
+26,17,M,Schenectady,NY,53:32,5:45,Aidan,Canavan
+27,18,M,Niskayuna,NY,53:33,5:45,Charles,Ragone
+28,50,M,Pittsfield,MA,53:36,5:45,Kent,Lemme
+29,22,M,Ilion,NY,53:57,5:48,Stephen,Paddock
+30,28,M,Nassau,NY,54:06,5:49,Richard,Messineo
+31,19,M,Albany,NY,54:08,5:49,Ryan,Fox
+32,23,M,Albany,NY,54:12,5:49,Matt,Ninneman
+33,51,M,Clifton Park,NY,55:06,5:55,John,Stadtlander
+34,41,M,Altamont,NY,55:14,5:56,Ray,Webster
+35,37,M,Rexford,NY,55:31,5:58,John,Gleeson
+36,37,M,Delmar,NY,55:40,5:59,Michael,Cooley
+37,43,M,Guilderland,NY,55:49,6:00,Robert,Irwin
+38,45,M,Gansevoort,NY,55:55,6:00,Volker,Burkowski
+39,17,M,Scotia,NY,56:06,6:02,Jacob,Greski
+40,38,M,Slingerlands,NY,56:08,6:02,Tucker,Chrapowitzky
+41,17,M,Colonie,NY,56:10,6:02,Branden,McAuley
+42,33,M,Schenectady,NY,56:32,6:04,Daniel,Jordy
+43,29,M,Schenectady,NY,56:37,6:05,Mark,Kopecki
+44,23,F,Queensbury,NY,56:39,6:05,Brittany,Winslow
+45,23,M,Hudson,NY,56:46,6:06,Brendan,Connor
+46,28,M,Albany,NY,56:48,6:06,Ben,Heller
+47,41,M,Endicott,NY,56:50,6:06,Daniel,Cavalari
+48,36,F,Averill Park,NY,56:51,6:06,Mollie,Turner
+49,50,M,Troy,NY,56:51,6:06,Ryan,Mitchell
+50,17,M,Delanson,NY,56:57,6:07,Noah,Valvo
+51,31,F,Lititz,PA,57:03,6:08,Katie,O'Regan
+52,44,M,Saratoga Springs,NY,57:04,6:08,Kristofer,Johnson
+53,45,M,Clifton Park,NY,57:04,6:08,Bill,Hamel
+54,17,M,Niskayuna,NY,57:05,6:08,Joseph,Quinn
+55,25,F,Boston,MA,57:09,6:08,Katie,Messina
+56,15,M,Clifton Park,NY,57:14,6:09,Max,Hoffman
+57,43,M,Albany,NY,57:24,6:10,Mathew,Nark
+58,44,M,Duanesburg,NY,57:30,6:11,Dennis,Vanvlack
+59,19,M,Ballston Spa,NY,57:38,6:11,Christian,Canham
+60,15,M,Schenectady,NY,57:38,6:11,Isaac,Menis
+61,53,M,Sheffield,MA,57:39,6:12,Mike,Spitzer
+62,58,M,Schenectady,NY,57:42,6:12,Thomas,Dalton
+63,32,F,Albany,NY,57:44,6:12,Karen,Bertasso
+64,19,F,Troy,NY,57:49,6:13,Courtney,Breiner
+65,44,M,Broadalbin,NY,58:09,6:15,Randall,Cannell
+66,28,F,Norwich,CT,58:12,6:15,Brittany,Griffin
+67,42,F,Clifton Park,NY,58:13,6:15,Renee,Tolan
+68,52,M,Esperance,NY,58:17,6:16,Mark,Stephenson
+69,22,M,Schenectady,NY,58:23,6:16,Bram,Peterson
+70,58,M,Ballston Lake,NY,58:23,6:16,Derrick,Staley
+71,17,M,Scotia,NY,58:35,6:18,Kyle,Jerreld
+72,37,M,Schenectady,NY,58:45,6:19,Joseph,Sullivan
+73,29,M,Clifton Park,NY,58:57,6:20,Daniel,Dick
+74,45,M,Niskayuna,NY,58:58,6:20,Andy,Reed
+75,25,F,Albany,NY,58:59,6:20,Hannah,Brooker
+76,31,M,Ilion,NY,59:05,6:21,Michael,Polidori
+77,42,F,Schenectady,NY,59:12,6:22,Erin,Corcoran
+78,34,M,Canajoharie,NY,59:26,6:23,Ambrose,Schaffer
+79,24,M,Amsterdam,NY,59:38,6:24,Ian,Thane
+80,41,M,Albany,NY,59:49,6:25,Michael,Dinicola
+81,57,M,Ballston Spa,NY,59:54,6:26,John,Noonan
+82,46,M,Dalton,MA,59:55,6:26,Brian,Gibbons
+83,28,M,Albany,NY,59:59,6:27,Alan,Finder
+84,22,F,Slingerlands,NY,1:00:04,6:27,Sara,Buckley
+85,41,M,Guilderland,NY,1:00:05,6:27,Brian,Northan
+86,25,M,New York,NY,1:00:05,6:27,Kyle,Brayton
+87,52,M,Delmar,NY,1:00:09,6:28,Thomas,Kracker
+88,46,M,Schenectady,NY,1:00:12,6:28,Craig,Tynan
+89,27,M,Clifton Park,NY,1:00:15,6:28,Timothy,Ela
+90,31,F,Arlington,MA,1:00:18,6:29,Alexandra,Mindel
+91,49,M,Deerfield,NY,1:00:19,6:29,Paul,Humphrey
+92,53,M,Sprakers,NY,1:00:20,6:29,Craig,Dubois
+93,53,F,Portland,OR,1:00:28,6:30,Susan,Hay
+94,37,M,Yorkville,NY,1:00:33,6:30,Thomas,Joslin
+95,38,M,Altamont,NY,1:00:33,6:30,Brian,White
+96,40,M,Selkirk,NY,1:00:47,6:32,Steven,Imbriaco
+97,29,F,Albany,NY,1:00:51,6:32,Nicole,Soblosky
+98,39,M,Cohoes,NY,1:00:58,6:33,Dallas,Devries
+99,48,M,Delmar,NY,1:01:00,6:33,Ken,Tarullo
+100,38,M,Loudonville,NY,1:01:00,6:33,Paul,Flayter
+101,57,M,Granville,NY,1:01:00,6:33,William,Venner
+102,22,M,Albany,NY,1:01:10,6:34,Kyle,McCormack
+103,42,M,Delmar,NY,1:01:13,6:35,Daniel,Murphy
+104,61,M,Hopewell Junctio,NY,1:01:18,6:35,Kevin,Dollard
+105,33,M,Niskayuna,NY,1:01:19,6:35,Jeffrey,Hayes
+106,22,F,Penfield,NY,1:01:20,6:35,Leila,Mantilla
+107,37,M,Rensselaer,NY,1:01:24,6:36,Christopher,Scovill
+108,23,M,Rexford,NY,1:01:25,6:36,Christopher,Herbs
+109,58,M,Lakewood,NY,1:01:27,6:36,Robert,Liebers
+110,26,F,Troy,NY,1:01:30,6:36,Erin,Hatton
+111,24,F,Lake Placid,NY,1:01:34,6:37,Elizabeth,Izzo
+112,40,M,Albany,NY,1:01:37,6:37,Matt,Zappen
+113,43,M,Clifton Park,NY,1:01:42,6:38,Greg,Ethier
+114,52,M,Schenectady,NY,1:01:46,6:38,Ed,Menis
+115,49,M,Castleton,NY,1:01:50,6:38,John,Pusateri
+116,22,F,Delmar,NY,1:01:51,6:39,Christie,Macfarlane
+117,51,M,Malta,NY,1:02:01,6:40,Craig,Evans
+118,50,F,Wysox,PA,1:02:12,6:41,Lori,Kingsley
+119,27,M,Schenectady,NY,1:02:14,6:41,Andrew,Bray
+120,47,M,Saratoga Springs,NY,1:02:18,6:42,John,Genevich
+121,44,M,Ballston Lake,NY,1:02:20,6:42,Yuriy,Benderskiy
+122,17,M,Schenectady,NY,1:02:26,6:42,Holden,Maynard
+123,16,M,Hadley,NY,1:02:27,6:42,Nathaniel,Hartley
+124,27,F,Charlton,NY,1:02:34,6:43,Megan,James
+125,46,M,Loudonville,NY,1:02:41,6:44,Matthew,Christensen
+126,67,M,Tivoli,NY,1:02:45,6:44,Tim,Haley
+127,53,M,Johnsonville,NY,1:02:47,6:45,John,Sestito
+128,37,M,Utica,NY,1:02:49,6:45,Cory,Battles
+129,27,M,Springfield,MA,1:02:50,6:45,Peter,Conboy
+130,43,M,Slingerlands,NY,1:02:57,6:46,Jonathan,Golden
+131,28,M,Schenectady,NY,1:02:57,6:46,Alex,Macbeth
+132,48,M,Colonie,NY,1:02:59,6:46,Todd,McAuley
+133,30,F,Albany,NY,1:03:03,6:46,Lisa,Chase
+134,30,F,Ballston Lake,NY,1:03:09,6:47,Jessy,Montrose
+135,48,M,Saratoga Springs,NY,1:03:16,6:48,Rik,Woldring
+136,15,M,Charlton,NY,1:03:19,6:48,Ryan,Sheppard
+137,48,M,Albany,NY,1:03:22,6:48,John,Williams-Searl
+138,50,M,Troy,NY,1:03:32,6:49,George,Burke
+139,28,F,Watervliet,NY,1:03:44,6:51,Michelle,Davis
+140,43,M,Schodack Landing,NY,1:03:50,6:51,Thomas,Fraser
+141,46,M,Rexford,NY,1:03:53,6:52,Rick,Zachgo
+142,15,M,Burnt Hills,NY,1:04:09,6:53,Ryan,Leech
+143,18,M,Glenmont,NY,1:04:10,6:54,Sebastian,Vanderbec
+144,51,M,Albany,NY,1:04:10,6:54,Kevin,Creagan
+145,14,M,Niskayuna,NY,1:04:11,6:54,Tom,Ragone
+146,39,M,Cohoes,NY,1:04:12,6:54,Daniel,Brady
+147,50,F,Queensbury,NY,1:04:13,6:54,Susan,Thompson
+148,47,M,Oriskany,NY,1:04:15,6:54,Daniel,Pierson
+149,42,M,Schenectady,NY,1:04:18,6:54,William,Dodds
+150,26,F,Schenectady,NY,1:04:18,6:54,Abigail,Macbeth
+151,26,F,Albany,NY,1:04:19,6:54,Katlin,Mock
+152,49,M,Clifton Park,NY,1:04:24,6:55,Bill,Hoffman
+153,41,F,Albany,NY,1:04:27,6:55,Michelle,Lavigne
+154,57,F,Burnt Hills,NY,1:04:29,6:56,Beth,Stalker
+155,53,M,Ballston Lake,NY,1:04:40,6:57,Steven,Atkins
+156,23,F,Saratoga Springs,NY,1:04:46,6:57,Sarah,Popovitch
+157,31,M,Saratoga Springs,NY,1:04:47,6:57,Matthew,Gaschel
+158,32,M,Clifton Park,NY,1:04:49,6:58,Joseph,Murphy
+159,29,M,Albany,NY,1:04:54,6:58,Pat,Rizzo
+160,17,M,Binghamton,NY,1:04:54,6:58,Aidan,Houlihan
+161,26,M,Albany,NY,1:05:00,6:59,Ryan,Sullivan
+162,32,F,Albany,NY,1:05:01,6:59,Elizabeth,Chauhan
+163,32,M,Delmar,NY,1:05:02,6:59,Brian,Lusignan
+164,43,M,Troy,NY,1:05:05,6:59,Christopher,Sohn
+165,41,M,Schenectady,NY,1:05:06,7:00,Steven,Maynard
+166,36,M,Albany,NY,1:05:08,7:00,David,Newman
+167,46,F,Valatie,NY,1:05:09,7:00,Karen,Dolge
+168,35,M,Clifton Park,NY,1:05:15,7:00,Joseph,Osso Jr
+169,14,M,Delanson,NY,1:05:18,7:01,George,Atanasov
+170,54,M,Amsterdam,NY,1:05:19,7:01,Glenn,Pizarro
+171,39,M,Scotia,NY,1:05:20,7:01,Jonathan,Guthan
+172,29,M,Ballston Lake,NY,1:05:20,7:01,Ping,Wong
+173,15,F,Delanson,NY,1:05:22,7:01,Elaine,Atanasova
+174,57,M,Latham,NY,1:05:25,7:01,Scott,Ferguson
+175,40,F,Albany,NY,1:05:29,7:02,Deanne,Webster
+176,17,M,Albany,NY,1:05:39,7:03,Francis,Criscione
+177,43,M,Menands,NY,1:05:44,7:04,Steven,Nicoll
+178,24,F,Guilderland,NY,1:05:48,7:04,Amy,Babeu
+179,28,M,Saratoga Springs,NY,1:05:50,7:04,Greg,Hart
+180,37,F,Clifton Park,NY,1:05:54,7:05,Shelly,Binsfeld
+181,29,M,Schenectady,NY,1:05:56,7:05,Michael,Franke
+182,58,M,Schenectady,NY,1:05:58,7:05,John,Parisella
+183,43,F,Scotia,NY,1:06:01,7:05,Tina,Greene
+184,46,M,Gansevoort,NY,1:06:01,7:05,John,Pecora
+185,31,M,Rome,NY,1:06:02,7:06,Matthew,Muttillo
+186,31,F,Glenville,NY,1:06:03,7:06,Meghan,Mortensen
+187,44,F,Clifton Park,NY,1:06:05,7:06,Shanley,Alber
+188,43,M,Slingerlands,NY,1:06:05,7:06,Dean,Geesler
+189,32,F,Albany,NY,1:06:11,7:06,Molly,Casey
+190,50,M,Kenmore,NY,1:06:14,7:07,Timothy,Connelly
+191,40,M,Clifton Park,NY,1:06:15,7:07,David,Czarnecki
+192,49,M,Mechanicville,NY,1:06:21,7:08,David,Troischt
+193,56,M,Montreal,QC,1:06:25,7:08,Germain,Boivin
+194,43,M,Syracuse,NY,1:06:26,7:08,Grant,Allen
+195,18,M,Clifton Park,NY,1:06:27,7:08,Conor,Newton
+196,57,M,Ballston Lake,NY,1:06:32,7:09,Jamie,Casline
+197,22,M,Albany,NY,1:06:41,7:10,Chris,Soufleris
+198,23,M,Scotia,NY,1:06:42,7:10,Bobby,Gallant
+199,32,M,Clifton Park,NY,1:06:50,7:11,Jonathan,Louden
+200,70,M,Glenville,NY,1:06:51,7:11,Dave,Glass
+201,40,M,Schenectady,NY,1:07:01,7:12,Marc,Andryuk
+202,51,M,Glenville,NY,1:07:01,7:12,Paul,Moore
+203,40,M,Clifton Park,NY,1:07:03,7:12,Joshua,Katzman
+204,30,F,Clifton Park,NY,1:07:04,7:12,Meghan,Louden
+205,56,M,Scotia,NY,1:07:07,7:13,Michael,Murtagh
+206,33,M,Albany,NY,1:07:12,7:13,Carl,Brewer
+207,45,M,Nassau,NY,1:07:13,7:13,Brett,Fajen
+208,24,F,Troy,NY,1:07:23,7:14,Amanda,Ryan
+209,56,M,Clifton Park,NY,1:07:23,7:14,Charles,Stewart
+210,35,M,Brookline,MA,1:07:30,7:15,Josh,Good
+211,40,F,Clifton Park,NY,1:07:34,7:15,Erin,Gregory
+212,17,F,Kinderhook,NY,1:07:40,7:16,Macy,Keegan
+213,28,F,Redding,CT,1:07:42,7:16,Katie,Horan
+214,42,M,Glenmont,NY,1:07:44,7:16,Phil,Chirkis
+215,52,M,Voorheesville,NY,1:07:47,7:17,Gary,Longhi
+216,42,M,Saratoga Springs,NY,1:07:48,7:17,Michael,Bracken
+217,50,F,Queensbury,NY,1:07:50,7:17,Patty,Moore
+218,38,M,Pittsfield,MA,1:07:52,7:17,Mike,Giulian
+219,23,F,Schenectady,NY,1:07:55,7:18,Erin,Macbeth
+220,40,M,Mohawk,NY,1:07:57,7:18,Paul,Cirillo
+221,59,M,Middle Grove,NY,1:08:02,7:18,Myron,Ferguson
+222,58,M,Delmar,NY,1:08:11,7:19,Daniel,Nugent
+223,51,M,Dalton,MA,1:08:15,7:20,Steve,Roberts
+224,55,F,Albany,NY,1:08:16,7:20,Colleen,Brackett
+225,60,M,Schenectady,NY,1:08:19,7:20,Richard,Kelly
+226,30,M,Schenectady,NY,1:08:25,7:21,Christopher,Mannato
+227,22,M,Schenectady,NY,1:08:25,7:21,Benjamin,Butryn
+228,53,M,Altamont,NY,1:08:27,7:21,Brian,Borden
+229,53,M,Albany,NY,1:08:31,7:22,Sam,Mercado
+230,17,F,Old Chatham,NY,1:08:32,7:22,Lara,Cunningham
+231,29,M,Niskayuna,NY,1:08:32,7:22,Joe,Sgarlata
+232,36,M,Johnstown,NY,1:08:34,7:22,Bradley,Valachovic
+233,49,M,St. Johnsville,NY,1:08:34,7:22,Martin,Callahan
+234,28,M,Schenectady,NY,1:08:35,7:22,Christopher,Leavitt
+235,32,F,Troy,NY,1:08:35,7:22,Stacy,Crawford
+236,38,M,South Portland,ME,1:08:36,7:22,Patrick,Keenan
+237,51,F,Schenectady,NY,1:08:40,7:22,Alyssa,Risko
+238,67,M,Valatie,NY,1:08:41,7:23,Lenny,Collins
+239,24,F,Troy,NY,1:08:43,7:23,Kimberly,McBride
+240,49,M,Mechanicville,NY,1:08:43,7:23,Michael,Cebula
+241,49,M,Niskayuna,NY,1:08:50,7:23,Walter,Peretti
+242,37,M,Schenectady,NY,1:08:53,7:24,Anthony,Lucier
+243,35,M,Mohawk,NY,1:08:53,7:24,Rick,Gloo
+244,37,M,Rexford,NY,1:08:54,7:24,Brian,Carucci
+245,53,M,Saratoga Springs,NY,1:08:56,7:24,Jon,Gurney
+246,36,M,Clifton Park,NY,1:08:57,7:24,Jesse,Piliere
+247,42,M,Niskayuna,NY,1:08:57,7:24,Kurt,Bratten
+248,32,F,Ballston Spa,NY,1:08:58,7:24,Kelly,Kolnick
+249,32,F,Delanson,NY,1:09:01,7:25,Jill,Splonskowski
+250,52,M,Schenectady,NY,1:09:03,7:25,Michael,Canavan
+251,45,M,Schenectady,NY,1:09:04,7:25,Matthew,McQueeney
+252,60,M,Wakefield,RI,1:09:07,7:25,Dan,Hartnett
+253,16,M,Schenectady,NY,1:09:11,7:26,Joshua,Jones
+254,48,M,Bennington,VT,1:09:12,7:26,Daniel,Monks
+255,23,M,Schenectady,NY,1:09:12,7:26,Michael,Badger
+256,33,F,Troy,NY,1:09:14,7:26,Rebecca,Tennyson
+257,27,M,Brunswick,NY,1:09:20,7:27,Christopher,Allin
+258,54,M,Latham,NY,1:09:22,7:27,Tom,Pierson
+259,65,M,Wynantskill,NY,1:09:24,7:27,Mike,Fazioli
+260,42,M,Scotia,NY,1:09:25,7:27,Bob,Miller
+261,56,F,Malta,NY,1:09:26,7:27,Stephanie,Landy
+262,37,M,Niskayuna,NY,1:09:29,7:28,Brian,Strickler
+263,28,M,Albany,NY,1:09:35,7:28,Yao,Wei Lu
+264,39,F,Bennington,VT,1:09:36,7:28,Jessica,Chapman
+265,46,M,Delmar,NY,1:09:39,7:29,Martin,Gordinier
+266,65,M,Woodstock,NY,1:09:40,7:29,Brian,Nagle
+267,39,M,Loudonville,NY,1:09:43,7:29,Gregory,Bentley
+268,17,M,Saratoga Springs,NY,1:09:45,7:29,Anthony,Perniciaro
+269,38,M,Niskayuna,NY,1:09:49,7:30,Earl,Redding
+270,36,F,Albany,NY,1:09:50,7:30,Laura,Zima
+271,36,F,Rensselaer,NY,1:09:55,7:31,Kara,Defeo
+272,40,M,Niskayuna,NY,1:09:55,7:31,Mark,Lansing
+273,36,F,Watervliet,NY,1:09:58,7:31,Vanessa,Chiera
+274,28,M,Schenectady,NY,1:09:59,7:31,Thomas,Hartnett Jr.
+275,29,M,Scotia,NY,1:10:00,7:31,Timothy,White
+276,33,M,Niskayuna,NY,1:10:00,7:31,Neal,Norton Jr
+277,36,F,Mohawk,NY,1:10:01,7:31,Krista,Harwick
+278,14,M,Deerfield,NY,1:10:07,7:32,Daniel,Humphrey
+279,59,M,Davidson,NY,1:10:07,7:32,Tom,White
+280,38,M,Mechanicville,NY,1:10:12,7:32,Matthew,Wendel
+281,54,M,West Sand Lake,NY,1:10:13,7:32,Chris,Boyle
+282,28,F,Albany,NY,1:10:14,7:33,Traci,Cornwell
+283,42,M,Saratoga Springs,NY,1:10:16,7:33,Joseph,Genter
+284,53,F,Mechanicville,NY,1:10:18,7:33,Mary,Buck
+285,21,F,Stillwater,NY,1:10:20,7:33,Victoria,Hathaway
+286,32,M,Schenectady,NY,1:10:25,7:34,Richard,Hall
+287,26,F,Glenmont,NY,1:10:27,7:34,Casey,Crowley
+288,34,M,Ballston Lake,NY,1:10:27,7:34,Jeffrey,Mullen
+289,32,M,Malta,NY,1:10:35,7:35,Padraig,Timoney
+290,53,M,Kinderhook,NY,1:10:36,7:35,Glenn,Berninger
+291,40,M,Saratoga Springs,NY,1:10:38,7:35,Scott,Starr
+292,47,M,Scotia,NY,1:10:46,7:36,John,Yagielski
+293,46,M,Altamont,NY,1:10:48,7:36,Joseph,McCullen
+294,37,F,Gloversville,NY,1:10:49,7:36,Helen,Reed
+295,36,F,Albany,NY,1:10:54,7:37,Erin,Murphy
+296,48,M,Charlton,NY,1:10:54,7:37,Michael,Fernandez
+297,41,F,Guilderland,NY,1:10:57,7:37,Jessica,Northan
+298,53,M,Amsterdam,NY,1:10:57,7:37,Doug,Landon
+299,28,M,Schenectady,NY,1:10:59,7:37,Matthew,Urffer
+300,35,F,Albany,NY,1:11:01,7:38,Heather,Senecal
+301,28,M,Albany,NY,1:11:01,7:38,Matthew,Henkel
+302,23,M,Rotterdam,NY,1:11:03,7:38,John,Murray
+303,38,M,Albany,NY,1:11:04,7:38,Joe,Benny
+304,47,M,Schenectady,NY,1:11:05,7:38,Herb,Terns
+305,20,F,Lake Placid,NY,1:11:05,7:38,Anna,Izzo
+306,62,M,Averill Park,NY,1:11:07,7:38,Stephen,Jones
+307,31,F,Albany,NY,1:11:10,7:39,Jennifer,Griner
+308,19,F,Pittsfield,MA,1:11:11,7:39,Lauren,Farry
+309,46,M,Yarmouth,ME,1:11:14,7:39,Michael,Carroll
+310,47,M,Gloversville,NY,1:11:14,7:39,Carmelo,Piazza Sr
+311,56,M,Schenectady,NY,1:11:15,7:39,Julius,Pasquariello
+312,36,M,Scotia,NY,1:11:18,7:39,Douglas,Secor
+313,63,M,Scotia,NY,1:11:19,7:40,George,Baranauskas
+314,55,M,Rensselaer,NY,1:11:19,7:40,Bill,Douglas
+315,54,M,Rome,NY,1:11:22,7:40,Bob,Kane
+316,59,M,Schenectady,NY,1:11:24,7:40,Peter,Butryn
+317,39,F,Syracuse,NY,1:11:27,7:40,Coraline,Falco
+318,31,F,Saratoga Springs,NY,1:11:27,7:40,Samantha,McBee
+319,45,M,Niskayuna,NY,1:11:29,7:41,Wade,Beltramo
+320,59,M,Oradell,NJ,1:11:29,7:41,Christopher,Kunkel
+321,52,F,Albany,NY,1:11:34,7:41,Christine,Varley
+322,43,M,Rensselaer,NY,1:11:38,7:42,Brian,Hogan
+323,39,F,Elmira,NY,1:11:40,7:42,Caty,Menard
+324,54,M,Horseheads,NY,1:11:40,7:42,Paul,Campbell
+325,50,M,Wilton,NY,1:11:41,7:42,Daniel,Flanagan
+326,45,M,Saratoga Springs,NY,1:11:46,7:42,Tom,Law
+327,37,F,Niskayuna,NY,1:11:46,7:42,Abby,Watson
+328,52,M,Altamont,NY,1:11:47,7:43,Wayne,Richardson
+329,42,M,Ballston Lake,NY,1:11:49,7:43,Tony,Kasowski
+330,40,F,Saratoga Springs,NY,1:11:50,7:43,Jaime,Farone
+331,35,F,Malta,NY,1:11:53,7:43,Dana,Wiwczar
+332,57,M,Ithaca,NY,1:11:53,7:43,Brendan,Obrien
+333,44,F,Malta,NY,1:11:54,7:43,Virginia,Larner
+334,44,M,Ballston Lake,NY,1:11:57,7:44,Travis,Moore
+335,29,M,Troy,NY,1:12:00,7:44,Andrew,Allin
+336,33,M,Amsterdam,NY,1:12:04,7:44,Steven,Shrader
+337,16,M,Binghamton,NY,1:12:04,7:44,Matthew,Conklin
+338,40,M,Rock City Falls,NY,1:12:11,7:45,Christopher,Tuohy
+339,38,F,Gansevoort,NY,1:12:12,7:45,Elizabeth,Lis
+340,55,F,East Greenbush,NY,1:12:13,7:45,Inge,Aiken
+341,39,F,Loudonville,NY,1:12:14,7:45,Jamie,Levy
+342,24,M,Schenectady,NY,1:12:15,7:45,Eddie,Brown
+343,65,M,Glenville,NY,1:12:15,7:46,Peter,Gerardi
+344,16,M,Clifton Park,NY,1:12:15,7:46,Liam,McMahan
+345,37,M,Astoria,NY,1:12:20,7:46,Akif,Zaman
+346,32,F,Cambridge,NY,1:12:21,7:46,Megan,Harrington
+347,38,M,Niskayuna,NY,1:12:21,7:46,Gregory,Rashford
+348,55,M,Schenectady,NY,1:12:27,7:47,Robert,Wither
+349,48,M,Canajoharie,NY,1:12:30,7:47,Tim,Shepard
+350,51,F,Ballston Spa,NY,1:12:30,7:47,Mary,Fenton
+351,56,M,Niskayuna,NY,1:12:31,7:47,Rick,Knipper
+352,32,F,Rensselaer,NY,1:12:33,7:47,Sara,Breault
+353,65,M,Slingerlands,NY,1:12:34,7:48,Tom,McGuire
+354,77,M,New Paltz,NY,1:12:40,7:48,Roger,Robinson
+355,47,M,Queensbury,NY,1:12:42,7:48,Nick,Laplaca
+356,31,M,Albany,NY,1:12:43,7:48,Christopher,Austen
+357,32,F,Albany,NY,1:12:51,7:49,Janne,Rand
+358,55,M,Burnt Hills,NY,1:13:01,7:51,Gary,Neumann
+359,53,M,Schenectady,NY,1:13:09,7:51,Sunil,Kumta
+360,31,M,Little Falls,NY,1:13:12,7:52,Richard,Jerin
+361,24,M,Clifton Park,NY,1:13:15,7:52,Gavin,Cumming
+362,50,M,Glenmont,NY,1:13:16,7:52,James,Chung
+363,34,F,Schenectady,NY,1:13:17,7:52,Victoria,Fenley
+364,26,F,Albany,NY,1:13:19,7:52,Brittany,Iles
+365,34,M,Albany,NY,1:13:19,7:52,James,Christian
+366,24,F,Scotia,NY,1:13:20,7:52,Shannon,Flaherty
+367,70,M,Clifton Park,NY,1:13:20,7:53,Patrick,Glover
+368,57,M,Glens Falls,NY,1:13:24,7:53,Brian,Teague
+369,52,M,Niskayuna,NY,1:13:27,7:53,John,Glaser
+370,40,F,Green Island,NY,1:13:30,7:54,Lisa,May
+371,15,M,Binghamton,NY,1:13:32,7:54,Declan,Houlihan
+372,32,M,Rochester,NY,1:13:33,7:54,Christopher,Guy
+373,33,M,Altamont,NY,1:13:34,7:54,Kirk,Courneen
+374,38,M,Ballston Spa,NY,1:13:36,7:54,Brian,Baxter
+375,28,F,Voorheesville,NY,1:13:38,7:54,Jessica,Berschwinge
+376,52,M,Schenectady,NY,1:13:40,7:55,Vincent,Wenger
+377,48,M,Voorheesville,NY,1:13:43,7:55,Tom,Jablonowski
+378,16,M,Niskayuna,NY,1:13:47,7:55,Robby,Guzzo
+379,28,F,Delmar,NY,1:13:51,7:56,Kelcey,Heenan
+380,34,M,Clifton Park,NY,1:13:52,7:56,Rock,Travis
+381,46,M,Albany,NY,1:13:52,7:56,Richard,Bourgeois
+382,51,M,Owego,NY,1:13:53,7:56,Kevin,Nelson
+383,27,F,Cobleskill,NY,1:13:54,7:56,Meghan,Lapoint
+384,35,M,Voorheesville,NY,1:13:55,7:56,Anthony,Pazmino
+385,61,M,Valatie,NY,1:13:56,7:56,Ray,Framarin
+386,34,M,Delanson,NY,1:13:58,7:57,John,Conwall
+387,31,F,Schenectady,NY,1:13:59,7:57,Jenna,Depeaux
+388,46,M,Cobleskill,NY,1:13:59,7:57,Richard,Miller
+389,64,M,Scotia,NY,1:13:59,7:57,Tom,Lansing
+390,45,M,Albany,NY,1:14:00,7:57,John,Sullivan
+391,49,M,Slingerlands,NY,1:14:01,7:57,Anders,Tomson
+392,51,M,Ballston Spa,NY,1:14:02,7:57,Matthew,O'Neil
+393,51,M,Latham,NY,1:14:06,7:57,Bill,Moreland
+394,38,F,Troy,NY,1:14:08,7:58,Rebecca,Ruppe
+395,44,F,Glenmont,NY,1:14:10,7:58,Aixa,Toledo
+396,44,M,Amsterdam,NY,1:14:12,7:58,Chris,Venditti
+397,43,M,Mechanicville,NY,1:14:14,7:58,Brian,Susko
+398,51,M,Selkirk,NY,1:14:18,7:59,Bill,Grimaldi
+399,39,M,Albany,NY,1:14:22,7:59,Jeffrey,Colling
+400,45,F,Ballston Lake,NY,1:14:24,7:59,Ann,Glackin
+401,20,M,Saranac Lake,NY,1:14:24,7:59,Max,Paul
+402,46,M,Valatie,NY,1:14:25,7:59,Michael,Brennan
+403,21,F,Ithaca,NY,1:14:26,8:00,Jackie,Gerow
+404,37,F,Cobleskill,NY,1:14:26,8:00,Courtney,Labarge
+405,40,M,Clifton Park,NY,1:14:30,8:00,Keith,Buff
+406,30,F,Buffalo,NY,1:14:31,8:00,Lauren,Chrapowitzky
+407,41,F,Hudson,NY,1:14:32,8:00,Cybil,Howard
+408,50,F,Schenectady,NY,1:14:33,8:00,Laurie,Hoyt
+409,43,F,Loudonville,NY,1:14:34,8:00,Melissa,Maguire
+410,40,M,Niskayuna,NY,1:14:37,8:01,Brien,Ragone
+411,58,M,Delmar,NY,1:14:38,8:01,James,Langmead
+412,36,F,Schenectady,NY,1:14:40,8:01,Frances,Ness
+413,41,M,Scotia,NY,1:14:40,8:01,Craig,Nelson
+414,45,M,Clifton Park,NY,1:14:42,8:01,Aaron,Ambrosino
+415,42,M,Niskayuna,NY,1:14:43,8:01,Seth,Appert
+416,61,M,Troy,NY,1:14:43,8:01,F,Lanzillo Jr
+417,41,F,Clifton Park,NY,1:14:43,8:01,Amy,Seagroatt
+418,31,F,Saratoga Springs,NY,1:14:44,8:01,Stephanie,Marotta
+419,51,F,Ghent,NY,1:14:45,8:02,Teresa,Warner Maiur
+420,22,M,Schenectady,NY,1:14:46,8:02,Bailal,Hussain
+421,30,F,Albany,NY,1:14:49,8:02,Hillary,Johnson
+422,45,M,Schenectady,NY,1:14:52,8:02,Vince,Versaci
+423,41,F,Winooski,VT,1:14:57,8:03,Cc,Larner
+424,56,M,Scotia,NY,1:14:57,8:03,Randy,Jerreld
+425,28,F,Glenville,NY,1:14:58,8:03,Kayla,Overly
+426,50,F,Clifton Park,NY,1:14:59,8:03,Tammy,Halpern
+427,21,F,Cazenovia,NY,1:14:59,8:03,Shelby,McIntyre
+428,47,M,Burnt Hills,NY,1:14:59,8:03,Mark,McClosky
+429,57,M,Niskayuna,NY,1:15:00,8:03,Don,Chillrud
+430,32,M,Albany,NY,1:15:02,8:03,Graig,Cortelyou
+431,56,F,Montreal,QC,1:15:05,8:04,Chantale,Mercier
+432,46,M,Schenectady,NY,1:15:06,8:04,David,Tobey
+433,62,M,Beverly,MA,1:15:07,8:04,Peter,Malinowski
+434,31,F,Altamont,NY,1:15:09,8:04,Tracey,Zusman
+435,85,M,Milton,ON,1:15:10,8:04,Ed,Whitlock
+436,57,M,Loudonville,NY,1:15:10,8:04,Kurt,Lozier
+437,59,M,Fredonia,NY,1:15:12,8:05,Michael,Bobseine
+438,41,M,Oriskany,NY,1:15:13,8:05,Christian,Weigandt
+439,53,M,Niskayuna,NY,1:15:15,8:05,Thomas,Hayden
+440,44,M,East Worcester,NY,1:15:17,8:05,Sean,Land
+441,28,F,Cohoes,NY,1:15:17,8:05,Madyson,Lubba
+442,49,M,Niskayuna,NY,1:15:23,8:06,Rj,Donohue
+443,27,F,Schenectady,NY,1:15:24,8:06,Lauren,Maxwell
+444,61,F,Glens Falls,NY,1:15:25,8:06,Karen,Provencher
+445,26,F,Niskayuna,NY,1:15:26,8:06,Kristen,Perrella
+446,58,M,Glenmont,NY,1:15:32,8:07,Jeff,Clark
+447,54,M,Delmar,NY,1:15:35,8:07,Dan,Coffey
+448,23,F,Albany,NY,1:15:38,8:07,Kara,McKnight
+449,47,F,Averill Park,NY,1:15:38,8:07,Jill,Rembetski
+450,50,F,Nashua,NH,1:15:39,8:07,Beth,Whipple
+451,46,F,Amsterdam,NY,1:15:39,8:07,Sarah,Dzikowicz
+452,48,M,Glenville,NY,1:15:41,8:08,John,McGuinness
+453,24,F,Albany,NY,1:15:41,8:08,Christina,Scharmer
+454,43,F,Castleton,NY,1:15:43,8:08,Shana,Marra
+455,43,M,Niskayuna,NY,1:15:43,8:08,Russell,Wolff
+456,40,M,Schuylerville,NY,1:15:48,8:08,Jay,Connelly
+457,40,M,Saratoga Springs,NY,1:15:50,8:09,Andrew,Shave
+458,55,F,Schenectady,NY,1:15:51,8:09,Janice,Phoenix
+459,37,M,Scotia,NY,1:15:54,8:09,Peter,Willis
+460,33,M,Schenectady,NY,1:15:55,8:09,Carl,Falotico
+461,26,M,Cohoes,NY,1:15:59,8:10,Evan,Chamberas
+462,16,M,Ballston Lake,NY,1:16:02,8:10,Chase,Zardezed
+463,32,F,Clifton Park,NY,1:16:05,8:10,Megan,Boyak
+464,46,M,Niskayuna,NY,1:16:06,8:10,Kevin,Beattie
+465,29,M,Niskayuna,NY,1:16:06,8:10,Dominick,Lemme
+466,18,F,Queensbury,MA,1:16:07,8:10,Eliza,Blood
+467,33,F,Altamont,NY,1:16:07,8:10,Kristen,Trimarchi
+468,65,F,Slingerlands,NY,1:16:08,8:10,Martha,Degrazia
+469,43,M,West Sand Lake,NY,1:16:10,8:11,Patrick,Ryan
+470,60,M,Bainbridge,NY,1:16:10,8:11,Steven,Palmer
+471,32,F,Albany,NY,1:16:13,8:11,Sara,Salony
+472,40,M,Niskayuna,NY,1:16:20,8:12,Benjamin,Verschuere
+473,69,M,Clifton Park,NY,1:16:20,8:12,James,Larkin
+474,43,F,Clifton Park,NY,1:16:21,8:12,Erika,Liguori
+475,45,M,Gloversville,NY,1:16:22,8:12,Walter,Gannon
+476,49,F,Albany,NY,1:16:23,8:12,Ruth,Sadinsky
+477,60,F,Colonie,NY,1:16:25,8:12,Karen,Dott
+478,50,M,Latham,NY,1:16:26,8:12,Patrick,Dicerbo
+479,48,M,Albany,NY,1:16:29,8:13,Matthew,Lesniak
+480,39,M,Niskayuna,NY,1:16:33,8:13,Brian,Richardson
+481,39,M,Loudonville,NY,1:16:34,8:13,John,Sutphin
+482,41,F,Niskayuna,NY,1:16:37,8:14,Gillian,Sellick
+483,37,M,Mechanicville,NY,1:16:38,8:14,Thomas,Toher
+484,38,M,Mechanicville,NY,1:16:39,8:14,Stephen,Wendel
+485,53,F,Fort Lee,NJ,1:16:42,8:14,Wanda,Wang
+486,61,M,Clifton Park,NY,1:16:43,8:14,Theodore,Todorov
+487,45,M,Ballston Lake,NY,1:16:44,8:14,Frank,Zardezed
+488,34,F,Voorheesville,NY,1:16:49,8:15,Brittany,Giles
+489,44,F,Glenmont,NY,1:16:52,8:15,Hannah,Barry
+490,45,M,Schenectady,NY,1:16:52,8:15,Gilbert,Badger
+491,34,F,Ilion,NY,1:16:53,8:15,Heather,Raymond
+492,53,M,Saratoga Springs,NY,1:16:55,8:16,Daniel,Senecoff
+493,52,M,Ballston Spa,NY,1:16:59,8:16,Gary,Guilfoyle
+494,39,F,Fort Edward,NY,1:17:00,8:16,Melissa,Kwasniewski
+495,46,M,Clifton Park,NY,1:17:05,8:17,Bruce,Amm
+496,26,F,Troy,NY,1:17:05,8:17,Lauren,Williams
+497,62,M,Scotia,NY,1:17:07,8:17,Armon,Benny
+498,50,F,Schenectady,NY,1:17:07,8:17,Emily,Titsworth
+499,49,F,Rensselaer,NY,1:17:10,8:17,Jodi,Selzer
+500,56,M,Marblehead,MA,1:17:11,8:17,Gary,Freedman
+501,8,M,Loudonville,NY,01:17:11 AM,:17,Timothy,O'Connor
+502,32,F,Castleton,NY,1:17:14,8:18,Sara,Westcott
+503,37,M,Albany,NY,1:17:14,8:18,Seth,Thomas
+504,55,M,Broadalbin,NY,1:17:16,8:18,Robert,Rasefske
+505,28,F,Albany,NY,1:17:19,8:18,Erin,Ross
+506,50,F,Dalton,MA,1:17:21,8:18,Jennifer,Bell
+507,32,F,Albany,NY,1:17:22,8:18,Jennifer,Newman
+508,51,M,Sharon Springs,NY,1:17:22,8:19,Sam,Lawyer
+509,49,M,Charlton,NY,1:17:28,8:19,James,Schuhl
+510,49,F,Rensselaer,NY,1:17:29,8:19,Sherry,Amarel
+511,49,F,Newport,NY,1:17:32,8:20,Ronda,Davis
+512,56,M,Newport,NY,1:17:32,8:20,Lennie,Davis
+513,44,F,Saratoga Springs,NY,1:17:33,8:20,Erin,Bach
+514,31,F,Pleasantville,NY,1:17:33,8:20,Catherine,O'Loughli
+515,48,M,Porter Corners,NY,1:17:36,8:20,David,Akaka
+516,63,M,Johnstown,NY,1:17:38,8:20,Curt,Woodcock
+517,41,M,Delanson,NY,1:17:39,8:20,Joshua,O'Connor
+518,45,F,West Sand Lake,NY,1:17:42,8:21,Laura,Floge
+519,54,F,Saranac Lake,NY,1:17:44,8:21,Bekkie,Wright
+520,26,F,Niskayuna,NY,1:17:46,8:21,Caitlin,Joyce
+521,38,F,Waterford,NY,1:17:46,8:21,Theresa,Loomis
+522,45,M,Albany,NY,1:17:48,8:21,Peter,Costello
+523,55,F,Niskayuna,NY,1:17:50,8:21,Kathleen,Beeman
+524,43,M,Albany,NY,1:17:50,8:21,Michael,Bloom
+525,28,F,Burnt Hills,NY,1:17:50,8:21,Caryn,Mlodzianowski
+526,43,F,Claverack,NY,1:17:52,8:22,Erin,Russo
+527,48,M,Gloversville,NY,1:17:54,8:22,Jamie,Spraker
+528,26,M,Cincinnati,OH,1:17:57,8:22,Nick,Krutz
+529,26,F,Scotia,NY,1:18:01,8:23,Rachel,Brunez
+530,17,F,Scotia,NY,1:18:06,8:23,Meg,Scognamiglio
+531,35,M,Charlton,NY,1:18:07,8:23,Gregg,Kelly
+532,35,M,Niskayuna,NY,1:18:08,8:23,Brian,Hilton
+533,20,M,New Albany,OH,1:18:10,8:24,Jackson,Beckman
+534,54,M,Glenville,NY,1:18:13,8:24,Daniel,O'Connor
+535,33,F,Glenville,NY,1:18:14,8:24,Ashley,Benincasa
+536,49,F,Pittsfield,MA,1:18:15,8:24,Shiobbean,Lemme
+537,32,F,Schenectady,NY,1:18:16,8:24,Kaitlin,O'Keefe
+538,22,F,East Boston,MA,1:18:19,8:25,Anna,Pickett
+539,49,M,Niskayuna,NY,1:18:27,8:25,Robert,Frank
+540,52,M,Clifton Park,NY,1:18:27,8:25,Jim,Sweeney
+541,48,F,Glenmont,NY,1:18:30,8:26,Andrea,Robinson
+542,43,M,Pittsfield,MA,1:18:32,8:26,Tim,Mulligan
+543,35,F,Gansevoort,NY,1:18:35,8:26,Jessica,Deconno
+544,65,M,Glenmont,NY,1:18:36,8:26,Randall,Craig
+545,50,M,Sand Lake,NY,1:18:37,8:27,Lawrence,Howard
+546,28,M,Troy,NY,1:18:39,8:27,Scott,Piper
+547,53,F,Schenectady,NY,1:18:39,8:27,Margaret,Burke
+548,46,M,Charlton,NY,1:18:40,8:27,Christopher,Casey
+549,51,M,Gloversville,NY,1:18:41,8:27,Shawn,Krutz
+550,12,M,Scotia,NY,1:18:47,8:28,Tyler,Greene
+551,23,F,Bennington,VT,1:18:47,8:28,Tara,Dee
+552,25,M,Albany,NY,1:18:47,8:28,Francisco,Hernandez
+553,49,F,Castleton,NY,1:18:49,8:28,Christina,Yager
+554,38,M,Mechanicville,NY,1:18:51,8:28,Mark,Sylvestre
+555,48,M,Glenmont,NY,1:18:51,8:28,Michael,Verdichizzi
+556,35,M,Glenville,NY,1:18:52,8:28,Ryan,Wilson
+557,44,M,Malta,NY,1:18:52,8:28,Paul,Loomis
+558,46,M,South Glens Fall,NY,1:18:56,8:29,Lance,Decker
+559,37,M,Albany,NY,1:18:57,8:29,Alan,Ng
+560,46,F,Niskayuna,NY,1:18:59,8:29,Demantra,Constantin
+561,39,F,Ravena,NY,1:19:00,8:29,Heather,Irvis
+562,58,M,Niskayuna,NY,1:19:00,8:29,David,Brown
+563,35,F,Rensselaer,NY,1:19:03,8:29,Allie,Harling
+564,50,F,Spencertown,NY,1:19:05,8:30,Hilary,Ferrone
+565,32,F,Schenectady,NY,1:19:07,8:30,Colleen,McMahon-Hea
+566,66,M,Glens Falls,NY,1:19:09,8:30,Mark,Sager
+567,41,M,Mechanicville,NY,1:19:10,8:30,Mike,Otoole
+568,73,M,Clifton Park,NY,1:19:11,8:30,Howard,Jones
+569,64,M,Saratoga Springs,NY,1:19:14,8:31,Chip,Button
+570,11,M,Johnstown,NY,1:19:17,8:31,Christopher,Murphy
+571,48,F,Clifton Park,NY,1:19:22,8:31,Dawn,Morrison
+572,44,F,Niskayuna,NY,1:19:23,8:31,Catherine,Gilbert
+573,14,F,Delmar,NY,1:19:23,8:31,Emily,Smith
+574,55,F,Middle Grove,NY,1:19:24,8:32,Linda,Ferguson
+575,44,M,Clifton Park,NY,1:19:25,8:32,Andy,Laporta
+576,50,M,Waterford,NY,1:19:26,8:32,Victor,Pugliano
+577,30,F,Gansevoort,NY,1:19:29,8:32,Rachel,Tierney
+578,43,M,Scotia,NY,1:19:31,8:32,Mike,Trzeciak
+579,56,F,Selkirk,NY,1:19:32,8:32,Jenny,Lee
+580,34,M,Altamont,NY,1:19:34,8:33,Joe,Ullman
+581,46,F,Ballston Spa,NY,1:19:35,8:33,Jill,Gobel
+582,30,F,Burnt Hills,NY,1:19:35,8:33,Kelly,Seymour
+583,40,M,Gloversville,NY,1:19:37,8:33,Tim,Fioretti
+584,32,F,Niskayuna,NY,1:19:39,8:33,Elizabeth,Haugh
+585,31,F,Niskayuna,NY,1:19:39,8:33,Liz,Ricci
+586,54,M,Clifton Park,NY,1:19:42,8:34,Keith,Decker
+587,64,M,Schenectady,NY,1:19:43,8:34,David,Olsen
+588,64,M,Albany,NY,1:19:45,8:34,David,Rowell
+589,54,M,Liverpool,NY,1:19:45,8:34,Robert,Hiemenz
+590,38,M,Troy,NY,1:19:47,8:34,Jeffrey,Michael
+591,37,F,Glenville,NY,1:19:51,8:34,Melissa,Grandjean
+592,51,F,Ballston Lake,NY,1:19:55,8:35,Jennifer,Casey
+593,38,M,Saratoga Springs,NY,1:19:55,8:35,Jonathan,Albert
+594,58,M,Schenectady,NY,1:19:56,8:35,Steven,Conant
+595,46,M,Cohoes,NY,1:19:56,8:35,Denis,Cote
+596,35,F,Niskayuna,NY,1:19:57,8:35,Beth,Tiffany
+597,60,F,Charlton,NY,1:19:58,8:35,Elizabeth,Herkenham
+598,45,M,Schenectady,NY,1:20:04,8:36,Alec,Platt
+599,56,F,Burnt Hills,NY,1:20:04,8:36,Marcia,Cooper
+600,51,M,Voorheesville,NY,1:20:06,8:36,Jay,Quinn
+601,38,F,Ilion,NY,1:20:07,8:36,Danielle,Bliss
+602,33,M,Clifton Park,NY,1:20:07,8:36,Timothy,Koppenhafer
+603,49,F,Troy,NY,1:20:09,8:36,Diane,Montes Harris
+604,59,F,Schenectady,NY,1:20:10,8:36,Kim,Sack
+605,67,M,Schenectady,NY,1:20:11,8:37,Joe,Yavonditte
+606,56,M,Burnt Hills,NY,1:20:15,8:37,Kevin,Radigan
+607,31,M,Albany,NY,1:20:16,8:37,Charles,Dolnik
+608,31,F,Glenville,NY,1:20:16,8:37,Amber,Hooper
+609,47,M,Guilderland,NY,1:20:18,8:37,Jim,McMorris
+610,41,F,Rexford,NY,1:20:20,8:38,Liz,Carr
+611,27,M,Rochester,NY,1:20:23,8:38,Adam,Karges
+612,55,M,Latham,NY,1:20:23,8:38,Gregory,Bachinsky
+613,27,F,Guilderland,NY,1:20:25,8:38,Jessica,Watson
+614,38,M,Clifton Park,NY,1:20:28,8:38,Eric,Gandler
+615,38,F,Voorheesville,NY,1:20:28,8:38,Kristi,Kemmer
+616,34,F,Voorheesville,NY,1:20:29,8:38,Stephanie,Bruhn
+617,35,M,Albany,NY,1:20:29,8:39,Joseph,Herrington
+618,63,M,Pittsfield,MA,1:20:29,8:39,Bill,Farry
+619,34,M,Clifton Park,NY,1:20:36,8:39,Michael,Van Flue
+620,58,M,Slingerlands,NY,1:20:39,8:40,Bill,Marinello
+621,27,M,Schenectady,NY,1:20:39,8:40,Raymond,Senecal
+622,40,F,Schenectady,NY,1:20:42,8:40,Nicole,D'Amario
+623,68,M,Schenectady,NY,1:20:44,8:40,George,Jackson
+624,36,F,Liverpool,NY,1:20:45,8:40,Marguerite,Dodd
+625,56,F,Clifton Park,NY,1:20:49,8:41,Kelley,Vite
+626,54,F,Rexford,NY,1:20:51,8:41,Lauren,Herbs
+627,38,F,Glenville,NY,1:20:51,8:41,Jennifer,Flanagan
+628,45,F,Voorheesville,NY,1:20:54,8:41,Beth,Rice
+629,47,M,Canajoharie,NY,1:20:54,8:41,Patrick,Douglass
+630,56,M,Owego,NY,1:20:55,8:41,Dave,Talcott
+631,37,F,Delanson,NY,1:21:02,8:42,Gwen,Hill
+632,38,F,Gansevoort,NY,1:21:02,8:42,Lindsay,Ferrara
+633,52,M,Schenectady,NY,1:21:08,8:43,Marc,Payzant
+634,62,M,East Greenbush,NY,1:21:10,8:43,Martin,Patrick
+635,59,F,Albany,NY,1:21:14,8:43,Karen,Gerstenberger
+636,61,M,Glenmont,NY,1:21:16,8:44,Michael,Fredette
+637,47,F,Lake George,NY,1:21:16,8:44,Lori,Barber
+638,60,M,Ballston Spa,NY,1:21:16,8:44,Dan,Owens
+639,46,F,Troy,NY,1:21:17,8:44,Melissa,Carter
+640,32,F,Melrose,NY,1:21:17,8:44,Laura,Zuk
+641,27,M,Guilderland,NY,1:21:18,8:44,George,Morris
+642,27,F,Fishkill,NY,1:21:25,8:45,Elizabeth,Burke
+643,42,M,Ballston Lake,NY,1:21:32,8:45,Justin,Dauphinee
+644,38,F,Ballston Lake,NY,1:21:32,8:45,Marta,Hallgren
+645,59,F,Clifton Park,NY,1:21:33,8:45,Joanne,Fitzgerald
+646,50,F,Amsterdam,NY,1:21:35,8:46,Lynn,Fredericks
+647,29,F,Schenectady,NY,1:21:37,8:46,Gina,Pizzino-Varron
+648,43,M,Delmar,NY,1:21:37,8:46,Daniel,Whelan
+649,50,F,Clifton Park,NY,1:21:38,8:46,Fran,Matson
+650,44,F,Loudonville,NY,1:21:38,8:46,Renee,Lane
+651,53,F,Clifton Park,NY,1:21:38,8:46,Kimberly,Goodwin
+652,42,F,Canajoharie,NY,1:21:40,8:46,Christi,Sala
+653,58,F,Saratoga Springs,NY,1:21:45,8:47,Maureen,Roberts
+654,36,M,Ballston Lake,NY,1:21:46,8:47,Michael,Silvagnoli
+655,54,M,Voorheesville,NY,1:21:49,8:47,Todd,Gray
+656,46,M,Niskayuna,NY,1:21:50,8:47,Chris,Laflamme
+657,27,F,Watervliet,NY,1:21:50,8:47,Amanda,Pilla
+658,38,M,Albany,NY,1:21:51,8:47,Kevin,Bergeron
+659,36,F,Fort Edward,NY,1:21:51,8:47,Sarah,Piper
+660,57,M,Castleton,NY,1:21:51,8:47,Peter,Fish
+661,43,M,Schenectady,NY,1:21:55,8:48,Mike,Ippolito
+662,34,F,Albany,NY,1:21:55,8:48,Sarah,Piper Novicki
+663,52,F,Gansevoort,NY,1:21:57,8:48,Lisa,Pleban
+664,39,F,Castleton,NY,1:22:00,8:48,Stacey,Muscato
+665,39,F,Clifton Park,NY,1:22:01,8:48,Beth,Dibattista
+666,55,M,Schenectady,NY,1:22:01,8:48,Ralph,Battle
+667,27,M,Round Lake,NY,1:22:02,8:48,Seth,Engel
+668,56,M,Altamont,NY,1:22:04,8:49,Christopher,Gorka
+669,44,M,Amsterdam,NY,1:22:04,8:49,Tim,Wojcik
+670,40,F,Slingerlands,NY,1:22:04,8:49,Sandi,Toll
+671,42,F,Delmar,NY,1:22:05,8:49,Robin,Mitchell
+672,43,M,Ghent,NY,1:22:06,8:49,Dean,Rowe
+673,61,M,West Charlton,NY,1:22:06,8:49,David,Leith
+674,52,M,Schenectady,NY,1:22:07,8:49,Eric,Schneider
+675,31,M,Niskayuna,NY,1:22:07,8:49,Michael,Morris
+676,16,F,Schenectady,NY,1:22:08,8:49,Renee,Russo
+677,31,F,Scotia,NY,1:22:08,8:49,Nicole,Viscusi
+678,15,F,Schenectady,NY,1:22:08,8:49,Julia,Smith
+679,16,F,Schenectady,NY,1:22:08,8:49,Mary,Liebers
+680,51,M,Slingerlands,NY,1:22:09,8:49,Thomas,Bronchetti
+681,64,M,Saratoga Springs,NY,1:22:10,8:49,Rich,Tanchyk
+682,41,F,Albany,NY,1:22:11,8:49,Elizabeth,Berman
+683,67,M,Delmar,NY,1:22:11,8:49,Seamus,Hodgkinson
+684,38,M,Albany,NY,1:22:12,8:50,Alexander,Novicki
+685,54,M,Burnt Hills,NY,1:22:13,8:50,Peter,Carr
+686,61,M,Voorheesville,NY,1:22:16,8:50,Jeffrey,Peterson
+687,64,M,Ballston Spa,NY,1:22:17,8:50,Timothy,Fisher
+688,31,F,Albany,NY,1:22:17,8:50,Kate,Fruscione
+689,37,M,Loudonville,NY,1:22:17,8:50,George,Camacho
+690,53,M,Schenectady,NY,1:22:18,8:50,Richard,Burke
+691,42,M,Schenectady,NY,1:22:21,8:51,Gary,Dibble
+692,40,F,Albany,NY,1:22:21,8:51,Meredith,Streeter
+693,42,F,Clifton Park,NY,1:22:22,8:51,Eunice,Gambino
+694,39,F,Malone,NY,1:22:22,8:51,Tonya,Egan
+695,40,M,Schenectady,NY,1:22:24,8:51,Michael,Depoalo
+696,49,M,Glenmont,NY,1:22:24,8:51,Matthew,Landy
+697,53,F,Cohoes,NY,1:22:25,8:51,Ingrid,Wilke
+698,35,M,Burnt Hills,NY,1:22:25,8:51,Derek,Summers
+699,43,F,Burnt Hills,NY,1:22:26,8:51,Shelley,Allison
+700,45,F,Ballston Lake,NY,1:22:27,8:51,Marcie,Alexander
+701,45,M,Scotia,NY,1:22:27,8:51,David,Whitbeck
+702,39,M,Glenville,NY,1:22:28,8:51,Jared,Heiner
+703,44,F,Charlton,NY,1:22:30,8:51,Kelli,Schuhl
+704,30,M,Hagaman,NY,1:22:30,8:52,Joseph,Spencer
+705,46,M,Kinderhook,NY,1:22:31,8:52,Chrs,Keating
+706,74,M,Olmstedsville,NY,1:22:34,8:52,Eduardo,Munoz
+707,45,F,Schenectady,NY,1:22:36,8:52,Stephanie,Roberts
+708,31,M,Schenectady,NY,1:22:40,8:53,Michael,Mastroianni
+709,31,M,Ballston Spa,NY,1:22:42,8:53,Matthew,Gabriel
+710,43,F,Amsterdam,NY,1:22:43,8:53,Deirdre,Salerno
+711,34,F,Delmar,NY,1:22:44,8:53,Maggie,Wood
+712,47,M,Johnstown,NY,1:22:50,8:54,Christopher,Murphy
+713,49,M,Saratoga Springs,NY,1:22:50,8:54,David,Karandy
+714,60,M,Latham,NY,1:22:51,8:54,Alexander,Rinaldi
+715,42,F,Niskayuna,NY,1:22:51,8:54,Lori,Birmingham
+716,37,M,Halfmoon,NY,1:22:55,8:54,Ernie,Yue
+717,49,M,Scotia,NY,1:22:57,8:54,Eugene,Terwilliger
+718,40,F,Niskayuna,NY,1:22:59,8:55,Eileen,Ragone
+719,37,M,Worcester,NY,1:23:01,8:55,Christopher,Manley
+720,30,M,Malta,NY,1:23:04,8:55,Daniel,Miller
+721,47,F,Bennington,VT,1:23:04,8:55,Laura,Nesbit
+722,28,M,Albany,NY,1:23:06,8:55,Pat,Teora
+723,36,F,Granville,NY,1:23:07,8:55,Megan,Wordelmann
+724,26,M,Ballston Spa,NY,1:23:09,8:56,Andrew,Krupski
+725,31,M,Altamont,NY,1:23:13,8:56,Thomas,Bennett
+726,40,M,Richmondville,NY,1:23:14,8:56,Scott,Handy
+727,43,F,Richmondville,NY,1:23:15,8:56,Diana,Spenello
+728,62,M,Amsterdam,NY,1:23:18,8:57,Chester,Tumidajewic
+729,43,F,Albany,NY,1:23:21,8:57,Callee,Carpenter
+730,37,F,Ballston Spa,NY,1:23:21,8:57,Jamie,Landon
+731,29,M,Troy,NY,1:23:22,8:57,Ryan,Labarge
+732,44,F,Clifton Park,NY,1:23:24,8:57,Sandra,Graves
+733,41,F,Wynantskill,NY,1:23:25,8:57,Lori,Antolick
+734,38,F,Colonie,NY,1:23:25,8:57,Jenny,Debellis
+735,36,M,Athol,NY,1:23:29,8:58,Marcin,Kosz
+736,58,M,Queensbury,NY,1:23:30,8:58,Bill,Blood
+737,57,M,Niskayuna,NY,1:23:31,8:58,Stephen,McKenna
+738,25,F,Albany,NY,1:23:32,8:58,Katie,Chwazik
+739,53,M,Clifton Park,NY,1:23:35,8:58,Bowden,Wise
+740,36,M,Albany,NY,1:23:35,8:58,Donovan,White
+741,51,M,Niskayuna,NY,1:23:37,8:59,Timothy,Kirch
+742,39,F,Gansevoort,NY,1:23:39,8:59,Julie,Vittengl
+743,42,M,Rensselaer,NY,1:23:40,8:59,Richard,Baker
+744,40,F,West Sand Lake,NY,1:23:40,8:59,Samantha,Sanchez
+745,47,M,Clifton Park,NY,1:23:41,8:59,Shane,Squires
+746,51,F,Castleton,NY,1:23:41,8:59,Frances,Hope
+747,61,M,Scotia,NY,1:23:42,8:59,Thomas,McTernan
+748,30,F,Troy,NY,1:23:44,8:59,Jennifer,Betsworth
+749,27,F,Troy,NY,1:23:45,9:00,Amanda,Carpenter
+750,24,F,Albany,NY,1:23:45,9:00,Lisa,Curtin
+751,53,M,Schenectady,NY,1:23:45,9:00,Joseph,Callan
+752,38,F,Delmar,NY,1:23:49,9:00,Angela,Stritt
+753,50,F,Nassau,NY,1:23:52,9:00,Gabriele,Moriello
+754,51,F,Altamont,NY,1:23:53,9:00,Judy,Seery
+755,34,F,Ballston Spa,NY,1:23:55,9:01,Dorian,Longton
+756,55,M,Hannacroix,NY,1:23:55,9:01,Ed,Ellis
+757,44,F,Glenmont,NY,1:23:57,9:01,Teresa,Grant
+758,39,F,Rensselaer,NY,1:24:02,9:01,Robyn,Kaminski
+759,58,M,Saratoga Springs,NY,1:24:04,9:02,Jeffrey,Many
+760,29,F,Cohoes,NY,1:24:05,9:02,Kelli,Timbrook
+761,36,F,Niskayuna,NY,1:24:06,9:02,Kendal,Pappas
+762,39,F,Diamond Point,NY,1:24:06,9:02,Maura,Ludlow
+763,38,F,East Schodack,NY,1:24:06,9:02,Mary,Jacob
+764,54,M,Schenectady,NY,1:24:07,9:02,Gerry,Morris
+765,16,M,Slingerlands,NY,1:24:07,9:02,Hugh,Smith
+766,47,F,Niskayuna,NY,1:24:13,9:03,Tamara,Harrow
+767,31,F,Niskayuna,NY,1:24:15,9:03,Laura,Gallery
+768,35,F,Albany,NY,1:24:15,9:03,Raelee,Grimm
+769,38,F,Niskayuna,NY,1:24:16,9:03,Carrie,Rashford
+770,41,M,Albany,NY,1:24:17,9:03,Patrick,Sorsby
+771,52,F,Albany,NY,1:24:18,9:03,Denise,Sorsby
+772,33,M,Niskayuna,NY,1:24:19,9:03,Paul,Ardis
+773,50,M,Clifton Park,NY,1:24:20,9:03,Sean,Crall
+774,52,M,New Windsor,NY,1:24:29,9:04,Mario,Zumbo
+775,48,M,Clifton Park,NY,1:24:29,9:04,John,Zumbo
+776,32,M,Albany,NY,1:24:32,9:05,Cory,McWilliams
+777,41,F,Troy,NY,1:24:32,9:05,Jessica,Nash
+778,24,M,Glenmont,NY,1:24:33,9:05,Vincent,Rossetti
+779,49,M,Fort Edward,NY,1:24:36,9:05,Wayne,Fosmire
+780,53,M,Saratoga Springs,NY,1:24:38,9:05,John,Waechter
+781,62,M,Albany,NY,1:24:40,9:05,Michael,Wright
+782,61,M,Albany,NY,1:24:42,9:06,Ronald,Dunn
+783,49,M,Schenectady,NY,1:24:42,9:06,Brian,Demarest
+784,40,F,Loudonville,NY,1:24:43,9:06,Sarah,Devoe
+785,40,F,Clifton Park,NY,1:24:44,9:06,Kimberly,Buff
+786,36,F,Mooresville,NC,1:24:45,9:06,Lisa,Brassard
+787,26,F,Springfield,MA,1:24:46,9:06,Anne,Conboy
+788,56,M,Troy,NY,1:24:51,9:07,Peter,Brand
+789,46,M,Latham,NY,1:24:53,9:07,Brendan,McKenna
+790,44,F,West Sand Lake,NY,1:24:56,9:07,Tammy,Bernstein
+791,37,F,Burnt Hills,NY,1:25:03,9:08,Amber,Trendell
+792,37,F,Niskayuna,NY,1:25:03,9:08,Melissa,Hasan
+793,21,F,Altamont,NY,1:25:08,9:08,Erin,Seery
+794,46,M,Clifton Park,NY,1:25:08,9:09,Matt,Mahoney
+795,21,M,Corinth,NY,1:25:09,9:09,Patrick,Mann
+796,53,M,Schenectady,NY,1:25:10,9:09,Stephen,Camino
+797,62,M,Amsterdam,NY,1:25:12,9:09,Sam,Bursese
+798,29,F,Troy,NY,1:25:12,9:09,Kelly,Grace
+799,18,F,Wilton,NY,1:25:13,9:09,Amelia,Breslin
+800,44,M,Niskayuna,NY,1:25:13,9:09,Andrew,Gladwin
+801,63,F,Schenectady,NY,1:25:15,9:09,Joan,Celentano
+802,47,M,Albany,NY,1:25:19,9:10,Robert,Rausch
+803,38,F,Slingerlands,NY,1:25:19,9:10,Tammy,Cumo
+804,45,M,Guilderland,NY,1:25:19,9:10,Dennis,Rigosu
+805,43,F,Johnstown,NY,1:25:24,9:10,Ann,Marie Murphy
+806,43,M,Penfield,NY,1:25:24,9:10,Michael,Orsini
+807,39,M,Niskayuna,NY,1:25:24,9:10,Daniel,Orsini
+808,47,F,Niskayuna,NY,1:25:25,9:10,Amy,Piper
+809,62,M,Saratoga Springs,NY,1:25:25,9:10,Gerard,Falotico
+810,48,F,Cobleskill,NY,1:25:26,9:10,Lisa,Himme
+811,30,F,Saratoga Springs,NY,1:25:27,9:11,Katie,Rich
+812,41,M,Ballston Lake,NY,1:25:29,9:11,Dan,Wagner
+813,35,F,Clifton Park,NY,1:25:31,9:11,Kristen,Lennon-Mcma
+814,44,M,Clifton Park,NY,1:25:32,9:11,J.,Douglas McMahan
+815,57,F,Sand Lake,NY,1:25:39,9:12,Susan,Taylor
+816,33,F,Albany,NY,1:25:43,9:12,Elaine,West
+817,32,M,Albany,NY,1:25:44,9:12,Sean,West
+818,56,M,Burnt Hills,NY,1:25:44,9:12,David,Marchetti
+819,50,M,Schenectady,NY,1:25:46,9:13,Don,Byerly
+820,45,F,Niskayuna,NY,1:25:46,9:13,Kari,Mavian
+821,47,M,Delmar,NY,1:25:47,9:13,David,Stutsrim
+822,38,F,Schenectady,NY,1:25:48,9:13,Caryn,Burton
+823,53,M,Troy,NY,1:25:48,9:13,Paul,Thompson
+824,40,M,Troy,NY,1:25:48,9:13,Jeffrey,Galarneau
+825,40,M,Fort Edward,NY,1:25:50,9:13,Ted,Kwasniewski
+826,40,F,Niskayuna,NY,1:25:52,9:13,Kerry,Verschueren
+827,57,M,Glenville,NY,1:25:53,9:13,Frank,Mueller
+828,52,F,Clifton Park,NY,1:25:54,9:13,Annette,Romano
+829,52,F,Saratoga Springs,NY,1:25:54,9:13,Hilary,Claggett
+830,46,F,Gansevoort,NY,1:25:56,9:14,Nicole,Popplewell
+831,46,M,Clifton Park,NY,1:25:57,9:14,Greg,Gaston
+832,58,F,Niskayuna,NY,1:25:59,9:14,Joan,Brown
+833,21,F,Niskayuna,NY,1:26:02,9:14,Helen,Serafini
+834,39,M,Schenectady,NY,1:26:02,9:14,Christopher,Rakus
+835,38,F,Troy,NY,1:26:03,9:14,Crystal,Graham
+836,38,F,Troy,NY,1:26:03,9:14,Sachi,Vines
+837,35,M,Albany,NY,1:26:03,9:14,Scott,Leslie
+838,33,F,Saratoga Springs,NY,1:26:03,9:14,Kathryn,Lamica
+839,46,F,Altamont,NY,1:26:04,9:15,Alicia,Gillen
+840,24,F,Glenville,NY,1:26:06,9:15,Margaret,Gerardi
+841,25,F,Ballston Spa,NY,1:26:06,9:15,Carolyn,Berninger
+842,51,F,Ballston Lake,NY,1:26:09,9:15,Carol,Reardon
+843,26,F,Albany,NY,1:26:10,9:15,Heather,Riordan
+844,44,M,Ilion,NY,1:26:10,9:15,Rob,Trotta
+845,27,M,Albany,NY,1:26:10,9:15,Dylan,MacPhail
+846,37,F,Amsterdam,NY,1:26:12,9:15,Maura,Kristel
+847,38,F,Averill Park,NY,1:26:14,9:16,Anne,Spencer
+848,17,F,Niskayuna,NY,1:26:14,9:16,Cara,Laporta
+849,17,F,Niskayuna,NY,1:26:14,9:16,Irene,Thomas
+850,17,F,Niskayuna,NY,1:26:14,9:16,Jennifer,Downing
+851,46,M,Malta,NY,1:26:15,9:16,Ray,Liuzzo
+852,43,M,Mechanicville,NY,1:26:16,9:16,Cory,Metler
+853,45,F,Troy,NY,1:26:18,9:16,Teresa,Wagner
+854,28,F,Albany,NY,1:26:19,9:16,Jess,Zlotnick
+855,42,F,Clifton Park,NY,1:26:20,9:16,Paula,Bott
+856,40,F,Ballston Spa,NY,1:26:23,9:17,Jamie,Robbins
+857,47,F,Clifton Park,NY,1:26:24,9:17,Mona,Caron
+858,67,M,Glenville,NY,1:26:24,9:17,David,Spina
+859,56,M,Albany,NY,1:26:32,9:18,Bill,Blake
+860,45,F,Niskayuna,NY,1:26:34,9:18,Sandra,Buchanan
+861,35,F,Troy,NY,1:26:34,9:18,Emily,Camenga
+862,55,M,Niskayuna,NY,1:26:41,9:18,Michael,Pitnell
+863,48,M,Fort Edward,NY,1:26:42,9:19,Michael,Fosmire
+864,55,M,Canajoharie,NY,1:26:44,9:19,Dale,Lamphere
+865,64,M,Averill Park,NY,1:26:44,9:19,Paul,Lundgren
+866,51,F,Rensselaer,NY,1:26:46,9:19,Rachael,Angelini
+867,49,F,Ballston Spa,NY,1:26:47,9:19,Kim,Eisler
+868,53,F,Delmar,NY,1:26:50,9:19,Anne,Hurley
+869,49,F,Clifton Park,NY,1:26:51,9:20,Kate,Newton
+870,48,F,Albany,NY,1:26:53,9:20,Sharon,McGuire
+871,23,F,Schenectady,NY,1:26:53,9:20,Juliana,Speno
+872,55,M,Clifton Park,NY,1:26:56,9:20,Thomas,Sisson
+873,39,M,Loudonville,NY,1:26:56,9:20,Benjamin,Mastaitis
+874,48,F,Oswego,NY,1:26:57,9:20,Judith,Osetek
+875,23,F,Voorheesville,NY,1:26:58,9:20,Rachel,Dykstra
+876,44,F,West Sand Lake,NY,1:26:59,9:20,Jill,Filuta
+877,30,F,Scotia,NY,1:26:59,9:20,Lauren,Kirkham
+878,66,M,Glenmont,NY,1:27:03,9:21,Jim,Pepin
+879,47,F,Delanson,NY,1:27:04,9:21,Kathy,Vanvalen
+880,17,M,Niskayuna,NY,1:27:05,9:21,Owen,Laflamme
+881,17,F,Niskayuna,NY,1:27:05,9:21,Alayna,Griffiths
+882,27,F,Troy,NY,1:27:06,9:21,Megan,Labbate
+883,46,M,Albany,NY,1:27:06,9:21,Kevin,Banes
+884,43,F,Clifton Park,NY,1:27:08,9:21,Margaret,McMahan
+885,45,F,Oneonta,NY,1:27:08,9:21,Terri,Rowe
+886,35,F,Schenectady,NY,1:27:08,9:21,Heather,Defilippo
+887,69,M,Lake George,NY,1:27:08,9:21,David,Dibelius
+888,22,F,Ballston Spa,NY,1:27:09,9:21,Molly,Constantine
+889,14,F,Selkirk,NY,1:27:14,9:22,Grace,McGrath
+890,42,M,Halfmoon,NY,1:27:15,9:22,Joe,Landy
+891,50,F,Schenectady,NY,1:27:16,9:22,Lisa,Paonessa
+892,24,F,Albany,NY,1:27:17,9:22,Jessica,Vennard
+893,24,M,Schenectady,NY,1:27:18,9:22,Jonathan,Lapoint
+894,34,M,Altamont,NY,1:27:18,9:22,Michael,Renzi
+895,53,F,Schenectady,NY,1:27:19,9:23,Areta,Pidwerbetsky
+896,34,F,Waterford,NY,1:27:20,9:23,Meleah,Wright
+897,50,M,Voorheesville,NY,1:27:27,9:23,Todd,Dykstra
+898,50,F,Albany,NY,1:27:29,9:24,Robin,Nagengast
+899,52,M,Averill Park,NY,1:27:30,9:24,Scott,Henricks
+900,53,M,Delmar,NY,1:27:31,9:24,Denis,Hurley
+901,14,M,Niskayuna,NY,1:27:35,9:24,Brennan,Piper
+902,49,F,Niskayuna,NY,1:27:35,9:24,Stacy,Lampman
+903,49,M,Niskayuna,NY,1:27:35,9:24,Chad,Piper
+904,50,F,Albany,NY,1:27:37,9:24,Laurie,Walsh
+905,42,M,Schenectady,NY,1:27:37,9:24,Jason,Dipierro
+906,32,M,Oak Hill,NY,1:27:38,9:25,Elliot,Rauba
+907,46,F,Ballston Spa,NY,1:27:38,9:25,Gina,Heid
+908,50,M,Glenmont,NY,1:27:39,9:25,Michael,Weiler
+909,28,F,Albany,NY,1:27:42,9:25,Samantha,Morris
+910,27,F,Schenectady,NY,1:27:43,9:25,Rachel,Sharron
+911,45,F,Greenwich,NY,1:27:44,9:25,Dawn,Slater
+912,23,F,Cohoes,NY,1:27:45,9:25,Rayne,Rappazzo
+913,50,M,Glenville,NY,1:27:47,9:26,David,Hennel
+914,42,M,Amsterdam,NY,1:27:49,9:26,Keith,Waters
+915,52,M,Saratoga Springs,NY,1:27:51,9:26,Thomas,Ostrander
+916,64,F,Schenectady,NY,1:27:52,9:26,Cheryl,Olsen
+917,54,F,Troy,NY,1:27:53,9:26,Susan,Huston
+918,30,F,Ballston Lake,NY,1:27:56,9:26,Sara,Lanesey
+919,37,F,Clifton Park,NY,1:27:56,9:26,Elizabeth,Fox
+920,50,F,Bennington,VT,1:27:56,9:26,Katherine,Cummings
+921,39,M,Halfmoon,NY,1:27:56,9:27,Daniel,Phillips
+922,53,M,Slingerlands,NY,1:28:00,9:27,Jay,Watsky
+923,33,F,Watervliet,NY,1:28:01,9:27,Megan,Wilson
+924,26,F,Schenectady,NY,1:28:02,9:27,Samantha,Legere
+925,66,M,Cherry Plain,NY,1:28:02,9:27,Leo,Dipierro
+926,49,F,Voorheesville,NY,1:28:04,9:27,Martha,Gohlke
+927,31,F,Fort Edward,NY,1:28:05,9:27,Krista,Klock
+928,40,F,Johnstown,NY,1:28:07,9:28,Beth,Connelie
+929,65,M,Niskayuna,NY,1:28:08,9:28,Steve,Johnston
+930,38,F,Burlington,CT,1:28:08,9:28,Anne,King
+931,39,M,Broadalbin,NY,1:28:08,9:28,Carl,Aery
+932,53,F,Rotterdam Juncti,NY,1:28:11,9:28,Maureen,Florio
+933,54,F,Slingerlands,NY,1:28:11,9:28,Heidi,Glazier
+934,35,M,Rhinebeck,NY,1:28:13,9:28,Ian,Loehner
+935,35,M,Rotterdam,NY,1:28:18,9:29,Jon,Aery
+936,56,F,Castleton,NY,1:28:21,9:29,Marybeth,Dailey
+937,48,M,Glenville,NY,1:28:21,9:29,Craig,Petreikis
+938,28,F,Albany,NY,1:28:25,9:30,Amanda,Sumner
+939,28,M,Troy,NY,1:28:25,9:30,Cody,Netzband
+940,33,F,Scotia,NY,1:28:25,9:30,Rebecca,Morton
+941,38,M,Rensselaer,NY,1:28:27,9:30,Robert,Cronkhite
+942,62,F,Albany,NY,1:28:28,9:30,Carolyn,George
+943,55,F,Saratoga Springs,NY,1:28:30,9:30,Amy,Hart
+944,37,F,Charlton,NY,1:28:31,9:30,Kristen,Poulin
+945,18,M,Albany,NY,1:28:32,9:30,John,Cogan
+946,64,M,Scotia,NY,1:28:32,9:30,Russell,Clark
+947,45,M,Glenville,NY,1:28:39,9:31,Benjamin,Shaw
+948,44,F,Saratoga Springs,NY,1:28:41,9:31,Julie,Cuneo
+949,31,M,Albany,NY,1:28:46,9:32,Timothy,Furgal
+950,32,F,Albany,NY,1:28:47,9:32,Braelin,Thornton
+951,47,F,Schenectady,NY,1:28:47,9:32,Claudia,Jakubowski
+952,33,M,Latham,NY,1:28:49,9:32,Jason,Russell
+953,56,M,Gansevoort,NY,1:28:52,9:32,John,Merboth
+954,56,F,Amsterdam,NY,1:28:52,9:33,Jeri,Bursese
+955,38,M,Clifton Park,NY,1:28:53,9:33,Shawn,Owens
+956,52,F,Latham,NY,1:28:57,9:33,Jean,Rinaldi
+957,33,F,Schenectady,NY,1:28:58,9:33,Maria,Morales
+958,65,M,Barneveld,NY,1:28:59,9:33,Scott,Collins
+959,46,F,Schenectady,NY,1:29:00,9:33,Tanya,Goff
+960,56,F,Queensbury,NY,1:29:01,9:34,Sue,Blood
+961,50,F,Clifton Park,NY,1:29:02,9:34,Marilyn,Pickett
+962,52,M,Clifton Park,NY,1:29:08,9:34,John,Spence
+963,44,F,St. Johnsville,NY,1:29:09,9:34,Laurie,Weingart
+964,25,F,Albany,NY,1:29:13,9:35,Kathryn,Riley
+965,35,F,Latham,NY,1:29:15,9:35,Tracy,Henry
+966,41,M,Albany,NY,1:29:19,9:35,Brian,Vogel
+967,31,M,Colonie,NY,1:29:19,9:35,Armando,Hernandez
+968,38,F,Glenville,NY,1:29:21,9:36,Ruth,McClosky
+969,37,F,Burnt Hills,NY,1:29:21,9:36,Melissa,Stoudt
+970,56,M,Albany,NY,1:29:22,9:36,Jeff,Case
+971,28,F,Albany,NY,1:29:22,9:36,Jennifer,Austen
+972,17,F,Niskayuna,NY,1:29:23,9:36,Isabel,Kim
+973,42,F,Wynantskill,NY,1:29:24,9:36,Bridget,Graber
+974,38,F,Gansevoort,NY,1:29:24,9:36,Stephanie,Delancey
+975,63,M,Schenectady,NY,1:29:25,9:36,Richard,Malaczynski
+976,50,F,Saratoga Springs,NY,1:29:26,9:36,Laurie,Scheuing
+977,23,F,Saratoga Springs,NY,1:29:33,9:37,Kelley,Haggerty
+978,30,F,Johnstown,NY,1:29:35,9:37,Emily,Cox
+979,42,F,Latham,NY,1:29:37,9:37,Colleen,Williams
+980,25,F,Rensselaer,NY,1:29:40,9:38,Nicole,Fuller
+981,44,M,Ballston Spa,NY,1:29:40,9:38,Sivakumaran,Appanah
+982,54,F,Albany,NY,1:29:41,9:38,Kathy,Case
+983,44,F,Amsterdam,NY,1:29:43,9:38,Cynthia,Lockrow
+984,39,M,Albany,NY,1:29:46,9:38,Matt,Peluso
+985,53,F,Saratoga Springs,NY,1:29:52,9:39,Anne,Van Acker
+986,57,M,Albany,NY,1:29:57,9:39,Rick,Eckhardt
+987,56,M,Slingerlands,NY,1:29:59,9:40,Steven,Welch
+988,49,M,Niskayuna,NY,1:30:01,9:40,Daniel,Wood
+989,30,M,Charlton,NY,1:30:06,9:40,Bryan,Yager
+990,45,F,Niskayuna,NY,1:30:08,9:41,Stacey,Terry
+991,30,F,Waterford,NY,1:30:08,9:41,Erin,Vaubel
+992,38,M,Clifton Park,NY,1:30:09,9:41,Carl,Toth
+993,47,F,Schenectady,NY,1:30:12,9:41,Karen,Blesser
+994,55,M,Burnt Hills,NY,1:30:13,9:41,Stephen,Obermayer
+995,36,M,Albany,NY,1:30:19,9:42,James,Gambino
+996,44,F,Wilton,NE,1:30:19,9:42,Karen,Breslin
+997,41,F,Clifton Park,NY,1:30:21,9:42,Alison,Craver
+998,46,F,Charlton,NY,1:30:22,9:42,Mary,Wyatt
+999,50,F,Clifton Park,NY,1:30:22,9:42,Theresa,Rousseau
+1000,51,F,Ballston Spa,NY,1:30:23,9:42,Lori,Santilli
+1001,46,M,Johnstown,NY,1:30:23,9:42,Scott,Simone
+1002,48,M,Saratoga Springs,NY,1:30:25,9:43,Paul,Vescio
+1003,37,F,Guilderland,NY,1:30:26,9:43,Lauren,Patneaude
+1004,42,F,Ballston Lake,NY,1:30:27,9:43,Tika,Shuttleworth
+1005,47,F,Kinderhook,NY,1:30:33,9:43,Julie,Keating
+1006,42,F,Amsterdam,NY,1:30:37,9:44,Lori,Beck
+1007,57,M,Norwich,NY,1:30:38,9:44,Robert,Wansor
+1008,48,F,Schenectady,NY,1:30:38,9:44,Karen,Cusato
+1009,30,F,Clifton Park,NY,1:30:42,9:44,Lisa,Strain
+1010,23,F,Niskayuna,NY,1:30:43,9:44,Courtney,Heinbach
+1011,36,F,Halfmoon,NY,1:30:44,9:45,Ryanne,Phillips
+1012,59,M,Rexford,NY,1:30:45,9:45,Matthew,Leary
+1013,32,F,Albany,NY,1:30:45,9:45,Laura,Geminiani
+1014,32,F,Troy,NY,1:30:45,9:45,Brittany,Mangione
+1015,32,F,Clifton Park,NY,1:30:46,9:45,Courtney,Hill
+1016,34,F,Niskayuna,NY,1:30:46,9:45,Lenka,Torres
+1017,32,F,Rotterdam,NY,1:30:46,9:45,Andrea,Thompson
+1018,43,M,Fonda,NY,1:30:47,9:45,Ryan,Dunham
+1019,46,M,Castleton,NY,1:30:47,9:45,John,Okane
+1020,36,F,Ballston Lake,NY,1:30:49,9:45,Stacey,Passarell
+1021,62,M,Clifton Park,NY,1:30:52,9:45,Brian,Hassett
+1022,64,M,Latham,NY,1:30:55,9:46,Bill,Minchin
+1023,35,F,Greenfield Cente,NY,1:30:55,9:46,Danielle,Freebern
+1024,47,M,Delmar,NY,1:30:56,9:46,Scott,Smith
+1025,26,F,Kinderhook,NY,1:30:59,9:46,Amanda,Williams
+1026,35,F,Albany,NY,1:30:59,9:46,Marcie,Pasanen
+1027,60,M,Niskayuna,NY,1:31:05,9:47,Kevin,Conway
+1028,51,F,Canajoharie,NY,1:31:06,9:47,Randie,Lamphere
+1029,50,F,Schenectady,NY,1:31:08,9:47,Jean,Lange
+1030,63,F,Clifton Park,NY,1:31:09,9:47,Adele,Pace
+1031,27,M,Colonie,NY,1:31:10,9:47,Mike,Dewolfe
+1032,47,M,Latham,NY,1:31:16,9:48,Todd,Antifaiff
+1033,43,F,Clifton Park,NY,1:31:16,9:48,Shelby,Olsen
+1034,47,F,Malta,NY,1:31:16,9:48,Nicole,Robinson
+1035,51,M,Schenectady,NY,1:31:18,9:48,Mark,Russo
+1036,60,F,Baldwinsville,NY,1:31:22,9:49,Mickey,Piscitelli
+1037,45,M,Clifton Park,NY,1:31:23,9:49,Chad,Olsen
+1038,49,F,Stillwater,NY,1:31:23,9:49,Laurie,Hathaway
+1039,40,F,Poughkeepsie,NY,1:31:24,9:49,Carrie,Frost
+1040,35,M,Valatie,NY,1:31:27,9:49,Max,Diorio
+1041,48,F,Niskayuna,NY,1:31:27,9:49,Michelle,Bacares
+1042,35,F,Altamont,NY,1:31:32,9:50,Melinda,White
+1043,43,F,Albany,NY,1:31:33,9:50,Laura,Kelly
+1044,68,M,Schenectady,NY,1:31:36,9:50,Peter,Cowie
+1045,34,F,Latham,NY,1:31:37,9:50,Kristin,Quinn
+1046,57,M,Clifton Park,NY,1:31:38,9:50,Matt,Rousseau
+1047,53,F,Schenectady,NY,1:31:41,9:51,Catherine,McCutcheo
+1048,39,F,Niskayuna,NY,1:31:43,9:51,Jamie,Bocketti
+1049,26,F,Saratoga Springs,NY,1:31:43,9:51,Kayla,Jagoda
+1050,32,F,Troy,NY,1:31:46,9:51,Margaret,Zannitto
+1051,55,F,East Greenbush,NY,1:31:50,9:52,Laura,Spencer
+1052,34,M,Glenville,NY,1:31:52,9:52,Jonathan,McNamara
+1053,63,F,Colonie,NY,1:31:53,9:52,Donna,Choiniere
+1054,39,F,Albany,NY,1:31:53,9:52,Maggie,Campbell
+1055,52,M,Ballston Lake,NY,1:31:54,9:52,Theodore,Peltier
+1056,47,F,Johnsburg,NY,1:31:54,9:52,Tracy,Watson
+1057,34,F,Colonie,NY,1:31:54,9:52,Karen,Canniff
+1058,41,F,Mechanicville,NY,1:31:57,9:52,Kelly,Jones
+1059,42,M,Mechanicville,NY,1:31:58,9:52,Jeffrey,Jones
+1060,36,F,Slingerlands,NY,1:31:59,9:53,Julie,Grimmer
+1061,40,F,Malta,NY,1:31:59,9:53,Shaleen,Stavers
+1062,33,F,Clifton Park,NY,1:31:59,9:53,Jenny,Williams
+1063,62,M,Slingerlands,NY,1:32:01,9:53,Eugene,Sneeringer
+1064,64,M,Niskayuna,NY,1:32:01,9:53,Howard,Kohn
+1065,64,M,Saranac Lake,NY,1:32:03,9:53,Joseph,Poliquin
+1066,40,F,Rensselaer,NY,1:32:09,9:54,Mary,Schembeck
+1067,51,M,Niskayuna,NY,1:32:12,9:54,Laurence,Quinn
+1068,38,F,Schenectady,NY,1:32:13,9:54,Jennifer,Potter
+1069,30,F,Danbury,CT,1:32:15,9:54,Catherine,Pepin
+1070,38,F,Little Falls,NY,1:32:17,9:54,Kara,Przydatek
+1071,53,F,Latham,NY,1:32:19,9:55,Laura,Gibbs
+1072,48,M,Ballston Lake,NY,1:32:22,9:55,Sean,Feeny
+1073,31,F,Cooperstown,NY,1:32:23,9:55,Ashley,Clayburn
+1074,54,F,East Greenbush,NY,1:32:23,9:55,Terry,Peters
+1075,36,F,Waterford,NY,1:32:26,9:55,Angela,Parissi
+1076,35,F,Waterford,NY,1:32:26,9:55,Julie,Sawyer
+1077,35,M,Waterford,NY,1:32:26,9:55,Justin,Alonzo
+1078,62,M,Ballston Lake,NY,1:32:26,9:55,Thomas,Stanziola
+1079,36,F,Seneca Falls,NY,1:32:28,9:56,Marjorie,Davoli
+1080,33,F,Albany,NY,1:32:28,9:56,Molly,Trevail
+1081,45,F,Niskayuna,NY,1:32:30,9:56,Deborah,Harris
+1082,27,F,Rexford,NY,1:32:33,9:56,Tiffany,Fischer
+1083,27,F,Cincinnati,OH,1:32:34,9:56,Brianna,Dowdy
+1084,49,F,Saratoga Springs,NY,1:32:37,9:57,Kristin,Ostrander
+1085,53,M,Loudonville,NY,1:32:43,9:57,Bob,Sneeringer
+1086,57,F,West Sand Lake,NY,1:32:48,9:58,Jennifer,Lawrence
+1087,37,F,Schenectady,NY,1:32:53,9:58,Liz,Oakes
+1088,29,F,Rensselaer,NY,1:32:54,9:58,Theresa,Scrodanus
+1089,47,M,Schenectady,NY,1:32:55,9:59,Christopher,McCullo
+1090,49,F,Rexford,NY,1:32:58,9:59,Elizabeth,Haig
+1091,63,F,Delmar,NY,1:33:00,9:59,Darlene,Cardillo
+1092,65,M,Amsterdam,NY,1:33:06,10:0,Al,Jagoda
+1093,48,M,Schenectady,NY,1:33:13,10:0,Jeff,Van Dyk
+1094,54,F,Ravena,NY,1:33:15,10:0,Johna,Palmer
+1095,39,F,Clifton Park,NY,1:33:29,10:0,Dayna,O'Donnell
+1096,17,M,Loudonville,NY,1:33:30,10:0,Noah,Massry
+1097,54,F,Rensselaer,NY,1:33:32,10:0,Susan,Motler
+1098,39,F,Ballston Spa,NY,1:33:33,10:0,Angela,Kinne
+1099,37,F,Richmondville,NY,1:33:33,10:0,Keri,Jones
+1100,51,F,Glenmont,NY,1:33:33,10:0,Ginger,Lynch- Landy
+1101,69,M,Latham,NY,1:33:36,10:0,James,Fiore
+1102,70,M,Schenectady,NY,1:33:37,10:0,Thomas,Kollar
+1103,63,F,Altamont,NY,1:33:38,10:0,Donna,Lustenhouwer
+1104,57,M,Amsterdam,NY,1:33:38,10:0,Ronald,Marsh
+1105,32,F,East Berne,NY,1:33:38,10:0,Jenny,Terrell
+1106,41,M,Worcester,NY,1:33:40,10:0,Jeff,Wilcox
+1107,61,F,Scotia,NY,1:33:43,10:0,Mary,Jo Benny
+1108,32,M,Schenectady,NY,1:33:45,10:0,Matthew,Cotugno
+1109,36,F,Dolgeville,NY,1:34:01,10:0,Daisy,Aluarte-Null
+1110,16,F,Fultonville,NY,1:34:02,10:0,Katie,Dunham
+1111,57,F,Latham,NY,1:34:13,10:0,Gail,Perry
+1112,29,F,Guilderland,NY,1:34:14,10:0,Allison,Pepe
+1113,55,F,Duanesburg,NY,1:34:15,10:0,Jo,Ann Pommer
+1114,54,F,Schenectady,NY,1:34:18,10:0,Lori,Peek
+1115,56,M,Loudonville,NY,1:34:23,10:0,George,Berg
+1116,52,F,Voorheesville,NY,1:34:29,10:0,Debbie,Petridis
+1117,30,M,Saratoga Springs,NY,1:34:29,10:0,Steven,Luttman
+1118,58,M,Lake Placid,NY,1:34:30,10:0,William,Izzo
+1119,30,F,Pittsfield,MA,1:34:32,10:0,Danielle,Giulian
+1120,24,F,Altamont,NY,1:34:33,10:0,Kaitlin,Meck
+1121,53,F,Bristol,VT,1:34:34,10:0,Allison,Pouliot
+1122,39,F,Altamont,NY,1:34:34,10:0,Kara,Donohue
+1123,46,F,Slingerlands,NY,1:34:37,10:1,Dee,Fisher-Golden
+1124,34,F,Rotterdam,NY,1:34:51,10:1,Christin,Zorda
+1125,54,M,Delmar,NY,1:34:54,10:1,Chris,Stempsey
+1126,53,F,Burnt Hills,NY,1:35:02,10:1,Sandra,Morton
+1127,44,F,Ballston Spa,NY,1:35:02,10:1,Susan,Armer
+1128,43,M,Ballston Spa,NY,1:35:03,10:1,Gary,Saunders
+1129,42,F,Clifton Park,NY,1:35:13,10:1,Amy,Morelli
+1130,36,F,Albany,NY,1:35:15,10:1,Diane,Macri
+1131,45,F,East Greenbush,NY,1:35:15,10:1,Jennifer,Obrien
+1132,33,F,Malta,NY,1:35:22,10:1,Courtney,Daigle
+1133,36,F,Rensselaer,NY,1:35:23,10:1,Tabitha,Norris
+1134,67,M,Scotia,NY,1:35:27,10:1,John,Shoemaker
+1135,64,M,Poughkeepsie,NY,1:35:28,10:1,Joseph,Souza
+1136,28,F,Albany,NY,1:35:31,10:1,Jenna,Silberman
+1137,43,F,West Sand Lake,NY,1:35:32,10:1,Suzanne,Paulson
+1138,30,F,Johnstown,NY,1:35:33,10:1,Tabetha,Angus
+1139,36,F,Amsterdam,NY,1:35:34,10:1,Misty,Guthinger
+1140,39,F,Queensbury,NY,1:35:41,10:1,Elisabeth,Mahoney
+1141,48,F,Albany,NY,1:35:42,10:1,Mary,Adams
+1142,66,F,Delmar,NY,1:35:42,10:1,Katherine,Ambrosio
+1143,69,M,Schenectady,NY,1:35:43,10:1,Jesse,Dinkin
+1144,45,F,Glenmont,NY,1:35:46,10:1,Kimberly,Thurber
+1145,49,F,Delmar,NY,1:35:50,10:1,Michelle,Golonka
+1146,38,M,Glenville,NY,1:35:53,10:1,Benjamin,Rael
+1147,58,F,West Sand Lake,NY,1:36:00,10:1,Susan,Schaefer
+1148,64,F,Derby,NY,1:36:01,10:1,Ellen,Tomczak
+1149,39,F,Albany,NY,1:36:09,10:1,Colleen,Syrett
+1150,34,F,Chatham,NY,1:36:09,10:1,Mara,Simons-Jones
+1151,58,M,Round Lake,NY,1:36:10,10:2,Thomas,Schweder
+1152,59,F,Saratoga Springs,NY,1:36:11,10:2,Elayne,Livote
+1153,39,F,Albany,NY,1:36:12,10:2,Julia,Tighe
+1154,31,F,Castleton On Hud,NM,1:36:13,10:2,Lauren,Sanford
+1155,49,F,Bennington,VT,1:36:13,10:2,Patricia,Bitteker
+1156,37,F,Wilton,NY,1:36:15,10:2,Rachel,Waters
+1157,39,F,Altamont,NY,1:36:16,10:2,Rana,Paulsen
+1158,45,F,Niskayuna,NY,1:36:16,10:2,Annette,Kardi
+1159,38,F,Albany,NY,1:36:18,10:2,Kristie,Furman
+1160,33,F,Schenectady,NY,1:36:18,10:2,Christina,Blot
+1161,46,M,Amsterdam,NY,1:36:22,10:2,Joseph,Raczes
+1162,24,F,Voorheesville,NY,1:36:27,10:2,Elizabeth,Madden
+1163,34,F,Selkirk,NY,1:36:28,10:2,Jayme,Torelli
+1164,65,M,Oneonta,NY,1:36:30,10:2,Steve,Johnson
+1165,32,F,Schenectady,NY,1:36:39,10:2,Jennifer,Curiano
+1166,48,F,Niskayuna,NY,1:36:40,10:2,Lonnie,Halusic
+1167,32,F,Delmar,NY,1:36:46,10:2,Kristine,Schaefer
+1168,56,F,Glenville,NY,1:36:46,10:2,Andrea,Rowe
+1169,48,F,Clifton Park,NY,1:37:05,10:2,Eleonora,Morrell
+1170,47,F,Clifton Park,NY,1:37:05,10:2,Lisa,Ryan
+1171,26,F,Vernon,CT,1:37:11,10:2,Danielle,Huppke
+1172,62,F,Richmond,MA,1:37:16,10:2,Mary,Ann Serian
+1173,59,F,Charlton,NY,1:37:16,10:2,Kim,Farrow
+1174,48,F,Schoharie,NY,1:37:16,10:2,Lisa,Helmstadt
+1175,38,F,Rensselaer,NY,1:37:17,10:2,Kelly,Cronhite
+1176,41,F,Nassau,NY,1:37:19,10:2,Christine,Hotaling
+1177,51,F,Glenville,NY,1:37:19,10:2,Amy,Jessup
+1178,42,F,Schoharie,NY,1:37:20,10:2,Laura,Rosenthal
+1179,60,F,Clifton Park,NY,1:37:22,10:2,Virginia,Touhey
+1180,35,M,Hartsdale,NY,1:37:28,10:2,Roger,Lishnoff
+1181,59,F,Loudonville,NY,1:37:29,10:2,Kathleen,Cahalan
+1182,37,F,Ballston Spa,NY,1:37:33,10:2,Megan,McDonald
+1183,25,F,Troy,NY,1:37:34,10:2,Emily,Black
+1184,34,F,Saratoga Springs,NY,1:37:34,10:2,Carrie,Pallas
+1185,35,F,Cohoes,NY,1:37:39,10:2,Karen,Sonnelitter
+1186,49,F,Delmar,NY,1:37:40,10:2,Michelle,Huckins
+1187,57,M,Castleton,NY,1:37:41,10:2,Matthew,Brady
+1188,14,F,Amsterdam,NY,1:37:42,10:2,Megan,Close
+1189,28,F,Ballston Spa,NY,1:37:42,10:2,Kristin,Carminati
+1190,46,F,Ballston Spa,NY,1:37:42,10:2,Kathryn,Cook
+1191,46,F,Mechanicville,NY,1:37:43,10:2,Julie,Ferdinand
+1192,47,M,Mechanicville,NY,1:37:43,10:3,Brian,Ferdinand
+1193,57,M,Saratoga Springs,NY,1:37:43,10:3,Stephen,Heidorn
+1194,81,M,Rensselaer,NY,1:37:46,10:3,Wade,Stockman
+1195,45,F,Troy,NY,1:37:46,10:3,Amy,O'Connor
+1196,42,F,Rock City Falls,NY,1:37:50,10:3,Kelley,Tuohy
+1197,61,F,Troy,NY,1:37:50,10:3,Jill,Mehan
+1198,25,F,Charlton,NY,1:37:53,10:3,Georgina,Farrow
+1199,52,F,Valatie,NY,1:37:54,10:3,Randi,Walker
+1200,27,M,Vernon,CT,1:37:54,10:3,Joseph,Sodaro
+1201,50,F,Schenectady,NY,1:37:57,10:3,Deborah,Ruggiero
+1202,53,M,Schenectady,NY,1:37:58,10:3,William,Nowak
+1203,51,M,Herkimer,NY,1:38:01,10:3,Phil,Whynot
+1204,46,F,Green Island,NY,1:38:03,10:3,Michele,Bourgeois
+1205,61,M,Albany,NY,1:38:06,10:3,Thomas,Gabriels
+1206,38,F,Scotia,NY,1:38:08,10:3,Cynthia,Frisoni
+1207,45,F,Schenectady,NY,1:38:08,10:3,Kris,Diemer
+1208,48,F,Niskayuna,NY,1:38:09,10:3,Jackie,Rowen
+1209,40,F,Malta,NY,1:38:11,10:3,Suzanne,Huwe
+1210,64,M,Ballston Lake,NY,1:38:12,10:3,Mark,Mindel
+1211,33,M,Loudonville,NY,1:38:15,10:3,Kevin,Quinn
+1212,29,F,Schenectady,NY,1:38:16,10:3,Kimberly,Broderick
+1213,51,F,Latham,NY,1:38:17,10:3,Cynthia,Methe
+1214,53,F,Schenectady,NY,1:38:18,10:3,Rita,Beerle
+1215,63,F,Albany,NY,1:38:18,10:3,Debra,Kelley
+1216,51,F,Fort Plain,NY,1:38:26,10:3,Diana,Schwartz
+1217,61,M,Schenectady,NY,1:38:27,10:3,Chuck,Curiano
+1218,12,F,Williamstown,MA,1:38:34,10:3,Mackenzie,Sheehy
+1219,27,F,Albany,NY,1:38:34,10:3,Jenny,Wei
+1220,32,F,Menands,NY,1:38:35,10:3,Melissa,Washco
+1221,60,F,Troy,NY,1:38:36,10:3,Colleen,Walsh
+1222,40,M,Schenectady,NY,1:38:37,10:3,Robert,Fiorini
+1223,49,M,Niskayuna,NY,1:38:37,10:3,Donald,Whisenhunt
+1224,33,F,Lee,MA,1:38:43,10:3,Cathryn,Glanton Hol
+1225,33,M,Lee,MA,1:38:43,10:3,Brendan,Holzhauer
+1226,32,F,Niskayuna,NY,1:38:46,10:3,Jenny,Deviddio
+1227,40,F,Scotia,NY,1:38:47,10:3,Jennifer,O'Donohoe-
+1228,51,F,Altamont,NY,1:38:48,10:3,Linda,Balles
+1229,35,F,Niskayuna,NY,1:38:55,10:3,Lisa,Jablonka
+1230,37,M,Niskayuna,NY,1:38:58,10:3,Chris,Casey
+1231,34,F,Niskayuna,NY,1:38:58,10:3,Kristen,Casey
+1232,35,F,Waterford,NY,1:39:05,10:3,Moira,Nowc
+1233,37,F,Colonie,NY,1:39:08,10:3,Sarah,Fisk
+1234,55,F,Ballston Lake,NY,1:39:10,10:3,Tricia,Johnston
+1235,70,M,Albany,NY,1:39:11,10:3,Peter,Newkirk
+1236,50,F,Northville,NY,1:39:13,10:3,Shawn,Neese
+1237,51,F,Clifton Park,NY,1:39:14,10:3,Donna,Topolski
+1238,49,F,Saratoga Springs,NY,1:39:21,10:4,Susanne,Cumming
+1239,40,F,Rensselaer,NY,1:39:22,10:4,Alessa,Ellis
+1240,23,F,Scotia,NY,1:39:26,10:4,Deanna,Kremzier
+1241,41,F,Clifton Park,NY,1:39:29,10:4,Kathryn,Osborn
+1242,67,M,Rensselaer,NY,1:39:31,10:4,David,Durkin
+1243,60,M,Albany,NY,1:39:31,10:4,Robert,Ward
+1244,46,F,Watervliet,NY,1:39:39,10:4,Sherry,Douty
+1245,41,F,Scotia,NY,1:39:41,10:4,Christine,Nofri
+1246,35,F,Malta,NY,1:39:42,10:4,Jennifer,Desantis
+1247,55,F,Schenectady,NY,1:39:43,10:4,Sharon,Fellner
+1248,52,F,Clifton Park,NY,1:39:43,10:4,Beth,Grzyboski
+1249,48,F,Schenectady,NY,1:39:45,10:4,Kim,Donohue
+1250,48,F,Albany,NY,1:39:46,10:4,Dayna,Maniccia
+1251,24,F,Gansevoort,NY,1:39:48,10:4,Allison,Smoak
+1252,45,F,Schenectady,NY,1:39:58,10:4,Deb,Valois
+1253,33,M,Albany,NY,1:39:59,10:4,Levi,Dewilde
+1254,42,M,Schenectady,NY,1:39:59,10:4,Stephen,Valois
+1255,33,F,Troy,NY,1:40:03,10:4,Karla,Powers
+1256,39,M,Albany,NY,1:40:04,10:4,Chris,Wessell
+1257,54,F,Ewing,NJ,1:40:05,10:4,Martha,Bolster
+1258,35,F,East Greenbush,NY,1:40:06,10:4,Kristi,Favaloro
+1259,39,M,Saratoga Springs,NY,1:40:10,10:4,Gene,Hinkle
+1260,58,F,Cohoes,NY,1:40:21,10:4,Debra,Rappazzo
+1261,67,M,Schenectady,NY,1:40:22,10:4,Edwin,Litts
+1262,40,M,Schenectady,NY,1:40:24,10:4,Billy,McDonald
+1263,62,M,East Greenbush,NY,1:40:26,10:4,Martin,Kittell
+1264,59,M,Albany,NY,1:40:26,10:4,Michael,McLean
+1265,48,F,East Greenbush,NY,1:40:29,10:4,Karen,Tracey
+1266,36,F,Ballston Spa,NY,1:40:38,10:4,Serena,Barclay
+1267,29,F,Troy,NY,1:40:43,10:4,Allison,Labarge
+1268,77,M,Niskayuna,NY,1:40:44,10:4,Jim,Moore
+1269,29,F,Glenville,NY,1:40:46,10:4,Britalena,Liebers
+1270,33,F,Schenectady,NY,1:40:49,10:4,Kristy,Rosa
+1271,42,F,Schenectady,NY,1:40:53,10:5,Joan,Anderson
+1272,41,F,Glenville,NY,1:41:00,10:5,Nicole,Chlopecki
+1273,41,F,Glenville,NY,1:41:04,10:5,Carrie,Hughes
+1274,45,M,Glenville,NY,1:41:04,10:5,Alex,Chlopecki Ii
+1275,34,F,Glenville,NY,1:41:05,10:5,Jackie,Kucskar
+1276,61,M,Schaghticoke,NY,1:41:07,10:5,Howard,Sanderson
+1277,39,F,Glenville,NY,1:41:10,10:5,Kathleen,Heiner
+1278,59,F,Harwich,MA,1:41:10,10:5,Kyle,Wasserman
+1279,58,F,Round Lake,NY,1:41:22,10:5,Marsha,Englert
+1280,40,F,Ilion,NY,1:41:27,10:5,Shannon,Wheet
+1281,48,M,Nashua,NH,1:41:29,10:5,Christopher,Mabon
+1282,45,F,Castleton,NY,1:41:31,10:5,Sandra,McCarty
+1283,40,F,Rensselaer,NY,1:41:33,10:5,Nicole,Reagan
+1284,39,F,Niskayuna,NY,1:41:35,10:5,Kati,Cooke
+1285,45,F,Niskayuna,NY,1:41:39,10:5,Cynthia,Fairbanks
+1286,45,F,Hudson,NY,1:41:41,10:5,Dorothea,Schoep
+1287,77,M,Slingerlands,NY,1:41:42,10:5,Joseph,Richardson
+1288,69,M,Delmar,NY,1:41:42,10:5,Peter,Thomas
+1289,58,F,Ballston Spa,NY,1:41:43,10:5,Sheri,Steele
+1290,49,F,Altamont,NY,1:41:47,10:5,Kelly,Gillen
+1291,40,M,Ballston Spa,NY,1:41:47,10:5,Jason,MacDowell
+1292,49,M,Niskayuna,NY,1:41:48,10:5,Daniel,Leonard
+1293,64,F,Albany,NY,1:41:50,10:5,Mary,Ann Macri
+1294,49,F,Voorheesville,NY,1:41:50,10:5,Linda,Quinn
+1295,39,F,Hudson Falls,NY,1:41:53,10:5,Jennifer,Graves
+1296,33,F,South Glens Fall,NY,1:41:53,10:5,Jennifet,Schworm
+1297,56,M,Glenmont,NY,1:41:57,10:5,Garrett,McCann
+1298,57,F,Troy,NY,1:41:58,10:5,Debbie,Tierney
+1299,49,M,Niskayuna,NY,1:41:59,10:5,Jeffrey,Halusic
+1300,41,M,New Hartford,NY,1:42:02,10:5,David,Fryman
+1301,42,F,Schenectady,NY,1:42:02,10:5,Heather,Hutchison
+1302,51,F,Clifton Park,NY,1:42:03,10:5,Theresa,Puleo-Lewan
+1303,46,F,Burnt Hills,NY,1:42:14,10:5,Kathleen,Tersgini
+1304,52,F,Clifton Park,NY,1:42:15,10:5,Carla,Ward
+1305,58,M,Albany,NY,1:42:21,10:5,Edward,Norton
+1306,44,F,Ballston Lake,NY,1:42:25,11:0,Rebecca,Weyrauch
+1307,33,F,Scotia,NY,1:42:27,11:0,Jennifer,Pedersen
+1308,28,F,Delmar,NY,1:42:37,11:0,Bridget,Hodgkinson
+1309,34,M,Albany,NY,1:42:37,11:0,Jonathan,Sajan
+1310,35,F,Niskayuna,NY,1:42:42,11:0,Janette,Meppen
+1311,50,F,Scotia,NY,1:42:45,11:0,Stephanie,Languell
+1312,24,F,New Albany,PA,1:42:47,11:0,Nichole,Albers
+1313,66,F,Troy,NY,1:42:48,11:0,Cathy,Lanesey
+1314,41,F,Mohawk,NY,1:42:52,11:0,Mary,Sperl
+1315,59,F,Johnstown,NY,1:43:00,11:0,Patricia,Robinson
+1316,64,F,Duanesburg,NY,1:43:09,11:0,Rita,Murtagh
+1317,66,F,Clifton Park,NY,1:43:11,11:0,Katherine,Frederick
+1318,30,F,Rochester,NY,1:43:12,11:0,Meghan,Randle
+1319,30,F,Schenectady,NY,1:43:15,11:0,Christine,Eisenhowe
+1320,59,M,Delmar,NY,1:43:15,11:0,Christopher,Maestro
+1321,56,F,Loudonville,NY,1:43:15,11:0,Nancy,Piche'
+1322,52,M,Schenectady,NY,1:43:23,11:0,Thomas,Verret
+1323,37,F,Scotia,NY,1:43:44,11:0,Shelly,Graves
+1324,68,M,Latham,NY,1:44:01,11:1,Martin,Rowley
+1325,24,F,Saratoga Springs,NY,1:44:12,11:1,Gabbie,Gapczynski
+1326,38,F,Loudonville,NY,1:44:13,11:1,Jessica,Maguire
+1327,49,F,Schenectady,NY,1:44:13,11:1,Carol,Hendrickson
+1328,59,F,Clifton Park,NY,1:44:20,11:1,Kathleen,Hutson
+1329,49,M,Horseheads,NY,1:44:39,11:1,Gilbert,Rodriguez
+1330,39,F,Schenectady,NY,1:44:41,11:1,Una,Larson
+1331,62,F,Albany,NY,1:44:43,11:1,Valerie,Pezzula
+1332,44,F,Pattersonville,NY,1:44:46,11:1,Rosalie,Clark
+1333,66,F,Clifton Park,NY,1:44:48,11:1,Kristine,Thorne
+1334,36,F,Troy,NY,1:44:54,11:1,Kelly,Allard
+1335,32,F,Delmar,NY,1:44:57,11:1,Emily,Walling
+1336,33,F,Lake George,NY,1:44:58,11:1,Caitlin,Mitchell
+1337,33,M,Castleton On Hud,NY,1:45:01,11:1,Michael,Paglialonga
+1338,35,M,Clifton Park,NY,1:45:07,11:1,Carl,Vess
+1339,24,F,Troy,NY,1:45:14,11:1,Cassandra,Scott
+1340,43,M,Albany,NY,1:45:15,11:1,Brett,Sears
+1341,43,F,Albany,NY,1:45:15,11:1,Alecia,Sears
+1342,46,F,Delmar,NY,1:45:20,11:1,Tina,Docous
+1343,67,M,Ballston Lake,NY,1:45:21,11:1,Ed,Swanson
+1344,64,F,Ballston Lake,NY,1:45:21,11:1,Diana,Graziano
+1345,45,F,Saratoga Springs,NY,1:45:24,11:1,Tara,Yasenchak
+1346,44,M,Glenville,NY,1:45:39,11:2,Brian,Shoemaker
+1347,31,F,Albany,NY,1:45:41,11:2,Rachele,Herrington
+1348,62,F,Schenectady,NY,1:45:58,11:2,Patricia,Roeser
+1349,62,F,Hopewell Junctio,NY,1:46:07,11:2,Denise,Dollard
+1350,49,F,Loudonville,NY,1:46:16,11:2,Barbara,Morbidelli
+1351,47,F,Glenville,NY,1:46:33,11:2,Christine,Polsinell
+1352,43,M,Ballston Lake,NY,1:46:38,11:2,Nicholas,Ruisi
+1353,53,M,Clifton Park,NY,1:46:46,11:2,Darryl,Caron
+1354,40,F,Palatine Bridge,NY,1:46:47,11:2,Kimberly,Hayes
+1355,30,F,Schenectady,NY,1:47:09,11:3,Rebecca,Daniels
+1356,25,F,Ballston Spa,NY,1:47:10,11:3,Rachel,Queenan
+1357,50,M,Schenectady,NY,1:47:33,11:3,David,Lange
+1358,67,F,Cohoes,NY,1:47:35,11:3,Patricia,Darmetko
+1359,62,M,Clifton Park,NY,1:47:37,11:3,Al,Smith
+1360,13,F,Schenectady,NY,1:48:02,11:3,Jessica,Quinn
+1361,54,F,Clifton Park,NY,1:48:03,11:3,Susan,Ryan
+1362,55,F,Northville,NY,1:48:17,11:3,Jean,Ginter
+1363,59,F,Delmar,NY,1:48:18,11:3,Maria,Schollenberge
+1364,46,F,Cohoes,NY,1:48:19,11:3,Dee,Rowland
+1365,50,F,Castleton,NY,1:48:22,11:3,Brenda,Fish
+1366,39,F,Williamstown,MA,1:48:25,11:3,Cindy,Sheehy
+1367,44,F,Cohoes,NY,1:48:36,11:4,Carrie,Genito
+1368,30,F,Voorheesville,NY,1:48:36,11:4,Amanda,Connors
+1369,57,M,Niskayuna,NY,1:48:38,11:4,Richard,Harrow
+1370,38,F,Williamstown,MA,1:48:43,11:4,Angela,Hillman
+1371,42,F,Scotia,NY,1:49:17,11:4,Elaine,Geniti
+1372,51,F,Glenville,NY,1:49:18,11:4,Kristen,Rooney
+1373,23,F,Saratoga Springs,NY,1:49:30,11:4,Andrea,Lees
+1374,30,F,Albany,NY,1:49:38,11:4,Caitlin,Sheil
+1375,41,M,Mechanicville,NY,1:49:46,11:4,Balakrishna,Meenaks
+1376,57,F,Malta,NY,1:49:47,11:4,Carol,Henry
+1377,49,F,Schenectady,NY,1:49:49,11:4,Essie,Hendron
+1378,42,M,Mechanicville,NY,1:49:54,11:4,Michael,Cowell
+1379,32,F,Schenectady,NY,1:49:59,11:4,Laura,Carney
+1380,54,F,Latham,NY,1:50:00,11:4,Judy,Litt
+1381,48,F,Kinderhook,NY,1:50:03,11:4,Siobhan,Connally
+1382,34,F,Scotia,NY,1:50:14,11:5,Lindsay,Armbruster
+1383,27,F,Albany,NY,1:50:15,11:5,Lauren,McGlone
+1384,15,F,Howes Cave,NY,1:50:22,11:5,Ayiana,Shaw
+1385,41,M,Schenectady,NY,1:51:35,11:5,David,Pahl
+1386,66,M,Glens Falls,NY,1:51:39,11:5,Glenn,Schaef
+1387,51,F,Clifton Park,NY,1:51:52,12:0,Sandra,Crall
+1388,54,M,Ballston Spa,NY,1:51:52,12:0,Wiliam,Latulippe
+1389,53,F,Schenectady,NY,1:52:11,12:0,Cheri,Pinkans
+1390,48,F,Saranac Lake,NY,1:52:27,12:0,Maria,Deangelo
+1391,49,F,Schenectady,NY,1:52:29,12:0,Ronnie,Ippolito
+1392,52,F,Schenectady,NY,1:53:20,12:1,Paula,Destefano
+1393,31,F,Gloversville,NY,1:53:25,12:1,Samantha,Yates
+1394,37,F,New Hartford,NY,1:53:40,12:1,Sabrina,Fryman
+1395,65,M,Mechanicville,NY,1:54:00,12:1,Garry,Buckley
+1396,30,F,Saint Johnsville,NY,1:54:10,12:1,Alisha,Holcomb
+1397,66,M,Schenectady,NY,1:54:24,12:1,Rich,Daley
+1398,43,F,Hoosick Falls,NY,1:54:29,12:1,Tanya,Cowder
+1399,39,F,Wynantskill,NY,1:54:35,12:1,Linda,Doyle
+1400,37,M,Rotterdam,NY,1:54:37,12:1,David,Wasniski Ii
+1401,56,F,Glenmont,NY,1:55:01,12:2,Cecilia,Sanchez
+1402,48,F,Clifton Park,NY,1:55:04,12:2,Jennifer,Waldek
+1403,28,F,Albany,NY,1:55:38,12:2,Kayla,Brackett
+1404,54,F,Waterford,NY,1:55:40,12:2,Maryann,Martel
+1405,53,F,Waterford,NY,1:55:40,12:2,Caroline,Gattulli
+1406,65,F,Hudson,NY,1:55:42,12:2,Deborah,Shakotko
+1407,27,F,Clarksville,NY,1:55:56,12:2,Lauren,Griggs
+1408,45,F,Valatie,NY,1:56:09,12:2,Jennifer,Brennan
+1409,55,F,Slingerlands,NY,1:56:16,12:2,Uzma,Qureshi
+1410,52,F,Schenectady,NY,1:56:16,12:2,Fran,Veloce
+1411,40,F,Latham,NY,1:57:02,12:3,Robyn,Haberman
+1412,39,F,Saratoga Springs,NY,1:57:03,12:3,Annette,Parisi
+1413,52,F,Schenectady,NY,1:57:37,12:3,Lynne,Neeley
+1414,47,F,Schenectady,NY,1:57:50,12:3,Regina,Chaskin
+1415,41,M,Niskayuna,NY,1:57:57,12:4,Michael,Benson
+1416,47,F,Latham,NY,1:58:23,12:4,Lizzie,Redkey
+1417,43,F,Scotia,NY,1:58:24,12:4,Mary,Insogna
+1418,52,F,Ballston Lake,NY,1:58:51,12:4,Dawn,Vitti
+1419,52,F,Schenectady,NY,1:58:53,12:4,Kim,C
+1420,67,M,Schenectady,NY,1:59:01,12:4,Paul,Coville
+1421,49,F,Clifton Park,NY,1:59:02,12:4,Cheryl,Hutchinson
+1422,42,F,Schenectady,NY,1:59:12,12:4,Susanna,Hurley
+1423,50,F,Gloversville,NY,2:00:35,12:5,Laura,Smeallie
+1424,65,M,Ballston Lake,NY,2:00:40,12:5,Ken,Ebert
+1425,39,F,Ravena,NY,2:00:46,12:5,Candace,McHugh
+1426,36,F,Albany,NY,2:00:46,12:5,Elizabeth,MacCallum
+1427,47,F,East Greenbush,NY,2:02:09,13:0,Christina,Smith
+1428,71,F,Averill Park,NY,2:02:46,13:1,Katharine,Briar-Law
+1429,47,M,Clifton Park,NY,2:02:48,13:1,John,Lawrence
+1430,55,F,Malta,NY,2:03:17,13:1,Patty,Kilgore
+1431,42,F,Albany,NY,2:05:12,13:2,Elizabeth,Gallagher
+1432,43,F,Schenectady,NY,2:05:28,13:2,Jennifer,McCullough
+1433,34,M,Schenectady,NY,2:05:43,13:3,Brian,Cechnicki
+1434,38,F,Glenville,NY,2:05:51,13:3,Jessica,Ward
+1435,37,F,Lake Luzerne,NY,2:05:51,13:3,Melissa,Witt
+1436,71,M,Scotia,NY,2:07:10,13:3,Edward,Salvo  Jr.
+1437,70,M,Poughkeepsie,NY,2:07:20,13:4,John,Souza
+1438,84,F,Rensselaer,NY,2:07:30,13:4,Anny,Stockman
+1439,25,F,Troy,NY,2:07:31,13:4,Victoria,Bickford
+1440,26,F,Troy,NY,2:07:32,13:4,Kelsey,Richards
+1441,44,F,Scotia,NY,2:08:40,13:4,Kimberly,Furnish
+1442,61,F,Cobleskill,NY,2:13:31,14:2,Linda,Holmes
+1443,74,M,Halfmoon,NY,2:14:24,14:2,Raymond,Lee Jr
+1444,23,F,Albany,NY,2:16:52,14:4,Sara,Colino
+1445,49,M,New Hartford,NY,2:17:06,14:4,Karl,Jones
+1446,39,F,Albany,NY,2:17:06,14:4,Tanya,Amodio-Kovacs
+1447,79,F,Schaghticoke,NY,2:17:15,14:4,Eiko,Bogue
+1448,42,F,Greenfield,MA,2:17:40,14:4,Kerri,George
+1449,39,F,Glenville,NY,2:17:55,14:4,Karen,Bendt
+1450,51,M,Scotia,NY,2:28:15,15:5,Tom,Favata

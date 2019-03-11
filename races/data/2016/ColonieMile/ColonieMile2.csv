@@ -1,0 +1,60 @@
+Place,FIRST_NAME,LAST_NAME,Ag,Sex,City,Time,member
+1,Eric,Young,24,M,Latham,04:41.70,yes
+2,Brian,Woods,31,M,Saratoga Springs,04:44.40,no
+3,Josh,Merlis,34,M,Albany,04:47.80,yes
+4,Michael,Nickerson,27,M,Clifton Park,04:56.24,yes
+5,Nick,Webster,27,M,Albany,05:00.90,yes
+6,Henry,Goca,15,M,Rensselaer,05:09.30,no
+7,Ben,Heller,27,M,Albany,05:13.00,yes
+8,Jim,Sweeney,35,M,Albany,05:15.31,yes
+9,Claire,Collison,26,F,Albany,05:16.70,no
+10,Jeff,Long,33,M,Albany,05:18.26,yes
+11,Lisa,D'Aniello,30,F,Albany,05:19.40,yes
+12,Aaron,Knobloch,40,M,Guilderland,05:19.40,yes
+13,Brian,Northan,41,M,Guilderland,05:22.10,yes
+14,Daniel,Taylor,16,M,Clifton Park,05:25.40,yes
+15,Thomas,Dansereau,29,M,Troy,05:28.00,yes
+16,Jon,Rocco,49,M,Colonie,05:30.40,yes
+17,Katlin,Mock,25,F,Albany,05:34.10,no
+18,Nicole,Soblosky,29,F,Albany,05:35.50,yes
+19,Dallas,DeVries,38,M,Cohoes,05:35.70,yes
+20,Sam,Acevedo,28,M,Guilderland,05:38,no
+21,Phil,Spiezio,51,M,Greenwich,05:41,yes
+22,Ed,Menis,51,M,Schenectady,05:43,yes
+23,Rick,Munson,59,M,Prattsville,05:44,yes
+24,Jon,Weilbaher,57,M,Saratoga Springs,05:44:00,no
+25,Shelly,Binsfeld,36,F,Clifton Park,05:45.70,yes
+26,Dennis,VanVlack,44,M,Duanesburg,05:46.14,yes
+27,Graham,Richard,66,M,Schenectady,05:49.08,yes
+28,Gaven,Richard,42,M,Albany,05:56.01,yes
+29,Matthew,Binsfeld,11,M,Clifton Park,05:58.20,yes
+30,Michelle,Davis,27,F,Latham,06:02,yes
+31,David,Roy,60,M,Schoharie,06:04,yes
+32,Richard,Clark,62,M,Feeding Hills,06:05.80,yes
+33,Gary,Longhi,52,M,Voorheesville,06:06,no
+34,John,Parisella,58,M,Schenectady,06:12.10,yes
+35,Jourdyn,Nicholson,15,F,Schenectady,06:21,yes
+36,Ken,Klapp,66,M,Schenectady,06:26,yes
+37,Julia,Barker,13,F,Latham,06:27.20,yes
+38,Laura,Zima,36,F,Albany,06:27.80,yes
+39,Paul,Bennett,65,M,Latham,06:28.70,yes
+40,Richard,Lynch,58,M,Saratoga,06:31.10,no
+41,Jewel,Tanksley,12,F,Latham,06:34,no
+42,Kayla,Rouse,22,F,Canastota,06:40,no
+43,Seth,Engel,27,M,Round Lake,06:40,yes
+44,Colleen,Brackett,55,F,Albany,06:40.10,yes
+45,Vincent,Wenger,52,M,Schenectady,06:42,yes
+46,Lara,Stelmaszyk,46,F,Albany,06:43,yes
+47,John,DeSorbo,34,M,Albany,06:45,yes
+48,Clare,Browne,27,F,Delmar,06:57,yes
+49,Jaelyn,Tanksley,14,F,Latham,07:03,no
+50,David,Rowell,64,M,Albany,07:07,yes
+51,Karen,Dott,60,F,Colonie,07:13.30,yes
+52,Giavana,Smith,13,F,Albany,07:18.60,no
+53,Jim,Fiore,68,M,Latham,07:28,yes
+54,Kathy,VanValen,47,F,Delanson,07:35,yes
+55,Martha,DeGrazia,65,F,Slingerlands,07:40,yes
+56,Karen,Gerstenberger,58,F,Albany,07:45,yes
+57,Ken,Skinner,76,M,Albany,08:18,yes
+58,Jim,Moore,76,M,Schenectady,08:19,yes
+59,Anny,Stockman,84,F,Rensselaer,12:05.60,yes

@@ -1,0 +1,75 @@
+,place,first_name,last_name,gender,age,age_cat,name
+14,15,Irene,Somerville,F,24,a_open,Irene Somerville
+22,23,Allison,Kondervuich,F,27,a_open,Allison Kondervuich
+25,26,Michelle,Davis,F,28,a_open,Michelle Davis
+68,69,Sarah,Jaeger,F,25,a_open,Sarah Jaeger
+17,18,Alyssa,Lotmore,F,32,b_30_39,Alyssa Lotmore
+29,30,Meghan,Looden,F,31,b_30_39,Meghan Looden
+56,57,Kristin,Zielinski,F,37,b_30_39,Kristin Zielinski
+43,44,Melissa,Grandjean,F,48,c_40_49,Melissa Grandjean
+45,46,Kate,Thies,F,40,c_40_49,Kate Thies
+52,53,Teresa,Grant,F,44,c_40_49,Teresa Grant
+54,55,Hannah,Barry,F,45,c_40_49,Hannah Barry
+59,60,Linda,DeDominicis,F,49,c_40_49,Linda DeDominicis
+67,68,Michele,Bourgeois,F,47,c_40_49,Michele Bourgeois
+70,71,Nicole,Niles,F,40,c_40_49,Nicole Niles
+72,73,Dee,Fisher-Golden,F,46,c_40_49,Dee Fisher-Golden
+47,48,Patricia,Robinson,F,54,d_50_59,Patricia Robinson
+74,75,Mary Beth,Conroy,F,51,d_50_59,Mary Beth Conroy
+38,39,Karen,Dott,F,61,e_60_69,Karen Dott
+40,41,Martha,DeGrazia,F,66,e_60_69,Martha DeGrazia
+44,45,Anne,Lytwynec,F,63,e_60_69,Anne Lytwynec
+46,47,Erika,Oesterle,F,65,e_60_69,Erika Oesterle
+58,59,Joan,Celentano,F,63,e_60_69,Joan Celentano
+66,67,Katherine,Ambrosio,F,66,e_60_69,Katherine Ambrosio
+76,77,Anny,Stockman,F,85,f_70+,Anny Stockman
+4,5,Edson,Chipalo,M,29,a_open,Edson Chipalo
+8,9,Ben,Heller,M,28,a_open,Ben Heller
+32,33,Christopher Leavitt,Leavitt,M,29,a_open,Christopher Leavitt Leavitt
+0,1,Chuck,Terry,M,35,b_30_39,Chuck Terry
+2,3,Dan,Jordy,M,33,b_30_39,Dan Jordy
+3,4,Jim,Sweeney,M,35,b_30_39,Jim Sweeney
+7,8,Jonathan,Catlett,M,39,b_30_39,Jonathan Catlett
+12,13,Thomas,Dansereau,M,30,b_30_39,Thomas Dansereau
+16,17,Jonathan,Louden,M,32,b_30_39,Jonathan Louden
+18,19,Dallas,DeVries,M,39,b_30_39,Dallas DeVries
+35,36,Michael,O'Brien,M,31,b_30_39,Michael O'Brien
+41,42,Carl,Brewer,M,34,b_30_39,Carl Brewer
+5,6,Robert,Irwin,M,44,c_40_49,Robert Irwin
+6,7,Dennis,VanVlack,M,44,c_40_49,Dennis VanVlack
+13,14,Jonathan,Bright,M,46,c_40_49,Jonathan Bright
+15,16,Brian,Northan,M,42,c_40_49,Brian Northan
+19,20,John,Williams-Searle,M,49,c_40_49,John Williams-Searle
+28,29,William,Drapeau,M,49,c_40_49,William Drapeau
+30,31,Erik,Koeritzer,M,40,c_40_49,Erik Koeritzer
+33,34,Kevin,Reedy,M,41,c_40_49,Kevin Reedy
+39,40,Jon,Golden,M,44,c_40_49,Jon Golden
+49,50,Gene,Terwilliger,M,49,c_40_49,Gene Terwilliger
+53,54,John,Sullivan,M,45,c_40_49,John Sullivan
+69,70,Chris ,Fischer,M,41,c_40_49,Chris  Fischer
+71,72,Richard,Baker,M,43,c_40_49,Richard Baker
+9,10,Mark,Stephenson,M,53,d_50_59,Mark Stephenson
+10,11,Derrick,Staley,M,58,d_50_59,Derrick Staley
+11,12,John,Sestito,M,53,d_50_59,John Sestito
+20,21,Jon ,Rocco,M,50,d_50_59,Jon  Rocco
+60,61,Vincent,Wegner,M,53,d_50_59,Vincent Wegner
+62,63,Bob,Piccirillo,M,52,d_50_59,Bob Piccirillo
+63,64,Richard,Anconitz,M,58,d_50_59,Richard Anconitz
+21,22,Rick,Munson,M,60,e_60_69,Rick Munson
+23,24,Richard,Clark,M,63,e_60_69,Richard Clark
+26,27,Mark,Nunez,M,60,e_60_69,Mark Nunez
+27,28,David,Roy,M,62,e_60_69,David Roy
+31,32,Juergen,Reher,M,67,e_60_69,Juergen Reher
+34,35,Paul,Bennett,M,66,e_60_69,Paul Bennett
+36,37,Richard,Kelly,M,60,e_60_69,Richard Kelly
+37,38,Daniel,Doak,M,60,e_60_69,Daniel Doak
+48,49,Ed ,Brown,M,60,e_60_69,Ed  Brown
+51,52,Michael,Thumann,M,68,e_60_69,Michael Thumann
+55,56,Scott,Stevens,M,60,e_60_69,Scott Stevens
+61,62,Thomas,McTerman,M,62,e_60_69,Thomas McTerman
+64,65,Edwin,Litts,M,67,e_60_69,Edwin Litts
+50,51,Tom,Adams,M,72,f_70+,Tom Adams
+57,58,Peter,Newkirk,M,70,f_70+,Peter Newkirk
+65,66,Jim,Moore,M,77,f_70+,Jim Moore
+73,74,Thomas,Kollar,M,71,f_70+,Thomas Kollar
+75,76,Ray,Lee,M,75,f_70+,Ray Lee

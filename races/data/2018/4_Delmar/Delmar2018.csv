@@ -1,0 +1,328 @@
+PLACE,NAME,AGE,D,SEX,CITY,      ST, GUN TIME
+  1,Ricardo Estremera,32,1,M,Albany,      NY, 24:48
+  2,Jaime Julia,33,2,M,Albany,      NY, 26:04
+  3,Thomas O'Grady,32,3,M,Slingerland,      NY, 27:25
+  4,Daniel Jordy,34,4,M,Glenville,      NY, 27:45
+  5,Joshua Korn,22,1,M,Troy,      NY, 27:49
+  6,Tim Russell,28,1,M,Ballston Sp,      NY, 28:02
+  7,Aaron Knobloch,42,1,M,Niskayuna,      NY, 28:08
+  8,Paul Archambault,41,2,M,Troy,      NY, 28:21
+  9,Nick Webster,29,2,M,Albany,      NY, 28:22
+ 10,Sean Quinn,26,3,M,Troy,      NY, 28:24
+ 11,Michael Cooley,38,1,M,Delmar,      NY, 28:42
+ 12,Matthew Gokey,44,3,M,Delmar,      NY, 28:43
+ 13,Edson Chipalo,30,5,M,New York,      NY, 29:05
+ 14,Jonathan Catlett,40,4,M,East Chatha,      NY, 29:11
+ 15,Matt Ninneman,25,4,M,Albany,      NY, 29:19
+ 16,Noah White,39,2,M,Slingerland,      NY, 29:24
+ 17,Timothy Pendergast,36,3,M,Delmar,      NY, 29:53
+ 18,Diane Ryan,36,1,F,Malta,      NY, 30:01
+ 19,Michael Dinicola,43,5,M,Malta,      NY, 30:05
+ 20,Olivia Beltrani,24,1,F,Troy,      NY, 30:05
+ 21,Alan Finder,29,5,M,Albany,      NY, 30:06
+ 22,Saturnino Fernande,37,4,M,Slingerland,      NY, 30:08
+ 23,Peter Koch,36,5,M,Delmar,      NY, 30:09
+ 24,Paul Mueller,34,6,M,Delmar,      NY, 30:16
+ 25,Nicole Soblosky,30,1,F,Albany,      NY, 30:17
+ 26,Eric Young,26,6,M,Latham,      NY, 30:29
+ 27,Christian W Lietza,54,1,M,Delmar,      NY, 30:29
+ 28,Chuck Terry,35,6,M,Albany,      NY, 30:34
+ 29,Christie Macfarlan,23,2,F,Delmar,      NY, 30:35
+ 30,Daniel Murphy,43,6,M,Delmar,      NY, 30:39
+ 31,Thomas Dansereau,31,7,M,Troy,      NY, 30:43
+ 32,John Deer,35,7,M,Slingerland,      NY, 30:48
+ 33,Mark Stephenson,54,2,M,Esperance,      NY, 31:02
+ 34,Clay Lodovice,42,7,M,Voorheesvil,      NY, 31:05
+ 35,Oswaldo Rodriguez,39,8,M,Mechanicvil,      NY, 31:15
+ 36,Jonathan Louden,33,8,M,Clifton Par,      NY, 31:19
+ 37,Rick Zachgo,47,1,M,Rexford,      NY, 31:25
+ 38,Erik Koenitzer,41,8,M,Delanson,      NY, 31:29
+ 39,Ken Tarullo,49,2,M,Delmar,      NY, 31:54
+ 40,Erin Hatton,28,1,F,Troy,      NY, 32:06
+ 41,Diana Tobon-Knoblo,36,2,F,Niskayuna,      NY, 32:12
+ 42,Chris Mulford,41,9,M,Schenectady,      NY, 32:13
+ 43,Craig Evans,52,3,M,Malta,      NY, 32:37
+ 44,Hernan Lopez,53,4,M,Delmar,      NY, 32:47
+ 45,Alex Glazebrook,30,9,M,Delmar,      NY, 32:51
+ 46,Bob Giambalvo,68,1,M,Delhi,      NY, 33:09
+ 47,Brian Borden,54,5,M,Altamont,      NY, 33:16
+ 48,Brian Murray,17,1,M,Delmar,      NY, 33:25
+ 49,David Newman,38,9,M,Albany,      NY, 33:26
+ 50,Neil Sergott,46,3,M,Clifton Par,      NY, 33:29
+ 51,Dean Geesler,45,4,M,Slingerland,      NY, 33:30
+ 52,John Williams-Sear,50,6,M,Albany,      NY, 33:48
+ 53,Scott Strickler,37,1,M,Philadelphi,      PA, 33:51
+ 54,Matthew Wereb,37,1,M,Wethersfiel,      CT, 34:03
+ 55,Stephen Jones,63,1,M,Averill Par,      NY, 34:04
+ 56,Tina Greene,44,1,F,Scotia,      NY, 34:10
+ 57,Erin Rightmyer,34,2,F,Delmar,      NY, 34:15
+ 58,Randall Cannell,45,5,M,Broadalbin,      NY, 34:20
+ 59,Rick Ikasalo,39,1,M,Slingerland,      NY, 34:23
+ 60,Brian Strickler,38,1,M,Niskayuna,      NY, 34:27
+ 61,Graig Carbino,34,1,M,Selkirk,      NY, 34:30
+ 62,Da'meishe Wilson,33,1,M,Schenectady,      NY, 34:31
+ 63,Aaron Lozier,29,7,M,Albany,      NY, 34:33
+ 64,Matt Berlin,44,1,M,Glenmont,      NY, 34:35
+ 65,Kim McBride,25,2,F,Troy,      NY, 34:36
+ 66,Katlin Mock,27,3,F,Albany,      NY, 34:37
+ 67,Brett Fajen,46,6,M,Nassau,      NY, 34:41
+ 68,Anne Benson,53,1,F,Clifton Par,      NY, 34:42
+ 69,Danielle Maslowsky,39,3,F,Ballston La,      NY, 34:54
+ 70,Shanley Alber,45,1,F,Clifton Par,      NY, 34:59
+ 71,Kari Deer,40,2,F,Slingerland,      NY, 35:02
+ 72,Ben Sears,33,1,M,Albany,      NY, 35:13
+ 73,Sally Drake,45,2,F,Albany,      NY, 35:18
+ 74,Kimberly Miseno,47,3,F,Amsterdam,      NY, 35:21
+ 75,Gary Longhi,54,7,M,Colonie,      NY, 35:26
+ 76,Matt Zappen,42,1,M,Albany,      NY, 35:26
+ 77,Bob Kanarkiewicz,58,1,M,Delanson,      NY, 35:28
+ 78,Nancy Briskie,60,1,F,Schenectady,      NY, 35:35
+ 79,Janne Rand,33,3,F,Albany,      NY, 35:38
+ 80,Colleen Ottalagano,41,3,F,Slingerland,      NY, 35:58
+ 81,Dennis Beardsley,46,7,M,Castleton,      NY, 35:59
+ 82,Brenan Tarrier,39,1,M,Delmar,      NY, 35:59
+ 83,Melissa Lombard,44,4,F,Antrim,      NH, 36:09
+ 84,Laura Zima,38,4,F,Albany,      NY, 36:12
+ 85,Brian Whitman,59,2,M,Selkirk,      NY, 36:13
+ 86,Kristen Kuhn,39,5,F,Delmar,      NY, 36:21
+ 87,Erin Murphy,38,6,F,Albany,      NY, 36:26
+ 88,Tom Jablonowski,49,8,M,Voorheesvil,      NY, 36:27
+ 89,Brittany Iles,28,4,F,Albany,      NY, 36:45
+ 90,Michael Cebula,50,8,M,Mechanicvil,      NY, 36:56
+ 91,Wendy Rescott,57,1,F,West Sand L,      NY, 36:59
+ 92,Richard Kelly,61,2,M,Schenectady,      NY, 37:16
+ 93,Melissa Grandjean,39,7,F,Glenville,      NY, 37:18
+ 94,Caitlyn Edmundson,29,5,F,Delmar,      NY, 37:21
+ 95,Kim Scott,49,4,F,Broadalbin,      NY, 37:21
+ 96,Jacob Reider,54,9,M,Slingerland,      NY, 37:25
+ 97,Emma Gryner,26,6,F,Valatie,      NY, 37:27
+ 98,Megan James,28,7,F,Charlton,      NY, 37:27
+ 99,Emily Field,34,4,F,Delmar,      NY, 37:28
+100,Jeffrey Kuhn,40,1,M,Delmar,      NY, 37:31
+101,Tom McGuire,66,2,M,Slingerland,      NY, 37:32
+102,Adam Bell,51,1,M,Nassau,      NY, 37:36
+103,Julianne Claydon,47,5,F,Albany,      NY, 37:36
+104,Alexander Pattison,14,2,M,Glenmont,      NY, 37:37
+105,Jennifer Bergeron,37,8,F,Delmar,      NY, 37:38
+106,Virginia Larner,46,6,F,Malta,      NY, 37:42
+107,Mary Fenton,52,2,F,Ballston Sp,      NY, 37:44
+108,Michael Conway,47,9,M,East Nassau,      NY, 37:45
+109,Jon Atwell,52,1,M,Loudonville,      NY, 37:46
+110,Nancy Nicholson,56,2,F,Queensbury,      NY, 37:50
+111,Pat Salerno,47,1,M,Sayre,      NY, 37:54
+112,Nicholas Vanvranke,14,3,M,Rensselaer,      NY, 37:59
+113,Melissa Maguire,45,7,F,Loudonville,      NY, 37:59
+114,Michael Brennan,48,1,M,Valatie,      NY, 38:10
+115,Andrew Krupski,27,8,M,Ballston Sp,      NY, 38:15
+116,Dan Coffey,55,3,M,Delmar,      NY, 38:16
+117,Abby Watson,38,9,F,Niskayuna,      NY, 38:18
+118,Emily Chromczak,31,5,F,Delmar,      NY, 38:22
+119,Kristen Labatt-Sim,45,8,F,East Greenb,      NY, 38:24
+120,Magali Wardle,41,5,F,Glenmont,      NY, 38:24
+121,Douglas Secor,38,1,M,Scotia,      NY, 38:32
+122,David Rowell,65,3,M,Albany,      NY, 38:36
+123,Sean Madden,43,1,M,Albany,      NY, 38:37
+124,Gregory Coons,52,1,M,Albany,      NY, 38:41
+125,Clare Browne,29,8,F,Albany,      NY, 38:53
+126,Adam Burn,29,9,M,Guilderland,      NY, 38:55
+127,John Metcalf,44,1,M,Delmar,      NY, 38:56
+128,Erika Beardsley,40,6,F,Castleton,      NY, 39:04
+129,Anthony Lupo,55,4,M,Ballston Sp,      NY, 39:07
+130,Dan Nugent,59,5,M,Delmar,      NY, 39:10
+131,Roy Mowrey,59,6,M,Gloversvill,      NY, 39:10
+132,Rachael Austin,34,6,F,Delmar,      NY, 39:14
+133,Richard Bourgeois,47,1,M,Albany,      NY, 39:16
+134,Mark Bryant,60,3,M,Delmar,      NY, 39:26
+135,Sara Westcott,34,7,F,Castleton,      NY, 39:33
+136,Jesse Meyer,29,1,M,Delmar,      NY, 39:44
+137,Geoffrey A. Moore,60,4,M,Loudonville,      NY, 39:45
+138,Frances Vincent,56,3,F,Slingerland,      NY, 40:02
+139,Katrina Melei,37,1,F,Glenmont,      NY, 40:02
+140,Daniel Esper,57,7,M,Slingerland,      NY, 40:14
+141,Denis Cote,47,1,M,Cohoes,      NY, 40:18
+142,Kristen Garzone,31,8,F,Troy,      NY, 40:20
+143,Ruth Sadinsky,51,3,F,Albany,      NY, 40:23
+144,Eric Bunker,23,2,M,East Greenb,      NY, 40:24
+145,Matthew Melnikoff,34,1,M,Glenmont,      NY, 40:33
+146,Dorothea Schoep,46,9,F,Hudson,      NY, 40:39
+147,Michael Thumann,69,4,M,Chatham,      NY, 40:39
+148,Timothy J. Oconnor,59,8,M,Loudonville,      NY, 40:40
+149,Jay Watsky,55,9,M,Slingerland,      NY, 40:48
+150,Deanna Zammiello,34,9,F,Schenectady,      NY, 41:05
+151,Tracy Snyder,34,1,F,Jersey City,      NJ, 41:10
+152,Neil Tyrrell,42,1,M,Saratoga Sp,gs    NY, 41:13
+153,Lauren Herbs,55,4,F,Rexford,      NY, 41:19
+154,Marcia Cooper,57,5,F,Burnt Hills,      NY, 41:19
+155,Erin Goodale,31,1,F,Glenmont,      NY, 41:20
+156,Ryan Bennett,38,1,M,Averill Par,      NY, 41:24
+157,John Butler,51,1,M,Latham,      NY, 41:25
+158,Robert Piccirillo,53,1,M,Schenectady,      NY, 41:25
+159,Mike Langevin,53,1,M,Albany,      NY, 41:30
+160,Julie Novkov,51,4,F,Loudonville,      NY, 41:39
+161,Joe Benoit,60,5,M,Glenmont,      NY, 41:44
+162,Eric Biehler,38,1,M,Troy,      NY, 41:48
+163,Bill Marinello,59,1,M,Slingerland,      NY, 41:51
+164,Donald Santella,53,1,M,Delmar,      NY, 41:52
+165,Lee Briggs,40,7,F,Ballston Sp,      NY, 41:53
+166,Denis Hurley,55,1,M,Delmar,      NY, 41:53
+167,Deanna Geesler,46,1,F,Slingerland,      NY, 41:54
+168,Nicholas Cartagena,42,1,M,Delmar,      NY, 42:05
+169,Kevin Lupo,26,1,M,Delmar,      NY, 42:06
+170,Keith Laplante,48,1,M,Troy,      NY, 42:09
+171,Chris Prieto,58,1,M,Slingerland,      NY, 42:13
+172,Martin Patrick,64,6,M,East Greenb,      NY, 42:14
+173,Stephanie Havens,32,1,F,Delmar,      NY, 42:15
+174,Shannon Anson,38,1,F,Delmar,      NY, 42:15
+175,Brian Reilly,42,1,M,Delmar,      NY, 42:16
+176,Carolyn George,64,2,F,Albany,      NY, 42:17
+177,Matt Marshall,45,1,M,Gypsum,      CO, 42:23
+178,Mark Howe,56,1,M,East Greenb,      NY, 42:29
+179,Michael Wright,64,7,M,Albany,      NY, 42:52
+180,Jim Pepin,67,5,M,Glenmont,      NY, 43:03
+181,Martin Touhey,65,6,M,Albany,      NY, 43:06
+182,Patricia Robison,54,5,F,Clifton Par,      NY, 43:09
+183,Tara Murray,44,8,F,Delmar,      NY, 43:09
+184,Sarah Reed-Esper,52,6,F,Slingerland,      NY, 43:11
+185,Jennifer Newman,34,1,F,Albany,      NY, 43:12
+186,Timothy Nevinger,36,1,M,Glenmont,      NY, 43:13
+187,Carrin Thal,44,9,F,Glenmont,      NY, 43:17
+188,Melissa Carroll,34,1,F,Albany,      NY, 43:22
+189,Pete Cowie,70,1,M,Rotterdam,      NY, 43:28
+190,Robert Pattison,43,1,M,Glenmont,      NY, 43:30
+191,Treva Carrig,42,1,F,Averill Par,      NY, 43:33
+192,David Hayes,74,2,M,Niskayuna,      NY, 43:37
+193,Kirstin Jones,24,3,F,Cohoes,      NY, 43:42
+194,Gary Grace,53,1,M,Delmar,      NY, 43:47
+195,Jean Berry,34,1,F,Delmar,      NY, 43:51
+196,Adrienne Strickler,36,1,F,Philadelphi,      PA, 43:52
+197,Lianne Pinchuk,42,1,F,Delmar,      NY, 43:54
+198,John Sheehy,60,8,M,Menands,      NY, 43:58
+199,Patricia Warth,53,7,F,Delmar,      NY, 44:07
+200,Bryan Yager,32,1,M,Charlton,      NY, 44:09
+201,Dale Broomhead,62,9,M,Latham,      NY, 44:22
+202,Ryan Snyder,34,1,M,Jersey City,      NJ, 44:29
+203,Erin Dolen,36,1,F,Delmar,      NY, 44:40
+204,Timothy Beebe,61,1,M,Delmar,      NY, 44:41
+205,Linda M. Dedominic,49,1,F,Menands,      NY, 44:42
+206,Joe Yavonditte,69,7,M,Schenectady,      NY, 44:51
+207,Melinda Fuller,41,1,F,Delmar,      NY, 44:56
+208,Susan Gray,44,1,F,Delmar,      NY, 44:58
+209,Darlene Cardillo,64,3,F,Delmar,      NY, 45:14
+210,Rebecca McIlvain,37,1,F,Delmar,      NY, 45:20
+211,Aubrey Schulz,40,1,F,Grandy,      CT, 45:25
+212,Sara Fleszar,37,1,F,Gypsum,      CO, 45:26
+213,Tanya Slater,45,1,F,Hoosick Fal,      NY, 45:29
+214,Kevin Davis,37,1,M,Wynantskill,      NY, 45:37
+215,Eric Davis,34,1,M,Wynantskill,      NY, 45:37
+216,Kelly Dean,36,1,F,Delmar,      NY, 45:39
+217,Ann Byer,52,8,F,Stillwater,      NY, 45:44
+218,Zachary Zinzow,13,4,M,Sloansville,      NY, 45:44
+219,Mary Beth Conroy,52,9,F,Halfmoon,      NY, 45:45
+220,Nicole Niles,41,1,F,Albany,      NY, 45:47
+221,Alycia Appelbaum,24,4,F,Castleton,      NY, 45:48
+222,Larry Perrotti,45,1,M,Sloansville,      NY, 45:50
+223,Candace McHugh,40,1,F,Ravena,      NY, 45:54
+224,Courtney Moriarta,49,1,F,Greenwich,      NY, 45:56
+225,Leo Dipierro,67,8,M,Cherry Plai,      NY, 46:01
+226,Marilyn Pickett,52,1,F,Clifton Par,      NY, 46:07
+227,Karoline Sears,33,1,F,Albany,      NY, 46:24
+228,Andrew Patterson,40,1,M,Delmar,      NY, 46:27
+229,Tracey Clark,31,1,F,Clifton Par,      NY, 46:33
+230,Jerry Collins,58,1,M,Troy,      NY, 46:37
+231,Agnes Knott,49,1,F,Saratoga Sp,      NY, 46:47
+232,Lisa Ryan,49,1,F,Clifton Par,      NY, 46:48
+233,Stanley Gorski,62,1,M,Albany,      NY, 46:48
+234,Cynthia Zinzow,36,1,F,Sloansville,      NY, 47:09
+235,Sarah Richburg,32,1,F,Niskayuna,      NY, 47:12
+236,Tom Robinson,47,1,M,Troy,      NY, 47:15
+237,Rebecca Marino,42,1,F,Troy,      NY, 47:15
+238,Susan Motler,55,6,F,Rensselaer,      NY, 47:37
+239,Eric Parker,62,1,M,Johnstown,      NY, 47:47
+240,Michael Thoma,48,1,M,East Greenb,      NY, 47:56
+241,Anne Miralles,51,1,F,Rensselaer,      NY, 48:00
+242,Paula Breen,53,1,F,Slingerland,      NY, 48:00
+243,Eric Niehaus,57,1,M,Glenmont,      NY, 48:07
+244,David Stutsrim,48,1,M,Delmar,      NY, 48:23
+245,Joanne Kingston,52,1,F,Feura Bush,      NY, 48:28
+246,Vibhu Sharma,45,2,M,Delmar,      NY, 48:29
+247,Dan Curtin,71,3,M,Adirondack,      NY, 48:33
+248,Stephen J. Obermay,56,1,M,Burnt Hills,      NY, 48:35
+249,Jennifer Lawrence,59,7,F,West Sand L,      NY, 48:38
+250,Nicole Fuller,26,9,F,Wynantskill,      NY, 48:46
+251,Melissa Estremera,23,5,F,East Greenb,      NY, 49:02
+252,Elizabeth Cregg,37,1,F,Niskayuna,      NY, 49:07
+253,Kelly Ryan,38,1,F,Albany,      NY, 49:09
+254,Marie Kaye,63,4,F,Altamont,      NY, 49:11
+255,Jessica Patnaude,50,1,F,Albany,      NY, 49:13
+256,Diana Trask Daley,54,1,F,Glenmont,      NY, 49:14
+257,Cecelia Broomhead,61,5,F,Latham,      NY, 49:19
+258,James Fiore,70,4,M,Latham,      NY, 49:21
+259,Anne Tyrrell,67,1,F,Albany,      NY, 49:24
+260,Tasha McLoughlin,34,1,F,Troy,      NY, 49:34
+261,Amanda Keyser,36,2,F,Schenectady,      NY, 49:37
+262,Nicholas Berry,37,2,M,Delmar,      NY, 49:38
+263,Sarah Vogel,48,1,F,Slingerland,      NY, 49:38
+264,Connie Williams,37,2,F,Cohoes,      NY, 49:39
+265,Abagail Marcy,23,6,F,East Berne,      NY, 49:39
+266,Karen Brady,53,1,F,Castleton,      NY, 49:40
+267,Katherine Ambrosio,67,2,F,Delmar,      NY, 49:42
+268,Lori Buckley,50,1,F,Averill Par,      NY, 49:51
+269,Nancy Piche,57,8,F,Loudonville,      NY, 49:58  1
+270,Christopher Maestr,61,1,M,Delmar,      NY, 49:58  1
+271,Ronald Boutin,67,9,M,Albany,      NY, 50:00  1
+272,Danielle Dittley,37,2,F,Delmar,      NY, 50:16  1
+273,Garrett McCann,55,1,M,Glenmont,      NY, 50:42  1
+274,Jessica Laplante,17,1,F,Troy,      NY, 50:43  1
+275,Matthew Mason,31,1,M,Albany,      NY, 50:49  1
+276,Kathy Hutson,61,6,F,Clifton Par,      NY, 50:55  1
+277,Gene Sneeringer,63,1,M,Slingerland,      NY, 50:59  1
+278,Megan Baldwin,34,2,F,Albany,      NY, 51:03  1
+279,Diane Thompson,63,7,F,Cohoes,      NY, 51:14  1
+280,Ronald Rodriguez,68,1,M,Delmar,      NY, 51:27  1
+281,Edward Norton,59,1,M,Albany,      NY, 51:29  1
+282,Elbert Watson,54,1,M,Troy,      NY, 51:31  1
+283,Barbara Lisosky,60,8,F,Castleton-O,udson NY, 51:38  1
+284,Mark Fleszar,68,1,M,Troy,      NY, 51:40  1
+285,Pilar Arthur-Snead,46,1,F,Albany,      NY, 51:59  1
+286,Adam Groesbeck,47,2,M,Delmar,      NY, 52:16  1
+287,Addison Groesbeck,18,5,M,Delmar,      NY, 52:16  1
+288,Jill Mehan,63,9,F,Troy,      NY, 52:48  1
+289,Stacy Wozniak,47,1,F,Delmar,      NY, 52:53  1
+290,James H. Allen,59,1,M,Waterford,      NY, 53:10  1
+291,Lara Kaye,49,1,F,Averill Par,      NY, 53:10  1
+292,Robert Foulks,49,2,M,Albany,      NY, 53:13  1
+293,Elisa Schneider,,0,F,Troy,      NY, 53:13  1
+294,Buddy Glazier,56,2,M,Slingerland,      NY, 53:25  1
+295,Robert Hurley,53,1,M,Slingerland,      NY, 53:26  1
+296,Mary Scott,57,9,F,Schenectady,      NY, 53:27  1
+297,Bob Sneeringer,54,2,M,Loudonville,      NY, 53:44  1
+298,Jennifer Brennan,47,2,F,Valatie,      NY, 54:07  1
+299,Judy Litt,56,1,F,Latham,      NY, 54:46  1
+300,Mike Matthews,63,1,M,Delmar,      NY, 55:00  1
+301,Mark Mindel,66,1,M,Ballston La,      NY, 55:09  1
+302,Amy Podesva,25,1,F,Albany,      NY, 55:09  1
+303,Deborah J. Fox,58,1,F,Delmar,      NY, 55:13  1
+304,Becky Phillips,50,1,F,Schenectady,      NY, 55:41  1
+305,John Privitera,65,1,M,Glenmont,      NY, 56:09  1
+306,Tracy Peat,38,2,F,Albany,      NY, 56:09  1
+307,Kathleen Tersigni,47,2,F,Burnt Hills,      NY, 57:03  1
+308,Cathy Lanesey,68,3,F,Troy,      NY, 57:19  1
+309,Christina Smith,48,2,F,East Greenb,      NY, 57:25  1
+310,Larry Peleggi,60,1,M,Colonie,      NY, 57:40  1
+311,Charles Snead,53,2,M,Albany,      NY, 57:58  1
+312,Maria Schollenberg,60,1,F,Delmar,      NY, 58:09  1
+313,Mark Goldhaber,53,2,M,Schenectady,      NY, 58:55  1
+314,Deanna Dugan,60,1,F,Greenville,      NY, 59:50  1
+315,Josh Dipierro,42,2,M,Cherry Plai,      NY, 59:56  1
+316,Mary Frawley,44,1,F,Loudonville,      NY,:00:42  1
+317,Uzma Qureshi,56,1,F,Slingerland,      NY,:01:07  1
+318,Brian Laplante,53,2,M,Troy,      NY,:01:58  1
+319,Steve Vnuk,62,1,M,Delmar,      NY,:02:01  1
+320,Stephen Vnuk,32,1,M,New York,      NY,:02:02  1
+321,Michael Tolan,49,2,M,Clifton Par,      NY,:04:05  1
+322,Margaret Mason,29,1,F,Albany,      NY,:06:18  1
+323,Anny Stockman,85,1,F,Rensselaer,      NY,:07:44  1
+324,Matthew Kelly,62,1,M,Delmar,      NY,:10:54  1
+325,Eiko Bogue,80,2,F,Schaghticok,      NY,:11:55  1
+326,Raymond Lee,76,1,M,Halfmoon,      NY,:14:32  1
+327,Allisson Reed,39,2,F,Ravena,      NY,:14:46  1
