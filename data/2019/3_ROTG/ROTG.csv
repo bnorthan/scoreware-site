@@ -1,0 +1,187 @@
+,place,mfname,mlname,gender,age,age_cat,name
+33,34,Courtney,Breiner,F,22,a_open,Courtney Breiner
+38,39,Erin,Hatton,F,28,a_open,Erin Hatton
+87,88,Amanda,Carpenter,F,29,a_open,Amanda Carpenter
+89,90,Kerry,Mctiernan,F,28,a_open,Kerry Mctiernan
+115,116,Marisa,Piccirillo,F,23,a_open,Marisa Piccirillo
+15,16,Karen,Bertasso,F,34,b_30_39,Karen Bertasso
+43,44,Meghan,Mortensen,F,33,b_30_39,Meghan Mortensen
+47,48,Diana,Tobon-knobloch,F,37,b_30_39,Diana Tobon-knobloch
+58,59,Lisa,Chase,F,32,b_30_39,Lisa Chase
+80,81,Meghan,Louden,F,32,b_30_39,Meghan Louden
+82,83,Laura,Zima,F,38,b_30_39,Laura Zima
+85,86,Erin,Murphy,F,39,b_30_39,Erin Murphy
+93,94,Michelle,Davis,F,30,b_30_39,Michelle Davis
+95,96,Rebecca,Tennyson,F,36,b_30_39,Rebecca Tennyson
+99,100,Bridget,Schultz,F,30,b_30_39,Bridget Schultz
+106,107,Janne,Rand,F,34,b_30_39,Janne Rand
+126,127,Carrie,Souleret,F,30,b_30_39,Carrie Souleret
+131,132,Julie,Greene,F,38,b_30_39,Julie Greene
+134,135,Jennifer,Newman,F,35,b_30_39,Jennifer Newman
+148,149,Melissa,Carroll,F,35,b_30_39,Melissa Carroll
+150,151,Leah,Spoar,F,36,b_30_39,Leah Spoar
+166,167,Jean,Berry,F,35,b_30_39,Jean Berry
+180,181,Jamie,Davenport,F,34,b_30_39,Jamie Davenport
+204,205,Keri,Jones,F,39,b_30_39,Keri Jones
+210,211,Lindsey,Klinge,F,31,b_30_39,Lindsey Klinge
+234,235,Stephanie,Harrington,F,37,b_30_39,Stephanie Harrington
+264,265,Tracy,Peat,F,39,b_30_39,Tracy Peat
+61,62,Tina,Greene,F,45,c_40_49,Tina Greene
+88,89,Sally,Drake,F,45,c_40_49,Sally Drake
+98,99,Melissa,Grandjean,F,40,c_40_49,Melissa Grandjean
+111,112,Laura,Kelly,F,46,c_40_49,Laura Kelly
+117,118,Kimberly,Miseno,F,48,c_40_49,Kimberly Miseno
+119,120,Virginia,Lupo,F,47,c_40_49,Virginia Lupo
+123,124,Theresa,Delorenzo,F,41,c_40_49,Theresa Delorenzo
+132,133,Jill,Filuta,F,46,c_40_49,Jill Filuta
+142,143,Nicola,Macneil,F,45,c_40_49,Nicola Macneil
+159,160,Kelly,Sullivan,F,40,c_40_49,Kelly Sullivan
+173,174,Karen,Finnerty,F,48,c_40_49,Karen Finnerty
+189,190,Deb,Valois,F,48,c_40_49,Deb Valois
+201,202,Nicole,Niles,F,42,c_40_49,Nicole Niles
+229,230,Nicol,Cunningham,F,48,c_40_49,Nicol Cunningham
+230,231,Marie,Cater,F,41,c_40_49,Marie Cater
+267,268,Tina,Soden,F,43,c_40_49,Tina Soden
+272,273,Kalyn,Fleck,F,48,c_40_49,Kalyn Fleck
+277,278,Tina,Prewitt,F,48,c_40_49,Tina Prewitt
+63,64,Beth,Stalker,F,58,d_50_59,Beth Stalker
+83,84,Anne,Benson,F,54,d_50_59,Anne Benson
+90,91,Judy,Guzzo,F,51,d_50_59,Judy Guzzo
+92,93,Colleen,Brackett,F,58,d_50_59,Colleen Brackett
+96,97,Kristen,Hislop,F,54,d_50_59,Kristen Hislop
+107,108,Kim,Scott,F,50,d_50_59,Kim Scott
+113,114,Christine,Varley,F,54,d_50_59,Christine Varley
+118,119,Nancy,Nicholson,F,56,d_50_59,Nancy Nicholson
+120,121,Mary,Fenton,F,53,d_50_59,Mary Fenton
+137,138,Lauren,Herbs,F,57,d_50_59,Lauren Herbs
+144,145,Bridget,Enderle,F,51,d_50_59,Bridget Enderle
+171,172,Karen,Cusato,F,50,d_50_59,Karen Cusato
+174,175,Joanne,Richardson,F,58,d_50_59,Joanne Richardson
+181,182,Heidi,Glazier,F,57,d_50_59,Heidi Glazier
+182,183,Marna,Meltzer mcmorris,F,50,d_50_59,Marna Meltzer mcmorris
+184,185,Deborah,Orsini,F,50,d_50_59,Deborah Orsini
+190,191,Linda m.,Dedominicis,F,50,d_50_59,Linda m. Dedominicis
+211,212,Joanne,Kingston,F,53,d_50_59,Joanne Kingston
+218,219,Jean,Lange,F,53,d_50_59,Jean Lange
+224,225,Jessica,Patnaude,F,51,d_50_59,Jessica Patnaude
+225,226,Carole,Gensicki,F,51,d_50_59,Carole Gensicki
+228,229,Terri,Bills,F,50,d_50_59,Terri Bills
+233,234,Kristine,Clarke,F,54,d_50_59,Kristine Clarke
+248,249,Sue,Hartigan,F,52,d_50_59,Sue Hartigan
+251,252,Mary kay,Scott,F,58,d_50_59,Mary kay Scott
+254,255,Anne,Miralles,F,51,d_50_59,Anne Miralles
+256,257,Michele,Celello,F,52,d_50_59,Michele Celello
+257,258,Diana trask,Daley,F,55,d_50_59,Diana trask Daley
+269,270,Cheryl,Hutchinson,F,51,d_50_59,Cheryl Hutchinson
+273,274,Kathryn,Henson,F,59,d_50_59,Kathryn Henson
+91,92,Nancy j.,Briskie,F,61,e_60_69,Nancy j. Briskie
+105,106,Peggy,Mckeown,F,61,e_60_69,Peggy Mckeown
+141,142,Karen,Dott,F,62,e_60_69,Karen Dott
+143,144,Martha c.,Degrazia,F,68,e_60_69,Martha c. Degrazia
+155,156,Erika,Oesterle,F,67,e_60_69,Erika Oesterle
+165,166,Kathleen l.,Meany,F,62,e_60_69,Kathleen l. Meany
+177,178,Carolyn burke,George,F,65,e_60_69,Carolyn burke George
+179,180,Karen,Gerstenberger,F,61,e_60_69,Karen Gerstenberger
+202,203,Marie,Kaye,F,64,e_60_69,Marie Kaye
+217,218,Cecelia,Broomhead,F,62,e_60_69,Cecelia Broomhead
+232,233,Donna,Choiniere,F,65,e_60_69,Donna Choiniere
+239,240,Suzanne,Nealon,F,68,e_60_69,Suzanne Nealon
+246,247,Susan,Klim,F,63,e_60_69,Susan Klim
+252,253,Maria,Schollenberger,F,61,e_60_69,Maria Schollenberger
+253,254,Jill,Mehan,F,64,e_60_69,Jill Mehan
+255,256,Doe,Warland,F,69,e_60_69,Doe Warland
+191,192,Susan j.,Wong,F,71,f_70+,Susan j. Wong
+275,276,Anne m. r.,Stockman,F,86,f_70+,Anne m. r. Stockman
+279,280,Eiko,Bogue,F,81,f_70+,Eiko Bogue
+0,1,Patrick,Carroll,M,27,a_open,Patrick Carroll
+13,14,Matt,Ninneman,M,26,a_open,Matt Ninneman
+40,41,Nathan,Laing,M,24,a_open,Nathan Laing
+44,45,Daniel,Rogers,M,23,a_open,Daniel Rogers
+70,71,Andrew,Krupski,M,28,a_open,Andrew Krupski
+2,3,Anthony,Giuliano,M,39,b_30_39,Anthony Giuliano
+4,5,Shaun,Donegan,M,33,b_30_39,Shaun Donegan
+6,7,Aaron,Lozier,M,30,b_30_39,Aaron Lozier
+7,8,Daniel,Jordy,M,35,b_30_39,Daniel Jordy
+8,9,Thomas,O'grady,M,33,b_30_39,Thomas O'grady
+9,10,Chuck,Terry,M,36,b_30_39,Chuck Terry
+17,18,Jonathan,Louden,M,34,b_30_39,Jonathan Louden
+23,24,Chris,Mccloskey,M,37,b_30_39,Chris Mccloskey
+28,29,Ben,Heller,M,30,b_30_39,Ben Heller
+35,36,Greg,Potestio,M,33,b_30_39,Greg Potestio
+39,40,John,Deer,M,36,b_30_39,John Deer
+49,50,Fred,Brooks,M,39,b_30_39,Fred Brooks
+75,76,David,Newman,M,38,b_30_39,David Newman
+139,140,David,Sutliff,M,34,b_30_39,David Sutliff
+176,177,Douglas,Secor,M,39,b_30_39,Douglas Secor
+203,204,Nicholas,Berry,M,38,b_30_39,Nicholas Berry
+5,6,Jake,Stookey,M,42,c_40_49,Jake Stookey
+10,11,Aaron,Knobloch,M,42,c_40_49,Aaron Knobloch
+12,13,Joseph,Sullivan,M,40,c_40_49,Joseph Sullivan
+20,21,Michael,Dinicola,M,44,c_40_49,Michael Dinicola
+26,27,Andy,Reed,M,47,c_40_49,Andy Reed
+42,43,Greg,Ethier,M,45,c_40_49,Greg Ethier
+45,46,Randall,Cannell,M,46,c_40_49,Randall Cannell
+48,49,Robert,Irwin,M,46,c_40_49,Robert Irwin
+54,55,Daniel,Filuta,M,49,c_40_49,Daniel Filuta
+60,61,Ryan,Mccann,M,44,c_40_49,Ryan Mccann
+68,69,Neil,Sergott,M,47,c_40_49,Neil Sergott
+76,77,Joseph,Altobello,M,41,c_40_49,Joseph Altobello
+81,82,William,Dodds,M,44,c_40_49,William Dodds
+97,98,Darryl,Bray,M,46,c_40_49,Darryl Bray
+108,109,John,Sullivan,M,47,c_40_49,John Sullivan
+130,131,Stefan,Smith,M,48,c_40_49,Stefan Smith
+135,136,Dan,Cunningham,M,47,c_40_49,Dan Cunningham
+147,148,Shawn,Kelly,M,47,c_40_49,Shawn Kelly
+158,159,Kyle d.,Ordway,M,43,c_40_49,Kyle d. Ordway
+161,162,Timothy,Fioretti,M,43,c_40_49,Timothy Fioretti
+164,165,Jason,Butler,M,48,c_40_49,Jason Butler
+197,198,Andrew,Fleck,M,48,c_40_49,Andrew Fleck
+18,19,Benjamin,Greenberg,M,50,d_50_59,Benjamin Greenberg
+29,30,John,Stadtlander,M,53,d_50_59,John Stadtlander
+36,37,Thomas,Kracker,M,54,d_50_59,Thomas Kracker
+46,47,Mark,Stephenson,M,54,d_50_59,Mark Stephenson
+55,56,Brian,Borden,M,55,d_50_59,Brian Borden
+67,68,Edward,Hampston,M,51,d_50_59,Edward Hampston
+69,70,William,Bean,M,59,d_50_59,William Bean
+72,73,Michael,Stalker,M,56,d_50_59,Michael Stalker
+73,74,Tim,Hartman sr,M,56,d_50_59,Tim Hartman sr
+74,75,Jamie,Casline,M,59,d_50_59,Jamie Casline
+79,80,John j.,Sestito,M,55,d_50_59,John j. Sestito
+94,95,Peter,Guzzo,M,51,d_50_59,Peter Guzzo
+122,123,Mike,Langevin,M,54,d_50_59,Mike Langevin
+127,128,Bill,Douglas,M,57,d_50_59,Bill Douglas
+133,134,Anthony,Lupo,M,56,d_50_59,Anthony Lupo
+152,153,Joseph,Orsini,M,58,d_50_59,Joseph Orsini
+160,161,John,Brunner,M,52,d_50_59,John Brunner
+169,170,Shig,Hosoyama,M,51,d_50_59,Shig Hosoyama
+183,184,Jim,Mcmorris,M,50,d_50_59,Jim Mcmorris
+185,186,Eric,Niehaus,M,57,d_50_59,Eric Niehaus
+216,217,Brian,Neddo,M,52,d_50_59,Brian Neddo
+270,271,Mark,Goldhaber,M,54,d_50_59,Mark Goldhaber
+50,51,David,Roy,M,64,e_60_69,David Roy
+62,63,Stephen,Jones,M,64,e_60_69,Stephen Jones
+77,78,John f.,Parisella,M,61,e_60_69,John f. Parisella
+86,87,Jon,Weilbaker,M,60,e_60_69,Jon Weilbaker
+104,105,Tom,Mcguire,M,67,e_60_69,Tom Mcguire
+109,110,Richard,Clark,M,65,e_60_69,Richard Clark
+128,129,George,Baranauskas,M,65,e_60_69,George Baranauskas
+138,139,Peter,Fish,M,60,e_60_69,Peter Fish
+149,150,Martin,Touhey,M,66,e_60_69,Martin Touhey
+153,154,Martin,Patrick,M,65,e_60_69,Martin Patrick
+162,163,Michael,Thumann,M,69,e_60_69,Michael Thumann
+163,164,Dave,Cole,M,61,e_60_69,Dave Cole
+167,168,Bill,Marinello,M,60,e_60_69,Bill Marinello
+172,173,Leo j.,Dipierro,M,68,e_60_69,Leo j. Dipierro
+205,206,Daniel,Berry,M,69,e_60_69,Daniel Berry
+235,236,Mark f.,Fleszar,M,69,e_60_69,Mark f. Fleszar
+240,241,Ralph,Feinstein,M,65,e_60_69,Ralph Feinstein
+243,244,Brian,Platt,M,60,e_60_69,Brian Platt
+258,259,Ned,Norton,M,60,e_60_69,Ned Norton
+265,266,Larry,Peleggi,M,61,e_60_69,Larry Peleggi
+100,101,Dave,Glass,M,72,f_70+,Dave Glass
+145,146,George,Jackson,M,70,f_70+,George Jackson
+188,189,Joe,Yavonditte,M,70,f_70+,Joe Yavonditte
+215,216,James,Fiore,M,71,f_70+,James Fiore
+274,275,Raymond w,Lee jr,M,77,f_70+,Raymond w Lee jr
+276,277,John,Vavasour,M,70,f_70+,John Vavasour
+280,281,Joseph a.,Kelly,M,85,f_70+,Joseph a. Kelly

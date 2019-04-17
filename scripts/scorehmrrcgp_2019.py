@@ -1,30 +1,32 @@
 import pandas as pd
 import sys
 
+from importlib import reload
+
 sys.path.append('../util/match/')
 sys.path.append('../util/runner/')
 sys.path.append('../util/race/')
 
 import matchmember
-#reload(matchmember)
+reload(matchmember)
 import runnerutils
 import readers
 import imp
-imp.reload(readers)
+reload(readers)
 #reload(readers)
 import header
 #reload(header)
 import utils
-#reload(utils)
+reload(utils)
 
-members_name='../data/2019/Membership/2019-01-05 Members Hudson Mohawk Road Runners Club.csv'
-race_name='../data/2019/1_HH/HH.csv'
+members_name='../data/2019/Membership/2019-03-10 Members Hudson Mohawk Road Runners Club.csv'
+race_name='../data/2019/3_ROTG/ROTG19_Overall w AG.TXT'
 
-race_out_base='../data/2018/11_Stockade/Stockade_'
+race_out_base='../data/2019/3_ROTG/'
 
-race_out_name=race_out_base+'.csv'
-race_out_males=race_out_base+'_males.csv'
-race_out_females=race_out_base+'_females.csv'
+race_out_name=race_out_base+'ROTG.csv'
+race_out_males=race_out_base+'ROTG_males.csv'
+race_out_females=race_out_base+'ROTG_females.csv'
 
 members=pd.read_csv(members_name)
 members["age"]=members['Birthdate (e.g., 01 Jun 1954)'].apply(lambda x:utils.datestring_to_age(x))
@@ -32,8 +34,8 @@ members["gender"]=members['Gender'].apply(lambda x:utils.parse_gender(x))
 
 print (members.head())
 
-#racers=readers.parse_general(pd.read_fwf(race_name), header.RaceHeader.headers, 1)
-racers=readers.parse_general(pd.read_csv(race_name), header.RaceHeader.headers, 1)
+racers=readers.parse_general(pd.read_fwf(race_name), header.RaceHeader.headers, 1)
+#racers=readers.parse_general(pd.read_csv(race_name), header.RaceHeader.headers, 1)
 racers.gender=racers.gender.str.strip()
 print (racers.head())
 
@@ -42,14 +44,14 @@ matchmember.match(members, racers, 4.5, 5.5)
 print (racers.head())
 
 hmrrc=racers[racers['member']=='yes']
-hmrrc=hmrrc[['place', 'first_name','last_name','gender','age']]
+hmrrc=hmrrc[['place', 'mfname','mlname','gender','age']]
 
 racers.head()
 
 hmrrc["age_cat"]=hmrrc.age.apply(lambda x:runnerutils.ageToCat(x))
 
 hmrrc=hmrrc.sort_values(['gender','age_cat','place'])
-hmrrc['name']=hmrrc.first_name+" "+hmrrc.last_name
+hmrrc['name']=hmrrc.mfname+" "+hmrrc.mlname
 hmrrc.gender=hmrrc.gender.str.upper()
 
 hmrrc.to_csv(race_out_name)
@@ -96,7 +98,5 @@ males.to_csv(race_out_males)
 #a_50_59_F=females[females.age_cat=='a_50_59']
 #a_60_69_F=females[females.age_cat=='a_60_69']
 #a_70_99_F=females[females.age_cat=='a_70_99']
-
-
 
 

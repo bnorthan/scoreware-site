@@ -51,3 +51,5 @@ def match(members, runners, accept_score, ask_score):
             print(answer)
             if (answer=='y'):
                 runners.ix[i,'member']='yes'
+                runners.ix[i,'mfname']=match_info[i][4].capitalize()
+                runners.ix[i,'mlname']=match_info[i][5].capitalize()

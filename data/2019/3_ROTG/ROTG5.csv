@@ -1,0 +1,282 @@
+,place,first_name,last_name,gender,age,city,state,time,race_id
+0,1,Patrick,Carroll,M,27,Schenectady,NY,00:20:44,1
+1,2,Alex,Benway,M,28,Queensbury,NY,00:21:05,1
+2,3,Anthony,Giuliano,M,39,Niskayuna,NY,00:21:10,1
+3,4,Matt,Brooker,M,28,Albany,NY,00:21:20,1
+4,5,Shaun,Donegan,M,33,Malta,NY,00:21:44,1
+5,6,Jake,Stookey,M,42,Clifton Park,NY,00:21:52,1
+6,7,Aaron,Lozier,M,30,Albany,NY,00:21:59,1
+7,8,Daniel,Jordy,M,35,Glenville,NY,00:22:08,1
+8,9,Thomas,O'Grady,M,33,Slingerlands,NY,00:22:16,1
+9,10,Chuck,Terry,M,36,Albany,NY,00:22:34,1
+10,11,Aaron,Knobloch,M,42,Niskayuna,NY,00:22:42,1
+11,12,Bradley,Lewis,M,32,Troy,NY,00:22:49,1
+12,13,Joseph,Sullivan,M,40,Schenectady,NY,00:22:54,1
+13,14,Matt,Ninneman,M,26,Albany,NY,00:23:12,1
+14,15,Tucker,Chrapowitzky,M,41,Slingerlands,NY,00:23:13,1
+15,16,Karen,Bertasso,F,34,Albany,NY,00:23:36,1
+16,17,Michael,Cooley,M,39,Delmar,NY,00:23:39,1
+17,18,Jonathan,Louden,M,34,Clifton,NY,00:23:45,1
+18,19,Ben,Greenberg,M,50,Slingerlands,NY,00:23:49,1
+19,20,Trevor,Dzikowicz,M,15,Amsterdam,NY,00:23:57,1
+20,21,Michael,Dinicola,M,44,Malta,NY,00:23:59,1
+21,22,Matthew,Conant,M,43,Ballston Spa,NY,00:24:08,1
+22,23,Christine,Myers,F,21,Altamont,NY,00:24:09,1
+23,24,Christopher,McClosk,M,37,Glenmont,NY,00:24:15,1
+24,25,Sara,Buckley,F,24,Slingerlands,NY,00:24:20,1
+25,26,Matthew,Gokey,M,45,Delmar,NY,00:24:22,1
+26,27,Andy,Reed,M,47,Niskayuna,NY,00:24:27,1
+27,28,Nicole,Moslander,F,31,Albany,NY,00:24:31,1
+28,29,Ben,Heller,M,30,Troy,NY,00:24:37,1
+29,30,John,Stadtlander,M,53,Cliftonpark,NY,00:24:39,1
+30,31,Paul,Partridge,M,54,Delmar,NY,00:24:39,1
+31,32,Christie,Macfarlane,F,24,Delmar,NY,00:24:48,1
+32,33,Dave,Durivage,M,24,Derloie,NY,00:24:53,1
+33,34,Courtney,Breiner,F,22,Troy,NY,00:24:56,1
+34,35,Erin,Lopez,F,38,Saratoga Spring,NY,00:24:57,1
+35,36,Greg,Potestio,M,33,Delmar,NY,00:24:59,1
+36,37,Thomas,Kracker,M,54,Delmar,NY,00:25:02,1
+37,38,Tricia,Longo,F,32,Troy,NY,00:25:06,1
+38,39,Erin,Hatton,F,28,Troy,NY,00:25:11,1
+39,40,John,Deer,M,36,Slingerlands,NY,00:25:18,1
+40,41,Nathan,Laing,M,24,Waterford,NY,00:25:20,1
+41,42,Cameron,Wariner,M,24,Troy,NY,00:25:24,1
+42,43,Greg,Ethier,M,45,Clifton Park,NY,00:25:25,1
+43,44,Meghan,Mortensen,F,33,Glenville,NY,00:25:29,1
+44,45,Daniel,Rogers,M,23,Rensselaer,NY,00:25:32,1
+45,46,Randall,Cannell,M,46,Broadalbin,NY,00:25:42,1
+46,47,Mark,Stephenson,M,54,Esperance,NY,00:25:54,1
+47,48,Diana,Tobon-Knobloc,F,37,Niskayuna,NY,00:26:00,1
+48,49,Robert,Irwin,M,46,Guilderland,NY,00:26:01,1
+49,50,Frederick,Brooks,M,39,Halfmoon,NY,00:26:11,1
+50,51,David,Roy,M,64,Schoharie,NY,00:26:16,1
+51,52,Michelle,Merlis,F,29,Albany,NY,00:26:20,1
+52,53,Joseph,Murphy,M,34,Waterford,NY,00:26:20,1
+53,54,Olivia,Beltrani,F,25,Troy,NY,00:26:21,1
+54,55,Daniel,Filuta,M,49,West Sand Lake,NY,00:26:49,1
+55,56,Brian,Borden,M,55,Altamont,NY,00:26:53,1
+56,57,Claire,Collison,F,28,Albany,NY,00:26:57,1
+57,58,Andrew,Eisier,M,15,Ballston Spa,NY,00:27:01,1
+58,59,Lisa,Chase,F,32,Albany,NY,00:27:05,1
+59,60,Fabio,Carvalho,M,24,Rensselaer,NY,00:27:05,1
+60,61,Ryan,McCann,M,44,Albany,NY,00:27:08,1
+61,62,Tina,Greene,F,45,Scotia,NY,00:27:17,1
+62,63,Stephen,Jones,M,64,Averill Park,NY,00:27:26,1
+63,64,Beth,Stalker,F,58,Ballston Spa,NY,00:27:31,1
+64,65,Matthew,Akins,M,40,Slingerlands,NY,00:27:34,1
+65,66,Emily,Bryans,F,51,Delanson,NY,00:27:36,1
+66,67,Frank,Horn,M,49,Albany,NY,00:27:37,1
+67,68,Edward,Hampston,M,51,Voorheesville,NY,00:27:40,1
+68,69,Neil,Sergott,M,47,Clifton Park,NY,00:27:40,1
+69,70,Bill,Bean,M,59,Scotia,NY,00:27:42,1
+70,71,Andrew,Krupski,M,28,Ballston Spa,NY,00:27:50,1
+71,72,Emily,Russell,F,35,N Bennington,VT,00:27:53,1
+72,73,Michael,Stalker,M,56,Ballston Spa,NY,00:27:57,1
+73,74,Tim,Hartman Sr,M,56,Niskayuna,NY,00:28:00,1
+74,75,Jamie,Casline,M,59,Ballston Lake,NY,00:28:02,1
+75,76,David,Newman,M,38,Albany,NY,00:28:04,1
+76,77,Joseph,Altobello,M,41,Green Isand,NY,00:28:05,1
+77,78,John,F. Parisella,M,61,Ballston Lake,NY,00:28:05,1
+78,79,John,Pusateri,M,51,Castleton,NY,00:28:06,1
+79,80,John,J. Sestito,M,55,Johnsonville,NY,00:28:06,1
+80,81,Meghan,Louden,F,32,Clifton Park,NY,00:28:20,1
+81,82,William,Dodds,M,44,Albany,NY,00:28:29,1
+82,83,Laura,Zima,F,38,Albany,NY,00:28:31,1
+83,84,Anne,Benson,F,54,Clifton Park,NY,00:28:32,1
+84,85,Gabriella,Cusato,F,15,Schenectady,NY,00:28:35,1
+85,86,Erin,Murphy,F,39,Albnay,NY,00:28:36,1
+86,87,Jon,Weilbaker,M,60,Saratoga Spring,NY,00:28:37,1
+87,88,Amanda,Carpenter,F,29,Albany,NY,00:28:38,1
+88,89,Sally,Drake,F,45,Albnay,NY,00:28:47,1
+89,90,Kerry,McTiernan,F,28,Albany,NY,00:28:47,1
+90,91,Judy,Guzzo,F,51,Niskayuna,NY,00:28:48,1
+91,92,Nancy,J. Briskie,F,61,Schenectady,NY,00:28:59,1
+92,93,Colleen,Brackett,F,58,Albany,NY,00:29:03,1
+93,94,Michelle,Davis,F,30,Niskayuna,NY,00:29:06,1
+94,95,Peter,Guzzo,M,51,Niskayuna,NY,00:29:15,1
+95,96,Rebecca,Tennyson,F,36,Troy,NY,00:29:19,1
+96,97,Kristen,Hislop,F,54,Clifton Park,NY,00:29:23,1
+97,98,Darryl,Bray,M,46,Niskayuna,NY,00:29:25,1
+98,99,Melissa,Grandjean,F,40,Glenville,NY,00:29:27,1
+99,100,Bridget,Schultz,F,30,Albany,NY,00:29:36,1
+100,101,Dave,Glass,M,72,Glenville,NY,00:29:43,1
+101,102,Thomas,Durivage,M,22,Rensselaer,NY,00:29:44,1
+102,103,Courtney,Labarge,F,40,Cobleskill,NY,00:29:46,1
+103,104,Lynn,Hansen,F,45,Wynantskill,NY,00:29:49,1
+104,105,Tom,McGuire,M,67,Slingerlands,NY,00:29:57,1
+105,106,Margaret,McKeown,F,61,Moreau,NY,00:29:58,1
+106,107,Janne,Rand,F,34,Saratoga Spring,NY,00:29:58,1
+107,108,Kim,Scott,F,50,Broadalbin,NY,00:30:02,1
+108,109,John,Sullivan,M,47,Albany,NY,00:30:09,1
+109,110,Richard,Clark,M,65,Feeding Hills,MA,00:30:10,1
+110,111,Richard,Lynch,M,60,Saratoga Spring,NY,00:30:18,1
+111,112,Laura,Kelly,F,46,Albany,NY,00:30:23,1
+112,113,Tj,Sherwin,M,32,Albany,NY,00:30:23,1
+113,114,Christine,Varley,F,54,Albany,NY,00:30:37,1
+114,115,Gary,Burak,M,61,New Hartford,NY,00:30:39,1
+115,116,Marisa,Piccirillo,F,23,Schenectady,NY,00:30:50,1
+116,117,Matthew,Tebo,M,40,Clifton Park,NY,00:31:02,1
+117,118,Kimberly,Miseno,F,48,Amsterdam,NY,00:31:03,1
+118,119,Nancy,Nicholson,F,56,Queensbury,NY,00:31:12,1
+119,120,Virginia,Lupo,F,47,Malta,NY,00:31:16,1
+120,121,Mary,Fenton,F,53,Ballston Spa,NY,00:31:17,1
+121,122,Julianne,Claydon,F,48,Albany,NY,00:31:20,1
+122,123,Mike,Langevin,M,54,Albanhy,NY,00:31:22,1
+123,124,Theresa,Delorenzo,F,41,Waterford,NY,00:31:22,1
+124,125,Keri,McComb,F,36,Albany,NY,00:31:23,1
+125,126,Tom,Jablonowski,M,50,Voorheesville,NY,00:31:39,1
+126,127,Carrie,Souleret,F,30,Castleton On Hu,NY,00:31:41,1
+127,128,Bill,Douglas,M,57,Rensselaer,NY,00:31:46,1
+128,129,George,Baranauskas,M,65,Scotia,NY,00:31:59,1
+129,130,Bob,Mead,M,69,East Greenbush,NY,00:32:06,1
+130,131,Stefan,Smith,M,48,Saratoga Spring,NY,00:32:21,1
+131,132,Julie,Greene,F,38,Mechanicville,NY,00:32:28,1
+132,133,Jill,Filuta,F,46,West Sand Lake,NY,00:32:34,1
+133,134,Anthony,Lupo,M,56,Ballston Spa,NY,00:32:40,1
+134,135,Jennifer,Newman,F,35,Albany,NY,00:32:46,1
+135,136,Dan,Cunningham,M,47,Delmar,NY,00:32:49,1
+136,137,Roy,Mowrey,M,60,Gloversville,NY,00:32:49,1
+137,138,Lauren,Herbs,F,57,Rexford,NY,00:32:50,1
+138,139,Peter,Fish,M,60,Albany,NY,00:32:56,1
+139,140,David,Sutliff,M,34,Troy,NY,00:33:03,1
+140,141,Eric,Brennan,M,25,Albany,NY,00:33:07,1
+141,142,Karen,Dott,F,62,Albany,NY,00:33:18,1
+142,143,Nicola,MacNeil,F,45,Rotterdam,NY,00:33:20,1
+143,144,Martha,C. Degrazia,F,68,Slingerlands,NY,00:33:24,1
+144,145,Bridget,Enderle,F,51,Sand Lake,NY,00:33:28,1
+145,146,George,Jackson,M,70,Schenectady,NY,00:33:34,1
+146,147,Demantra,Constantin,F,48,Niskayuna,NY,00:33:47,1
+147,148,Shawn,Kelly,M,47,Albany,NY,00:33:48,1
+148,149,Melissa,Carroll,F,35,Abany,NY,00:34:00,1
+149,150,Martin,Touhey,M,66,Albany,NY,00:34:00,1
+150,151,Leah,Spoar,F,36,Saint Johnsvill,NY,00:34:01,1
+151,152,Alicia,Fitzgerald,F,27,Albany,NY,00:34:02,1
+152,153,Joseph,Orsini,M,58,Schenectady,NY,00:34:15,1
+153,154,Martin,Patrick,M,65,East Greenbush,NY,00:34:21,1
+154,155,Michael,Hughes,M,31,Albany,NY,00:34:33,1
+155,156,Erika,Oesterle,F,67,Stamford,NY,00:34:39,1
+156,157,Macy,Howarth,F,24,Slingerlands,NY,00:34:40,1
+157,158,Daniel,Larson,M,67,Queensbury,NY,00:34:44,1
+158,159,Kyle,D. Ordway,M,43,Albany,NY,00:34:46,1
+159,160,Kelly,Sullivan,F,40,Schenectady,NY,00:34:53,1
+160,161,John,Brunner,M,52,Schenectady,NY,00:34:53,1
+161,162,Timothy,Fioretti,M,43,Gloversville,NY,00:34:55,1
+162,163,Michael,Thumann,M,69,Chatham,NY,00:34:56,1
+163,164,Dave,Cole,M,61,Troy,NY,00:34:57,1
+164,165,Jason,Butler,M,48,Tribes Hill,NY,00:35:04,1
+165,166,Kathleen,Meany,F,62,Altamont,NY,00:35:23,1
+166,167,Jean,Berry,F,35,Delmar,NY,00:35:25,1
+167,168,Bill,Marinello,M,60,Slingerlands,NY,00:35:27,1
+168,169,Kate,Richardson,F,29,Poestenkill,NY,00:35:38,1
+169,170,Shig,Hosoyama,M,51,Latham,NY,00:35:41,1
+170,171,Stacey,Widera,F,22,57 N Smith Road,NY,00:35:42,1
+171,172,Karen,Cusato,F,50,Schenectady,NY,00:35:47,1
+172,173,Leo,J. Dipierro,M,68,Cherry Plain,NY,00:35:53,1
+173,174,Karen,Finnerty,F,48,Wynantskill,NY,00:36:03,1
+174,175,Joanne,Richardson,F,58,Troy,NY,00:36:03,1
+175,176,Grant,Secor,M,11,Scotia,NY,00:36:07,1
+176,177,Douglas,Secor,M,39,Scotia,NY,00:36:12,1
+177,178,Carolyn,George,F,65,Albany,NY,00:36:12,1
+178,179,Courtney,Moriarta,F,50,Greenwich,NY,00:36:17,1
+179,180,Karen,Gerstenberger,F,61,Albany,NY,00:36:18,1
+180,181,Jamie,Davenport,F,34,Guilderland,NY,00:36:24,1
+181,182,Heidi,Glazier,F,57,Slingerlands,NY,00:36:27,1
+182,183,Marna,Meltzer,F,50,Guilderland,NY,00:36:36,1
+183,184,Jim,McMorris,M,50,Guilderland,NY,00:36:37,1
+184,185,Deborah,Orsini,F,50,Schenectady,NY,00:36:45,1
+185,186,Eric,Niehaus,M,57,Glenmont,NY,00:36:54,1
+186,187,Andrea,Betts,F,54,Clifton Park,NY,00:36:57,1
+187,188,Susan,Huston,F,57,Troy,NY,00:37:04,1
+188,189,Joe,Yavonditte,M,70,Schenectady,NY,00:37:14,1
+189,190,Deb,Valois,F,48,Rotterdam,NY,00:37:29,1
+190,191,Linda,M. Dedominici,F,50,Menands,NY,00:37:39,1
+191,192,Susan,J. Wong,F,71,Glenmont,NY,00:37:41,1
+192,193,Linda,Borges,F,48,Altamont,NY,00:37:44,1
+193,194,Kim,Eisler,F,52,Ballston Spa,NY,00:37:47,1
+194,195,Lyla,Lopez,F,7,Saratoga Spring,NY,00:37:53,1
+195,196,Kevin,Montano,M,25,Troy,NY,00:37:56,1
+196,197,Scott,McDonald,M,47,Howes Cave,NY,00:37:58,1
+197,198,Andrew,Fleck,M,48,Castleton,NY,00:37:59,1
+198,199,Michelle,Muir,F,46,Saratoga Spring,NY,00:38:02,1
+199,200,Michael,Lopez,M,36,Saratoga Spring,NY,00:38:04,1
+200,201,Andrew,Bickford,M,30,Albany,NY,00:38:05,1
+201,202,Nicole,Niles,F,42,Albany,NY,00:38:15,1
+202,203,Marie,Kaye,F,64,Altamont,NY,00:38:16,1
+203,204,Nicholas,Berry,M,38,Delmar,NY,00:38:22,1
+204,205,Keri,Jones,F,39,Richmondville,NY,00:38:29,1
+205,206,Daniel,Berry,M,69,Delmar,NY,00:38:32,1
+206,207,Stephanie,Wertz,F,36,Rensselaer,NY,00:38:40,1
+207,208,Kevin,Tao,M,25,Troy,NY,00:38:45,1
+208,209,Sheryar,Khan,M,27,Watervliet,NY,00:38:50,1
+209,210,Ashley,Lebby,F,23,Rensselaer,NY,00:38:51,1
+210,211,Lindsey,Klinge,F,31,Troy,NY,00:38:58,1
+211,212,Joanne,Kingston,F,53,Feura Bush,NY,00:39:23,1
+212,213,Rachael,Morrissey,F,36,Selkikr,NY,00:39:26,1
+213,214,Nicole,Banach,F,27,Rensselaer,NY,00:39:32,1
+214,215,Jenifer,Kish,F,45,Albany,NY,00:39:32,1
+215,216,James,Fiore,M,71,Latham,NY,00:39:34,1
+216,217,Brian,Neddo,M,52,Troy,NY,00:39:53,1
+217,218,Cecelia,Broomhead,F,62,Latham,NY,00:40:09,1
+218,219,Jean,Lange,F,53,Schenectady,NY,00:40:11,1
+219,220,Emily,Burkhard,F,24,Latham,NY,00:40:14,1
+220,221,Eric,Parker,M,63,Johnstown,NY,00:40:17,1
+221,222,Mike,Vadala,M,28,Rochester,NY,00:40:17,1
+222,223,Brianna,Callahan,F,23,Troy,NY,00:40:17,1
+223,224,McKayla,Martin,F,28,Duanesburg,NY,00:40:28,1
+224,225,Jessica,Patnaude,F,51,Albany,NY,00:40:41,1
+225,226,Carole,Gensicki,F,51,Rensselaer,NY,00:40:50,1
+226,227,Gary,Longhi,M,55,Albany,NY,00:41:00,1
+227,228,Kayla,Dzikowicz,F,19,Amsterdam,NY,00:41:05,1
+228,229,Terri,Bills,F,50,Waterford,NY,00:41:11,1
+229,230,Nicol,Cunningham,F,48,Delmar,NY,00:41:34,1
+230,231,Marie,Cater,F,41,Middleburgh,NY,00:41:39,1
+231,232,Barry,O'Connor,M,43,Newburgh,NY,00:41:40,1
+232,233,Donna,Choiniere,F,65,Albany,NY,00:41:43,1
+233,234,Kristine,Clarke,F,54,Schenectady,NY,00:41:58,1
+234,235,Stephanie,Harringto,F,37,Schenectady,NY,00:41:59,1
+235,236,Mark,F. Fleszar,M,69,Troy,NY,00:42:04,1
+236,237,Renee,Abdou-Malta,F,55,Feura Bush,NY,00:42:10,1
+237,238,Jessica,Vogele,F,27,Rensselaer,NY,00:42:46,1
+238,239,Michele,Diamond,F,50,Esperance,NY,00:43:00,1
+239,240,Suzanne,Nealon,F,68,Glens Falls,NY,00:43:10,1
+240,241,Ralph,Feinstein,M,65,Scotia,NY,00:43:26,1
+241,242,Andrew,Dolan,M,52,Chester,NY,00:43:36,1
+242,243,Lindsay,Cartmill,F,31,Poughquag,NY,00:43:36,1
+243,244,Brian,Platt,M,60,Latham,NY,00:43:49,1
+244,245,Nathan,McCormick,M,45,Schenectady,NY,00:44:11,1
+245,246,Bridgette,Akins,F,37,Slingerlands,NY,00:44:13,1
+246,247,Susan,Klim,F,63,Altamont,NY,00:44:37,1
+247,248,Margaret,Nederpelt,F,25,Guilderland,NY,00:45:01,1
+248,249,Sue,Hartigan,F,52,Wynantskill,NY,00:45:04,1
+249,250,Hannah,Welch,F,26,Slingerlands,NY,00:45:08,1
+250,251,Christina,Arango,F,35,West Sand Lake,NY,00:45:13,1
+251,252,Mary,Kay Scott,F,58,Schenectady,NY,00:45:20,1
+252,253,Maria,Schollenberge,F,61,Delmar,NY,00:45:22,1
+253,254,Jill,Mehan,F,64,Troy,NY,00:45:30,1
+254,255,Anne,Miralles,F,51,Rennselaer,NY,00:45:37,1
+255,256,Doe,Warland,F,69,Castleton,NY,00:45:48,1
+256,257,Michele,Celello,F,52,East Greenbush,NY,00:45:52,1
+257,258,Diana,Trask Daley,F,55,Glenmont,NY,00:46:11,1
+258,259,Ned,Norton,M,60,Albany,NY,00:46:25,1
+259,260,Kathy,Brooks,F,66,Scotia,NY,00:47:00,1
+260,261,Melissa,Olenyn,F,29,Albany,NY,00:47:01,1
+261,262,Robin,Kromer,F,51,Valatie,NY,00:47:05,1
+262,263,Josh,Dipierro,none,42,Latham,NY,00:47:23,1
+263,264,Melanie,Welch,F,57,Slingerlands,NY,00:47:56,1
+264,265,Tracy,Peat,F,39,Albany,NY,00:48:42,1
+265,266,Larry,Peleggi,M,61,Colonie,NY,00:49:15,1
+266,267,Danielle,McMahon,F,32,Rensselaer,NY,00:49:36,1
+267,268,Tina,Soden,F,43,Schenectady,NY,00:49:37,1
+268,269,Melissa,Faustel,F,34,Slingerlands,NY,00:49:38,1
+269,270,Cheryl,Hutchinson,F,51,Clifton Park,NY,00:49:43,1
+270,271,Mark,Goldhaber,M,54,Schenectady,NY,00:51:11,1
+271,272,Jeannee,Jarvis,F,60,Schenectady,NY,00:51:13,1
+272,273,Kalyn,Fleck,F,48,Castleton,NY,00:51:44,1
+273,274,Kathryn,Henson,F,59,East Greenbush,NY,00:52:08,1
+274,275,Raymond,W Lee Jr,M,77,Halfmoon,NY,00:54:47,1
+275,276,Anny,Stockman,F,86,Rensselaer,NY,00:56:21,1
+276,277,John,Vavasour,M,70,Albany,NY,00:57:15,1
+277,278,Tina,Prewitt,F,48,Watervliet,NY,00:59:38,1
+278,279,Sharon,Hyde-Scully,F,52,Cohoes,NY,00:59:38,1
+279,280,Eiko,Bogue,F,81,Schaghticoke,NY,00:59:51,1
+280,281,Joe,Kelly,M,85,Menands,NY,00:1:00,1

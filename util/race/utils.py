@@ -16,6 +16,14 @@ def parse_gender(gender_string):
     else:
         return 'M'
 
+def calculateAge(birthDate): 
+    today = datetime.datetime.today() 
+    age = today.year - birthDate.year - \
+         ((today.month, today.day) < \
+         (birthDate.month, birthDate.day)) 
+  
+    return age
+
 def datestring_to_age(datestring):
     today=datetime.datetime.today()
     
@@ -23,8 +31,8 @@ def datestring_to_age(datestring):
         dob=parse(datestring)
     except:
         dob=today
-
-    return today.year-dob.year
+    
+    return calculateAge(dob)
 
 def date_to_age(dates):
     num_total=0
