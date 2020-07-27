@@ -19,14 +19,14 @@ import header
 import utils
 reload(utils)
 
-members_name='../data/2019/Membership/2019-11-12 Members Hudson Mohawk Road Runners Club.csv'
-race_name='../data/2019/11_Stockade/results.csv'
+members_name='../data/2020/Membership/2020-05-03 Members Hudson Mohawk Road Runners Club.csv'
+race_name='../data/2020/3_ROTG/rotg.csv'
 
-race_out_base='../data/2019/11_Stockade/'
+race_out_base='../data/2020/3_ROTG/'
 
-race_out_name=race_out_base+'Stockade.csv'
-race_out_males=race_out_base+'Stockade_males.csv'
-race_out_females=race_out_base+'Stockade_females.csv'
+race_out_name=race_out_base+'ROTG.csv'
+race_out_males=race_out_base+'ROTG_males.csv'
+race_out_females=race_out_base+'ROTG_females.csv'
 
 members=pd.read_csv(members_name)
 members["age"]=members['Birthdate (e.g., 01 Jun 1954)'].apply(lambda x:utils.datestring_to_age(x))
@@ -39,19 +39,18 @@ racers=readers.parse_general(pd.read_csv(race_name), header.RaceHeader.headers, 
 racers.gender=racers.gender.str.strip()
 print (racers.head())
 
-matchmember.match(members, racers, 4.5, 5.5)
-
-print (racers.head())
-
-hmrrc=racers[racers['member']=='yes']
-hmrrc=hmrrc[['place', 'mfname','mlname','gender','age']]
+#matchmember.match(members, racers, 4.5, 5.5)
+#print (racers.head())
+#hmrrc=racers[racers['member']=='yes']
+#hmrrc=hmrrc[['place', 'mfname','mlname','gender','age']]
+hmrrc=racers
 
 racers.head()
 
 hmrrc["age_cat"]=hmrrc.age.apply(lambda x:runnerutils.ageToCat(x))
 
 hmrrc=hmrrc.sort_values(['gender','age_cat','place'])
-hmrrc['name']=hmrrc.mfname+" "+hmrrc.mlname
+hmrrc['name']=hmrrc.first_name+" "+hmrrc.last_name
 hmrrc.gender=hmrrc.gender.str.upper()
 
 hmrrc.to_csv(race_out_name)

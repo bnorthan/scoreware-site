@@ -60,7 +60,7 @@ class SimpleRace(tables.Table):
 def simple_with_splits():
 
     def render_split(self, value, record):
-        print splits
+        print (splits)
         if (record.splits==None): return 'Na'
        
         return record.splits.split(',')[0]

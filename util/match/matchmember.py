@@ -39,7 +39,7 @@ def match(members, runners, accept_score, ask_score):
         i=i+1
 
     for i in range(len(max_score)):
-        #print max_score[i]," ",match_info[i]
+        print (max_score[i]," ",match_info[i])
         if (max_score[i]>accept_score):
             if (max_score[i]<ask_score):
                 
@@ -50,6 +50,7 @@ def match(members, runners, accept_score, ask_score):
                 
             print(answer)
             if (answer=='y'):
+                print('answer is yes')
                 runners.ix[i,'member']='yes'
                 runners.ix[i,'mfname']=match_info[i][4].capitalize()
                 runners.ix[i,'mlname']=match_info[i][5].capitalize()

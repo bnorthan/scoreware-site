@@ -2,14 +2,14 @@ import pandas as pd
 import operator
 from difflib import SequenceMatcher
 
-xl=pd.ExcelFile('../data/2019/Spreadsheets/Grand_Prix_2019_Post ROTG.xls')
+xl=pd.ExcelFile('../data/2020/Grand_Prix_2020_Post_10Miler_Brian.xls')
 
 xl.sheet_names
 
 #who='Male'
-who='Female'
+who='Male'
 
-out_name='../data/2019/Spreadsheets/Totals__'+who+'.csv'
+out_name='../data/2020/SpreadSheets/Totals_Post10Miler__'+who+'.csv'
 
 
 df=xl.parse(who)

@@ -16,7 +16,7 @@ def timetostr(time):
     return strtime 
 
 def parse_delmar():
-    delmar=pd.read_csv('../data/2016/20160403_DelmarDash5Miler.csv')
+    delmar=pd.read_csv('../data/2016/Delmar/20160403_DelmarDash5Miler.csv')
 
     delmardf=pd.DataFrame()
     #delmardf['PLACE']=results.Place
@@ -40,7 +40,7 @@ def parse_delmar():
 
 def parse_rotg():
         
-    rotg=pd.read_csv('../data/2016/20160312_RunninoftheGreen4m.csv')
+    rotg=pd.read_csv('../data/2016/ROTG/20160312_RunninoftheGreen4m.csv')
 
     rotgdf=pd.DataFrame()
     #rotgdf['PLACE']=results.Place
@@ -83,17 +83,26 @@ def parse_general(df, headers, id):
 delmar=parse_delmar()
 rotg=parse_rotg()
 
-masters=parse_general(pd.read_csv('../data/2016/masters10k.csv'),RaceHeader.headers,3)
-ds=parse_general(pd.read_csv('../data/2016/DistinguishedService.csv'), RaceHeader.headers,4)
+masters=parse_general(pd.read_csv('../data/2016/Masters/masters10k.csv'),RaceHeader.headers,3)
+ds=parse_general(pd.read_csv('../data/2016/DistinguishedService/DistinguishedService.csv'), RaceHeader.headers,4)
+
+race_name='../data/2020/4_Virtual_Colonie_Mile/2020-07-25 2020 VIRTUAL COLONIE MILE Hudson Mohawk Road Runners Club.csv'
+virtual=parse_general(pd.read_csv(race_name), RaceHeader.headers,3)
 
 print(masters.head())
 
 import sqlite3
-sys.pyath.append('../util/runner/')
+sys.path.append('../util/runner/')
 conn=sqlite3.connect('../site/db.sqlite3')
 cursor=conn.cursor()
 
 rotg.to_sql('results_result',conn, if_exists='replace',index=False)
 delmar.to_sql('results_result',conn, if_exists='append',index=False)
+
+virtual=virtual.drop('hmrrc', axis=1)
+virtual.to_sql('results_result', conn, if_exists='append', index=False)
+
+
+masters=masters.drop('place',axis=1)
 masters.to_sql('results_result', conn, if_exists='append', index=False)
 ds.to_sql('results_result', conn, if_exists='append', index=False)

@@ -49,6 +49,18 @@ def date_to_age(dates):
 
     print("Num Total: "+str(num_total))
     print("Num Erros: "+str(num_errors))
+    
+def timeToSeconds(time):
+    temp=time.split('.') 
+    temp=temp[0].split(':')
+    print(len(temp))
+    try:
+        if (len(temp)==2):
+            return 60*int(temp[0])+int(temp[1])
+        elif (len(temp)==1):
+            return 60*int(temp[0])
+    except:
+        return 100000
             
 
 

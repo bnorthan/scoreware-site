@@ -11,9 +11,9 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 """
 
 import os
-from django.conf.global_settings import TEMPLATE_CONTEXT_PROCESSORS
 
-TEMPLATE_CONTEXT_PROCESSORS += ('django.template.context_processors.request',)
+#from django.conf.global_settings import TEMPLATE_CONTEXT_PROCESSORS
+#TEMPLATE_CONTEXT_PROCESSORS += ('django.template.context_processors.request',)
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -44,13 +44,13 @@ INSTALLED_APPS = [
     'results.apps.ResultsConfig',
 ]
 
-MIDDLEWARE_CLASSES = [
+MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
-    'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
+    #'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
@@ -68,7 +68,7 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
-                'django.core.context_processors.request',
+                #'django.core.context_processors.request',
             ],
         },
     },
