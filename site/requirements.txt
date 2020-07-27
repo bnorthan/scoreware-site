@@ -29,7 +29,7 @@ docutils==0.12
 enum34==1.1.2
 et-xmlfile==1.0.1
 fastcache==1.0.2
-Flask==0.10.1
+Flask==1.0
 Flask-Cors==2.1.2
 funcsigs==0.4
 futures==3.0.3
