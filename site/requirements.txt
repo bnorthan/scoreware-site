@@ -82,7 +82,7 @@ Pillow==3.1.1
 ply==3.8
 psutil==4.1.0
 ptyprocess==0.5
-py==1.4.31
+py==1.10.0
 pyasn1==0.1.9
 pycairo==1.10.0
 pycosat==0.6.1
